@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CreatorPromote · YouTube Data Hub</title>
+<meta name="description" content="Public cached channel data for CreatorPromote creator websites.">
+<style>
+:root{color-scheme:dark;font-family:system-ui,-apple-system,sans-serif}*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top left,#213c62,#0b1324 60%);color:#eef4ff;padding:clamp(18px,6vw,72px)}main{max-width:900px;margin:auto}h1{font-size:clamp(2.2rem,5vw,4rem);line-height:1.07}p{line-height:1.65;color:#bdd0e3}.pill{display:inline-flex;border:1px solid #547696;border-radius:99px;padding:.45rem 1rem;color:#b8efd9}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:15px;margin-top:25px}.card{display:block;background:#172a42;padding:20px;border-radius:16px;color:white;text-decoration:none;border:1px solid #36536e}.card:hover{background:#203955}.card small{display:block;color:#aac7d9;margin-top:8px}.muted{font-size:.9rem}code{color:#a2f1d1;word-break:break-all}
+</style>
+</head>
+<body><main>
+<div class="pill">✦ CreatorPromote Shared Data</div>
+<h1>The creators' YouTube hub.</h1>
+<p>One scheduled updater, several creators, and no API key exposed in visitors' browsers. These are saved public YouTube statistics and videos—not a real-time YouTube API.</p>
+<div class="grid" id="channels"><p>Checking cached channels…</p></div>
+<p class="muted">This dashboard is for checking the generated feeds. To refresh the data, open the repository's <strong>Actions → Update creator YouTube feeds → Run workflow</strong>.</p>
+</main>
+<script>
+(async()=>{const box=document.getElementById('channels');try{const response=await fetch('./data/index.json',{cache:'no-store'});if(!response.ok)throw Error('Data not generated');const data=await response.json();box.replaceChildren();for(const c of data.channels||[]){const a=document.createElement('a');a.className='card';a.href='./data/'+encodeURIComponent(c.slug)+'.json';const strong=document.createElement('strong');strong.textContent=c.label;const small=document.createElement('small');small.textContent=c.updatedAt?'Updated '+new Date(c.updatedAt).toLocaleString():'Not updated yet';a.append(strong,small);box.append(a)}if(!box.children.length)box.textContent='No feeds yet. Run the GitHub workflow.'}catch(e){box.textContent='Feeds are not published yet. Run the GitHub workflow once.'}})();
+</script></body></html>

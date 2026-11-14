@@ -1,0 +1,59 @@
+{
+  "channels": [
+    {
+      "slug": "thedocrot",
+      "label": "TheDocRot",
+      "handle": "@thedocrot",
+      "enabled": true,
+      "scanPages": 2,
+      "latestCount": 6,
+      "livestreamCount": 6
+    },
+    {
+      "slug": "dreamdropscrew",
+      "label": "Dream Drops Crew",
+      "handle": "@DreamDropsCrew",
+      "enabled": true,
+      "scanPages": 2,
+      "latestCount": 6,
+      "livestreamCount": 6
+    },
+    {
+      "slug": "daddydepresso",
+      "label": "Daddy Depresso",
+      "handle": "@daddydepresso",
+      "enabled": true,
+      "scanPages": 2,
+      "latestCount": 6,
+      "livestreamCount": 3,
+      "collabPlaylists": [
+        {"id": "PLdqlxY9kSpe0", "label": "Player adventures I"},
+        {"id": "PL5420N1feOV-FDdE10HxclroHEqg-GqKD", "label": "Player adventures II"},
+        {"id": "PLQOAzzoGRT6s", "label": "GM adventures"}
+      ],
+      "featuredCollabs": [
+        {"id": "FRVmoksciRg", "label": "Featured player session"},
+        {"id": "8R5yICkMZn4", "label": "Featured player session"},
+        {"id": "TqJk7cQ72e0", "label": "Featured GM session"}
+      ]
+    },
+    {
+      "slug": "bonakvt",
+      "label": "BonakVT",
+      "handle": "@Bonakvtuber",
+      "enabled": true,
+      "scanPages": 2,
+      "latestCount": 6,
+      "livestreamCount": 6
+    },
+    {
+      "slug": "duffball16",
+      "label": "Duffball16",
+      "handle": "",
+      "enabled": false,
+      "scanPages": 2,
+      "latestCount": 6,
+      "livestreamCount": 6
+    }
+  ]
+}

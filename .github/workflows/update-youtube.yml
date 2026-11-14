@@ -1,0 +1,66 @@
+name: Update creator YouTube feeds
+
+on:
+  schedule:
+    # Every 30 minutes; deliberately away from the top of the hour (UTC).
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: 'Optional: creator slug (leave empty for all)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: creatorpromote-youtube-hub
+  cancel-in-progress: false
+
+jobs:
+  update-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check updater
+        run: node --test tests/*.test.mjs
+      - name: Update channel JSON (API key stays secret)
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CHANNEL: ${{ inputs.channel || '' }}
+        run: node scripts/update.mjs
+      - name: Commit updated JSON to repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh public YouTube feed data'
+            git push
+          else
+            echo 'No new data to commit.'
+          fi
+      # Pages DOES NOT rebuild automatically from a GITHUB_TOKEN commit.
+      # This same workflow must deploy the generated files explicitly.
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static Pages files
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./public
+      - name: Deploy freshly generated JSON
+        id: deployment
+        uses: actions/deploy-pages@v4

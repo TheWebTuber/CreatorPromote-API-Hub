@@ -1,0 +1,5 @@
+#creatorpromote-videos{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:1rem}
+#creatorpromote-videos .cp-video{display:flex;flex-direction:column;gap:.65rem;padding:.75rem;border:1px solid #ddd;border-radius:16px;color:inherit;text-decoration:none;background:rgba(128,128,128,.08)}
+#creatorpromote-videos .cp-video:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.12)}
+#creatorpromote-videos .cp-video img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px}
+#creatorpromote-videos .cp-video span{font-weight:650;line-height:1.35;overflow-wrap:anywhere}

@@ -1,0 +1,11 @@
+{
+  "name": "creatorpromote-youtube-api-hub",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "One GitHub Actions YouTube feed cache for CreatorPromote static websites",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "update": "node scripts/update.mjs"
+  }
+}

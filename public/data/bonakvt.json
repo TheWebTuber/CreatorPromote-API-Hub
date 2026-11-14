@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-14T19:56:14.936Z",
+  "updatedAt": "2026-11-14T23:55:04.931Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
@@ -38,69 +38,11 @@
       "viewCount": "63794",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
-      "videoCount": "201"
+      "videoCount": "200"
     },
     "url": "https://www.youtube.com/channel/UCKE1MnwHQBM8i7Or5K_zcmA"
   },
   "uploads": [
-    {
-      "kind": "youtube#video",
-      "etag": "HDrxIUxxIWTcu7aTgCLBDUhc_lc",
-      "id": "I8lqt5KiKz0",
-      "snippet": {
-        "publishedAt": "2026-11-14T14:27:19Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "why cold weather is better #vtuber #shorts #fyp",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/I8lqt5KiKz0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/I8lqt5KiKz0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/I8lqt5KiKz0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/I8lqt5KiKz0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/I8lqt5KiKz0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "leagueoflegends",
-          "twitch"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "why cold weather is better #vtuber #shorts #fyp",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "statistics": {
-        "viewCount": "61",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
     {
       "kind": "youtube#video",
       "etag": "S-OirGsSuS_68G0gT4TKmfcxJIA",
@@ -382,6 +324,63 @@
       "statistics": {
         "viewCount": "213",
         "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Zu3wPDQae65xhzQtlVX-bWWWsbQ",
+      "id": "fu6kwiN5Wo4",
+      "snippet": {
+        "publishedAt": "2026-11-05T13:35:12Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "why I prefer valorant over cs  #league oflegends #vtuber #valorant #shorts #fyp",
+        "description": "ngl both are kinda ass",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "why I prefer valorant over cs  #league oflegends #vtuber #valorant #shorts #fyp",
+          "description": "ngl both are kinda ass"
+        }
+      },
+      "statistics": {
+        "viewCount": "341",
+        "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -729,19 +728,6 @@
   "liveChecked": false,
   "latestVideos": [
     {
-      "id": "I8lqt5KiKz0",
-      "title": "why cold weather is better #vtuber #shorts #fyp",
-      "label": "YouTube",
-      "publishedAt": "2026-11-14T14:27:19Z",
-      "startedAt": null,
-      "endedAt": null,
-      "thumbnail": "https://i.ytimg.com/vi/I8lqt5KiKz0/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=I8lqt5KiKz0",
-      "views": "61",
-      "live": false,
-      "wasLive": false
-    },
-    {
       "id": "uOKARoS7rk4",
       "title": "horse tries to touch me (in game) #vtuber #leagueoflegends #shorts #fyp",
       "label": "YouTube",
@@ -803,6 +789,19 @@
       "thumbnail": "https://i.ytimg.com/vi/JVQloWc0YmU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=JVQloWc0YmU",
       "views": "213",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "fu6kwiN5Wo4",
+      "title": "why I prefer valorant over cs  #league oflegends #vtuber #valorant #shorts #fyp",
+      "label": "YouTube",
+      "publishedAt": "2026-11-05T13:35:12Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/fu6kwiN5Wo4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fu6kwiN5Wo4",
+      "views": "341",
       "live": false,
       "wasLive": false
     }
@@ -970,7 +969,7 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-14T19:56:14.936Z",
+    "checkedAt": "2026-11-14T23:55:04.931Z",
     "method": "recent_uploads",
     "note": "Not detected in recent uploads. This does not prove the creator is offline."
   },

@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-14T19:56:11.349Z",
+  "updatedAt": "2026-11-14T23:55:00.429Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
@@ -37,43 +37,43 @@
       "viewCount": "1209564",
       "subscriberCount": "732",
       "hiddenSubscriberCount": false,
-      "videoCount": "3016"
+      "videoCount": "3017"
     },
     "url": "https://www.youtube.com/channel/UCiXeV-jUw_yCqScuZGopvVQ"
   },
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "61sgBoxmrN_tFLFdJMIyhdgVvLI",
+      "etag": "pfN8qRGovzQY60yvl-TY4tVDTIs",
       "id": "72iPeZbnt5A",
       "snippet": {
-        "publishedAt": "2026-11-14T18:57:05Z",
+        "publishedAt": "2026-11-14T22:16:58Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "IS THIS GAME UNDERRATED!?! | eFootball",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/default.jpg?v=6af8af2f",
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg?v=6af8af2f",
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/hqdefault.jpg?v=6af8af2f",
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/sddefault.jpg?v=6af8af2f",
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/maxresdefault.jpg?v=6af8af2f",
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -93,7 +93,7 @@
           "eFootball™"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "IS THIS GAME UNDERRATED!?! | eFootball",
@@ -102,22 +102,21 @@
         "defaultAudioLanguage": "en-GB"
       },
       "statistics": {
-        "viewCount": "13",
+        "viewCount": "80",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-14T18:57:18Z",
+        "actualEndTime": "2026-11-14T22:02:43Z",
         "scheduledStartTime": "2026-11-14T18:57:03Z",
-        "scheduledEndTime": "2026-11-14T19:59:11Z",
-        "concurrentViewers": "4",
-        "activeLiveChatId": "Cg0KCzcyaVBlWmJudDVBKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILNzJpUGVaYm50NUE"
+        "scheduledEndTime": "2026-11-14T21:59:11Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "VT_meHtBTDXYCZ6ipMUqBMQ1JUw",
+      "etag": "C07kl2RZq_fQrVYNQIgMe0jlBbY",
       "id": "SbCFAXODENY",
       "snippet": {
         "publishedAt": "2026-11-14T10:08:46Z",
@@ -162,7 +161,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "818",
+        "viewCount": "882",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -170,7 +169,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Ob52G719eSqDoi60DZtbaOacy8Q",
+      "etag": "A6Sa2kDNAuTGmbK9u0mPLgWcvcc",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -215,7 +214,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "126",
+        "viewCount": "136",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -369,7 +368,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VaPBZ60L8dXGZH2ErLjRbitrDk4",
+      "etag": "e0WB4aRD0ZTtz4NFBtuZ-ZiSWck",
       "id": "eXCJqh1EggI",
       "snippet": {
         "publishedAt": "2026-11-13T10:13:33Z",
@@ -410,18 +409,89 @@
         "localized": {
           "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
           "description": "I was and still am fuming!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "statistics": {
-        "viewCount": "717",
-        "likeCount": "9",
+        "viewCount": "805",
+        "likeCount": "10",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     }
   ],
   "replays": [
+    {
+      "kind": "youtube#video",
+      "etag": "pfN8qRGovzQY60yvl-TY4tVDTIs",
+      "id": "72iPeZbnt5A",
+      "snippet": {
+        "publishedAt": "2026-11-14T22:16:58Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "IS THIS GAME UNDERRATED!?! | eFootball",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/72iPeZbnt5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#EFOOTBALL",
+          "#ENTERTAINMENT",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "PlayStation 5",
+          "Sony Interactive Entertainment",
+          "eFootball™"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "IS THIS GAME UNDERRATED!?! | eFootball",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "80",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-14T18:57:18Z",
+        "actualEndTime": "2026-11-14T22:02:43Z",
+        "scheduledStartTime": "2026-11-14T18:57:03Z",
+        "scheduledEndTime": "2026-11-14T21:59:11Z"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "kp7w_SJ1k6Fg1kHdFQGxL2_zQE0",
@@ -570,7 +640,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bo4Fff9vz2w_SKR_PFlf0TvB6Qs",
+      "etag": "9OT4xmTjkX_pU73VHEw7578yug8",
       "id": "UXQh5GGDUYw",
       "snippet": {
         "publishedAt": "2026-11-13T00:58:08Z",
@@ -630,7 +700,7 @@
         "defaultAudioLanguage": "en-GB"
       },
       "statistics": {
-        "viewCount": "122",
+        "viewCount": "131",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -786,167 +856,22 @@
         "scheduledStartTime": "2026-11-10T20:29:39Z",
         "scheduledEndTime": "2026-11-10T21:51:46Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "bq1VI3QVWZBow58cC5wocrk4e80",
-      "id": "8nWlqyw_b9I",
-      "snippet": {
-        "publishedAt": "2026-11-09T22:55:14Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "TRYING TO ADEPT THE DEMOGORGON!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "TRYING TO ADEPT THE DEMOGORGON!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "statistics": {
-        "viewCount": "91",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-09T17:14:18Z",
-        "actualEndTime": "2026-11-09T22:14:45Z",
-        "scheduledStartTime": "2026-11-09T17:14:03Z",
-        "scheduledEndTime": "2026-11-09T22:36:10Z"
-      }
     }
   ],
-  "live": {
-    "kind": "youtube#video",
-    "etag": "61sgBoxmrN_tFLFdJMIyhdgVvLI",
-    "id": "72iPeZbnt5A",
-    "snippet": {
-      "publishedAt": "2026-11-14T18:57:05Z",
-      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-      "title": "IS THIS GAME UNDERRATED!?! | eFootball",
-      "description": "GOOD VIBES!!! :)",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/72iPeZbnt5A/default.jpg?v=6af8af2f",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg?v=6af8af2f",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/72iPeZbnt5A/hqdefault.jpg?v=6af8af2f",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/72iPeZbnt5A/sddefault.jpg?v=6af8af2f",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/72iPeZbnt5A/maxresdefault.jpg?v=6af8af2f",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "the docrot",
-      "tags": [
-        "#EFOOTBALL",
-        "#ENTERTAINMENT",
-        "#FOOTBALL",
-        "#FORYOU",
-        "#FUNNY",
-        "#GAMING",
-        "#PS5Live",
-        "#SOCCER",
-        "PlayStation 5",
-        "Sony Interactive Entertainment",
-        "eFootball™"
-      ],
-      "categoryId": "20",
-      "liveBroadcastContent": "live",
-      "defaultLanguage": "en-GB",
-      "localized": {
-        "title": "IS THIS GAME UNDERRATED!?! | eFootball",
-        "description": "GOOD VIBES!!! :)"
-      },
-      "defaultAudioLanguage": "en-GB"
-    },
-    "statistics": {
-      "viewCount": "13",
-      "likeCount": "2",
-      "favoriteCount": "0",
-      "commentCount": "0"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2026-11-14T18:57:18Z",
-      "scheduledStartTime": "2026-11-14T18:57:03Z",
-      "scheduledEndTime": "2026-11-14T19:59:11Z",
-      "concurrentViewers": "4",
-      "activeLiveChatId": "Cg0KCzcyaVBlWmJudDVBKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILNzJpUGVaYm50NUE"
-    }
-  },
-  "liveChecked": true,
+  "live": null,
+  "liveChecked": false,
   "latestVideos": [
     {
       "id": "72iPeZbnt5A",
       "title": "IS THIS GAME UNDERRATED!?! | eFootball",
       "label": "YouTube",
-      "publishedAt": "2026-11-14T18:57:05Z",
+      "publishedAt": "2026-11-14T22:16:58Z",
       "startedAt": "2026-11-14T18:57:18Z",
-      "endedAt": null,
-      "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg?v=6af8af2f",
+      "endedAt": "2026-11-14T22:02:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=72iPeZbnt5A",
-      "views": "13",
-      "live": true,
+      "views": "80",
+      "live": false,
       "wasLive": true
     },
     {
@@ -958,7 +883,7 @@
       "endedAt": null,
       "thumbnail": "https://i.ytimg.com/vi/SbCFAXODENY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=SbCFAXODENY",
-      "views": "818",
+      "views": "882",
       "live": false,
       "wasLive": false
     },
@@ -971,7 +896,7 @@
       "endedAt": null,
       "thumbnail": "https://i.ytimg.com/vi/ZQ-xWuz__Lc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZQ-xWuz__Lc",
-      "views": "126",
+      "views": "136",
       "live": false,
       "wasLive": false
     },
@@ -1010,7 +935,7 @@
       "endedAt": null,
       "thumbnail": "https://i.ytimg.com/vi/eXCJqh1EggI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=eXCJqh1EggI",
-      "views": "717",
+      "views": "805",
       "live": false,
       "wasLive": false
     }
@@ -1020,13 +945,13 @@
       "id": "72iPeZbnt5A",
       "title": "IS THIS GAME UNDERRATED!?! | eFootball",
       "label": "Livestream",
-      "publishedAt": "2026-11-14T18:57:05Z",
+      "publishedAt": "2026-11-14T22:16:58Z",
       "startedAt": "2026-11-14T18:57:18Z",
-      "endedAt": null,
-      "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg?v=6af8af2f",
+      "endedAt": "2026-11-14T22:02:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=72iPeZbnt5A",
-      "views": "13",
-      "live": true,
+      "views": "80",
+      "live": false,
       "wasLive": true
     },
     {
@@ -1064,7 +989,7 @@
       "endedAt": "2026-11-12T21:51:56Z",
       "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
-      "views": "122",
+      "views": "131",
       "live": false,
       "wasLive": true
     },
@@ -1097,6 +1022,19 @@
   ],
   "latestReplays": [
     {
+      "id": "72iPeZbnt5A",
+      "title": "IS THIS GAME UNDERRATED!?! | eFootball",
+      "label": "Replay",
+      "publishedAt": "2026-11-14T22:16:58Z",
+      "startedAt": "2026-11-14T18:57:18Z",
+      "endedAt": "2026-11-14T22:02:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=72iPeZbnt5A",
+      "views": "80",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "5KooI0w2I70",
       "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
       "label": "Replay",
@@ -1131,7 +1069,7 @@
       "endedAt": "2026-11-12T21:51:56Z",
       "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
-      "views": "122",
+      "views": "131",
       "live": false,
       "wasLive": true
     },
@@ -1160,38 +1098,14 @@
       "views": "54",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "8nWlqyw_b9I",
-      "title": "TRYING TO ADEPT THE DEMOGORGON!?! | Dead By Daylight",
-      "label": "Replay",
-      "publishedAt": "2026-11-09T22:55:14Z",
-      "startedAt": "2026-11-09T17:14:18Z",
-      "endedAt": "2026-11-09T22:14:45Z",
-      "thumbnail": "https://i.ytimg.com/vi/8nWlqyw_b9I/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8nWlqyw_b9I",
-      "views": "91",
-      "live": false,
-      "wasLive": true
     }
   ],
   "liveStatus": {
-    "status": "live",
-    "video": {
-      "id": "72iPeZbnt5A",
-      "title": "IS THIS GAME UNDERRATED!?! | eFootball",
-      "label": "Live now",
-      "publishedAt": "2026-11-14T18:57:05Z",
-      "startedAt": "2026-11-14T18:57:18Z",
-      "endedAt": null,
-      "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg?v=6af8af2f",
-      "url": "https://www.youtube.com/watch?v=72iPeZbnt5A",
-      "views": "13",
-      "live": true,
-      "wasLive": true
-    },
-    "checkedAt": "2026-11-14T19:56:11.349Z",
-    "method": "recent_uploads"
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-14T23:55:00.429Z",
+    "method": "recent_uploads",
+    "note": "Not detected in recent uploads. This does not prove the creator is offline."
   },
   "collabs": [],
   "collabIssues": [],

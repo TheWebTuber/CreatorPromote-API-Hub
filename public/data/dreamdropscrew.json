@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-14T19:56:12.459Z",
+  "updatedAt": "2026-11-14T23:55:01.954Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
@@ -1084,7 +1084,7 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-14T19:56:12.459Z",
+    "checkedAt": "2026-11-14T23:55:01.954Z",
     "method": "recent_uploads",
     "note": "Not detected in recent uploads. This does not prove the creator is offline."
   },

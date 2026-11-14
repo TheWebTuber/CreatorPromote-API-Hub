@@ -1,0 +1,1118 @@
+{
+  "version": 1,
+  "slug": "thedocrot",
+  "label": "TheDocRot",
+  "updatedAt": "2026-11-14T08:02:10.527Z",
+  "source": "YouTube Data API v3 via GitHub Actions",
+  "channel": {
+    "id": "UCiXeV-jUw_yCqScuZGopvVQ",
+    "snippet": {
+      "title": "the docrot",
+      "description": "What's good my people, its your boy thedocrot and here's a little bit about what I'm doing here!\n\nI'm trying to be consistent in uploading two shorts a day, every day, and two videos a week, one on Wednesday and one on Friday unless I say otherwise! I've kept this going for a while but I'll try and let you all know if I can't do it. \n\nStreams will start between 6PM-7PM UK TIME (EVERY DAY!!!) unless I say otherwise!\n\nThere will be exceptions to this as I have different things happening at different times every week but I will update you for those changes! \n\n\nApart from that I'm here to bring good vibes and positive energy to your day so I hope you all enjoy!\n\nLove and Peace my people! ❤️😁\n\n\nLink to my Instagram (the docrot):\nhttps://www.instagram.com/thedocrot?igsh=MW1rMTYwOHR0bnVuYw==\n\nLink to my Tiktok (thedocrot):\nhttps://www.tiktok.com/@thedocrot?_t=ZN-8zjEyZ7EROw&_r=1\n\n\nI hope you all enjoy my videos and Don't forget to check out my clan LyNx!\nHave fun people!",
+      "customUrl": "@thedocrot",
+      "publishedAt": "2016-08-05T13:50:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n_R1m6ulCclpWhRWkqXx0EX_Z_uP8_vtPVw7wkfMCT-F0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n_R1m6ulCclpWhRWkqXx0EX_Z_uP8_vtPVw7wkfMCT-F0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n_R1m6ulCclpWhRWkqXx0EX_Z_uP8_vtPVw7wkfMCT-F0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "the docrot",
+        "description": "What's good my people, its your boy thedocrot and here's a little bit about what I'm doing here!\n\nI'm trying to be consistent in uploading two shorts a day, every day, and two videos a week, one on Wednesday and one on Friday unless I say otherwise! I've kept this going for a while but I'll try and let you all know if I can't do it. \n\nStreams will start between 6PM-7PM UK TIME (EVERY DAY!!!) unless I say otherwise!\n\nThere will be exceptions to this as I have different things happening at different times every week but I will update you for those changes! \n\n\nApart from that I'm here to bring good vibes and positive energy to your day so I hope you all enjoy!\n\nLove and Peace my people! ❤️😁\n\n\nLink to my Instagram (the docrot):\nhttps://www.instagram.com/thedocrot?igsh=MW1rMTYwOHR0bnVuYw==\n\nLink to my Tiktok (thedocrot):\nhttps://www.tiktok.com/@thedocrot?_t=ZN-8zjEyZ7EROw&_r=1\n\n\nI hope you all enjoy my videos and Don't forget to check out my clan LyNx!\nHave fun people!"
+      }
+    },
+    "statistics": {
+      "viewCount": "1209035",
+      "subscriberCount": "731",
+      "hiddenSubscriberCount": false,
+      "videoCount": "3014"
+    },
+    "url": "https://www.youtube.com/channel/UCiXeV-jUw_yCqScuZGopvVQ"
+  },
+  "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "v9IIYN8q17ajvF9q-ybpTCWdg3c",
+      "id": "KxNOmjNveX8",
+      "snippet": {
+        "publishedAt": "2026-11-14T07:31:10Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "43",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-13T17:26:52Z",
+        "actualEndTime": "2026-11-13T19:20:05Z",
+        "scheduledStartTime": "2026-11-13T17:26:36Z",
+        "scheduledEndTime": "2026-11-13T19:28:44Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a-A_aa12dCIf7YtjQ4Sp5-2HeT4",
+      "id": "5KooI0w2I70",
+      "snippet": {
+        "publishedAt": "2026-11-14T00:07:06Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "50",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-13T19:21:38Z",
+        "actualEndTime": "2026-11-13T22:33:28Z",
+        "scheduledStartTime": "2026-11-13T19:21:24Z",
+        "scheduledEndTime": "2026-11-13T22:23:32Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f5rPF2_yqi5qgOTJ48NlWQ6Fjo0",
+      "id": "eXCJqh1EggI",
+      "snippet": {
+        "publishedAt": "2026-11-13T10:13:33Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
+        "description": "I was and still am fuming!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
+          "description": "I was and still am fuming!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "531",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6RZpGHfTKCsoWZ_gU7ryUdTo2Ow",
+      "id": "7lT3T3uTOhI",
+      "snippet": {
+        "publishedAt": "2026-11-13T10:10:34Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "I DIDN'T EVEN SEE THAT COMING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
+        "description": "You know I was in trouble!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7lT3T3uTOhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7lT3T3uTOhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7lT3T3uTOhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7lT3T3uTOhI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7lT3T3uTOhI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I DIDN'T EVEN SEE THAT COMING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
+          "description": "You know I was in trouble!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "188",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cuxO8Me84Ns0dRGSWi6qPGB3ZBk",
+      "id": "hDOVncLxJUE",
+      "snippet": {
+        "publishedAt": "2026-11-13T09:00:21Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "I NEED TO CONTRIBUTE MORE!?! | (FC27 PLAYER CAREER EPISODE 7)",
+        "description": "What's good everyone, it's your boy thedocrot, and I NEED TO CONTRIBUTE MORE!?!\n\nWhat will happen if I don't...\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hDOVncLxJUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hDOVncLxJUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hDOVncLxJUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hDOVncLxJUE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hDOVncLxJUE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I NEED TO CONTRIBUTE MORE!?! | (FC27 PLAYER CAREER EPISODE 7)",
+          "description": "What's good everyone, it's your boy thedocrot, and I NEED TO CONTRIBUTE MORE!?!\n\nWhat will happen if I don't...\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "85",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "efhfyesNeVQceh1Dy9kdXwUkITs",
+      "id": "UXQh5GGDUYw",
+      "snippet": {
+        "publishedAt": "2026-11-13T00:58:08Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#ENTERTAINMENT",
+          "#FC",
+          "#FC27",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "#ULTIMATETEAM",
+          "EA SPORTS FC 27",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "116",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-12T17:54:08Z",
+        "actualEndTime": "2026-11-12T21:51:56Z",
+        "scheduledStartTime": "2026-11-12T17:53:56Z",
+        "scheduledEndTime": "2026-11-12T20:56:04Z"
+      }
+    }
+  ],
+  "replays": [
+    {
+      "kind": "youtube#video",
+      "etag": "a-A_aa12dCIf7YtjQ4Sp5-2HeT4",
+      "id": "5KooI0w2I70",
+      "snippet": {
+        "publishedAt": "2026-11-14T00:07:06Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5KooI0w2I70/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "50",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-13T19:21:38Z",
+        "actualEndTime": "2026-11-13T22:33:28Z",
+        "scheduledStartTime": "2026-11-13T19:21:24Z",
+        "scheduledEndTime": "2026-11-13T22:23:32Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v9IIYN8q17ajvF9q-ybpTCWdg3c",
+      "id": "KxNOmjNveX8",
+      "snippet": {
+        "publishedAt": "2026-11-14T07:31:10Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KxNOmjNveX8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "43",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-13T17:26:52Z",
+        "actualEndTime": "2026-11-13T19:20:05Z",
+        "scheduledStartTime": "2026-11-13T17:26:36Z",
+        "scheduledEndTime": "2026-11-13T19:28:44Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "efhfyesNeVQceh1Dy9kdXwUkITs",
+      "id": "UXQh5GGDUYw",
+      "snippet": {
+        "publishedAt": "2026-11-13T00:58:08Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#ENTERTAINMENT",
+          "#FC",
+          "#FC27",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "#ULTIMATETEAM",
+          "EA SPORTS FC 27",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "116",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-12T17:54:08Z",
+        "actualEndTime": "2026-11-12T21:51:56Z",
+        "scheduledStartTime": "2026-11-12T17:53:56Z",
+        "scheduledEndTime": "2026-11-12T20:56:04Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tHTFPeLVyDjPsJ-SBuv--3_nUNQ",
+      "id": "5M18LGIUcOU",
+      "snippet": {
+        "publishedAt": "2026-11-11T22:44:09Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "I'M STILL BAD AT THIS GAME!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "I'M STILL BAD AT THIS GAME!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "154",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-11T18:00:31Z",
+        "actualEndTime": "2026-11-11T22:02:23Z",
+        "scheduledStartTime": "2026-11-11T18:00:16Z",
+        "scheduledEndTime": "2026-11-11T22:22:24Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "d8S2dYgNfb8gCloUwktqMbyOVk8",
+      "id": "Ru3_YOIH6eI",
+      "snippet": {
+        "publishedAt": "2026-11-11T09:47:02Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "##WWE",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#WRESTLING",
+          "#WWE2K26",
+          "PlayStation 5",
+          "Sony Interactive Entertainment",
+          "WWE 2K26"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "54",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-10T20:29:54Z",
+        "actualEndTime": "2026-11-10T21:31:33Z",
+        "scheduledStartTime": "2026-11-10T20:29:39Z",
+        "scheduledEndTime": "2026-11-10T21:51:46Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bq1VI3QVWZBow58cC5wocrk4e80",
+      "id": "8nWlqyw_b9I",
+      "snippet": {
+        "publishedAt": "2026-11-09T22:55:14Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "TRYING TO ADEPT THE DEMOGORGON!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8nWlqyw_b9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "TRYING TO ADEPT THE DEMOGORGON!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "91",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-09T17:14:18Z",
+        "actualEndTime": "2026-11-09T22:14:45Z",
+        "scheduledStartTime": "2026-11-09T17:14:03Z",
+        "scheduledEndTime": "2026-11-09T22:36:10Z"
+      }
+    }
+  ],
+  "live": null,
+  "liveChecked": false,
+  "latestVideos": [
+    {
+      "id": "KxNOmjNveX8",
+      "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+      "label": "YouTube",
+      "publishedAt": "2026-11-14T07:31:10Z",
+      "startedAt": "2026-11-13T17:26:52Z",
+      "endedAt": "2026-11-13T19:20:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
+      "views": "43",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "5KooI0w2I70",
+      "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+      "label": "YouTube",
+      "publishedAt": "2026-11-14T00:07:06Z",
+      "startedAt": "2026-11-13T19:21:38Z",
+      "endedAt": "2026-11-13T22:33:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5KooI0w2I70",
+      "views": "50",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "eXCJqh1EggI",
+      "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
+      "label": "YouTube",
+      "publishedAt": "2026-11-13T10:13:33Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/eXCJqh1EggI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eXCJqh1EggI",
+      "views": "531",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "7lT3T3uTOhI",
+      "title": "I DIDN'T EVEN SEE THAT COMING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
+      "label": "YouTube",
+      "publishedAt": "2026-11-13T10:10:34Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/7lT3T3uTOhI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7lT3T3uTOhI",
+      "views": "188",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "hDOVncLxJUE",
+      "title": "I NEED TO CONTRIBUTE MORE!?! | (FC27 PLAYER CAREER EPISODE 7)",
+      "label": "YouTube",
+      "publishedAt": "2026-11-13T09:00:21Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/hDOVncLxJUE/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hDOVncLxJUE",
+      "views": "85",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "UXQh5GGDUYw",
+      "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
+      "label": "YouTube",
+      "publishedAt": "2026-11-13T00:58:08Z",
+      "startedAt": "2026-11-12T17:54:08Z",
+      "endedAt": "2026-11-12T21:51:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
+      "views": "116",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "latestLivestreams": [
+    {
+      "id": "5KooI0w2I70",
+      "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+      "label": "Livestream",
+      "publishedAt": "2026-11-14T00:07:06Z",
+      "startedAt": "2026-11-13T19:21:38Z",
+      "endedAt": "2026-11-13T22:33:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5KooI0w2I70",
+      "views": "50",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "KxNOmjNveX8",
+      "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+      "label": "Livestream",
+      "publishedAt": "2026-11-14T07:31:10Z",
+      "startedAt": "2026-11-13T17:26:52Z",
+      "endedAt": "2026-11-13T19:20:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
+      "views": "43",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "UXQh5GGDUYw",
+      "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
+      "label": "Livestream",
+      "publishedAt": "2026-11-13T00:58:08Z",
+      "startedAt": "2026-11-12T17:54:08Z",
+      "endedAt": "2026-11-12T21:51:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
+      "views": "116",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "5M18LGIUcOU",
+      "title": "I'M STILL BAD AT THIS GAME!?! | Dead By Daylight",
+      "label": "Livestream",
+      "publishedAt": "2026-11-11T22:44:09Z",
+      "startedAt": "2026-11-11T18:00:31Z",
+      "endedAt": "2026-11-11T22:02:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/5M18LGIUcOU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5M18LGIUcOU",
+      "views": "154",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "Ru3_YOIH6eI",
+      "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
+      "label": "Livestream",
+      "publishedAt": "2026-11-11T09:47:02Z",
+      "startedAt": "2026-11-10T20:29:54Z",
+      "endedAt": "2026-11-10T21:31:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ru3_YOIH6eI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ru3_YOIH6eI",
+      "views": "54",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "8nWlqyw_b9I",
+      "title": "TRYING TO ADEPT THE DEMOGORGON!?! | Dead By Daylight",
+      "label": "Livestream",
+      "publishedAt": "2026-11-09T22:55:14Z",
+      "startedAt": "2026-11-09T17:14:18Z",
+      "endedAt": "2026-11-09T22:14:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/8nWlqyw_b9I/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8nWlqyw_b9I",
+      "views": "91",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "latestReplays": [
+    {
+      "id": "5KooI0w2I70",
+      "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+      "label": "Replay",
+      "publishedAt": "2026-11-14T00:07:06Z",
+      "startedAt": "2026-11-13T19:21:38Z",
+      "endedAt": "2026-11-13T22:33:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5KooI0w2I70",
+      "views": "50",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "KxNOmjNveX8",
+      "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
+      "label": "Replay",
+      "publishedAt": "2026-11-14T07:31:10Z",
+      "startedAt": "2026-11-13T17:26:52Z",
+      "endedAt": "2026-11-13T19:20:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
+      "views": "43",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "UXQh5GGDUYw",
+      "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
+      "label": "Replay",
+      "publishedAt": "2026-11-13T00:58:08Z",
+      "startedAt": "2026-11-12T17:54:08Z",
+      "endedAt": "2026-11-12T21:51:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
+      "views": "116",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "5M18LGIUcOU",
+      "title": "I'M STILL BAD AT THIS GAME!?! | Dead By Daylight",
+      "label": "Replay",
+      "publishedAt": "2026-11-11T22:44:09Z",
+      "startedAt": "2026-11-11T18:00:31Z",
+      "endedAt": "2026-11-11T22:02:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/5M18LGIUcOU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5M18LGIUcOU",
+      "views": "154",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "Ru3_YOIH6eI",
+      "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
+      "label": "Replay",
+      "publishedAt": "2026-11-11T09:47:02Z",
+      "startedAt": "2026-11-10T20:29:54Z",
+      "endedAt": "2026-11-10T21:31:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ru3_YOIH6eI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ru3_YOIH6eI",
+      "views": "54",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "8nWlqyw_b9I",
+      "title": "TRYING TO ADEPT THE DEMOGORGON!?! | Dead By Daylight",
+      "label": "Replay",
+      "publishedAt": "2026-11-09T22:55:14Z",
+      "startedAt": "2026-11-09T17:14:18Z",
+      "endedAt": "2026-11-09T22:14:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/8nWlqyw_b9I/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8nWlqyw_b9I",
+      "views": "91",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "liveStatus": {
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-14T08:02:10.527Z",
+    "method": "recent_uploads",
+    "note": "Not detected in recent uploads. This does not prove the creator is offline."
+  },
+  "collabs": [],
+  "collabIssues": [],
+  "scannedUploadCount": 100,
+  "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed."
+}

@@ -1,0 +1,811 @@
+{
+  "version": 1,
+  "slug": "daddydepresso",
+  "label": "Daddy Depresso",
+  "updatedAt": "2026-11-14T08:02:12.807Z",
+  "source": "YouTube Data API v3 via GitHub Actions",
+  "channel": {
+    "id": "UCKP2iEDv2W4ptqNObi7rSzQ",
+    "snippet": {
+      "title": "DaddyDepresso",
+      "description": "",
+      "customUrl": "@daddydepresso",
+      "publishedAt": "2015-01-27T06:14:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/a0OaZ4_9E1_KcuoBU8kqcH4RQxzQHf5imBizEcBz5eeHgy_JinWqKPQIFhvuP7adcZZ470eJaA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/a0OaZ4_9E1_KcuoBU8kqcH4RQxzQHf5imBizEcBz5eeHgy_JinWqKPQIFhvuP7adcZZ470eJaA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/a0OaZ4_9E1_KcuoBU8kqcH4RQxzQHf5imBizEcBz5eeHgy_JinWqKPQIFhvuP7adcZZ470eJaA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DaddyDepresso",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "1625",
+      "subscriberCount": "17",
+      "hiddenSubscriberCount": false,
+      "videoCount": "48"
+    },
+    "url": "https://www.youtube.com/channel/UCKP2iEDv2W4ptqNObi7rSzQ"
+  },
+  "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "YOoed4AiFSG1sPZrjaqUUyEOH-0",
+      "id": "7Y0CZqZjHbQ",
+      "snippet": {
+        "publishedAt": "2026-07-23T16:13:15Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Hoofing it in HORSEY GAME pt. 2",
+        "description": "nonce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hoofing it in HORSEY GAME pt. 2",
+          "description": "nonce"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-23T01:41:58Z",
+        "actualEndTime": "2026-07-23T03:17:38Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WBIdpC6xJ5HHf95ukl2JpEAROeo",
+      "id": "2y-j2KF1610",
+      "snippet": {
+        "publishedAt": "2026-07-21T03:18:22Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Hoofing it in HORSEY GAME",
+        "description": "nonce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hoofing it in HORSEY GAME",
+          "description": "nonce"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-21T00:49:50Z",
+        "actualEndTime": "2026-07-21T03:12:18Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yOq7Yi2sM-2NMFwWgrUC5tnsx8Q",
+      "id": "2PmBSwp98-o",
+      "snippet": {
+        "publishedAt": "2026-07-20T03:59:20Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 12",
+        "description": "Late night gamin'",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 12",
+          "description": "Late night gamin'"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-20T01:33:37Z",
+        "actualEndTime": "2026-07-20T03:52:03Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "50Q9ez_esA9HwUOKx-ibJuSn9eE",
+      "id": "XPFmANSosOg",
+      "snippet": {
+        "publishedAt": "2026-07-09T19:33:21Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "First time playing.. Dishonored pt.3",
+        "description": "Late night gamin'",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "First time playing.. Dishonored pt.3",
+          "description": "Late night gamin'"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-09T06:29:49Z",
+        "actualEndTime": "2026-07-09T07:21:54Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ONN_zh0z-Vp19gK9VFl092QB_BQ",
+      "id": "dEpNsOiBrvI",
+      "snippet": {
+        "publishedAt": "2026-07-07T15:08:29Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "First time playing.. Dishonored pt.2",
+        "description": "post 4th of july",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "First time playing.. Dishonored pt.2",
+          "description": "post 4th of july"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-07T00:57:36Z",
+        "actualEndTime": "2026-07-07T02:49:06Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j0WwS1o1TpCTrnWB2KHxA1CdOq4",
+      "id": "tt78JM5uyo0",
+      "snippet": {
+        "publishedAt": "2026-07-06T02:59:43Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "First time playing.. Dishonored",
+        "description": "post 4th of july",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "First time playing.. Dishonored",
+          "description": "post 4th of july"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-06T00:27:19Z",
+        "actualEndTime": "2026-07-06T02:53:20Z"
+      }
+    }
+  ],
+  "replays": [
+    {
+      "kind": "youtube#video",
+      "etag": "YOoed4AiFSG1sPZrjaqUUyEOH-0",
+      "id": "7Y0CZqZjHbQ",
+      "snippet": {
+        "publishedAt": "2026-07-23T16:13:15Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Hoofing it in HORSEY GAME pt. 2",
+        "description": "nonce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hoofing it in HORSEY GAME pt. 2",
+          "description": "nonce"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-23T01:41:58Z",
+        "actualEndTime": "2026-07-23T03:17:38Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WBIdpC6xJ5HHf95ukl2JpEAROeo",
+      "id": "2y-j2KF1610",
+      "snippet": {
+        "publishedAt": "2026-07-21T03:18:22Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Hoofing it in HORSEY GAME",
+        "description": "nonce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hoofing it in HORSEY GAME",
+          "description": "nonce"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-21T00:49:50Z",
+        "actualEndTime": "2026-07-21T03:12:18Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yOq7Yi2sM-2NMFwWgrUC5tnsx8Q",
+      "id": "2PmBSwp98-o",
+      "snippet": {
+        "publishedAt": "2026-07-20T03:59:20Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 12",
+        "description": "Late night gamin'",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 12",
+          "description": "Late night gamin'"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-20T01:33:37Z",
+        "actualEndTime": "2026-07-20T03:52:03Z"
+      }
+    }
+  ],
+  "live": null,
+  "liveChecked": false,
+  "latestVideos": [
+    {
+      "id": "7Y0CZqZjHbQ",
+      "title": "Hoofing it in HORSEY GAME pt. 2",
+      "label": "YouTube",
+      "publishedAt": "2026-07-23T16:13:15Z",
+      "startedAt": "2026-07-23T01:41:58Z",
+      "endedAt": "2026-07-23T03:17:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7Y0CZqZjHbQ",
+      "views": "10",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "2y-j2KF1610",
+      "title": "Hoofing it in HORSEY GAME",
+      "label": "YouTube",
+      "publishedAt": "2026-07-21T03:18:22Z",
+      "startedAt": "2026-07-21T00:49:50Z",
+      "endedAt": "2026-07-21T03:12:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/2y-j2KF1610/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2y-j2KF1610",
+      "views": "5",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "2PmBSwp98-o",
+      "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 12",
+      "label": "YouTube",
+      "publishedAt": "2026-07-20T03:59:20Z",
+      "startedAt": "2026-07-20T01:33:37Z",
+      "endedAt": "2026-07-20T03:52:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/2PmBSwp98-o/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2PmBSwp98-o",
+      "views": "1",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "XPFmANSosOg",
+      "title": "First time playing.. Dishonored pt.3",
+      "label": "YouTube",
+      "publishedAt": "2026-07-09T19:33:21Z",
+      "startedAt": "2026-07-09T06:29:49Z",
+      "endedAt": "2026-07-09T07:21:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/XPFmANSosOg/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XPFmANSosOg",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "dEpNsOiBrvI",
+      "title": "First time playing.. Dishonored pt.2",
+      "label": "YouTube",
+      "publishedAt": "2026-07-07T15:08:29Z",
+      "startedAt": "2026-07-07T00:57:36Z",
+      "endedAt": "2026-07-07T02:49:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/dEpNsOiBrvI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dEpNsOiBrvI",
+      "views": "4",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "tt78JM5uyo0",
+      "title": "First time playing.. Dishonored",
+      "label": "YouTube",
+      "publishedAt": "2026-07-06T02:59:43Z",
+      "startedAt": "2026-07-06T00:27:19Z",
+      "endedAt": "2026-07-06T02:53:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/tt78JM5uyo0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tt78JM5uyo0",
+      "views": "4",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "latestLivestreams": [
+    {
+      "id": "7Y0CZqZjHbQ",
+      "title": "Hoofing it in HORSEY GAME pt. 2",
+      "label": "Livestream",
+      "publishedAt": "2026-07-23T16:13:15Z",
+      "startedAt": "2026-07-23T01:41:58Z",
+      "endedAt": "2026-07-23T03:17:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7Y0CZqZjHbQ",
+      "views": "10",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "2y-j2KF1610",
+      "title": "Hoofing it in HORSEY GAME",
+      "label": "Livestream",
+      "publishedAt": "2026-07-21T03:18:22Z",
+      "startedAt": "2026-07-21T00:49:50Z",
+      "endedAt": "2026-07-21T03:12:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/2y-j2KF1610/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2y-j2KF1610",
+      "views": "5",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "2PmBSwp98-o",
+      "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 12",
+      "label": "Livestream",
+      "publishedAt": "2026-07-20T03:59:20Z",
+      "startedAt": "2026-07-20T01:33:37Z",
+      "endedAt": "2026-07-20T03:52:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/2PmBSwp98-o/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2PmBSwp98-o",
+      "views": "1",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "latestReplays": [
+    {
+      "id": "7Y0CZqZjHbQ",
+      "title": "Hoofing it in HORSEY GAME pt. 2",
+      "label": "Replay",
+      "publishedAt": "2026-07-23T16:13:15Z",
+      "startedAt": "2026-07-23T01:41:58Z",
+      "endedAt": "2026-07-23T03:17:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7Y0CZqZjHbQ",
+      "views": "10",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "2y-j2KF1610",
+      "title": "Hoofing it in HORSEY GAME",
+      "label": "Replay",
+      "publishedAt": "2026-07-21T03:18:22Z",
+      "startedAt": "2026-07-21T00:49:50Z",
+      "endedAt": "2026-07-21T03:12:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/2y-j2KF1610/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2y-j2KF1610",
+      "views": "5",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "2PmBSwp98-o",
+      "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 12",
+      "label": "Replay",
+      "publishedAt": "2026-07-20T03:59:20Z",
+      "startedAt": "2026-07-20T01:33:37Z",
+      "endedAt": "2026-07-20T03:52:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/2PmBSwp98-o/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2PmBSwp98-o",
+      "views": "1",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "liveStatus": {
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-14T08:02:12.807Z",
+    "method": "recent_uploads",
+    "note": "Not detected in recent uploads. This does not prove the creator is offline."
+  },
+  "collabs": [
+    {
+      "id": "M7-bJdEWJfM",
+      "title": "Incaged Horrors: The storm over Thet-Annath Ep 41 (Portrait)",
+      "label": "Player adventures II",
+      "publishedAt": "2026-10-31T04:42:46Z",
+      "startedAt": "2026-10-31T01:00:19Z",
+      "endedAt": "2026-10-31T04:19:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/M7-bJdEWJfM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=M7-bJdEWJfM",
+      "views": "327",
+      "live": false,
+      "wasLive": true,
+      "featured": false
+    },
+    {
+      "id": "xz-754QxOC4",
+      "title": "Incaged Horrors: The storm over Thet-Annath Ep 41",
+      "label": "Player adventures II",
+      "publishedAt": "2026-10-31T05:06:47Z",
+      "startedAt": "2026-10-31T01:00:17Z",
+      "endedAt": "2026-10-31T04:19:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/xz-754QxOC4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xz-754QxOC4",
+      "views": "57",
+      "live": false,
+      "wasLive": true,
+      "featured": false
+    },
+    {
+      "id": "VuZMQhzXWRU",
+      "title": "Dhampa: Chapter 10, A Night to Die For  (Season finale) VTM (Portrait)",
+      "label": "GM adventures",
+      "publishedAt": "2026-10-21T05:33:10Z",
+      "startedAt": "2026-10-21T00:17:51Z",
+      "endedAt": "2026-10-21T04:23:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/VuZMQhzXWRU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VuZMQhzXWRU",
+      "views": "122",
+      "live": false,
+      "wasLive": true,
+      "featured": false
+    },
+    {
+      "id": "cDYHtk5OzKU",
+      "title": "Dhampa: Chapter 10, A Night to Die For  (Season finale) VTM",
+      "label": "GM adventures",
+      "publishedAt": "2026-10-21T04:54:32Z",
+      "startedAt": "2026-10-21T00:17:49Z",
+      "endedAt": "2026-10-21T04:23:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/cDYHtk5OzKU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cDYHtk5OzKU",
+      "views": "155",
+      "live": false,
+      "wasLive": true,
+      "featured": false
+    }
+  ],
+  "collabIssues": [],
+  "scannedUploadCount": 48,
+  "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed."
+}

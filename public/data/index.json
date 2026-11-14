@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-14T08:02:14.984Z",
+  "channels": [
+    {
+      "slug": "thedocrot",
+      "label": "TheDocRot",
+      "handle": "@thedocrot",
+      "updatedAt": "2026-11-14T08:02:10.527Z",
+      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ"
+    },
+    {
+      "slug": "dreamdropscrew",
+      "label": "Dream Drops Crew",
+      "handle": "@DreamDropsCrew",
+      "updatedAt": "2026-11-14T08:02:11.817Z",
+      "channelId": "UCuK6uJXgGlJd4TLNjTwtluA"
+    },
+    {
+      "slug": "daddydepresso",
+      "label": "Daddy Depresso",
+      "handle": "@daddydepresso",
+      "updatedAt": "2026-11-14T08:02:12.807Z",
+      "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ"
+    },
+    {
+      "slug": "bonakvt",
+      "label": "BonakVT",
+      "handle": "@Bonakvtuber",
+      "updatedAt": "2026-11-14T08:02:14.232Z",
+      "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA"
+    }
+  ]
+}

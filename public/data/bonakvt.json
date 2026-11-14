@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-14T15:04:41.692Z",
+  "updatedAt": "2026-11-14T19:56:14.936Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
@@ -35,7 +35,7 @@
       "country": "AU"
     },
     "statistics": {
-      "viewCount": "63798",
+      "viewCount": "63794",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
       "videoCount": "201"
@@ -45,7 +45,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "MgambJAAgFMrFcTyZX1uSRBa-60",
+      "etag": "HDrxIUxxIWTcu7aTgCLBDUhc_lc",
       "id": "I8lqt5KiKz0",
       "snippet": {
         "publishedAt": "2026-11-14T14:27:19Z",
@@ -95,7 +95,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "47",
+        "viewCount": "61",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -103,7 +103,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "uo6l1evzaHdzV5YXUm0-O0Bzpwg",
+      "etag": "S-OirGsSuS_68G0gT4TKmfcxJIA",
       "id": "uOKARoS7rk4",
       "snippet": {
         "publishedAt": "2026-11-13T13:21:05Z",
@@ -153,7 +153,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "1093",
+        "viewCount": "1095",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -737,7 +737,7 @@
       "endedAt": null,
       "thumbnail": "https://i.ytimg.com/vi/I8lqt5KiKz0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=I8lqt5KiKz0",
-      "views": "47",
+      "views": "61",
       "live": false,
       "wasLive": false
     },
@@ -750,7 +750,7 @@
       "endedAt": null,
       "thumbnail": "https://i.ytimg.com/vi/uOKARoS7rk4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uOKARoS7rk4",
-      "views": "1093",
+      "views": "1095",
       "live": false,
       "wasLive": false
     },
@@ -970,7 +970,7 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-14T15:04:41.692Z",
+    "checkedAt": "2026-11-14T19:56:14.936Z",
     "method": "recent_uploads",
     "note": "Not detected in recent uploads. This does not prove the creator is offline."
   },

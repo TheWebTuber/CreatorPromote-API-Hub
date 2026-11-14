@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-14T15:04:38.946Z",
+  "updatedAt": "2026-11-14T19:56:12.459Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "99164",
+      "viewCount": "99171",
       "subscriberCount": "505",
       "hiddenSubscriberCount": false,
       "videoCount": "868"
@@ -105,7 +105,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MIYo_4iF_aNU6GMV8NU-VIM55gg",
+      "etag": "X8aVHeXntiOn3b2JDDEWzkKoVEo",
       "id": "_xdGpmss-y4",
       "snippet": {
         "publishedAt": "2026-11-13T05:24:19Z",
@@ -155,7 +155,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "4",
+        "viewCount": "6",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -628,7 +628,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jqH6VLzjhD-tBOCk_8tLcB07X-k",
+      "etag": "TItDVe4VIokWjFX0p4EljXXna2U",
       "id": "1mk5a3N4ODk",
       "snippet": {
         "publishedAt": "2026-11-07T18:14:42Z",
@@ -684,7 +684,7 @@
         "defaultAudioLanguage": "en-US"
       },
       "statistics": {
-        "viewCount": "98",
+        "viewCount": "99",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -864,7 +864,7 @@
       "endedAt": null,
       "thumbnail": "https://i.ytimg.com/vi/_xdGpmss-y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_xdGpmss-y4",
-      "views": "4",
+      "views": "6",
       "live": false,
       "wasLive": false
     },
@@ -970,7 +970,7 @@
       "endedAt": "2026-11-07T05:04:57Z",
       "thumbnail": "https://i.ytimg.com/vi/1mk5a3N4ODk/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1mk5a3N4ODk",
-      "views": "98",
+      "views": "99",
       "live": false,
       "wasLive": true
     },
@@ -1050,7 +1050,7 @@
       "endedAt": "2026-11-07T05:04:57Z",
       "thumbnail": "https://i.ytimg.com/vi/1mk5a3N4ODk/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1mk5a3N4ODk",
-      "views": "98",
+      "views": "99",
       "live": false,
       "wasLive": true
     },
@@ -1084,7 +1084,7 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-14T15:04:38.946Z",
+    "checkedAt": "2026-11-14T19:56:12.459Z",
     "method": "recent_uploads",
     "note": "Not detected in recent uploads. This does not prove the creator is offline."
   },

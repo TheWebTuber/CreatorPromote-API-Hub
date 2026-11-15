@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-15T06:30:20.014Z",
+  "updatedAt": "2026-11-15T14:19:31.878Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
@@ -35,13 +35,119 @@
     },
     "statistics": {
       "viewCount": "1210969",
-      "subscriberCount": "732",
+      "subscriberCount": "733",
       "hiddenSubscriberCount": false,
-      "videoCount": "3017"
+      "videoCount": "3019"
     },
     "url": "https://www.youtube.com/channel/UCiXeV-jUw_yCqScuZGopvVQ"
   },
   "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "rQB6eZ1jfxItyKgOzmqRJbfmis4",
+      "id": "wmnmENxdoHo",
+      "snippet": {
+        "publishedAt": "2026-11-15T10:44:29Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "THE REFEREE IS NOT GETTING INVOLVED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football",
+        "description": "Not at all!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wmnmENxdoHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wmnmENxdoHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wmnmENxdoHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wmnmENxdoHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wmnmENxdoHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THE REFEREE IS NOT GETTING INVOLVED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football",
+          "description": "Not at all!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "41",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LIdQ2CkMbRX2TGjHRnvCIrOlIv8",
+      "id": "Aq_q6at-Yjc",
+      "snippet": {
+        "publishedAt": "2026-11-15T10:40:17Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHAT DO I DO IN A 2V1!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+        "description": "Get cooked?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aq_q6at-Yjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aq_q6at-Yjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aq_q6at-Yjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aq_q6at-Yjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aq_q6at-Yjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WHAT DO I DO IN A 2V1!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+          "description": "Get cooked?"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "240",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "WTbV0Pq-AQygrg7yjmmfqsPrAD4",
@@ -116,7 +222,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1oqKGUDHbmdFvKHhAxjgP-NesNc",
+      "etag": "7tj04_3qvLELvjmYwa145ba-wC0",
       "id": "SbCFAXODENY",
       "snippet": {
         "publishedAt": "2026-11-14T10:08:46Z",
@@ -161,7 +267,7 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "886",
+        "viewCount": "888",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -169,7 +275,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lnw6VLy7QgDyPU4D2vg415OPI9g",
+      "etag": "tXoSuKoI9t234537_FvIqXxNNAc",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -214,15 +320,15 @@
         "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "168",
-        "likeCount": "4",
+        "viewCount": "228",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "eNLyr3wu-Bv9KUfjYPq5bO7F9UI",
+      "etag": "n0vwf1___X02VljTC0yMGFyP92k",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -281,7 +387,7 @@
         "defaultAudioLanguage": "en-GB"
       },
       "statistics": {
-        "viewCount": "44",
+        "viewCount": "48",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -291,131 +397,6 @@
         "actualEndTime": "2026-11-13T19:20:05Z",
         "scheduledStartTime": "2026-11-13T17:26:36Z",
         "scheduledEndTime": "2026-11-13T19:28:44Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "tQZLbqCrt8NGu8Tj0kug04a-UAk",
-      "id": "5KooI0w2I70",
-      "snippet": {
-        "publishedAt": "2026-11-14T00:07:06Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "statistics": {
-        "viewCount": "54",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-13T19:21:38Z",
-        "actualEndTime": "2026-11-13T22:33:28Z",
-        "scheduledStartTime": "2026-11-13T19:21:24Z",
-        "scheduledEndTime": "2026-11-13T22:23:32Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6jknpbPyMfRZvR3w7mxaSDQ4h3o",
-      "id": "eXCJqh1EggI",
-      "snippet": {
-        "publishedAt": "2026-11-13T10:13:33Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-        "description": "I was and still am fuming!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/eXCJqh1EggI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-          "description": "I was and still am fuming!"
-        }
-      },
-      "statistics": {
-        "viewCount": "845",
-        "likeCount": "10",
-        "favoriteCount": "0",
-        "commentCount": "4"
       }
     }
   ],
@@ -494,7 +475,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tQZLbqCrt8NGu8Tj0kug04a-UAk",
+      "etag": "WH17G3Qwe1-aUPPmks7jEgsUs2w",
       "id": "5KooI0w2I70",
       "snippet": {
         "publishedAt": "2026-11-14T00:07:06Z",
@@ -553,7 +534,7 @@
         "defaultAudioLanguage": "en-GB"
       },
       "statistics": {
-        "viewCount": "54",
+        "viewCount": "56",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -567,7 +548,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eNLyr3wu-Bv9KUfjYPq5bO7F9UI",
+      "etag": "n0vwf1___X02VljTC0yMGFyP92k",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -626,7 +607,7 @@
         "defaultAudioLanguage": "en-GB"
       },
       "statistics": {
-        "viewCount": "44",
+        "viewCount": "48",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -862,6 +843,32 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "wmnmENxdoHo",
+      "title": "THE REFEREE IS NOT GETTING INVOLVED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football",
+      "label": "YouTube",
+      "publishedAt": "2026-11-15T10:44:29Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/wmnmENxdoHo/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wmnmENxdoHo",
+      "views": "41",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "Aq_q6at-Yjc",
+      "title": "WHAT DO I DO IN A 2V1!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+      "label": "YouTube",
+      "publishedAt": "2026-11-15T10:40:17Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/Aq_q6at-Yjc/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Aq_q6at-Yjc",
+      "views": "240",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "72iPeZbnt5A",
       "title": "IS THIS GAME UNDERRATED!?! | eFootball",
       "label": "YouTube",
@@ -883,7 +890,7 @@
       "endedAt": null,
       "thumbnail": "https://i.ytimg.com/vi/SbCFAXODENY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=SbCFAXODENY",
-      "views": "886",
+      "views": "888",
       "live": false,
       "wasLive": false
     },
@@ -896,7 +903,7 @@
       "endedAt": null,
       "thumbnail": "https://i.ytimg.com/vi/ZQ-xWuz__Lc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZQ-xWuz__Lc",
-      "views": "168",
+      "views": "228",
       "live": false,
       "wasLive": false
     },
@@ -909,35 +916,9 @@
       "endedAt": "2026-11-13T19:20:05Z",
       "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
-      "views": "44",
+      "views": "48",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "5KooI0w2I70",
-      "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
-      "label": "YouTube",
-      "publishedAt": "2026-11-14T00:07:06Z",
-      "startedAt": "2026-11-13T19:21:38Z",
-      "endedAt": "2026-11-13T22:33:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5KooI0w2I70",
-      "views": "54",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "eXCJqh1EggI",
-      "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-      "label": "YouTube",
-      "publishedAt": "2026-11-13T10:13:33Z",
-      "startedAt": null,
-      "endedAt": null,
-      "thumbnail": "https://i.ytimg.com/vi/eXCJqh1EggI/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=eXCJqh1EggI",
-      "views": "845",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
@@ -963,7 +944,7 @@
       "endedAt": "2026-11-13T22:33:28Z",
       "thumbnail": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=5KooI0w2I70",
-      "views": "54",
+      "views": "56",
       "live": false,
       "wasLive": true
     },
@@ -976,7 +957,7 @@
       "endedAt": "2026-11-13T19:20:05Z",
       "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
-      "views": "44",
+      "views": "48",
       "live": false,
       "wasLive": true
     },
@@ -1043,7 +1024,7 @@
       "endedAt": "2026-11-13T22:33:28Z",
       "thumbnail": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=5KooI0w2I70",
-      "views": "54",
+      "views": "56",
       "live": false,
       "wasLive": true
     },
@@ -1056,7 +1037,7 @@
       "endedAt": "2026-11-13T19:20:05Z",
       "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
-      "views": "44",
+      "views": "48",
       "live": false,
       "wasLive": true
     },
@@ -1103,7 +1084,7 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-15T06:30:20.014Z",
+    "checkedAt": "2026-11-15T14:19:31.878Z",
     "method": "recent_uploads",
     "note": "Not detected in recent uploads. This does not prove the creator is offline."
   },

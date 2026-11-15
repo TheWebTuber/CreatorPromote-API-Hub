@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-15T06:30:23.604Z",
+  "updatedAt": "2026-11-15T14:19:35.828Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
@@ -38,14 +38,72 @@
       "viewCount": "63860",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
-      "videoCount": "201"
+      "videoCount": "202"
     },
     "url": "https://www.youtube.com/channel/UCKE1MnwHQBM8i7Or5K_zcmA"
   },
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "qSzjZrb89b_p85iK0im744JMCic",
+      "etag": "oIn4DgT8LcdtHUuuQcV540jnWPc",
+      "id": "vV4pgjr_fPo",
+      "snippet": {
+        "publishedAt": "2026-11-15T13:45:53Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "11",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4I5nYdoRm5CV9KMMDves8oURBSc",
       "id": "xd36eXXJqu0",
       "snippet": {
         "publishedAt": "2026-11-15T05:06:35Z",
@@ -91,7 +149,7 @@
       },
       "statistics": {
         "viewCount": "23",
-        "likeCount": "2",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       },
@@ -326,69 +384,12 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "0hiyfr6d_cLbo5QMXE8MqNugXxQ",
-      "id": "JVQloWc0YmU",
-      "snippet": {
-        "publishedAt": "2026-11-08T14:15:39Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "100% totally accurate description of darius kit # #vtuber #leagueoflegends #shorts",
-        "description": "i forgot splitting my forehead with his axe but you get the idea",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JVQloWc0YmU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JVQloWc0YmU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JVQloWc0YmU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/JVQloWc0YmU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/JVQloWc0YmU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "leagueoflegends",
-          "twitch"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "100% totally accurate description of darius kit # #vtuber #leagueoflegends #shorts",
-          "description": "i forgot splitting my forehead with his axe but you get the idea"
-        }
-      },
-      "statistics": {
-        "viewCount": "213",
-        "likeCount": "3",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "qSzjZrb89b_p85iK0im744JMCic",
+      "etag": "4I5nYdoRm5CV9KMMDves8oURBSc",
       "id": "xd36eXXJqu0",
       "snippet": {
         "publishedAt": "2026-11-15T05:06:35Z",
@@ -434,7 +435,7 @@
       },
       "statistics": {
         "viewCount": "23",
-        "likeCount": "2",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       },
@@ -728,6 +729,19 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "vV4pgjr_fPo",
+      "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+      "label": "YouTube",
+      "publishedAt": "2026-11-15T13:45:53Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vV4pgjr_fPo",
+      "views": "11",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "xd36eXXJqu0",
       "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
       "label": "YouTube",
@@ -789,19 +803,6 @@
       "thumbnail": "https://i.ytimg.com/vi/vssbsSM6KBQ/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vssbsSM6KBQ",
       "views": "193",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "JVQloWc0YmU",
-      "title": "100% totally accurate description of darius kit # #vtuber #leagueoflegends #shorts",
-      "label": "YouTube",
-      "publishedAt": "2026-11-08T14:15:39Z",
-      "startedAt": null,
-      "endedAt": null,
-      "thumbnail": "https://i.ytimg.com/vi/JVQloWc0YmU/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JVQloWc0YmU",
-      "views": "213",
       "live": false,
       "wasLive": false
     }
@@ -969,7 +970,7 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-15T06:30:23.604Z",
+    "checkedAt": "2026-11-15T14:19:35.828Z",
     "method": "recent_uploads",
     "note": "Not detected in recent uploads. This does not prove the creator is offline."
   },

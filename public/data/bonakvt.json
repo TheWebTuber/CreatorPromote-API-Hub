@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-14T23:55:04.931Z",
+  "updatedAt": "2026-11-15T06:30:23.604Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
@@ -35,17 +35,74 @@
       "country": "AU"
     },
     "statistics": {
-      "viewCount": "63794",
+      "viewCount": "63860",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
-      "videoCount": "200"
+      "videoCount": "201"
     },
     "url": "https://www.youtube.com/channel/UCKE1MnwHQBM8i7Or5K_zcmA"
   },
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "S-OirGsSuS_68G0gT4TKmfcxJIA",
+      "etag": "qSzjZrb89b_p85iK0im744JMCic",
+      "id": "xd36eXXJqu0",
+      "snippet": {
+        "publishedAt": "2026-11-15T05:06:35Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        },
+        "defaultAudioLanguage": "und"
+      },
+      "statistics": {
+        "viewCount": "23",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-15T01:20:04Z",
+        "actualEndTime": "2026-11-15T03:39:44Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NlXD5256MV3K7iehcDbR9NxtsLE",
       "id": "uOKARoS7rk4",
       "snippet": {
         "publishedAt": "2026-11-13T13:21:05Z",
@@ -91,8 +148,7 @@
         "localized": {
           "title": "horse tries to touch me (in game) #vtuber #leagueoflegends #shorts #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "statistics": {
         "viewCount": "1095",
@@ -103,7 +159,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GBga3CF-iu4J-rSoWS6sz-tzi0Q",
+      "etag": "l0cpXsNnarVBELaU_sPZ3pOMMlY",
       "id": "D3ibkTmeRww",
       "snippet": {
         "publishedAt": "2026-11-10T09:25:08Z",
@@ -152,7 +208,7 @@
         }
       },
       "statistics": {
-        "viewCount": "1203",
+        "viewCount": "1202",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -327,66 +383,66 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
+    }
+  ],
+  "replays": [
     {
       "kind": "youtube#video",
-      "etag": "Zu3wPDQae65xhzQtlVX-bWWWsbQ",
-      "id": "fu6kwiN5Wo4",
+      "etag": "qSzjZrb89b_p85iK0im744JMCic",
+      "id": "xd36eXXJqu0",
       "snippet": {
-        "publishedAt": "2026-11-05T13:35:12Z",
+        "publishedAt": "2026-11-15T05:06:35Z",
         "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "why I prefer valorant over cs  #league oflegends #vtuber #valorant #shorts #fyp",
-        "description": "ngl both are kinda ass",
+        "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/default.jpg",
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fu6kwiN5Wo4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "BonakVT",
         "tags": [
           "vtuber",
-          "leagueoflegends",
-          "twitch"
+          "fnaf",
+          "fivenightsatfreddys2"
         ],
         "categoryId": "20",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "why I prefer valorant over cs  #league oflegends #vtuber #valorant #shorts #fyp",
-          "description": "ngl both are kinda ass"
-        }
+          "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        },
+        "defaultAudioLanguage": "und"
       },
       "statistics": {
-        "viewCount": "341",
-        "likeCount": "4",
+        "viewCount": "23",
+        "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-15T01:20:04Z",
+        "actualEndTime": "2026-11-15T03:39:44Z"
       }
-    }
-  ],
-  "replays": [
+    },
     {
       "kind": "youtube#video",
       "etag": "hGerfuhWigJ6FxHJfwzXd_KyDQQ",
@@ -666,67 +722,24 @@
         "actualStartTime": "2026-10-13T09:58:26Z",
         "actualEndTime": "2026-10-13T10:58:40Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "vUfigVTKXfgporihFrUrE4Vi7HM",
-      "id": "0rg2EIVUVzo",
-      "snippet": {
-        "publishedAt": "2026-10-11T06:33:20Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "chilling on the rift - playing norms cuz so I don't punch my monitor #vtuber #leagueoflegends",
-        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0rg2EIVUVzo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0rg2EIVUVzo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0rg2EIVUVzo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0rg2EIVUVzo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "fnaf",
-          "fivenightsatfreddys2"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "chilling on the rift - playing norms cuz so I don't punch my monitor #vtuber #leagueoflegends",
-          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
-      },
-      "statistics": {
-        "viewCount": "4",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-11T03:50:44Z",
-        "actualEndTime": "2026-10-11T06:23:29Z"
-      }
     }
   ],
   "live": null,
   "liveChecked": false,
   "latestVideos": [
+    {
+      "id": "xd36eXXJqu0",
+      "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+      "label": "YouTube",
+      "publishedAt": "2026-11-15T05:06:35Z",
+      "startedAt": "2026-11-15T01:20:04Z",
+      "endedAt": "2026-11-15T03:39:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xd36eXXJqu0",
+      "views": "23",
+      "live": false,
+      "wasLive": true
+    },
     {
       "id": "uOKARoS7rk4",
       "title": "horse tries to touch me (in game) #vtuber #leagueoflegends #shorts #fyp",
@@ -749,7 +762,7 @@
       "endedAt": null,
       "thumbnail": "https://i.ytimg.com/vi/D3ibkTmeRww/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=D3ibkTmeRww",
-      "views": "1203",
+      "views": "1202",
       "live": false,
       "wasLive": false
     },
@@ -791,22 +804,22 @@
       "views": "213",
       "live": false,
       "wasLive": false
-    },
-    {
-      "id": "fu6kwiN5Wo4",
-      "title": "why I prefer valorant over cs  #league oflegends #vtuber #valorant #shorts #fyp",
-      "label": "YouTube",
-      "publishedAt": "2026-11-05T13:35:12Z",
-      "startedAt": null,
-      "endedAt": null,
-      "thumbnail": "https://i.ytimg.com/vi/fu6kwiN5Wo4/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=fu6kwiN5Wo4",
-      "views": "341",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
+    {
+      "id": "xd36eXXJqu0",
+      "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+      "label": "Livestream",
+      "publishedAt": "2026-11-15T05:06:35Z",
+      "startedAt": "2026-11-15T01:20:04Z",
+      "endedAt": "2026-11-15T03:39:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xd36eXXJqu0",
+      "views": "23",
+      "live": false,
+      "wasLive": true
+    },
     {
       "id": "YDibgw7mSKI",
       "title": "why do I both love and hate this game #vtuber #leagueoflegends",
@@ -869,25 +882,25 @@
       "thumbnail": "https://i.ytimg.com/vi/mJ0v3O_PJww/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mJ0v3O_PJww",
       "views": "21",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "0rg2EIVUVzo",
-      "title": "chilling on the rift - playing norms cuz so I don't punch my monitor #vtuber #leagueoflegends",
-      "label": "Livestream",
-      "publishedAt": "2026-10-11T06:33:20Z",
-      "startedAt": "2026-10-11T03:50:44Z",
-      "endedAt": "2026-10-11T06:23:29Z",
-      "thumbnail": "https://i.ytimg.com/vi/0rg2EIVUVzo/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0rg2EIVUVzo",
-      "views": "4",
       "live": false,
       "wasLive": true
     }
   ],
   "latestReplays": [
     {
+      "id": "xd36eXXJqu0",
+      "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+      "label": "Replay",
+      "publishedAt": "2026-11-15T05:06:35Z",
+      "startedAt": "2026-11-15T01:20:04Z",
+      "endedAt": "2026-11-15T03:39:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xd36eXXJqu0",
+      "views": "23",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "YDibgw7mSKI",
       "title": "why do I both love and hate this game #vtuber #leagueoflegends",
       "label": "Replay",
@@ -949,19 +962,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mJ0v3O_PJww/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mJ0v3O_PJww",
       "views": "21",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "0rg2EIVUVzo",
-      "title": "chilling on the rift - playing norms cuz so I don't punch my monitor #vtuber #leagueoflegends",
-      "label": "Replay",
-      "publishedAt": "2026-10-11T06:33:20Z",
-      "startedAt": "2026-10-11T03:50:44Z",
-      "endedAt": "2026-10-11T06:23:29Z",
-      "thumbnail": "https://i.ytimg.com/vi/0rg2EIVUVzo/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0rg2EIVUVzo",
-      "views": "4",
       "live": false,
       "wasLive": true
     }
@@ -969,7 +969,7 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-14T23:55:04.931Z",
+    "checkedAt": "2026-11-15T06:30:23.604Z",
     "method": "recent_uploads",
     "note": "Not detected in recent uploads. This does not prove the creator is offline."
   },

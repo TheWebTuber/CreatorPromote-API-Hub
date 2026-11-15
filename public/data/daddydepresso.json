@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "daddydepresso",
   "label": "Daddy Depresso",
-  "updatedAt": "2026-11-14T23:55:03.082Z",
+  "updatedAt": "2026-11-15T06:30:22.249Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "id": "UCKP2iEDv2W4ptqNObi7rSzQ",
@@ -743,7 +743,7 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-14T23:55:03.082Z",
+    "checkedAt": "2026-11-15T06:30:22.249Z",
     "method": "recent_uploads",
     "note": "Not detected in recent uploads. This does not prove the creator is offline."
   },

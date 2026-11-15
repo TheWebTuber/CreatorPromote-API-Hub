@@ -1,3 +1,5 @@
+import {safeFeed, validateFeed, LIVE_MAX_AGE_MS} from '../public/js/creatorpromote-hub.js';
+
 /** YouTube Data API client for GitHub Actions; no client-side API keys. */
 const VIDEO_ID = /^[A-Za-z0-9_-]{11}$/;
 const CHANNEL_SLUG = /^[a-z0-9][a-z0-9-]{0,55}$/;
@@ -13,6 +15,7 @@ export function validateConfig(channels) {
   for (const c of channels) {
     if (!validSlug(c.slug) || seen.has(c.slug)) throw Error('Invalid/duplicate channel slug: ' + c.slug);
     seen.add(c.slug);
+    if (c.enabled && c.identityVerified === false) throw Error('Channel identity not verified: '+c.slug);
     if (c.enabled && !c.channelId && !String(c.handle || '').startsWith('@')) throw Error('Channel '+c.slug+' needs a handle or channelId');
   }
   return channels;
@@ -36,10 +39,12 @@ export function createYoutube(apiKey, fetcher = globalThis.fetch) {
     catch { throw Error('Invalid YouTube response from '+method+'.'); }
     if (!result.ok || payload?.error) {
       const reason = payload?.error?.errors?.[0]?.reason || payload?.error?.status || String(result.status);
-      const description = String(payload?.error?.message || '').slice(0,160);
+      const knownReasons = ['quotaExceeded','dailyLimitExceeded','keyInvalid','accessNotConfigured','forbidden','notFound','playlistNotFound','channelNotFound','invalidParameter','invalidValue','badRequest','rateLimitExceeded','backendError','serviceUnavailable'];
+      const safeReason = knownReasons.includes(reason) && !String(reason).includes(apiKey) ? reason : 'requestFailed';
       // Never print request URL: it contains the private API key.
-      throw Error('YouTube '+method+' failed: '+reason+(description ? ' — '+description : ''));
+      throw Error('YouTube '+method+' failed: '+safeReason);
     }
+    if (!payload || !Array.isArray(payload.items)) throw Error('Invalid YouTube items from '+method+'.');
     return payload;
   };
 }
@@ -48,10 +53,11 @@ async function videosById(youtube, ids) {
   const unique = [...new Set(ids.filter(validVideoId))];
   const found = [];
   for (const batch of chunks(unique,50)) {
-    const response = await youtube('videos', {part:'snippet,liveStreamingDetails,statistics', id:batch.join(','), maxResults:50});
-    found.push(...(response.items || []));
+    const response = await youtube('videos', {part:'snippet,liveStreamingDetails,statistics,contentDetails,status', id:batch.join(','), maxResults:50});
+    if (!Array.isArray(response.items)) throw Error('Invalid video response');
+    found.push(...response.items);
   }
-  return found.filter(v => v?.id && v.snippet?.title && v.snippet.title !== 'Private video' && v.snippet.title !== 'Deleted video');
+  return found.filter(v => (!v.status?.privacyStatus || v.status.privacyStatus === 'public') && v?.id && v.snippet?.title && v.snippet.title !== 'Private video' && v.snippet.title !== 'Deleted video');
 }
 
 function normalized(v, label='YouTube') {
@@ -62,6 +68,10 @@ function normalized(v, label='YouTube') {
     label, publishedAt:v.snippet?.publishedAt || null,
     startedAt:time.actualStartTime || null,
     endedAt:time.actualEndTime || null,
+    scheduledAt:time.scheduledStartTime || null,
+    duration:v.contentDetails?.duration || null,
+    embeddable:v.status?.embeddable ?? null,
+    upcoming:v.snippet?.liveBroadcastContent === 'upcoming',
     thumbnail: (thumb.medium || thumb.high || thumb.default)?.url || `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`,
     url:`https://www.youtube.com/watch?v=${v.id}`,
     views:v.statistics?.viewCount ?? null,
@@ -70,66 +80,99 @@ function normalized(v, label='YouTube') {
   };
 }
 
-export async function fetchChannelData(cfg, youtube, updatedAt = new Date().toISOString()) {
-  const channelCriteria = cfg.channelId ? {id:cfg.channelId} : {forHandle:cfg.handle};
-  const ch = await youtube('channels', {part:'snippet,statistics,contentDetails',...channelCriteria});
-  const channel=ch.items?.[0];
-  if(!channel?.contentDetails?.relatedPlaylists?.uploads) throw Error('Could not find channel / uploads for '+cfg.slug+' ('+(cfg.handle||cfg.channelId)+')');
-  const playlistId=channel.contentDetails.relatedPlaylists.uploads;
-  const pages=clipNumber(cfg.scanPages,2,1,3);
-  const ids=[];
-  const already=new Set();
-  let pageToken;
-  for(let n=0;n<pages;n++){
-    const page=await youtube('playlistItems', {part:'contentDetails',playlistId, maxResults:50, ...(pageToken?{pageToken}:{})});
-    for(const item of page.items || []) {
-      const id=item.contentDetails?.videoId;
-      if(validVideoId(id) && !already.has(id)){already.add(id);ids.push(id);}
+
+/** Independent sections preserve their own successful observation times. */
+export async function fetchChannelData(cfg, youtube, updatedAt = new Date().toISOString(), previous = null) {
+  if(previous) {try{validateFeed(previous,cfg.slug);}catch{previous=null;}}
+  if(previous && cfg.channelId && previous.channel.id!==cfg.channelId)previous=null;
+  const sections={}, issues=[];
+  async function section(name, fetchSection, fallback) {
+    try { const value=await fetchSection();sections[name]={status:'fresh',updatedAt};return value; }
+    catch {
+      const prior=previous?.sections?.[name];
+      const available=fallback!==undefined && prior?.status!=='unavailable';
+      sections[name]={status:available?'cached':'unavailable',updatedAt:available?(prior?.updatedAt||previous?.updatedAt||null):null};
+      issues.push(name+': refresh unavailable');
+      return available?fallback:undefined;
     }
-    pageToken=page.nextPageToken;
-    if(!pageToken)break;
   }
-  const items=(await videosById(youtube,ids));
-  items.sort((a,b) => Date.parse(b.snippet?.publishedAt||0) - Date.parse(a.snippet?.publishedAt||0));
-  const latestCount=clipNumber(cfg.latestCount,6,1,24);
-  const liveCount=clipNumber(cfg.livestreamCount,6,1,24);
-  const uploads=items.filter(v=>v.snippet?.liveBroadcastContent!=='upcoming').slice(0,latestCount);
-  const streamed=items.filter(v => Boolean(v.liveStreamingDetails?.actualStartTime)).sort(latestFirst);
-  const replays=streamed.filter(v=>Boolean(v.liveStreamingDetails?.actualEndTime)).slice(0,liveCount);
-  const current=streamed.find(v=>v.snippet?.liveBroadcastContent==='live' && !v.liveStreamingDetails?.actualEndTime) || null;
-  const collabs=[];
-  const collabIssues=[];
-  for (const p of (cfg.collabPlaylists || []).slice(0,6)) {
-    if(!p.id) continue;
-    try {
+  const channel=await section('channel',async()=>{
+    const response=await youtube('channels',{part:'snippet,statistics,contentDetails,brandingSettings',...(cfg.channelId?{id:cfg.channelId}:{forHandle:cfg.handle})});
+    const c=response.items?.[0];if(!c?.id||!c.snippet||!c.statistics||!c.contentDetails?.relatedPlaylists?.uploads)throw Error('Channel unavailable');
+    if(cfg.channelId && c.id!==cfg.channelId)throw Error('Channel mismatch');
+    return {...c,url:'https://www.youtube.com/channel/'+c.id};
+  },previous?.channel);
+  if(!channel)throw Error('No successful channel data available');
+  // Never combine previous data from another resolved channel with this channel.
+  if(previous && previous.channel.id!==channel.id)previous=null;
+  const cachedItems=previous?.catalog || (previous ? [...new Map([...previous.uploads,...previous.replays,...(previous.live?[previous.live]:[])].map(v=>[v.id,v])).values()] : undefined);
+  const items=await section('videos',async()=>{
+    const playlistId=channel.contentDetails?.relatedPlaylists?.uploads;
+    if(!playlistId)throw Error('Uploads unavailable');
+    const ids=[];let pageToken;
+    for(let n=0;n<clipNumber(cfg.scanPages,2,1,8);n++){
+      const page=await youtube('playlistItems',{part:'contentDetails',playlistId,maxResults:50,...(pageToken?{pageToken}:{})});
+      if(!Array.isArray(page.items))throw Error('Invalid playlist');
+      ids.push(...page.items.map(v=>v.contentDetails?.videoId));
+      pageToken=page.nextPageToken;if(!pageToken)break;
+    }
+    return (await videosById(youtube,ids)).sort((a,b)=>Date.parse(b.snippet?.publishedAt||0)-Date.parse(a.snippet?.publishedAt||0));
+  },cachedItems);
+  const catalog=items||[];
+  const uploads=catalog.filter(v=>v.snippet?.liveBroadcastContent!=='upcoming').slice(0,clipNumber(cfg.latestCount,6,1,100));
+  const streamed=catalog.filter(v=>v.liveStreamingDetails?.actualStartTime).sort(latestFirst);
+  const replays=streamed.filter(v=>v.liveStreamingDetails?.actualEndTime).slice(0,clipNumber(cfg.livestreamCount,6,1,100));
+  const current=streamed.find(v=>v.snippet?.liveBroadcastContent==='live'&&!v.liveStreamingDetails.actualEndTime)||null;
+  const collabSources={};const collabIssues=[];
+  for(const p of (cfg.collabPlaylists||[]).slice(0,6)){
+    if(!p.id)continue;
+    const name='collab:'+p.id;
+    const prior=previous?.collabSources?.[p.id];
+    const entries=await section(name,async()=>{
       const pl=await youtube('playlistItems',{part:'contentDetails',playlistId:p.id,maxResults:50});
-      const entries=await videosById(youtube,(pl.items||[]).map(item=>item.contentDetails?.videoId));
-      for(const v of entries) collabs.push({...normalized(v,p.label||'Collaboration'), featured:false});
-    } catch(err) { collabIssues.push(`${p.label||p.id}: ${err.message}`); }
+      if(!Array.isArray(pl.items))throw Error('Invalid playlist');
+      return (await videosById(youtube,pl.items.map(v=>v.contentDetails?.videoId))).map(v=>({...normalized(v,p.label||'Collaboration'),featured:false}));
+    },prior?.items);
+    collabSources[p.id]={...sections[name],items:entries||[]};
+    if(sections[name].status!=='fresh')collabIssues.push((p.label||p.id)+': refresh unavailable');
   }
-  const collabUnique=[...new Map(collabs.map(v=>[v.id,v])).values()].sort((a,b)=>Date.parse(b.startedAt||b.publishedAt||0)-Date.parse(a.startedAt||a.publishedAt||0));
-  if(!collabUnique.length && cfg.featuredCollabs?.length){
-    try {
+  let collabs=Object.values(collabSources).flatMap(v=>v.items);
+  // Legacy v1 has no per-playlist attribution: preserve its whole last good list on partial failure.
+  const legacyCollabs=collabIssues.length ? (previous && !previous.collabSources ? previous.collabs : previous?.legacyCollabs || []) : [];
+  collabs.push(...legacyCollabs);
+  if(!collabs.length && cfg.featuredCollabs?.length){
+    const featured=await section('featured',async()=>{
       const provided=cfg.featuredCollabs.filter(v=>validVideoId(v.id));
       const extra=await videosById(youtube,provided.map(v=>v.id));
-      for(const f of provided){
-        const v=extra.find(x=>x.id===f.id);
-        if(v) collabUnique.push({...normalized(v,f.label||'Featured session (not newest)'),featured:true});
-      }
-    } catch(err) {collabIssues.push('Featured sessions could not be checked: '+err.message);}
+      return extra.map(v=>({...normalized(v,provided.find(f=>f.id===v.id)?.label||'Featured session (not newest)'),featured:true}));
+    },previous?.collabs?.filter(v=>v.featured));
+    collabs=featured||[];
+    if(sections.featured.status!=='fresh')collabIssues.push('Featured sessions: refresh unavailable');
   }
-  const liveStatus=current
-    ? {status:'live',video:normalized(current,'Live now'),checkedAt:updatedAt,method:'recent_uploads'}
-    : {status:'unknown',video:null,checkedAt:updatedAt,method:'recent_uploads',note:'Not detected in recent uploads. This does not prove the creator is offline.'};
-  return {
-    version:1, slug:cfg.slug,label:cfg.label,updatedAt,source:'YouTube Data API v3 via GitHub Actions',
-    channel:{id:channel.id,snippet:channel.snippet,statistics:channel.statistics,url:`https://www.youtube.com/channel/${channel.id}`},
-    uploads, replays, live:current, liveChecked:!!current,
-    latestVideos:uploads.map(v=>normalized(v)),
-    latestLivestreams:streamed.slice(0,liveCount).map(v=>normalized(v,'Livestream')),
-    latestReplays:replays.map(v=>normalized(v,'Replay')),
-    liveStatus,collabs:collabUnique.slice(0,4),collabIssues,
-    scannedUploadCount:items.length,
-    scanNote:'Only recent public uploads are scanned; some past/live broadcasts may not be indexed.'
-  };
+  collabs=[...new Map(collabs.map(v=>[v.id,v])).values()].sort((a,b)=>Date.parse(b.startedAt||b.publishedAt||0)-Date.parse(a.startedAt||a.publishedAt||0)).slice(0,4);
+  const collabTimes=Object.values(collabSources).map(v=>v.updatedAt).filter(Boolean);
+  sections.collabs={status:collabIssues.length?'cached':'fresh',updatedAt:collabIssues.length?(collabTimes.sort()[0]||previous?.sections?.collabs?.updatedAt||previous?.updatedAt||null):updatedAt};
+  let playlists=previous?.playlists;
+  if(cfg.includePlaylists){playlists=await section('playlists',async()=>{
+    const rows=[];let pageToken;
+    for(let i=0;i<clipNumber(cfg.playlistPages,2,1,8);i++){
+      const response=await youtube('playlists',{part:'snippet,contentDetails,status',channelId:channel.id,maxResults:50,...(pageToken?{pageToken}:{})});
+      if(!Array.isArray(response.items))throw Error('Invalid playlists');
+      rows.push(...response.items.filter(v=>!v.status?.privacyStatus||v.status.privacyStatus==='public'));
+      pageToken=response.nextPageToken;if(!pageToken)break;
+    }return rows;
+  },previous?.playlists);}
+  const checkedAt=sections.videos.updatedAt;
+  const liveStatus={status:current?'live':'unknown',video:current?normalized(current,'Live now'):null,
+    checkedAt,expiresAt:checkedAt?new Date(Date.parse(checkedAt)+LIVE_MAX_AGE_MS).toISOString():null,
+    method:'recent_uploads',note:'Not detected does not prove offline; observations expire after 45 minutes.'};
+  const feed={version:1,slug:cfg.slug,label:cfg.label,updatedAt,source:'YouTube Data API v3 via GitHub Actions',
+    channel,uploads,replays,live:current,liveChecked:!!current,
+    latestVideos:uploads.map(v=>normalized(v)),latestLivestreams:streamed.slice(0,clipNumber(cfg.livestreamCount,6,1,100)).map(v=>normalized(v,'Livestream')),
+    latestReplays:replays.map(v=>normalized(v,'Replay')),liveStatus,collabs,collabIssues,
+    scannedUploadCount:catalog.length,scanNote:'Only recent public uploads are scanned; some past/live broadcasts may not be indexed.',
+    catalog,playlists:playlists||[],collabSources,legacyCollabs,sections,issues};
+  // If nothing succeeded, keep the original timestamp rather than presenting a fresh snapshot.
+  if(previous && !Object.entries(sections).some(([k,v])=>k!=='collabs'&&v.status==='fresh'))feed.updatedAt=previous.updatedAt;
+  return safeFeed(feed,Date.parse(updatedAt));
 }

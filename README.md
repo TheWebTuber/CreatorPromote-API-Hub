@@ -10,7 +10,7 @@ One private **YouTube Data API key**, one scheduled **GitHub Actions** updater, 
 
 Also: `dreamdropscrew.json`, `daddydepresso.json`, `bonakvt.json`, and `data/index.json`.
 
-Duffball16 is included but **disabled** until you fill in the correct YouTube handle.
+Five additional creators are prepared but **disabled** pending independent identity verification and activation approval. See [channel identities](docs/channel-identities.md).
 
 ## How it works
 
@@ -23,7 +23,7 @@ Duffball16 is included but **disabled** until you fill in the correct YouTube ha
 
 ## Add another creator
 
-Edit `config/channels.json` and add an entry with a unique slug, YouTube handle (e.g. `@Example`), and `enabled: true`. Then run the workflow manually once.
+Add a disabled entry in `config/channels.json`. Verify and document its canonical channel identity before setting `identityVerified: true`. Enable and run the workflow only after activation/deployment approval.
 
 ## Included website patches
 
@@ -37,3 +37,12 @@ Edit `config/channels.json` and add an entry with a unique slug, YouTube handle 
 - Your original websites will continue making direct YouTube API calls until you replace their old JavaScript with the included patches.
 - In GitHub Pages settings, choose **Source: GitHub Actions**, not `Deploy from a branch`.
 - To test locally with no key: `npm test` (Node 22+); no packages need installing.
+
+## Phase 1 preparation (local, not deployed)
+
+- [Complete workspace audit and migration plan](docs/workspace-audit-and-migration.md)
+- [Shared client, schema, freshness and failure handling](docs/client-and-schema.md)
+- [Channel identity evidence](docs/channel-identities.md)
+- [Validation and remaining risks](docs/phase-1-validation.md)
+
+The maintained client is `public/js/creatorpromote-hub.js`. Existing `site-patches/` are historical examples, not approved migration-ready replacements: they have placeholder URLs and incomplete stale-LIVE handling. Do not copy them unchanged. No individual website has been migrated.

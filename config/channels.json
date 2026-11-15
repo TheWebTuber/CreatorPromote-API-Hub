@@ -5,37 +5,58 @@
       "label": "TheDocRot",
       "handle": "@thedocrot",
       "enabled": true,
-      "scanPages": 2,
-      "latestCount": 6,
-      "livestreamCount": 6
+      "scanPages": 3,
+      "latestCount": 60,
+      "livestreamCount": 6,
+      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ"
     },
     {
       "slug": "dreamdropscrew",
       "label": "Dream Drops Crew",
       "handle": "@DreamDropsCrew",
       "enabled": true,
-      "scanPages": 2,
+      "scanPages": 8,
       "latestCount": 6,
-      "livestreamCount": 6
+      "livestreamCount": 6,
+      "channelId": "UCuK6uJXgGlJd4TLNjTwtluA"
     },
     {
       "slug": "daddydepresso",
       "label": "Daddy Depresso",
       "handle": "@daddydepresso",
       "enabled": true,
-      "scanPages": 2,
+      "scanPages": 3,
       "latestCount": 6,
       "livestreamCount": 3,
       "collabPlaylists": [
-        {"id": "PLdqlxY9kSpe0", "label": "Player adventures I"},
-        {"id": "PL5420N1feOV-FDdE10HxclroHEqg-GqKD", "label": "Player adventures II"},
-        {"id": "PLQOAzzoGRT6s", "label": "GM adventures"}
+        {
+          "id": "PLdqlxY9kSpe0",
+          "label": "Player adventures I"
+        },
+        {
+          "id": "PL5420N1feOV-FDdE10HxclroHEqg-GqKD",
+          "label": "Player adventures II"
+        },
+        {
+          "id": "PLQOAzzoGRT6s",
+          "label": "GM adventures"
+        }
       ],
       "featuredCollabs": [
-        {"id": "FRVmoksciRg", "label": "Featured player session"},
-        {"id": "8R5yICkMZn4", "label": "Featured player session"},
-        {"id": "TqJk7cQ72e0", "label": "Featured GM session"}
-      ]
+        {
+          "id": "FRVmoksciRg",
+          "label": "Featured player session"
+        },
+        {
+          "id": "8R5yICkMZn4",
+          "label": "Featured player session"
+        },
+        {
+          "id": "TqJk7cQ72e0",
+          "label": "Featured GM session"
+        }
+      ],
+      "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ"
     },
     {
       "slug": "bonakvt",
@@ -44,14 +65,59 @@
       "enabled": true,
       "scanPages": 2,
       "latestCount": 6,
-      "livestreamCount": 6
+      "livestreamCount": 6,
+      "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA"
     },
     {
       "slug": "duffball16",
       "label": "Duffball16",
-      "handle": "",
+      "handle": "@Duffball16",
       "enabled": false,
+      "scanPages": 5,
+      "latestCount": 6,
+      "livestreamCount": 6,
+      "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
+      "includePlaylists": true,
+      "identityVerified": false
+    },
+    {
+      "slug": "portalmasterofgames",
+      "label": "Portal Master Of Games",
+      "handle": "@PMOG",
+      "channelId": "UCdOJvhjojFe3Z0yKeGEIERA",
+      "enabled": false,
+      "identityVerified": false,
       "scanPages": 2,
+      "latestCount": 6,
+      "livestreamCount": 6
+    },
+    {
+      "slug": "blackjacksetzer",
+      "label": "Blackjacksetzer",
+      "handle": "@Blackjacksetzer",
+      "enabled": false,
+      "identityVerified": false,
+      "scanPages": 3,
+      "latestCount": 6,
+      "livestreamCount": 6
+    },
+    {
+      "slug": "crystalsdreamdrops",
+      "label": "Crystalsdreamdrops",
+      "handle": "@Crystalsdreamdrops",
+      "enabled": false,
+      "identityVerified": false,
+      "scanPages": 4,
+      "latestCount": 6,
+      "livestreamCount": 6
+    },
+    {
+      "slug": "salahare",
+      "label": "Salahare",
+      "handle": "@Salahare",
+      "enabled": false,
+      "identityVerified": false,
+      "scanPages": 3,
       "latestCount": 6,
       "livestreamCount": 6
     }

@@ -2,9 +2,11 @@
   "version": 1,
   "slug": "daddydepresso",
   "label": "Daddy Depresso",
-  "updatedAt": "2026-11-15T14:19:34.379Z",
+  "updatedAt": "2026-11-15T19:57:45.644Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
+    "kind": "youtube#channel",
+    "etag": "Z93CangDfsBIKZEUOUaXWQ2WJvQ",
     "id": "UCKP2iEDv2W4ptqNObi7rSzQ",
     "snippet": {
       "title": "DaddyDepresso",
@@ -33,18 +35,29 @@
         "description": ""
       }
     },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUKP2iEDv2W4ptqNObi7rSzQ"
+      }
+    },
     "statistics": {
       "viewCount": "1625",
       "subscriberCount": "17",
       "hiddenSubscriberCount": false,
       "videoCount": "48"
     },
+    "brandingSettings": {
+      "channel": {
+        "title": "DaddyDepresso"
+      }
+    },
     "url": "https://www.youtube.com/channel/UCKP2iEDv2W4ptqNObi7rSzQ"
   },
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "YOoed4AiFSG1sPZrjaqUUyEOH-0",
+      "etag": "txLLc8NQKoIPTyX2ZEThTIwaml4",
       "id": "7Y0CZqZjHbQ",
       "snippet": {
         "publishedAt": "2026-07-23T16:13:15Z",
@@ -91,6 +104,23 @@
         },
         "defaultAudioLanguage": "en"
       },
+      "contentDetails": {
+        "duration": "PT1H35M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
       "statistics": {
         "viewCount": "10",
         "favoriteCount": "0",
@@ -103,7 +133,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WBIdpC6xJ5HHf95ukl2JpEAROeo",
+      "etag": "BuRWP6SEzGu84_gpfE05DSrCpyQ",
       "id": "2y-j2KF1610",
       "snippet": {
         "publishedAt": "2026-07-21T03:18:22Z",
@@ -150,6 +180,23 @@
         },
         "defaultAudioLanguage": "en"
       },
+      "contentDetails": {
+        "duration": "PT2H22M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
       "statistics": {
         "viewCount": "5",
         "favoriteCount": "0",
@@ -162,7 +209,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yOq7Yi2sM-2NMFwWgrUC5tnsx8Q",
+      "etag": "h97GiKxAcZ65tkao4GQR3IEfNqA",
       "id": "2PmBSwp98-o",
       "snippet": {
         "publishedAt": "2026-07-20T03:59:20Z",
@@ -209,6 +256,23 @@
         },
         "defaultAudioLanguage": "en"
       },
+      "contentDetails": {
+        "duration": "PT2H18M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
       "statistics": {
         "viewCount": "1",
         "favoriteCount": "0",
@@ -221,7 +285,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "50Q9ez_esA9HwUOKx-ibJuSn9eE",
+      "etag": "CKRGlrFZ6nNqWmyrCZ3WFA6AN3E",
       "id": "XPFmANSosOg",
       "snippet": {
         "publishedAt": "2026-07-09T19:33:21Z",
@@ -268,6 +332,23 @@
         },
         "defaultAudioLanguage": "en"
       },
+      "contentDetails": {
+        "duration": "PT52M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
       "statistics": {
         "viewCount": "6",
         "favoriteCount": "0",
@@ -280,7 +361,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ONN_zh0z-Vp19gK9VFl092QB_BQ",
+      "etag": "4aPAM2x712Wb7s-E1Ud6-qaOstU",
       "id": "dEpNsOiBrvI",
       "snippet": {
         "publishedAt": "2026-07-07T15:08:29Z",
@@ -327,6 +408,23 @@
         },
         "defaultAudioLanguage": "en"
       },
+      "contentDetails": {
+        "duration": "PT1H51M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
       "statistics": {
         "viewCount": "4",
         "favoriteCount": "0",
@@ -339,7 +437,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "j0WwS1o1TpCTrnWB2KHxA1CdOq4",
+      "etag": "ROu2EI8k2hPiz7eaOaD9umyXIDM",
       "id": "tt78JM5uyo0",
       "snippet": {
         "publishedAt": "2026-07-06T02:59:43Z",
@@ -386,6 +484,23 @@
         },
         "defaultAudioLanguage": "en"
       },
+      "contentDetails": {
+        "duration": "PT2H26M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
       "statistics": {
         "viewCount": "4",
         "favoriteCount": "0",
@@ -400,7 +515,7 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "YOoed4AiFSG1sPZrjaqUUyEOH-0",
+      "etag": "txLLc8NQKoIPTyX2ZEThTIwaml4",
       "id": "7Y0CZqZjHbQ",
       "snippet": {
         "publishedAt": "2026-07-23T16:13:15Z",
@@ -447,6 +562,23 @@
         },
         "defaultAudioLanguage": "en"
       },
+      "contentDetails": {
+        "duration": "PT1H35M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
       "statistics": {
         "viewCount": "10",
         "favoriteCount": "0",
@@ -459,7 +591,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WBIdpC6xJ5HHf95ukl2JpEAROeo",
+      "etag": "BuRWP6SEzGu84_gpfE05DSrCpyQ",
       "id": "2y-j2KF1610",
       "snippet": {
         "publishedAt": "2026-07-21T03:18:22Z",
@@ -506,6 +638,23 @@
         },
         "defaultAudioLanguage": "en"
       },
+      "contentDetails": {
+        "duration": "PT2H22M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
       "statistics": {
         "viewCount": "5",
         "favoriteCount": "0",
@@ -518,7 +667,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yOq7Yi2sM-2NMFwWgrUC5tnsx8Q",
+      "etag": "h97GiKxAcZ65tkao4GQR3IEfNqA",
       "id": "2PmBSwp98-o",
       "snippet": {
         "publishedAt": "2026-07-20T03:59:20Z",
@@ -565,6 +714,23 @@
         },
         "defaultAudioLanguage": "en"
       },
+      "contentDetails": {
+        "duration": "PT2H18M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
       "statistics": {
         "viewCount": "1",
         "favoriteCount": "0",
@@ -586,6 +752,10 @@
       "publishedAt": "2026-07-23T16:13:15Z",
       "startedAt": "2026-07-23T01:41:58Z",
       "endedAt": "2026-07-23T03:17:38Z",
+      "scheduledAt": null,
+      "duration": "PT1H35M37S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7Y0CZqZjHbQ",
       "views": "10",
@@ -599,6 +769,10 @@
       "publishedAt": "2026-07-21T03:18:22Z",
       "startedAt": "2026-07-21T00:49:50Z",
       "endedAt": "2026-07-21T03:12:18Z",
+      "scheduledAt": null,
+      "duration": "PT2H22M26S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2y-j2KF1610/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2y-j2KF1610",
       "views": "5",
@@ -612,6 +786,10 @@
       "publishedAt": "2026-07-20T03:59:20Z",
       "startedAt": "2026-07-20T01:33:37Z",
       "endedAt": "2026-07-20T03:52:03Z",
+      "scheduledAt": null,
+      "duration": "PT2H18M21S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2PmBSwp98-o/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2PmBSwp98-o",
       "views": "1",
@@ -625,6 +803,10 @@
       "publishedAt": "2026-07-09T19:33:21Z",
       "startedAt": "2026-07-09T06:29:49Z",
       "endedAt": "2026-07-09T07:21:54Z",
+      "scheduledAt": null,
+      "duration": "PT52M4S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/XPFmANSosOg/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=XPFmANSosOg",
       "views": "6",
@@ -638,6 +820,10 @@
       "publishedAt": "2026-07-07T15:08:29Z",
       "startedAt": "2026-07-07T00:57:36Z",
       "endedAt": "2026-07-07T02:49:06Z",
+      "scheduledAt": null,
+      "duration": "PT1H51M28S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/dEpNsOiBrvI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=dEpNsOiBrvI",
       "views": "4",
@@ -651,6 +837,10 @@
       "publishedAt": "2026-07-06T02:59:43Z",
       "startedAt": "2026-07-06T00:27:19Z",
       "endedAt": "2026-07-06T02:53:20Z",
+      "scheduledAt": null,
+      "duration": "PT2H26M8S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/tt78JM5uyo0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tt78JM5uyo0",
       "views": "4",
@@ -666,6 +856,10 @@
       "publishedAt": "2026-07-23T16:13:15Z",
       "startedAt": "2026-07-23T01:41:58Z",
       "endedAt": "2026-07-23T03:17:38Z",
+      "scheduledAt": null,
+      "duration": "PT1H35M37S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7Y0CZqZjHbQ",
       "views": "10",
@@ -679,6 +873,10 @@
       "publishedAt": "2026-07-21T03:18:22Z",
       "startedAt": "2026-07-21T00:49:50Z",
       "endedAt": "2026-07-21T03:12:18Z",
+      "scheduledAt": null,
+      "duration": "PT2H22M26S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2y-j2KF1610/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2y-j2KF1610",
       "views": "5",
@@ -692,6 +890,10 @@
       "publishedAt": "2026-07-20T03:59:20Z",
       "startedAt": "2026-07-20T01:33:37Z",
       "endedAt": "2026-07-20T03:52:03Z",
+      "scheduledAt": null,
+      "duration": "PT2H18M21S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2PmBSwp98-o/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2PmBSwp98-o",
       "views": "1",
@@ -707,6 +909,10 @@
       "publishedAt": "2026-07-23T16:13:15Z",
       "startedAt": "2026-07-23T01:41:58Z",
       "endedAt": "2026-07-23T03:17:38Z",
+      "scheduledAt": null,
+      "duration": "PT1H35M37S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7Y0CZqZjHbQ",
       "views": "10",
@@ -720,6 +926,10 @@
       "publishedAt": "2026-07-21T03:18:22Z",
       "startedAt": "2026-07-21T00:49:50Z",
       "endedAt": "2026-07-21T03:12:18Z",
+      "scheduledAt": null,
+      "duration": "PT2H22M26S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2y-j2KF1610/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2y-j2KF1610",
       "views": "5",
@@ -733,6 +943,10 @@
       "publishedAt": "2026-07-20T03:59:20Z",
       "startedAt": "2026-07-20T01:33:37Z",
       "endedAt": "2026-07-20T03:52:03Z",
+      "scheduledAt": null,
+      "duration": "PT2H18M21S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2PmBSwp98-o/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2PmBSwp98-o",
       "views": "1",
@@ -743,9 +957,10 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-15T14:19:34.379Z",
+    "checkedAt": "2026-11-15T19:57:45.644Z",
+    "expiresAt": "2026-11-15T20:42:45.644Z",
     "method": "recent_uploads",
-    "note": "Not detected in recent uploads. This does not prove the creator is offline."
+    "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
   "collabs": [
     {
@@ -755,6 +970,10 @@
       "publishedAt": "2026-10-31T04:42:46Z",
       "startedAt": "2026-10-31T01:00:19Z",
       "endedAt": "2026-10-31T04:19:21Z",
+      "scheduledAt": "2026-10-31T01:00:00Z",
+      "duration": "PT3H14M27S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/M7-bJdEWJfM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=M7-bJdEWJfM",
       "views": "327",
@@ -769,6 +988,10 @@
       "publishedAt": "2026-10-31T05:06:47Z",
       "startedAt": "2026-10-31T01:00:17Z",
       "endedAt": "2026-10-31T04:19:23Z",
+      "scheduledAt": "2026-10-31T00:59:50Z",
+      "duration": "PT3H19M10S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/xz-754QxOC4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xz-754QxOC4",
       "views": "57",
@@ -783,6 +1006,10 @@
       "publishedAt": "2026-10-21T05:33:10Z",
       "startedAt": "2026-10-21T00:17:51Z",
       "endedAt": "2026-10-21T04:23:31Z",
+      "scheduledAt": "2026-10-21T00:17:35Z",
+      "duration": "PT3H46M26S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/VuZMQhzXWRU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VuZMQhzXWRU",
       "views": "122",
@@ -797,6 +1024,10 @@
       "publishedAt": "2026-10-21T04:54:32Z",
       "startedAt": "2026-10-21T00:17:49Z",
       "endedAt": "2026-10-21T04:23:30Z",
+      "scheduledAt": "2026-10-21T00:17:25Z",
+      "duration": "PT3H46M24S",
+      "embeddable": true,
+      "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/cDYHtk5OzKU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=cDYHtk5OzKU",
       "views": "155",
@@ -807,5 +1038,4745 @@
   ],
   "collabIssues": [],
   "scannedUploadCount": 48,
-  "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed."
+  "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed.",
+  "catalog": [
+    {
+      "kind": "youtube#video",
+      "etag": "txLLc8NQKoIPTyX2ZEThTIwaml4",
+      "id": "7Y0CZqZjHbQ",
+      "snippet": {
+        "publishedAt": "2026-07-23T16:13:15Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Hoofing it in HORSEY GAME pt. 2",
+        "description": "nonce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Y0CZqZjHbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hoofing it in HORSEY GAME pt. 2",
+          "description": "nonce"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H35M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-23T01:41:58Z",
+        "actualEndTime": "2026-07-23T03:17:38Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BuRWP6SEzGu84_gpfE05DSrCpyQ",
+      "id": "2y-j2KF1610",
+      "snippet": {
+        "publishedAt": "2026-07-21T03:18:22Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Hoofing it in HORSEY GAME",
+        "description": "nonce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2y-j2KF1610/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hoofing it in HORSEY GAME",
+          "description": "nonce"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H22M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-21T00:49:50Z",
+        "actualEndTime": "2026-07-21T03:12:18Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "h97GiKxAcZ65tkao4GQR3IEfNqA",
+      "id": "2PmBSwp98-o",
+      "snippet": {
+        "publishedAt": "2026-07-20T03:59:20Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 12",
+        "description": "Late night gamin'",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2PmBSwp98-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 12",
+          "description": "Late night gamin'"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H18M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-20T01:33:37Z",
+        "actualEndTime": "2026-07-20T03:52:03Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CKRGlrFZ6nNqWmyrCZ3WFA6AN3E",
+      "id": "XPFmANSosOg",
+      "snippet": {
+        "publishedAt": "2026-07-09T19:33:21Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "First time playing.. Dishonored pt.3",
+        "description": "Late night gamin'",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XPFmANSosOg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "First time playing.. Dishonored pt.3",
+          "description": "Late night gamin'"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT52M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-09T06:29:49Z",
+        "actualEndTime": "2026-07-09T07:21:54Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4aPAM2x712Wb7s-E1Ud6-qaOstU",
+      "id": "dEpNsOiBrvI",
+      "snippet": {
+        "publishedAt": "2026-07-07T15:08:29Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "First time playing.. Dishonored pt.2",
+        "description": "post 4th of july",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dEpNsOiBrvI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "First time playing.. Dishonored pt.2",
+          "description": "post 4th of july"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H51M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-07T00:57:36Z",
+        "actualEndTime": "2026-07-07T02:49:06Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ROu2EI8k2hPiz7eaOaD9umyXIDM",
+      "id": "tt78JM5uyo0",
+      "snippet": {
+        "publishedAt": "2026-07-06T02:59:43Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "First time playing.. Dishonored",
+        "description": "post 4th of july",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tt78JM5uyo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "First time playing.. Dishonored",
+          "description": "post 4th of july"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H26M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-06T00:27:19Z",
+        "actualEndTime": "2026-07-06T02:53:20Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4HCax4GRwP26VGPk6nkf3vaCi08",
+      "id": "SYVMQzf60Pw",
+      "snippet": {
+        "publishedAt": "2026-07-04T10:35:47Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION KAYCEE'S MOD",
+        "description": "ACT ??",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SYVMQzf60Pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SYVMQzf60Pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SYVMQzf60Pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SYVMQzf60Pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SYVMQzf60Pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "INSCRYPTION KAYCEE'S MOD",
+          "description": "ACT ??"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H26M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-03T20:50:00Z",
+        "actualEndTime": "2026-07-03T22:16:37Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DA9wKexoy_lZxv7Hx9icz0MwRiA",
+      "id": "aMCepcXvdI0",
+      "snippet": {
+        "publishedAt": "2026-06-28T12:38:22Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION KAYCEE'S MOD",
+        "description": "ACT ??",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aMCepcXvdI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aMCepcXvdI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aMCepcXvdI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aMCepcXvdI0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aMCepcXvdI0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "INSCRYPTION KAYCEE'S MOD",
+          "description": "ACT ??"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H19M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-27T23:01:51Z",
+        "actualEndTime": "2026-06-28T00:21:30Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4E1UTBkIDcaTg5mozZOgd2jyMb8",
+      "id": "PrJ8K8ilAu4",
+      "snippet": {
+        "publishedAt": "2026-06-26T14:16:59Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION pt. 8",
+        "description": "ACT ??",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PrJ8K8ilAu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PrJ8K8ilAu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PrJ8K8ilAu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PrJ8K8ilAu4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PrJ8K8ilAu4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "id",
+        "localized": {
+          "title": "INSCRYPTION pt. 8",
+          "description": "ACT ??"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H38M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-26T00:25:09Z",
+        "actualEndTime": "2026-06-26T02:03:37Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f4nQNaSv_Sev7ssB7k_j2APbDyA",
+      "id": "8hYw5iFgN5Q",
+      "snippet": {
+        "publishedAt": "2026-06-25T06:31:01Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION pt. 7",
+        "description": "ACT ??",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8hYw5iFgN5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8hYw5iFgN5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8hYw5iFgN5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8hYw5iFgN5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8hYw5iFgN5Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "id",
+        "localized": {
+          "title": "INSCRYPTION pt. 7",
+          "description": "ACT ??"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H21M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-25T04:02:51Z",
+        "actualEndTime": "2026-06-25T06:24:34Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c7P2CFE8Vr8kPdRPsLxqfCosL4s",
+      "id": "wQJSc6_Lb7Y",
+      "snippet": {
+        "publishedAt": "2026-06-24T12:26:54Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 11",
+        "description": "ACT ??",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wQJSc6_Lb7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wQJSc6_Lb7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wQJSc6_Lb7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wQJSc6_Lb7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wQJSc6_Lb7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 11",
+          "description": "ACT ??"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H15M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-23T22:51:41Z",
+        "actualEndTime": "2026-06-24T00:07:24Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qD2PjQNaYXT375RzfdnhZEqAmSM",
+      "id": "wgCHyrRnaKk",
+      "snippet": {
+        "publishedAt": "2026-06-24T00:57:36Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION pt. 4",
+        "description": "ACT 1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wgCHyrRnaKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wgCHyrRnaKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wgCHyrRnaKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wgCHyrRnaKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wgCHyrRnaKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "id",
+        "localized": {
+          "title": "INSCRYPTION pt. 4",
+          "description": "ACT 1"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H40M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "INu0E22uicQfsxYf5y4kCiz64Q8",
+      "id": "GzUh8zJVxK4",
+      "snippet": {
+        "publishedAt": "2026-06-23T16:12:36Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION pt. 6",
+        "description": "ACT ??",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GzUh8zJVxK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GzUh8zJVxK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GzUh8zJVxK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GzUh8zJVxK4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GzUh8zJVxK4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "id",
+        "localized": {
+          "title": "INSCRYPTION pt. 6",
+          "description": "ACT ??"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H53M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-23T02:05:03Z",
+        "actualEndTime": "2026-06-23T03:58:11Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "osxmJOvU6z6DT4sBqzBX4DHpdr0",
+      "id": "4Wj3AVPVrSM",
+      "snippet": {
+        "publishedAt": "2026-06-22T03:55:39Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION pt. 5 ALL OF ACT 2",
+        "description": "ACT 2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Wj3AVPVrSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Wj3AVPVrSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Wj3AVPVrSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Wj3AVPVrSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Wj3AVPVrSM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "mi",
+        "localized": {
+          "title": "INSCRYPTION pt. 5 ALL OF ACT 2",
+          "description": "ACT 2"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3H3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-22T00:44:40Z",
+        "actualEndTime": "2026-06-22T03:47:57Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ahPiSuTqJBxtp-o9uoZ0PHqk_Xg",
+      "id": "oXc7J219RYM",
+      "snippet": {
+        "publishedAt": "2026-06-19T08:36:26Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION pt. 3",
+        "description": "ACT 1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oXc7J219RYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oXc7J219RYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oXc7J219RYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oXc7J219RYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oXc7J219RYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "id",
+        "localized": {
+          "title": "INSCRYPTION pt. 3",
+          "description": "ACT 1"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H18M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-19T06:09:07Z",
+        "actualEndTime": "2026-06-19T08:27:57Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0P3vjd9JvXGr1a5zfH8YCHFI21c",
+      "id": "X4gqN-f5DFM",
+      "snippet": {
+        "publishedAt": "2026-06-18T19:24:14Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 10",
+        "description": "Aki",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X4gqN-f5DFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X4gqN-f5DFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X4gqN-f5DFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X4gqN-f5DFM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X4gqN-f5DFM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 10",
+          "description": "Aki"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H43M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-18T04:54:56Z",
+        "actualEndTime": "2026-06-18T06:38:52Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-FYpOBUnMUCwezhV_031xvuuYLA",
+      "id": "IvAWyzkL9qY",
+      "snippet": {
+        "publishedAt": "2026-06-17T08:34:31Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION pt. 2",
+        "description": "into the woods",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IvAWyzkL9qY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IvAWyzkL9qY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IvAWyzkL9qY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IvAWyzkL9qY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IvAWyzkL9qY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "id",
+        "localized": {
+          "title": "INSCRYPTION pt. 2",
+          "description": "into the woods"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H21M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-16T19:06:00Z",
+        "actualEndTime": "2026-06-16T20:27:13Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sCFL8GC_jVhzS1lQ3D7xS-totzM",
+      "id": "3j8C132q2B8",
+      "snippet": {
+        "publishedAt": "2026-06-16T18:18:14Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 9",
+        "description": "AKI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3j8C132q2B8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3j8C132q2B8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3j8C132q2B8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3j8C132q2B8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3j8C132q2B8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 9",
+          "description": "AKI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H23M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-16T04:18:03Z",
+        "actualEndTime": "2026-06-16T05:41:15Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hMrS2eXGioujeguxBnhB9XjRiik",
+      "id": "OfFVDrBh7WI",
+      "snippet": {
+        "publishedAt": "2026-06-16T07:14:36Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "THEY ADDED GOKU #gatcha #gatchacapsuleshopsimulator",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OfFVDrBh7WI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OfFVDrBh7WI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OfFVDrBh7WI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OfFVDrBh7WI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OfFVDrBh7WI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THEY ADDED GOKU #gatcha #gatchacapsuleshopsimulator",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1398",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lWlxFg8DH_y-zDkCUrP380DLviI",
+      "id": "rgJ_ti9tQOk",
+      "snippet": {
+        "publishedAt": "2026-06-16T00:28:00Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "INSCRYPTION pt. 1",
+        "description": "Into the cabin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rgJ_ti9tQOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rgJ_ti9tQOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rgJ_ti9tQOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rgJ_ti9tQOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rgJ_ti9tQOk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "INSCRYPTION pt. 1",
+          "description": "Into the cabin"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H3M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-15T22:17:34Z",
+        "actualEndTime": "2026-06-16T00:21:20Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Jc1FjpEgAC_xZz2QC4GIv3SSX_w",
+      "id": "6otlgE0aJmg",
+      "snippet": {
+        "publishedAt": "2026-06-15T04:20:33Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 8",
+        "description": "AKIHABARA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6otlgE0aJmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6otlgE0aJmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6otlgE0aJmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6otlgE0aJmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6otlgE0aJmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 8",
+          "description": "AKIHABARA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H43M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-15T01:28:00Z",
+        "actualEndTime": "2026-06-15T04:12:15Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yPc41yifF6jtEr4z9f7Ktwn-6jg",
+      "id": "t3W-TwvURqE",
+      "snippet": {
+        "publishedAt": "2026-06-14T14:38:22Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 7",
+        "description": "AKIHABARA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t3W-TwvURqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t3W-TwvURqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t3W-TwvURqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t3W-TwvURqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t3W-TwvURqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 7",
+          "description": "AKIHABARA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H36M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-14T00:42:08Z",
+        "actualEndTime": "2026-06-14T02:18:38Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OQKPJjBN8g3mz92gjABgUSja6EQ",
+      "id": "Kj2LoyTArUw",
+      "snippet": {
+        "publishedAt": "2026-06-13T18:31:45Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 6",
+        "description": "AKIHABARA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kj2LoyTArUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kj2LoyTArUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kj2LoyTArUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kj2LoyTArUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kj2LoyTArUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 6",
+          "description": "AKIHABARA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H11M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-13T05:06:46Z",
+        "actualEndTime": "2026-06-13T06:17:58Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vYUqwuG9hADZmxC_w_G0PS8q2Ww",
+      "id": "hOWhjRggX5Y",
+      "snippet": {
+        "publishedAt": "2026-06-12T20:01:48Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 5",
+        "description": "AKIHABARA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hOWhjRggX5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hOWhjRggX5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hOWhjRggX5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hOWhjRggX5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hOWhjRggX5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 5",
+          "description": "AKIHABARA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT45M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-12T07:08:09Z",
+        "actualEndTime": "2026-06-12T07:53:26Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OwQY79SfiYPB1iqO50V2JE0Hl_E",
+      "id": "8IeusRUMwqY",
+      "snippet": {
+        "publishedAt": "2026-06-10T23:15:14Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 4",
+        "description": "AKIHABARA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8IeusRUMwqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8IeusRUMwqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8IeusRUMwqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8IeusRUMwqY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8IeusRUMwqY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 4",
+          "description": "AKIHABARA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H24M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-10T20:41:29Z",
+        "actualEndTime": "2026-06-10T23:06:19Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kRhuhEc0_ULCVlD3QGYDuA1MVTk",
+      "id": "-9qzpMQHZZM",
+      "snippet": {
+        "publishedAt": "2026-06-10T18:58:36Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 3",
+        "description": "AKIHABARA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-9qzpMQHZZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-9qzpMQHZZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-9qzpMQHZZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-9qzpMQHZZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-9qzpMQHZZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 3",
+          "description": "AKIHABARA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H14M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-10T05:37:59Z",
+        "actualEndTime": "2026-06-10T06:53:01Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "q-0D9Gw_O7P7STxOhIN9P7GKCf0",
+      "id": "BcfEs7S2iS8",
+      "snippet": {
+        "publishedAt": "2026-06-10T01:10:31Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 2",
+        "description": "AKIHABARA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BcfEs7S2iS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BcfEs7S2iS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BcfEs7S2iS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BcfEs7S2iS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BcfEs7S2iS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR pt 2",
+          "description": "AKIHABARA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H28M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-09T22:34:09Z",
+        "actualEndTime": "2026-06-10T01:02:32Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_1SMmbicd6h4p1dpAnr2RBdu5BY",
+      "id": "gu-eLXbZVrI",
+      "snippet": {
+        "publishedAt": "2026-06-09T19:43:38Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR",
+        "description": "AKIHABARA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gu-eLXbZVrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gu-eLXbZVrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gu-eLXbZVrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gu-eLXbZVrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gu-eLXbZVrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GACHA MY CAPSULE TILL MY SHOP SIMULATOR",
+          "description": "AKIHABARA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H33M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-09T05:24:57Z",
+        "actualEndTime": "2026-06-09T06:58:41Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hGOeTSFVF3wwliX1kYykaz4Ig3s",
+      "id": "-DG5pHb5vHs",
+      "snippet": {
+        "publishedAt": "2026-06-04T18:44:16Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Steins Gate Elite and chill Ch.3!",
+        "description": "Relaxed late night stream",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-DG5pHb5vHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-DG5pHb5vHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-DG5pHb5vHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-DG5pHb5vHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-DG5pHb5vHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Steins Gate Elite and chill Ch.3!",
+          "description": "Relaxed late night stream"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT48M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-04T05:49:44Z",
+        "actualEndTime": "2026-06-04T06:37:55Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4xZHk_CllZek-Oj4yAEctr0NH6U",
+      "id": "ttXKi6q3i5k",
+      "snippet": {
+        "publishedAt": "2026-06-03T19:35:24Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Steins Gate Elite and chill Ch.2!",
+        "description": "Relaxed late night stream",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ttXKi6q3i5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ttXKi6q3i5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ttXKi6q3i5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ttXKi6q3i5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ttXKi6q3i5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Steins Gate Elite and chill Ch.2!",
+          "description": "Relaxed late night stream"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT51M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-03T05:58:58Z",
+        "actualEndTime": "2026-06-03T06:50:17Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VnbC_VGKXi6fnIszaXynpYd-6EA",
+      "id": "wTqtEsiDrlc",
+      "snippet": {
+        "publishedAt": "2026-05-10T15:38:20Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Raccoin Coin Pusher! Almost at 100%",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wTqtEsiDrlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wTqtEsiDrlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wTqtEsiDrlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wTqtEsiDrlc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wTqtEsiDrlc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Raccoin Coin Pusher! Almost at 100%",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT50M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-05-10T02:18:51Z",
+        "actualEndTime": "2026-05-10T03:09:02Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6zHv2TTCFA_koQc31Tzkj_OenPI",
+      "id": "FLVoHnAQPu0",
+      "snippet": {
+        "publishedAt": "2026-04-21T06:16:16Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem Pt. 11 Finale",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FLVoHnAQPu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FLVoHnAQPu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FLVoHnAQPu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FLVoHnAQPu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "it",
+        "localized": {
+          "title": "Resident Evil : Requiem Pt. 11 Finale",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3H9M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-21T02:59:43Z",
+        "actualEndTime": "2026-04-21T06:08:43Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SLwg7rLJPfOGqzVL839f010MHwY",
+      "id": "j1nsMQ7nXR4",
+      "snippet": {
+        "publishedAt": "2026-04-16T18:24:36Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "LATE NIGHT Resident Evil : Requiem Pt. 10",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j1nsMQ7nXR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j1nsMQ7nXR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j1nsMQ7nXR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j1nsMQ7nXR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "LATE NIGHT Resident Evil : Requiem Pt. 10",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT52M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-16T05:24:51Z",
+        "actualEndTime": "2026-04-16T06:17:16Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ThnpgyOVoLKLH64SXTqYdB-h7MM",
+      "id": "w512M4RJ2Iw",
+      "snippet": {
+        "publishedAt": "2026-04-14T09:39:58Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "RACCOIN : Collecting Tickets",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w512M4RJ2Iw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w512M4RJ2Iw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w512M4RJ2Iw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "RACCOIN : Collecting Tickets",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT42M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-13T20:54:17Z",
+        "actualEndTime": "2026-04-13T21:36:27Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uBDNXJUhvmy-cSW8QjZV7SgJdTA",
+      "id": "tNmhvg0WuJM",
+      "snippet": {
+        "publishedAt": "2026-04-08T13:19:23Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "NEW ROGUELIKE : RACCOIN",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tNmhvg0WuJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tNmhvg0WuJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tNmhvg0WuJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tNmhvg0WuJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "NEW ROGUELIKE : RACCOIN",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H44M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-07T23:12:11Z",
+        "actualEndTime": "2026-04-08T00:56:53Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5qezd-3sYduFXmiaulUL2EXbH1A",
+      "id": "F5d1tso1LFQ",
+      "snippet": {
+        "publishedAt": "2026-04-05T14:39:04Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem Pt. 9",
+        "description": "In the big city",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F5d1tso1LFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F5d1tso1LFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F5d1tso1LFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F5d1tso1LFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Resident Evil : Requiem Pt. 9",
+          "description": "In the big city"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT35M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-05T01:47:09Z",
+        "actualEndTime": "2026-04-05T02:22:59Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "M6TMOu9ASkeP2cVjUW1rPEM6BiE",
+      "id": "rQLd-MonfQw",
+      "snippet": {
+        "publishedAt": "2026-03-29T13:42:36Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem Pt. 8",
+        "description": "In the big city",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rQLd-MonfQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rQLd-MonfQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rQLd-MonfQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rQLd-MonfQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Resident Evil : Requiem Pt. 8",
+          "description": "In the big city"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT47M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-29T00:48:15Z",
+        "actualEndTime": "2026-03-29T01:35:18Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6rnlqXGEPdMNTRktAfqVbEvB81k",
+      "id": "gxoARkk6VZg",
+      "snippet": {
+        "publishedAt": "2026-03-26T13:47:24Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "MEGABONK ┃ Challenges",
+        "description": "Challenge Hunting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gxoARkk6VZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gxoARkk6VZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gxoARkk6VZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gxoARkk6VZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gxoARkk6VZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "MEGABONK ┃ Challenges",
+          "description": "Challenge Hunting"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H25M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-26T00:10:41Z",
+        "actualEndTime": "2026-03-26T01:35:47Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0gjVE_dDDjFnvNEsrKWcXoGhU7E",
+      "id": "8LhHYTabYMI",
+      "snippet": {
+        "publishedAt": "2026-03-22T12:41:41Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem Pt 7",
+        "description": "No jumpscare no jumpscare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8LhHYTabYMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8LhHYTabYMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8LhHYTabYMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8LhHYTabYMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Resident Evil : Requiem Pt 7",
+          "description": "No jumpscare no jumpscare"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H4M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-21T23:29:50Z",
+        "actualEndTime": "2026-03-22T00:34:50Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tvFYWffLCAOHM3wtnyyalOAiDcY",
+      "id": "NaBxubc1y3o",
+      "snippet": {
+        "publishedAt": "2026-03-20T16:08:21Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem Pt 6",
+        "description": "No jumpscare no jumpscare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NaBxubc1y3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NaBxubc1y3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NaBxubc1y3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NaBxubc1y3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Resident Evil : Requiem Pt 6",
+          "description": "No jumpscare no jumpscare"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H9M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-20T02:40:14Z",
+        "actualEndTime": "2026-03-20T03:50:08Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rzIc-A9u_yMA1cE8Bfz-2AlK74Y",
+      "id": "qUtPLqIND_U",
+      "snippet": {
+        "publishedAt": "2026-03-15T15:13:54Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem Pt 5",
+        "description": "No jumpscare no jumpscare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qUtPLqIND_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qUtPLqIND_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qUtPLqIND_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qUtPLqIND_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Resident Evil : Requiem Pt 5",
+          "description": "No jumpscare no jumpscare"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT50M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-15T02:05:25Z",
+        "actualEndTime": "2026-03-15T02:56:12Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OBfYGQPpqHdDzzZOpbaz3CwAtMg",
+      "id": "ioOaRBFgQmw",
+      "snippet": {
+        "publishedAt": "2026-03-12T11:31:40Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem Pt 4",
+        "description": "No jumpscare no jumpscare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ioOaRBFgQmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ioOaRBFgQmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ioOaRBFgQmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ioOaRBFgQmw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Resident Evil : Requiem Pt 4",
+          "description": "No jumpscare no jumpscare"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H43M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-11T21:34:23Z",
+        "actualEndTime": "2026-03-11T23:18:06Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "glhQELUrFiqBSmLU8OogmB7XraM",
+      "id": "myl93vEM9h0",
+      "snippet": {
+        "publishedAt": "2026-03-10T22:45:13Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem Pt 3",
+        "description": "No jumpscare no jumpscare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/myl93vEM9h0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/myl93vEM9h0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/myl93vEM9h0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/myl93vEM9h0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Resident Evil : Requiem Pt 3",
+          "description": "No jumpscare no jumpscare"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H40M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-10T19:52:36Z",
+        "actualEndTime": "2026-03-10T22:33:31Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fFtlqARBChRv_pkO2VK1EyEAU3g",
+      "id": "myWo__fVzjA",
+      "snippet": {
+        "publishedAt": "2026-03-08T15:49:55Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem Pt 2",
+        "description": "No jumpscare no jumpscare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/myWo__fVzjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/myWo__fVzjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/myWo__fVzjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/myWo__fVzjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Resident Evil : Requiem Pt 2",
+          "description": "No jumpscare no jumpscare"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT24M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-08T03:21:03Z",
+        "actualEndTime": "2026-03-08T03:45:16Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SMomq9tkJXTCmyUH8bUPY_VTL8A",
+      "id": "gli8-NFoU6w",
+      "snippet": {
+        "publishedAt": "2026-03-06T11:41:51Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "Resident Evil : Requiem",
+        "description": "No jumpscare no jumpscare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gli8-NFoU6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gli8-NFoU6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gli8-NFoU6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gli8-NFoU6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Resident Evil : Requiem",
+          "description": "No jumpscare no jumpscare"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT46M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-05T22:46:53Z",
+        "actualEndTime": "2026-03-05T23:33:35Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "51kph81TT5apH-PcN3rXaco0CoU",
+      "id": "oiysq9MpGTw",
+      "snippet": {
+        "publishedAt": "2026-02-27T13:10:54Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "CK3 - Immortal Knight",
+        "description": "Just messing around making a knight with the immortal perk in CK3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oiysq9MpGTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oiysq9MpGTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oiysq9MpGTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "fallout",
+          "gaming",
+          "fallout3"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "CK3 - Immortal Knight",
+          "description": "Just messing around making a knight with the immortal perk in CK3"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H16M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-26T23:39:42Z",
+        "actualEndTime": "2026-02-27T00:56:40Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mINoLzIQAJuIaP46CPVetQ7PMUI",
+      "id": "XVLTcHC90h0",
+      "snippet": {
+        "publishedAt": "2026-02-17T09:57:20Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "New Vegas - MELEE ONLY",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XVLTcHC90h0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XVLTcHC90h0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XVLTcHC90h0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "fallout",
+          "gaming",
+          "fallout3"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "New Vegas - MELEE ONLY",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-16T21:32:31Z",
+        "actualEndTime": "2026-02-16T21:54:31Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rhxNz_Ntqx6DmR7OsG5mry4vVfw",
+      "id": "Z0ue4Nl3O9A",
+      "snippet": {
+        "publishedAt": "2026-02-13T19:09:36Z",
+        "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ",
+        "title": "New Vegas - MELEE ONLY",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z0ue4Nl3O9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z0ue4Nl3O9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z0ue4Nl3O9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DaddyDepresso",
+        "tags": [
+          "fallout",
+          "gaming",
+          "fallout3"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "New Vegas - MELEE ONLY",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT45M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-13T06:21:23Z",
+        "actualEndTime": "2026-02-13T07:06:31Z"
+      }
+    }
+  ],
+  "playlists": [],
+  "collabSources": {
+    "PLdqlxY9kSpe0": {
+      "status": "fresh",
+      "updatedAt": "2026-11-15T19:57:45.644Z",
+      "items": [
+        {
+          "id": "FRVmoksciRg",
+          "title": "D&D oneshot, Stories of Sarrash: The Mystery under the sand",
+          "label": "Player adventures I",
+          "publishedAt": "2026-07-11T05:12:50Z",
+          "startedAt": "2026-07-11T01:38:52Z",
+          "endedAt": "2026-07-11T05:01:40Z",
+          "scheduledAt": null,
+          "duration": "PT3H22M57S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/FRVmoksciRg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FRVmoksciRg",
+          "views": "60",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        }
+      ]
+    },
+    "PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
+      "status": "fresh",
+      "updatedAt": "2026-11-15T19:57:45.644Z",
+      "items": [
+        {
+          "id": "Q7gZ-ubMTSA",
+          "title": "Welcome to The Storm over Thet-Annath",
+          "label": "Player adventures II",
+          "publishedAt": "2025-10-12T04:17:20Z",
+          "startedAt": "2025-10-12T00:54:24Z",
+          "endedAt": "2025-10-12T04:08:52Z",
+          "scheduledAt": null,
+          "duration": "PT3H10M1S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/Q7gZ-ubMTSA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Q7gZ-ubMTSA",
+          "views": "137",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "zGklx6Gatqc",
+          "title": "The devil that you know / The Storm over Thet-Annath ep 2",
+          "label": "Player adventures II",
+          "publishedAt": "2025-10-19T04:05:56Z",
+          "startedAt": "2025-10-19T00:58:13Z",
+          "endedAt": "2025-10-19T03:58:28Z",
+          "scheduledAt": null,
+          "duration": "PT2H58M15S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/zGklx6Gatqc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=zGklx6Gatqc",
+          "views": "80",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "bLMIwWx6ZEg",
+          "title": "Smuggling Charade - The Storm over Thet-Annath ep 3",
+          "label": "Player adventures II",
+          "publishedAt": "2025-10-26T04:17:47Z",
+          "startedAt": "2025-10-26T00:59:22Z",
+          "endedAt": "2025-10-26T04:07:49Z",
+          "scheduledAt": null,
+          "duration": "PT3H3M30S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/bLMIwWx6ZEg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=bLMIwWx6ZEg",
+          "views": "40",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "kGU0dva-fII",
+          "title": "Crawling like bugs: The Storm over Thet-Annath ep 4",
+          "label": "Player adventures II",
+          "publishedAt": "2025-11-02T04:52:15Z",
+          "startedAt": "2025-11-02T01:30:24Z",
+          "endedAt": "2025-11-02T04:43:06Z",
+          "scheduledAt": null,
+          "duration": "PT3H8M35S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/kGU0dva-fII/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kGU0dva-fII",
+          "views": "58",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "fdh29fGdt7Y",
+          "title": "Slimy business, The Storm over Thet-Annath, DnD",
+          "label": "Player adventures II",
+          "publishedAt": "2025-11-09T05:43:44Z",
+          "startedAt": "2025-11-09T01:59:37Z",
+          "endedAt": "2025-11-09T05:34:37Z",
+          "scheduledAt": null,
+          "duration": "PT3H27M16S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/fdh29fGdt7Y/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fdh29fGdt7Y",
+          "views": "59",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "xuRXrWn-YqE",
+          "title": "Cashing in the Consequences: The Storm over Thet-Annath EP 6",
+          "label": "Player adventures II",
+          "publishedAt": "2025-11-16T05:31:48Z",
+          "startedAt": "2025-11-16T02:02:08Z",
+          "endedAt": "2025-11-16T05:22:28Z",
+          "scheduledAt": null,
+          "duration": "PT3H16M23S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/xuRXrWn-YqE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xuRXrWn-YqE",
+          "views": "37",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "HcCixSxSsYs",
+          "title": "Leaving Gratko , Storm over Thet-Annath Ep 7",
+          "label": "Player adventures II",
+          "publishedAt": "2025-11-23T05:42:34Z",
+          "startedAt": "2025-11-23T01:59:15Z",
+          "endedAt": "2025-11-23T05:30:50Z",
+          "scheduledAt": null,
+          "duration": "PT3H30M3S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/HcCixSxSsYs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HcCixSxSsYs",
+          "views": "50",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "Xij-wCTPSoI",
+          "title": "Unleash , The Storm over Thet-Annath Ep 8",
+          "label": "Player adventures II",
+          "publishedAt": "2025-11-30T05:39:45Z",
+          "startedAt": "2025-11-30T01:55:59Z",
+          "endedAt": "2025-11-30T05:32:06Z",
+          "scheduledAt": null,
+          "duration": "PT3H31M7S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/Xij-wCTPSoI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Xij-wCTPSoI",
+          "views": "28",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "U2yFnCp3piM",
+          "title": "The cold reality - The Storm over Thet-Annath ep 9",
+          "label": "Player adventures II",
+          "publishedAt": "2025-12-07T05:34:15Z",
+          "startedAt": "2025-12-07T02:05:10Z",
+          "endedAt": "2025-12-07T05:25:38Z",
+          "scheduledAt": null,
+          "duration": "PT3H13M50S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/U2yFnCp3piM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=U2yFnCp3piM",
+          "views": "27",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "kV6HczZ2Uf4",
+          "title": "Secret Affairs - The Storm over Thet-Annath ep 10",
+          "label": "Player adventures II",
+          "publishedAt": "2025-12-14T05:25:17Z",
+          "startedAt": "2025-12-14T02:03:02Z",
+          "endedAt": "2025-12-14T05:17:33Z",
+          "scheduledAt": null,
+          "duration": "PT3H14M37S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/kV6HczZ2Uf4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kV6HczZ2Uf4",
+          "views": "35",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "w-lMJu-cv14",
+          "title": "Demon eye sight: The Storm over Thet-Annath Ep 11",
+          "label": "Player adventures II",
+          "publishedAt": "2025-12-21T05:22:57Z",
+          "startedAt": "2025-12-21T01:58:44Z",
+          "endedAt": "2025-12-21T05:14:58Z",
+          "scheduledAt": null,
+          "duration": "PT3H16M19S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/w-lMJu-cv14/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=w-lMJu-cv14",
+          "views": "23",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "ZclXlE1nShs",
+          "title": "Sneaking Around: The Storm over Thet Annath Ep 12",
+          "label": "Player adventures II",
+          "publishedAt": "2026-01-04T05:36:04Z",
+          "startedAt": "2026-01-04T02:12:00Z",
+          "endedAt": "2026-01-04T05:26:37Z",
+          "scheduledAt": null,
+          "duration": "PT3H11M3S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/ZclXlE1nShs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZclXlE1nShs",
+          "views": "67",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "0cKPGhP_WZU",
+          "title": "Blondie's Ballad: The Storm over Thet Annath - Ep 13",
+          "label": "Player adventures II",
+          "publishedAt": "2026-01-11T05:17:02Z",
+          "startedAt": "2026-01-11T02:04:31Z",
+          "endedAt": "2026-01-11T05:08:14Z",
+          "scheduledAt": null,
+          "duration": "PT3H34S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/0cKPGhP_WZU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0cKPGhP_WZU",
+          "views": "49",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "310YfpfJsbM",
+          "title": "The Snake returns: The Storm over Thet-Annath, Ep 14",
+          "label": "Player adventures II",
+          "publishedAt": "2026-01-18T05:36:12Z",
+          "startedAt": "2026-01-18T02:02:00Z",
+          "endedAt": "2026-01-18T05:27:19Z",
+          "scheduledAt": null,
+          "duration": "PT3H25M28S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/310YfpfJsbM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=310YfpfJsbM",
+          "views": "42",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "Bp42WVygUQ4",
+          "title": "The Pitt, Storm over Thet-Annath, Ep 15",
+          "label": "Player adventures II",
+          "publishedAt": "2026-01-25T05:31:35Z",
+          "startedAt": "2026-01-25T01:58:28Z",
+          "endedAt": "2026-01-25T05:23:32Z",
+          "scheduledAt": null,
+          "duration": "PT3H25M14S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/Bp42WVygUQ4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Bp42WVygUQ4",
+          "views": "49",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "C4cG0cUYtsA",
+          "title": "The big escape; The Storm over Thet-Annath Ep16 (DnD)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-02-08T05:29:20Z",
+          "startedAt": "2026-02-08T02:01:09Z",
+          "endedAt": "2026-02-08T05:18:05Z",
+          "scheduledAt": null,
+          "duration": "PT3H17M2S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/C4cG0cUYtsA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=C4cG0cUYtsA",
+          "views": "55",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "sBR_0rthVZY",
+          "title": "The Road Trip : The Storm over Thet-Annath Ep 17 (Dnd)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-02-15T05:27:57Z",
+          "startedAt": "2026-02-15T02:03:04Z",
+          "endedAt": "2026-02-15T05:19:47Z",
+          "scheduledAt": null,
+          "duration": "PT3H10M1S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/sBR_0rthVZY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sBR_0rthVZY",
+          "views": "26",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "qLv-gxXv2Ns",
+          "title": "A shadow amongst flames: The Storm over Thet-Annath 18 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-02-28T05:42:59Z",
+          "startedAt": "2026-02-28T01:56:57Z",
+          "endedAt": "2026-02-28T05:34:44Z",
+          "scheduledAt": null,
+          "duration": "PT3H37M53S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/qLv-gxXv2Ns/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=qLv-gxXv2Ns",
+          "views": "52",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "wKW-HlyTatA",
+          "title": "A game of shadows :The Storm over Thet-Annath ep 19 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-03-07T05:49:52Z",
+          "startedAt": "2026-03-07T02:17:40Z",
+          "endedAt": "2026-03-07T05:41:56Z",
+          "scheduledAt": null,
+          "duration": "PT3H24M25S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/wKW-HlyTatA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wKW-HlyTatA",
+          "views": "26",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "uIHaP14yrxc",
+          "title": "A contact with Baba :The Storm over Thet-Annath Ep 20 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-03-14T04:59:52Z",
+          "startedAt": "2026-03-14T01:28:40Z",
+          "endedAt": "2026-03-14T04:52:24Z",
+          "scheduledAt": null,
+          "duration": "PT3H23M29S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/uIHaP14yrxc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=uIHaP14yrxc",
+          "views": "32",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "Oc-MgmE0_CQ",
+          "title": "The Cloak of Shadow: The storm over Thet-Annath Ep21 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-03-21T04:45:18Z",
+          "startedAt": "2026-03-21T01:08:20Z",
+          "endedAt": "2026-03-21T04:36:23Z",
+          "scheduledAt": null,
+          "duration": "PT3H28M11S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/Oc-MgmE0_CQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Oc-MgmE0_CQ",
+          "views": "47",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "68MOOW5HaqA",
+          "title": "The Crime Life - The Storm over Thet-Annath ep 22 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-04-04T04:42:59Z",
+          "startedAt": "2026-04-04T01:02:16Z",
+          "endedAt": "2026-04-04T04:31:01Z",
+          "scheduledAt": null,
+          "duration": "PT3H24M16S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/68MOOW5HaqA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=68MOOW5HaqA",
+          "views": "38",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "3AOCCYnJoU4",
+          "title": "She who hoards the death :The Storm over Thet-Annath Ep 23",
+          "label": "Player adventures II",
+          "publishedAt": "2026-04-11T04:40:38Z",
+          "startedAt": "2026-04-11T01:07:47Z",
+          "endedAt": "2026-04-11T04:30:24Z",
+          "scheduledAt": null,
+          "duration": "PT3H22M44S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/3AOCCYnJoU4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3AOCCYnJoU4",
+          "views": "43",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "qK3paqcSiNY",
+          "title": "Through tusk and blood :The Storm over Thet-Annath Ep 24",
+          "label": "Player adventures II",
+          "publishedAt": "2026-04-18T04:21:57Z",
+          "startedAt": "2026-04-18T01:00:17Z",
+          "endedAt": "2026-04-18T04:13:26Z",
+          "scheduledAt": null,
+          "duration": "PT3H13M18S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/qK3paqcSiNY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=qK3paqcSiNY",
+          "views": "21",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "5HXt6j_LmYE",
+          "title": "To eat the flesh: The Storm over Thet-Annath",
+          "label": "Player adventures II",
+          "publishedAt": "2026-04-25T04:57:08Z",
+          "startedAt": "2026-04-25T01:36:55Z",
+          "endedAt": "2026-04-25T04:48:25Z",
+          "scheduledAt": null,
+          "duration": "PT3H11M38S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/5HXt6j_LmYE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5HXt6j_LmYE",
+          "views": "46",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "5lTrwOMLMkw",
+          "title": "Wish you were here :The Storm over Thet-Annath ep 26",
+          "label": "Player adventures II",
+          "publishedAt": "2026-05-02T04:40:22Z",
+          "startedAt": "2026-05-02T01:05:31Z",
+          "endedAt": "2026-05-02T04:30:01Z",
+          "scheduledAt": null,
+          "duration": "PT3H24M38S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/5lTrwOMLMkw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5lTrwOMLMkw",
+          "views": "41",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "YxBjJDjN-Co",
+          "title": "Red and Green :The Storm over Thet-annath ep 27",
+          "label": "Player adventures II",
+          "publishedAt": "2026-05-09T04:39:28Z",
+          "startedAt": "2026-05-09T01:02:34Z",
+          "endedAt": "2026-05-09T04:30:19Z",
+          "scheduledAt": null,
+          "duration": "PT3H23M10S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/YxBjJDjN-Co/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YxBjJDjN-Co",
+          "views": "45",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "YSTYdiq3d3U",
+          "title": "One ride carnival: The Storm over Thet-annath Ep 28",
+          "label": "Player adventures II",
+          "publishedAt": "2026-06-20T04:33:45Z",
+          "startedAt": "2026-06-20T01:04:08Z",
+          "endedAt": "2026-06-20T04:25:22Z",
+          "scheduledAt": null,
+          "duration": "PT3H21M20S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/YSTYdiq3d3U/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YSTYdiq3d3U",
+          "views": "26",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "pUG2KIS8VbU",
+          "title": "The Voice of outer realms: The Storm over Thet-Annath ep. 29 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-06-27T04:39:58Z",
+          "startedAt": "2026-06-27T01:04:19Z",
+          "endedAt": "2026-06-27T04:23:11Z",
+          "scheduledAt": null,
+          "duration": "PT3H18M56S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/pUG2KIS8VbU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pUG2KIS8VbU",
+          "views": "44",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "oQQiW4yYbWQ",
+          "title": "There's always a darker shadow: The Storm over Thet-Annath ep 30",
+          "label": "Player adventures II",
+          "publishedAt": "2026-07-25T04:39:06Z",
+          "startedAt": "2026-07-25T01:05:49Z",
+          "endedAt": "2026-07-25T04:31:44Z",
+          "scheduledAt": null,
+          "duration": "PT3H26M1S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/oQQiW4yYbWQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oQQiW4yYbWQ",
+          "views": "40",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "35_YZAGZv7s",
+          "title": "In the army of shadows: The Storm over Thet-Annath ep 31 (DnD)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-08-01T04:36:26Z",
+          "startedAt": "2026-08-01T01:10:00Z",
+          "endedAt": "2026-08-01T04:28:15Z",
+          "scheduledAt": null,
+          "duration": "PT3H18M22S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/35_YZAGZv7s/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=35_YZAGZv7s",
+          "views": "36",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "3FvNcD31Nyg",
+          "title": "Cold Brew: The Storm over Thet-Annath Ep 32 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-08-15T04:42:37Z",
+          "startedAt": "2026-08-15T01:10:48Z",
+          "endedAt": "2026-08-15T04:31:49Z",
+          "scheduledAt": null,
+          "duration": "PT3H21M8S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/3FvNcD31Nyg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3FvNcD31Nyg",
+          "views": "23",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "S1FWE_cpXb8",
+          "title": "Yesterday's Cold Breeze - The Storm over Thet-Annath (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-08-22T04:17:08Z",
+          "startedAt": "2026-08-22T01:07:09Z",
+          "endedAt": "2026-08-22T04:10:07Z",
+          "scheduledAt": null,
+          "duration": "PT3H2M44S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/S1FWE_cpXb8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=S1FWE_cpXb8",
+          "views": "183",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "SKOfsAa4PSo",
+          "title": "Backstabbing is an art: The Storm over Thet-Annath Ep 34 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-09-05T17:06:12Z",
+          "startedAt": "2026-09-05T01:32:52Z",
+          "endedAt": "2026-09-05T04:18:02Z",
+          "scheduledAt": null,
+          "duration": "PT2H45M20S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/SKOfsAa4PSo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=SKOfsAa4PSo",
+          "views": "32",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "8R5yICkMZn4",
+          "title": "One of two paths :The Storm over Thet-Annath Ep 35",
+          "label": "Player adventures II",
+          "publishedAt": "2026-09-12T16:50:18Z",
+          "startedAt": "2026-09-12T01:05:02Z",
+          "endedAt": "2026-09-12T04:15:58Z",
+          "scheduledAt": null,
+          "duration": "PT3H10M41S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/8R5yICkMZn4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=8R5yICkMZn4",
+          "views": "90",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "fgYq1XNbRbE",
+          "title": "Frozen inners: The storm over Thet-Annath Ep 36 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-09-19T02:41:44Z",
+          "startedAt": "2026-09-18T23:40:29Z",
+          "endedAt": "2026-09-19T02:35:11Z",
+          "scheduledAt": "2026-09-18T23:40:05Z",
+          "duration": "PT2H54M47S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/fgYq1XNbRbE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fgYq1XNbRbE",
+          "views": "23",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "HQaWFkrC-5E",
+          "title": "Frozen inners: The storm over Thet-Annath Ep 36 (D&D) (Portrait)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-09-19T02:45:40Z",
+          "startedAt": "2026-09-18T23:40:32Z",
+          "endedAt": "2026-09-19T02:35:07Z",
+          "scheduledAt": "2026-09-18T23:40:14Z",
+          "duration": "PT2H48M48S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/HQaWFkrC-5E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HQaWFkrC-5E",
+          "views": "132",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "Kg6QmspK9Ic",
+          "title": "In it's frozen claw: The Storm over Thet-Annth (D&D)  (Portrait)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-09-26T04:52:14Z",
+          "startedAt": "2026-09-26T01:07:04Z",
+          "endedAt": "2026-09-26T04:42:28Z",
+          "scheduledAt": "2026-09-26T01:06:31Z",
+          "duration": "PT3H30M38S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/Kg6QmspK9Ic/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Kg6QmspK9Ic",
+          "views": "847",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "1TqR9d--4NY",
+          "title": "In it's frozen claw: The Storm over Thet-Annth  ep 37 (D&D)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-09-26T05:00:02Z",
+          "startedAt": "2026-09-26T01:07:02Z",
+          "endedAt": "2026-09-26T04:42:29Z",
+          "scheduledAt": "2026-09-26T01:06:23Z",
+          "duration": "PT3H35M34S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/1TqR9d--4NY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1TqR9d--4NY",
+          "views": "116",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "oc9ObBVcTPk",
+          "title": "A lesson in coldness: The Storm over Thet-Annath ep 38",
+          "label": "Player adventures II",
+          "publishedAt": "2026-10-03T04:54:58Z",
+          "startedAt": "2026-10-03T01:48:11Z",
+          "endedAt": "2026-10-03T04:47:06Z",
+          "scheduledAt": "2026-10-03T01:47:44Z",
+          "duration": "PT2H59M3S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/oc9ObBVcTPk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oc9ObBVcTPk",
+          "views": "159",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "sPEnPuvYUTo",
+          "title": "A lesson in coldness: The Storm over Thet-Annath ep 38 (Portrait)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-10-03T04:55:38Z",
+          "startedAt": "2026-10-03T01:48:11Z",
+          "endedAt": "2026-10-03T04:47:03Z",
+          "scheduledAt": "2026-10-03T01:47:55Z",
+          "duration": "PT2H54M36S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/sPEnPuvYUTo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sPEnPuvYUTo",
+          "views": "1042",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "5aqCbrbkCmA",
+          "title": "At last... Lass: : The Storm over Thet-Annth  ep 39",
+          "label": "Player adventures II",
+          "publishedAt": "2026-10-10T04:14:48Z",
+          "startedAt": "2026-10-10T01:02:50Z",
+          "endedAt": "2026-10-10T04:08:11Z",
+          "scheduledAt": "2026-10-10T01:02:23Z",
+          "duration": "PT3H5M28S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/5aqCbrbkCmA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5aqCbrbkCmA",
+          "views": "33",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "FuEGaiamZMw",
+          "title": "At last... Lass: : The Storm over Thet-Annath  ep 39  (Portrait)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-10-10T04:17:26Z",
+          "startedAt": "2026-10-10T01:02:52Z",
+          "endedAt": "2026-10-10T04:08:13Z",
+          "scheduledAt": "2026-10-10T01:02:30Z",
+          "duration": "PT3H13S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/FuEGaiamZMw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FuEGaiamZMw",
+          "views": "661",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "SBzE3J_sTtk",
+          "title": "The city of the silver spire: The Storm over Thet-Annth (Portrait)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-10-17T04:39:06Z",
+          "startedAt": "2026-10-17T01:08:46Z",
+          "endedAt": "2026-10-17T04:28:35Z",
+          "scheduledAt": "2026-10-17T01:08:25Z",
+          "duration": "PT3H15M44S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/SBzE3J_sTtk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=SBzE3J_sTtk",
+          "views": "683",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "3AnW4m-SO84",
+          "title": "The city of the silver spire: The Storm over Thet-Annth, ep 40",
+          "label": "Player adventures II",
+          "publishedAt": "2026-10-17T04:38:18Z",
+          "startedAt": "2026-10-17T01:08:45Z",
+          "endedAt": "2026-10-17T04:28:32Z",
+          "scheduledAt": "2026-10-17T01:08:13Z",
+          "duration": "PT3H19M54S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/3AnW4m-SO84/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3AnW4m-SO84",
+          "views": "136",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "M7-bJdEWJfM",
+          "title": "Incaged Horrors: The storm over Thet-Annath Ep 41 (Portrait)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-10-31T04:42:46Z",
+          "startedAt": "2026-10-31T01:00:19Z",
+          "endedAt": "2026-10-31T04:19:21Z",
+          "scheduledAt": "2026-10-31T01:00:00Z",
+          "duration": "PT3H14M27S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/M7-bJdEWJfM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=M7-bJdEWJfM",
+          "views": "327",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "xz-754QxOC4",
+          "title": "Incaged Horrors: The storm over Thet-Annath Ep 41",
+          "label": "Player adventures II",
+          "publishedAt": "2026-10-31T05:06:47Z",
+          "startedAt": "2026-10-31T01:00:17Z",
+          "endedAt": "2026-10-31T04:19:23Z",
+          "scheduledAt": "2026-10-31T00:59:50Z",
+          "duration": "PT3H19M10S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/xz-754QxOC4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xz-754QxOC4",
+          "views": "57",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        }
+      ]
+    },
+    "PLQOAzzoGRT6s": {
+      "status": "fresh",
+      "updatedAt": "2026-11-15T19:57:45.644Z",
+      "items": [
+        {
+          "id": "TqJk7cQ72e0",
+          "title": "Dhampa: Chapter 0, The beginning (VTM)",
+          "label": "GM adventures",
+          "publishedAt": "2026-08-04T15:25:00Z",
+          "startedAt": null,
+          "endedAt": null,
+          "scheduledAt": null,
+          "duration": "PT40M41S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/TqJk7cQ72e0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=TqJk7cQ72e0",
+          "views": "26",
+          "live": false,
+          "wasLive": false,
+          "featured": false
+        },
+        {
+          "id": "JxFjKJadMtw",
+          "title": "Dhampa  Chapter 1, CHILDER VTM",
+          "label": "GM adventures",
+          "publishedAt": "2026-08-04T21:32:31Z",
+          "startedAt": null,
+          "endedAt": null,
+          "scheduledAt": null,
+          "duration": "PT2H52M10S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/JxFjKJadMtw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=JxFjKJadMtw",
+          "views": "11",
+          "live": false,
+          "wasLive": false,
+          "featured": false
+        },
+        {
+          "id": "CsG_ctpVym0",
+          "title": "Dhampa: Chapter 02, Neonate (VTM)",
+          "label": "GM adventures",
+          "publishedAt": "2026-08-05T04:21:31Z",
+          "startedAt": "2026-08-05T01:02:32Z",
+          "endedAt": "2026-08-05T04:13:53Z",
+          "scheduledAt": null,
+          "duration": "PT3H7M9S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/CsG_ctpVym0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=CsG_ctpVym0",
+          "views": "27",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "HA5siJh9ngA",
+          "title": "Dhampa: Chapter 3 Mage (VTM)",
+          "label": "GM adventures",
+          "publishedAt": "2026-08-12T04:28:11Z",
+          "startedAt": "2026-08-12T01:03:58Z",
+          "endedAt": "2026-08-12T04:19:19Z",
+          "scheduledAt": null,
+          "duration": "PT3H12M45S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/HA5siJh9ngA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HA5siJh9ngA",
+          "views": "28",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "1QUFNEGUP1w",
+          "title": "Dhampa: Chapter 4, Garou (VTM)",
+          "label": "GM adventures",
+          "publishedAt": "2026-08-19T04:31:07Z",
+          "startedAt": "2026-08-19T01:02:56Z",
+          "endedAt": "2026-08-19T04:21:46Z",
+          "scheduledAt": null,
+          "duration": "PT3H13M22S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/1QUFNEGUP1w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1QUFNEGUP1w",
+          "views": "38",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "HRLpD8oE8FI",
+          "title": "Dhampa: Chapter 5 Lemura (VTM)",
+          "label": "GM adventures",
+          "publishedAt": "2026-09-02T17:22:17Z",
+          "startedAt": "2026-09-02T01:02:21Z",
+          "endedAt": "2026-09-02T04:27:00Z",
+          "scheduledAt": null,
+          "duration": "PT3H22M33S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/HRLpD8oE8FI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HRLpD8oE8FI",
+          "views": "41",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "0vvJLvU37bk",
+          "title": "Dhampa:  Chapter 6,  Grand Opening (VTM)",
+          "label": "GM adventures",
+          "publishedAt": "2026-09-11T17:07:41Z",
+          "startedAt": "2026-09-11T01:05:37Z",
+          "endedAt": "2026-09-11T04:10:10Z",
+          "scheduledAt": null,
+          "duration": "PT3H1M30S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/0vvJLvU37bk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0vvJLvU37bk",
+          "views": "39",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "H2-6YEi20VU",
+          "title": "Dhampa: Chapter 7, Surprise (VTM)",
+          "label": "GM adventures",
+          "publishedAt": "2026-09-18T04:16:06Z",
+          "startedAt": "2026-09-18T01:03:41Z",
+          "endedAt": "2026-09-18T04:10:30Z",
+          "scheduledAt": "2026-09-18T01:03:17Z",
+          "duration": "PT2H59M28S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/H2-6YEi20VU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=H2-6YEi20VU",
+          "views": "72",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "DMJJB3lqOzo",
+          "title": "Dhampa: Chapter 7, Surprise (VTM) (Portrait)",
+          "label": "GM adventures",
+          "publishedAt": "2026-09-18T04:17:52Z",
+          "startedAt": "2026-09-18T01:03:43Z",
+          "endedAt": "2026-09-18T04:10:36Z",
+          "scheduledAt": "2026-09-18T01:03:24Z",
+          "duration": "PT2H59M27S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/DMJJB3lqOzo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DMJJB3lqOzo",
+          "views": "106",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "CJ5db6s5KE4",
+          "title": "Dhampa: Chapter 8, Winter Break (Portrait)",
+          "label": "GM adventures",
+          "publishedAt": "2026-09-23T04:16:15Z",
+          "startedAt": "2026-09-23T00:59:46Z",
+          "endedAt": "2026-09-23T04:08:53Z",
+          "scheduledAt": "2026-09-23T00:59:27Z",
+          "duration": "PT3H3M15S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/CJ5db6s5KE4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=CJ5db6s5KE4",
+          "views": "43",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "3OlTYTk5mkU",
+          "title": "Dhampa: Chapter 8, Winter Break",
+          "label": "GM adventures",
+          "publishedAt": "2026-09-23T04:22:02Z",
+          "startedAt": "2026-09-23T00:59:45Z",
+          "endedAt": "2026-09-23T04:08:54Z",
+          "scheduledAt": "2026-09-23T00:59:20Z",
+          "duration": "PT3H3M15S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/3OlTYTk5mkU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3OlTYTk5mkU",
+          "views": "41",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "FD1uU6fcnTk",
+          "title": "Dhampa: Chapter 9, Plans and Schemes (Portrait)",
+          "label": "GM adventures",
+          "publishedAt": "2026-10-14T05:27:35Z",
+          "startedAt": "2026-10-14T00:57:45Z",
+          "endedAt": "2026-10-14T04:16:47Z",
+          "scheduledAt": "2026-10-14T00:57:27Z",
+          "duration": "PT3H11M53S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/FD1uU6fcnTk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FD1uU6fcnTk",
+          "views": "655",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "XQOxwGPXXBU",
+          "title": "Dhampa: Chapter 9, Plans and Schemes",
+          "label": "GM adventures",
+          "publishedAt": "2026-10-14T04:24:39Z",
+          "startedAt": "2026-10-14T00:57:43Z",
+          "endedAt": "2026-10-14T04:16:48Z",
+          "scheduledAt": "2026-10-14T00:57:17Z",
+          "duration": "PT3H11M54S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/XQOxwGPXXBU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=XQOxwGPXXBU",
+          "views": "55",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "VuZMQhzXWRU",
+          "title": "Dhampa: Chapter 10, A Night to Die For  (Season finale) VTM (Portrait)",
+          "label": "GM adventures",
+          "publishedAt": "2026-10-21T05:33:10Z",
+          "startedAt": "2026-10-21T00:17:51Z",
+          "endedAt": "2026-10-21T04:23:31Z",
+          "scheduledAt": "2026-10-21T00:17:35Z",
+          "duration": "PT3H46M26S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/VuZMQhzXWRU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=VuZMQhzXWRU",
+          "views": "122",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "cDYHtk5OzKU",
+          "title": "Dhampa: Chapter 10, A Night to Die For  (Season finale) VTM",
+          "label": "GM adventures",
+          "publishedAt": "2026-10-21T04:54:32Z",
+          "startedAt": "2026-10-21T00:17:49Z",
+          "endedAt": "2026-10-21T04:23:30Z",
+          "scheduledAt": "2026-10-21T00:17:25Z",
+          "duration": "PT3H46M24S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/cDYHtk5OzKU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cDYHtk5OzKU",
+          "views": "155",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        }
+      ]
+    }
+  },
+  "legacyCollabs": [],
+  "sections": {
+    "channel": {
+      "status": "fresh",
+      "updatedAt": "2026-11-15T19:57:45.644Z"
+    },
+    "videos": {
+      "status": "fresh",
+      "updatedAt": "2026-11-15T19:57:45.644Z"
+    },
+    "collab:PLdqlxY9kSpe0": {
+      "status": "fresh",
+      "updatedAt": "2026-11-15T19:57:45.644Z"
+    },
+    "collab:PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
+      "status": "fresh",
+      "updatedAt": "2026-11-15T19:57:45.644Z"
+    },
+    "collab:PLQOAzzoGRT6s": {
+      "status": "fresh",
+      "updatedAt": "2026-11-15T19:57:45.644Z"
+    },
+    "collabs": {
+      "status": "fresh",
+      "updatedAt": "2026-11-15T19:57:45.644Z"
+    }
+  },
+  "issues": [],
+  "freshness": {
+    "liveFresh": true,
+    "observedAt": "2026-11-15T19:57:45.644Z",
+    "evaluatedAt": "2026-11-15T19:57:46.881Z"
+  }
 }

@@ -1,0 +1,981 @@
+{
+  "version": 1,
+  "slug": "bonakvt",
+  "label": "BonakVT",
+  "updatedAt": "2026-11-15T14:19:35.828Z",
+  "source": "YouTube Data API v3 via GitHub Actions",
+  "channel": {
+    "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
+    "snippet": {
+      "title": "BonakVT",
+      "description": "It is I, Bonak! I'm an aussie vtuber who plays league, reacts to random shite, and plays whatever else I feel like doing. I stream on both twitch and yt, and turn whatever scuffed content I stream into videos on here",
+      "customUrl": "@bonakvtuber",
+      "publishedAt": "2026-03-13T08:28:30.124064Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/0Ks8ARvawRhb-OTFmIZ1REZ5DjjvQFPngfchcFTt_ydreZlRtjut6GgJAg-z2cLlzeBA5qjGRw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/0Ks8ARvawRhb-OTFmIZ1REZ5DjjvQFPngfchcFTt_ydreZlRtjut6GgJAg-z2cLlzeBA5qjGRw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/0Ks8ARvawRhb-OTFmIZ1REZ5DjjvQFPngfchcFTt_ydreZlRtjut6GgJAg-z2cLlzeBA5qjGRw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "BonakVT",
+        "description": "It is I, Bonak! I'm an aussie vtuber who plays league, reacts to random shite, and plays whatever else I feel like doing. I stream on both twitch and yt, and turn whatever scuffed content I stream into videos on here"
+      },
+      "country": "AU"
+    },
+    "statistics": {
+      "viewCount": "63860",
+      "subscriberCount": "99",
+      "hiddenSubscriberCount": false,
+      "videoCount": "202"
+    },
+    "url": "https://www.youtube.com/channel/UCKE1MnwHQBM8i7Or5K_zcmA"
+  },
+  "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "oIn4DgT8LcdtHUuuQcV540jnWPc",
+      "id": "vV4pgjr_fPo",
+      "snippet": {
+        "publishedAt": "2026-11-15T13:45:53Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "11",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4I5nYdoRm5CV9KMMDves8oURBSc",
+      "id": "xd36eXXJqu0",
+      "snippet": {
+        "publishedAt": "2026-11-15T05:06:35Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        },
+        "defaultAudioLanguage": "und"
+      },
+      "statistics": {
+        "viewCount": "23",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-15T01:20:04Z",
+        "actualEndTime": "2026-11-15T03:39:44Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NlXD5256MV3K7iehcDbR9NxtsLE",
+      "id": "uOKARoS7rk4",
+      "snippet": {
+        "publishedAt": "2026-11-13T13:21:05Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "horse tries to touch me (in game) #vtuber #leagueoflegends #shorts #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "horse tries to touch me (in game) #vtuber #leagueoflegends #shorts #fyp",
+          "description": ""
+        }
+      },
+      "statistics": {
+        "viewCount": "1095",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "l0cpXsNnarVBELaU_sPZ3pOMMlY",
+      "id": "D3ibkTmeRww",
+      "snippet": {
+        "publishedAt": "2026-11-10T09:25:08Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "the top lane experience  #vtuber #leagueoflegends #shorts #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "the top lane experience  #vtuber #leagueoflegends #shorts #fyp",
+          "description": ""
+        }
+      },
+      "statistics": {
+        "viewCount": "1202",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hGerfuhWigJ6FxHJfwzXd_KyDQQ",
+      "id": "YDibgw7mSKI",
+      "snippet": {
+        "publishedAt": "2026-11-09T22:50:33Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "why do I both love and hate this game #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "why do I both love and hate this game #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        }
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-09T08:46:00Z",
+        "actualEndTime": "2026-11-09T10:33:03Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nl7o8_TwC0Z5IxvyTKj01_YC1-0",
+      "id": "vssbsSM6KBQ",
+      "snippet": {
+        "publishedAt": "2026-11-09T12:35:54Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "\"what the hangba- oh shit\"  #vtuber #leagueoflegends #shorts #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "\"what the hangba- oh shit\"  #vtuber #leagueoflegends #shorts #fyp",
+          "description": ""
+        }
+      },
+      "statistics": {
+        "viewCount": "193",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    }
+  ],
+  "replays": [
+    {
+      "kind": "youtube#video",
+      "etag": "4I5nYdoRm5CV9KMMDves8oURBSc",
+      "id": "xd36eXXJqu0",
+      "snippet": {
+        "publishedAt": "2026-11-15T05:06:35Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        },
+        "defaultAudioLanguage": "und"
+      },
+      "statistics": {
+        "viewCount": "23",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-15T01:20:04Z",
+        "actualEndTime": "2026-11-15T03:39:44Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hGerfuhWigJ6FxHJfwzXd_KyDQQ",
+      "id": "YDibgw7mSKI",
+      "snippet": {
+        "publishedAt": "2026-11-09T22:50:33Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "why do I both love and hate this game #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "why do I both love and hate this game #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        }
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-09T08:46:00Z",
+        "actualEndTime": "2026-11-09T10:33:03Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1F6zOYJov7fJkN7kIr3j7hzsf94",
+      "id": "sdWD4pR-srA",
+      "snippet": {
+        "publishedAt": "2026-11-03T13:19:46Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "trying to not suck at the game #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sdWD4pR-srA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sdWD4pR-srA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sdWD4pR-srA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sdWD4pR-srA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "trying to not suck at the game #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        }
+      },
+      "statistics": {
+        "viewCount": "57",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-03T08:45:30Z",
+        "actualEndTime": "2026-11-03T11:22:06Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aMpqgAuEoHQteOugkBzXT0vhUj0",
+      "id": "uJ97RsgSo_0",
+      "snippet": {
+        "publishedAt": "2026-10-27T15:40:00Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uJ97RsgSo_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uJ97RsgSo_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uJ97RsgSo_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uJ97RsgSo_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        }
+      },
+      "statistics": {
+        "viewCount": "49",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-10-27T09:06:47Z",
+        "actualEndTime": "2026-10-27T12:17:17Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rJVQpEA6deIqY6ThO8hO_yw4j1k",
+      "id": "9Y71X8ioFdY",
+      "snippet": {
+        "publishedAt": "2026-10-22T12:52:18Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Y71X8ioFdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Y71X8ioFdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Y71X8ioFdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Y71X8ioFdY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        }
+      },
+      "statistics": {
+        "viewCount": "25",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-10-22T08:41:42Z",
+        "actualEndTime": "2026-10-22T12:02:41Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "45RzokuoGB8-tyroOZ0vprtodvw",
+      "id": "mJ0v3O_PJww",
+      "snippet": {
+        "publishedAt": "2026-10-13T23:06:11Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mJ0v3O_PJww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mJ0v3O_PJww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJ0v3O_PJww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mJ0v3O_PJww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        }
+      },
+      "statistics": {
+        "viewCount": "21",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-10-13T09:58:26Z",
+        "actualEndTime": "2026-10-13T10:58:40Z"
+      }
+    }
+  ],
+  "live": null,
+  "liveChecked": false,
+  "latestVideos": [
+    {
+      "id": "vV4pgjr_fPo",
+      "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+      "label": "YouTube",
+      "publishedAt": "2026-11-15T13:45:53Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vV4pgjr_fPo",
+      "views": "11",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "xd36eXXJqu0",
+      "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+      "label": "YouTube",
+      "publishedAt": "2026-11-15T05:06:35Z",
+      "startedAt": "2026-11-15T01:20:04Z",
+      "endedAt": "2026-11-15T03:39:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xd36eXXJqu0",
+      "views": "23",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "uOKARoS7rk4",
+      "title": "horse tries to touch me (in game) #vtuber #leagueoflegends #shorts #fyp",
+      "label": "YouTube",
+      "publishedAt": "2026-11-13T13:21:05Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/uOKARoS7rk4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uOKARoS7rk4",
+      "views": "1095",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "D3ibkTmeRww",
+      "title": "the top lane experience  #vtuber #leagueoflegends #shorts #fyp",
+      "label": "YouTube",
+      "publishedAt": "2026-11-10T09:25:08Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/D3ibkTmeRww/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=D3ibkTmeRww",
+      "views": "1202",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "YDibgw7mSKI",
+      "title": "why do I both love and hate this game #vtuber #leagueoflegends",
+      "label": "YouTube",
+      "publishedAt": "2026-11-09T22:50:33Z",
+      "startedAt": "2026-11-09T08:46:00Z",
+      "endedAt": "2026-11-09T10:33:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/YDibgw7mSKI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YDibgw7mSKI",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "vssbsSM6KBQ",
+      "title": "\"what the hangba- oh shit\"  #vtuber #leagueoflegends #shorts #fyp",
+      "label": "YouTube",
+      "publishedAt": "2026-11-09T12:35:54Z",
+      "startedAt": null,
+      "endedAt": null,
+      "thumbnail": "https://i.ytimg.com/vi/vssbsSM6KBQ/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vssbsSM6KBQ",
+      "views": "193",
+      "live": false,
+      "wasLive": false
+    }
+  ],
+  "latestLivestreams": [
+    {
+      "id": "xd36eXXJqu0",
+      "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+      "label": "Livestream",
+      "publishedAt": "2026-11-15T05:06:35Z",
+      "startedAt": "2026-11-15T01:20:04Z",
+      "endedAt": "2026-11-15T03:39:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xd36eXXJqu0",
+      "views": "23",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "YDibgw7mSKI",
+      "title": "why do I both love and hate this game #vtuber #leagueoflegends",
+      "label": "Livestream",
+      "publishedAt": "2026-11-09T22:50:33Z",
+      "startedAt": "2026-11-09T08:46:00Z",
+      "endedAt": "2026-11-09T10:33:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/YDibgw7mSKI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YDibgw7mSKI",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "sdWD4pR-srA",
+      "title": "trying to not suck at the game #vtuber #leagueoflegends",
+      "label": "Livestream",
+      "publishedAt": "2026-11-03T13:19:46Z",
+      "startedAt": "2026-11-03T08:45:30Z",
+      "endedAt": "2026-11-03T11:22:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/sdWD4pR-srA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sdWD4pR-srA",
+      "views": "57",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "uJ97RsgSo_0",
+      "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
+      "label": "Livestream",
+      "publishedAt": "2026-10-27T15:40:00Z",
+      "startedAt": "2026-10-27T09:06:47Z",
+      "endedAt": "2026-10-27T12:17:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/uJ97RsgSo_0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uJ97RsgSo_0",
+      "views": "49",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "9Y71X8ioFdY",
+      "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
+      "label": "Livestream",
+      "publishedAt": "2026-10-22T12:52:18Z",
+      "startedAt": "2026-10-22T08:41:42Z",
+      "endedAt": "2026-10-22T12:02:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/9Y71X8ioFdY/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9Y71X8ioFdY",
+      "views": "25",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "mJ0v3O_PJww",
+      "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
+      "label": "Livestream",
+      "publishedAt": "2026-10-13T23:06:11Z",
+      "startedAt": "2026-10-13T09:58:26Z",
+      "endedAt": "2026-10-13T10:58:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/mJ0v3O_PJww/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mJ0v3O_PJww",
+      "views": "21",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "latestReplays": [
+    {
+      "id": "xd36eXXJqu0",
+      "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
+      "label": "Replay",
+      "publishedAt": "2026-11-15T05:06:35Z",
+      "startedAt": "2026-11-15T01:20:04Z",
+      "endedAt": "2026-11-15T03:39:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xd36eXXJqu0",
+      "views": "23",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "YDibgw7mSKI",
+      "title": "why do I both love and hate this game #vtuber #leagueoflegends",
+      "label": "Replay",
+      "publishedAt": "2026-11-09T22:50:33Z",
+      "startedAt": "2026-11-09T08:46:00Z",
+      "endedAt": "2026-11-09T10:33:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/YDibgw7mSKI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YDibgw7mSKI",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "sdWD4pR-srA",
+      "title": "trying to not suck at the game #vtuber #leagueoflegends",
+      "label": "Replay",
+      "publishedAt": "2026-11-03T13:19:46Z",
+      "startedAt": "2026-11-03T08:45:30Z",
+      "endedAt": "2026-11-03T11:22:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/sdWD4pR-srA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sdWD4pR-srA",
+      "views": "57",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "uJ97RsgSo_0",
+      "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
+      "label": "Replay",
+      "publishedAt": "2026-10-27T15:40:00Z",
+      "startedAt": "2026-10-27T09:06:47Z",
+      "endedAt": "2026-10-27T12:17:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/uJ97RsgSo_0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uJ97RsgSo_0",
+      "views": "49",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "9Y71X8ioFdY",
+      "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
+      "label": "Replay",
+      "publishedAt": "2026-10-22T12:52:18Z",
+      "startedAt": "2026-10-22T08:41:42Z",
+      "endedAt": "2026-10-22T12:02:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/9Y71X8ioFdY/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9Y71X8ioFdY",
+      "views": "25",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "mJ0v3O_PJww",
+      "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
+      "label": "Replay",
+      "publishedAt": "2026-10-13T23:06:11Z",
+      "startedAt": "2026-10-13T09:58:26Z",
+      "endedAt": "2026-10-13T10:58:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/mJ0v3O_PJww/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mJ0v3O_PJww",
+      "views": "21",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "liveStatus": {
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-15T14:19:35.828Z",
+    "method": "recent_uploads",
+    "note": "Not detected in recent uploads. This does not prove the creator is offline."
+  },
+  "collabs": [],
+  "collabIssues": [],
+  "scannedUploadCount": 100,
+  "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed."
+}

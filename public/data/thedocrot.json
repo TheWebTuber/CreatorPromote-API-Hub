@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-15T19:57:40.714Z",
+  "updatedAt": "2026-11-15T23:58:20.899Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "vtKTOQICsI0A2IfsY8VLpvcwbys",
+    "etag": "yoBDC7HaQx7nl7oNV7dyo4u5rcs",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -45,7 +45,7 @@
       "viewCount": "1211279",
       "subscriberCount": "733",
       "hiddenSubscriberCount": false,
-      "videoCount": "3019"
+      "videoCount": "3020"
     },
     "brandingSettings": {
       "channel": {
@@ -61,36 +61,36 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "PLiriVolnxsj8Uvts15J__OmINE",
+      "etag": "kL3ZsWmk85sk9jfB9NVukxr59r8",
       "id": "ZSq8KMLbsG8",
       "snippet": {
-        "publishedAt": "2026-11-15T17:30:38Z",
+        "publishedAt": "2026-11-15T23:14:20Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/default.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/hqdefault.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/sddefault.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/maxresdefault.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -111,7 +111,7 @@
           "Sony Interactive Entertainment"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
@@ -120,16 +120,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT5H10M9S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -137,22 +137,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "19",
-        "likeCount": "3",
+        "viewCount": "145",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-15T17:30:51Z",
+        "actualEndTime": "2026-11-15T22:40:59Z",
         "scheduledStartTime": "2026-11-15T17:30:37Z",
-        "scheduledEndTime": "2026-11-15T20:12:44Z",
-        "concurrentViewers": "7",
-        "activeLiveChatId": "Cg0KC1pTcThLTUxic0c4KicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILWlNxOEtNTGJzRzg"
+        "scheduledEndTime": "2026-11-15T22:52:45Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "hGZw8VKD0p25lLm4OzqO4ZRnvyc",
+      "etag": "sHdzy9IkcsDH2BZt0WsBUtGVnEU",
       "id": "wmnmENxdoHo",
       "snippet": {
         "publishedAt": "2026-11-15T10:44:29Z",
@@ -214,7 +213,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "84",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -222,7 +221,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YgHQs0L5Au4s7EjNRNvtmwpZ-kc",
+      "etag": "JtZIUbBtMeIg57YRGcsRYCdOQxo",
       "id": "Aq_q6at-Yjc",
       "snippet": {
         "publishedAt": "2026-11-15T10:40:17Z",
@@ -284,7 +283,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "355",
+        "viewCount": "411",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -451,7 +450,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Iw2Fma5wijkJUHwYR1I2Si2akBk",
+      "etag": "HF2bLdymLAhx8A_Rba1-KGDYnr4",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -492,8 +491,7 @@
         "localized": {
           "title": "POOR HUNTRESS!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
           "description": "At least they did hit me?"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT41S",
@@ -513,7 +511,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "267",
+        "viewCount": "289",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -521,7 +519,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Q3J6MVpALpesLNNg45EKkwkW2bc",
+      "etag": "RBhdxPk6zLLXSzpmFsHUQqly-Kg",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -839,7 +837,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Rqj7dPHx9cO5YWxpufvE3Bm7qr0",
+      "etag": "5O4cVOc2Aq-DtnPGni8imh_nhos",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -901,7 +899,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "254",
+        "viewCount": "269",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -909,7 +907,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SFaskqiwgEY3HPn0zhcFoo2-xR0",
+      "etag": "6tztfwALNcw-VHVOE13AYe7DqFM",
       "id": "UXQh5GGDUYw",
       "snippet": {
         "publishedAt": "2026-11-13T00:58:08Z",
@@ -986,7 +984,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "140",
+        "viewCount": "144",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1731,7 +1729,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SHNZ-MPPMrNy2t44PJpxXW7jk2Q",
+      "etag": "gOTuKQx3qrUUNswm0mcFc7KW7wA",
       "id": "8nWlqyw_b9I",
       "snippet": {
         "publishedAt": "2026-11-09T22:55:14Z",
@@ -2187,7 +2185,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bSfCU1Na-dqk9UG8O9NH4th5KjE",
+      "etag": "mqcT2uKH9eVODf2EAryKHBglaE0",
       "id": "FURFW9JZYIE",
       "snippet": {
         "publishedAt": "2026-11-07T23:40:20Z",
@@ -2263,7 +2261,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "60",
+        "viewCount": "61",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4669,6 +4667,96 @@
   "replays": [
     {
       "kind": "youtube#video",
+      "etag": "kL3ZsWmk85sk9jfB9NVukxr59r8",
+      "id": "ZSq8KMLbsG8",
+      "snippet": {
+        "publishedAt": "2026-11-15T23:14:20Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT5H10M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "145",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-15T17:30:51Z",
+        "actualEndTime": "2026-11-15T22:40:59Z",
+        "scheduledStartTime": "2026-11-15T17:30:37Z",
+        "scheduledEndTime": "2026-11-15T22:52:45Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
       "etag": "8VuQKo1dyzRR1L8L9-J9DowhdD4",
       "id": "72iPeZbnt5A",
       "snippet": {
@@ -4848,7 +4936,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Q3J6MVpALpesLNNg45EKkwkW2bc",
+      "etag": "RBhdxPk6zLLXSzpmFsHUQqly-Kg",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -4938,7 +5026,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SFaskqiwgEY3HPn0zhcFoo2-xR0",
+      "etag": "6tztfwALNcw-VHVOE13AYe7DqFM",
       "id": "UXQh5GGDUYw",
       "snippet": {
         "publishedAt": "2026-11-13T00:58:08Z",
@@ -5015,7 +5103,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "140",
+        "viewCount": "144",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -5116,205 +5204,26 @@
         "scheduledStartTime": "2026-11-11T18:00:16Z",
         "scheduledEndTime": "2026-11-11T22:22:24Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "LfCupaujeQu8QSFSWaAIMyzGirI",
-      "id": "Ru3_YOIH6eI",
-      "snippet": {
-        "publishedAt": "2026-11-11T09:47:02Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "##WWE",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#PS5Live",
-          "#WRESTLING",
-          "#WWE2K26",
-          "PlayStation 5",
-          "Sony Interactive Entertainment",
-          "WWE 2K26"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT1H1M43S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "54",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-10T20:29:54Z",
-        "actualEndTime": "2026-11-10T21:31:33Z",
-        "scheduledStartTime": "2026-11-10T20:29:39Z",
-        "scheduledEndTime": "2026-11-10T21:51:46Z"
-      }
     }
   ],
-  "live": {
-    "kind": "youtube#video",
-    "etag": "PLiriVolnxsj8Uvts15J__OmINE",
-    "id": "ZSq8KMLbsG8",
-    "snippet": {
-      "publishedAt": "2026-11-15T17:30:38Z",
-      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-      "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
-      "description": "GOOD VIBES!!! :)",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/default.jpg?v=6af9ec65",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg?v=6af9ec65",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/hqdefault.jpg?v=6af9ec65",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/sddefault.jpg?v=6af9ec65",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/maxresdefault.jpg?v=6af9ec65",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "the docrot",
-      "tags": [
-        "#DBD",
-        "#DEADBYDAYLIGHT",
-        "#ENTERTAINMENT",
-        "#FORYOU",
-        "#FUNNY",
-        "#GAMING",
-        "#HORROR",
-        "#PS5Live",
-        "#SCARY",
-        "Dead by Daylight",
-        "PlayStation 5",
-        "Sony Interactive Entertainment"
-      ],
-      "categoryId": "20",
-      "liveBroadcastContent": "live",
-      "defaultLanguage": "en-GB",
-      "localized": {
-        "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)"
-      },
-      "defaultAudioLanguage": "en-GB"
-    },
-    "contentDetails": {
-      "duration": "P0D",
-      "dimension": "2d",
-      "definition": "sd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "status": {
-      "uploadStatus": "uploaded",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    },
-    "statistics": {
-      "viewCount": "19",
-      "likeCount": "3",
-      "favoriteCount": "0",
-      "commentCount": "0"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2026-11-15T17:30:51Z",
-      "scheduledStartTime": "2026-11-15T17:30:37Z",
-      "scheduledEndTime": "2026-11-15T20:12:44Z",
-      "concurrentViewers": "7",
-      "activeLiveChatId": "Cg0KC1pTcThLTUxic0c4KicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILWlNxOEtNTGJzRzg"
-    }
-  },
-  "liveChecked": true,
+  "live": null,
+  "liveChecked": false,
   "latestVideos": [
     {
       "id": "ZSq8KMLbsG8",
       "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
       "label": "YouTube",
-      "publishedAt": "2026-11-15T17:30:38Z",
+      "publishedAt": "2026-11-15T23:14:20Z",
       "startedAt": "2026-11-15T17:30:51Z",
-      "endedAt": null,
+      "endedAt": "2026-11-15T22:40:59Z",
       "scheduledAt": "2026-11-15T17:30:37Z",
-      "duration": "P0D",
+      "duration": "PT5H10M9S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg?v=6af9ec65",
+      "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "19",
-      "live": true,
+      "views": "145",
+      "live": false,
       "wasLive": true
     },
     {
@@ -5330,7 +5239,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/wmnmENxdoHo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wmnmENxdoHo",
-      "views": "67",
+      "views": "84",
       "live": false,
       "wasLive": false
     },
@@ -5347,7 +5256,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Aq_q6at-Yjc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Aq_q6at-Yjc",
-      "views": "355",
+      "views": "411",
       "live": false,
       "wasLive": false
     },
@@ -5398,7 +5307,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZQ-xWuz__Lc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZQ-xWuz__Lc",
-      "views": "267",
+      "views": "289",
       "live": false,
       "wasLive": false
     },
@@ -5483,7 +5392,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/hDOVncLxJUE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hDOVncLxJUE",
-      "views": "254",
+      "views": "269",
       "live": false,
       "wasLive": false
     },
@@ -5500,7 +5409,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
-      "views": "140",
+      "views": "144",
       "live": false,
       "wasLive": true
     },
@@ -5789,7 +5698,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/FURFW9JZYIE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=FURFW9JZYIE",
-      "views": "60",
+      "views": "61",
       "live": false,
       "wasLive": true
     },
@@ -6326,17 +6235,17 @@
       "id": "ZSq8KMLbsG8",
       "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
       "label": "Livestream",
-      "publishedAt": "2026-11-15T17:30:38Z",
+      "publishedAt": "2026-11-15T23:14:20Z",
       "startedAt": "2026-11-15T17:30:51Z",
-      "endedAt": null,
+      "endedAt": "2026-11-15T22:40:59Z",
       "scheduledAt": "2026-11-15T17:30:37Z",
-      "duration": "P0D",
+      "duration": "PT5H10M9S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg?v=6af9ec65",
+      "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "19",
-      "live": true,
+      "views": "145",
+      "live": false,
       "wasLive": true
     },
     {
@@ -6403,7 +6312,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
-      "views": "140",
+      "views": "144",
       "live": false,
       "wasLive": true
     },
@@ -6427,6 +6336,23 @@
   ],
   "latestReplays": [
     {
+      "id": "ZSq8KMLbsG8",
+      "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
+      "label": "Replay",
+      "publishedAt": "2026-11-15T23:14:20Z",
+      "startedAt": "2026-11-15T17:30:51Z",
+      "endedAt": "2026-11-15T22:40:59Z",
+      "scheduledAt": "2026-11-15T17:30:37Z",
+      "duration": "PT5H10M9S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
+      "views": "145",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "72iPeZbnt5A",
       "title": "IS THIS GAME UNDERRATED!?! | eFootball",
       "label": "Replay",
@@ -6490,7 +6416,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
-      "views": "140",
+      "views": "144",
       "live": false,
       "wasLive": true
     },
@@ -6510,46 +6436,13 @@
       "views": "154",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "Ru3_YOIH6eI",
-      "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
-      "label": "Replay",
-      "publishedAt": "2026-11-11T09:47:02Z",
-      "startedAt": "2026-11-10T20:29:54Z",
-      "endedAt": "2026-11-10T21:31:33Z",
-      "scheduledAt": "2026-11-10T20:29:39Z",
-      "duration": "PT1H1M43S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/Ru3_YOIH6eI/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Ru3_YOIH6eI",
-      "views": "54",
-      "live": false,
-      "wasLive": true
     }
   ],
   "liveStatus": {
-    "status": "live",
-    "video": {
-      "id": "ZSq8KMLbsG8",
-      "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
-      "label": "Live now",
-      "publishedAt": "2026-11-15T17:30:38Z",
-      "startedAt": "2026-11-15T17:30:51Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-15T17:30:37Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg?v=6af9ec65",
-      "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "19",
-      "live": true,
-      "wasLive": true
-    },
-    "checkedAt": "2026-11-15T19:57:40.714Z",
-    "expiresAt": "2026-11-15T20:42:40.714Z",
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-15T23:58:20.899Z",
+    "expiresAt": "2026-11-16T00:43:20.899Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6560,36 +6453,36 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "PLiriVolnxsj8Uvts15J__OmINE",
+      "etag": "kL3ZsWmk85sk9jfB9NVukxr59r8",
       "id": "ZSq8KMLbsG8",
       "snippet": {
-        "publishedAt": "2026-11-15T17:30:38Z",
+        "publishedAt": "2026-11-15T23:14:20Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/default.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/hqdefault.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/sddefault.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/maxresdefault.jpg?v=6af9ec65",
+            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -6610,7 +6503,7 @@
           "Sony Interactive Entertainment"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
@@ -6619,16 +6512,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT5H10M9S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -6636,22 +6529,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "19",
-        "likeCount": "3",
+        "viewCount": "145",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-15T17:30:51Z",
+        "actualEndTime": "2026-11-15T22:40:59Z",
         "scheduledStartTime": "2026-11-15T17:30:37Z",
-        "scheduledEndTime": "2026-11-15T20:12:44Z",
-        "concurrentViewers": "7",
-        "activeLiveChatId": "Cg0KC1pTcThLTUxic0c4KicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILWlNxOEtNTGJzRzg"
+        "scheduledEndTime": "2026-11-15T22:52:45Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "hGZw8VKD0p25lLm4OzqO4ZRnvyc",
+      "etag": "sHdzy9IkcsDH2BZt0WsBUtGVnEU",
       "id": "wmnmENxdoHo",
       "snippet": {
         "publishedAt": "2026-11-15T10:44:29Z",
@@ -6713,7 +6605,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "84",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6721,7 +6613,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YgHQs0L5Au4s7EjNRNvtmwpZ-kc",
+      "etag": "JtZIUbBtMeIg57YRGcsRYCdOQxo",
       "id": "Aq_q6at-Yjc",
       "snippet": {
         "publishedAt": "2026-11-15T10:40:17Z",
@@ -6783,7 +6675,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "355",
+        "viewCount": "411",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6950,7 +6842,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Iw2Fma5wijkJUHwYR1I2Si2akBk",
+      "etag": "HF2bLdymLAhx8A_Rba1-KGDYnr4",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -6991,8 +6883,7 @@
         "localized": {
           "title": "POOR HUNTRESS!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
           "description": "At least they did hit me?"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT41S",
@@ -7012,7 +6903,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "267",
+        "viewCount": "289",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7020,7 +6911,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Q3J6MVpALpesLNNg45EKkwkW2bc",
+      "etag": "RBhdxPk6zLLXSzpmFsHUQqly-Kg",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -7338,7 +7229,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Rqj7dPHx9cO5YWxpufvE3Bm7qr0",
+      "etag": "5O4cVOc2Aq-DtnPGni8imh_nhos",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -7400,7 +7291,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "254",
+        "viewCount": "269",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -7408,7 +7299,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SFaskqiwgEY3HPn0zhcFoo2-xR0",
+      "etag": "6tztfwALNcw-VHVOE13AYe7DqFM",
       "id": "UXQh5GGDUYw",
       "snippet": {
         "publishedAt": "2026-11-13T00:58:08Z",
@@ -7485,7 +7376,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "140",
+        "viewCount": "144",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -8230,7 +8121,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SHNZ-MPPMrNy2t44PJpxXW7jk2Q",
+      "etag": "gOTuKQx3qrUUNswm0mcFc7KW7wA",
       "id": "8nWlqyw_b9I",
       "snippet": {
         "publishedAt": "2026-11-09T22:55:14Z",
@@ -8686,7 +8577,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bSfCU1Na-dqk9UG8O9NH4th5KjE",
+      "etag": "mqcT2uKH9eVODf2EAryKHBglaE0",
       "id": "FURFW9JZYIE",
       "snippet": {
         "publishedAt": "2026-11-07T23:40:20Z",
@@ -8762,7 +8653,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "60",
+        "viewCount": "61",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -15137,7 +15028,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GiPJea_i8NQaU2YqafJcewaeklc",
+      "etag": "nSNqBdOatuNFpOm04kv4NSSv8qs",
       "id": "oW3vNnInT-E",
       "snippet": {
         "publishedAt": "2026-10-15T09:18:25Z",
@@ -15206,7 +15097,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1Vb7-lnf8HcZn79JSaDqNwHIEIk",
+      "etag": "I2uMizo82fhZn5xL4HY-LzLvduU",
       "id": "Yv9w-H7vH5M",
       "snippet": {
         "publishedAt": "2026-10-15T09:15:05Z",
@@ -15275,7 +15166,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "f5pPAu5wL-T_TWcEBiKPjPVGPmM",
+      "etag": "-b0nNFeSIyiMjbPHvmoEtjwk3Kk",
       "id": "e8kXrrsbMwY",
       "snippet": {
         "publishedAt": "2026-10-14T21:27:21Z",
@@ -17958,21 +17849,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-15T19:57:40.714Z"
+      "updatedAt": "2026-11-15T23:58:20.899Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-15T19:57:40.714Z"
+      "updatedAt": "2026-11-15T23:58:20.899Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-15T19:57:40.714Z"
+      "updatedAt": "2026-11-15T23:58:20.899Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-15T19:57:40.714Z",
-    "evaluatedAt": "2026-11-15T19:57:42.619Z"
+    "observedAt": "2026-11-15T23:58:20.899Z",
+    "evaluatedAt": "2026-11-15T23:58:23.763Z"
   }
 }

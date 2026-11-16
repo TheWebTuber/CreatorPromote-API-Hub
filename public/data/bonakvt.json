@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-16T06:27:57.343Z",
+  "updatedAt": "2026-11-16T16:27:54.554Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "rRYpTD0FrRUThup5X0Jza5Xmo1M",
+    "etag": "nN61qwRhOFtVXAkt9UbI7Xws4CQ",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -46,7 +46,7 @@
       "viewCount": "64160",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
-      "videoCount": "202"
+      "videoCount": "203"
     },
     "brandingSettings": {
       "channel": {
@@ -64,7 +64,77 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "Ygp3aDandOq5KX5dxYXmaAZHXN0",
+      "etag": "9xnNRNrI6XdOGEopbfVh9yKvzpI",
+      "id": "ql_zVxDG9rw",
+      "snippet": {
+        "publishedAt": "2026-11-16T15:22:20Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/sardefault.jpg",
+            "width": 128,
+            "height": 228
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "35",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t_k0Yz-2565u8kdwJSNxOXuuUGs",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -131,7 +201,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "284",
+        "viewCount": "287",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -430,80 +500,6 @@
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-09T08:46:00Z",
         "actualEndTime": "2026-11-09T10:33:03Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "lvJTqk3gOINXYgYuoDMu2WIGgug",
-      "id": "vssbsSM6KBQ",
-      "snippet": {
-        "publishedAt": "2026-11-09T12:35:54Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "\"what the hangba- oh shit\"  #vtuber #leagueoflegends #shorts #fyp",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vssbsSM6KBQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "leagueoflegends",
-          "twitch"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "\"what the hangba- oh shit\"  #vtuber #leagueoflegends #shorts #fyp",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "193",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
       }
     }
   ],
@@ -952,6 +948,23 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "ql_zVxDG9rw",
+      "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
+      "label": "YouTube",
+      "publishedAt": "2026-11-16T15:22:20Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT39S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
+      "views": "35",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "vV4pgjr_fPo",
       "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
       "label": "YouTube",
@@ -964,7 +977,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vV4pgjr_fPo",
-      "views": "284",
+      "views": "287",
       "live": false,
       "wasLive": false
     },
@@ -1035,23 +1048,6 @@
       "views": "6",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "vssbsSM6KBQ",
-      "title": "\"what the hangba- oh shit\"  #vtuber #leagueoflegends #shorts #fyp",
-      "label": "YouTube",
-      "publishedAt": "2026-11-09T12:35:54Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT11S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/vssbsSM6KBQ/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vssbsSM6KBQ",
-      "views": "193",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
@@ -1265,8 +1261,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-16T06:27:57.343Z",
-    "expiresAt": "2026-11-16T07:12:57.343Z",
+    "checkedAt": "2026-11-16T16:27:54.554Z",
+    "expiresAt": "2026-11-16T17:12:54.554Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1277,7 +1273,77 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "Ygp3aDandOq5KX5dxYXmaAZHXN0",
+      "etag": "9xnNRNrI6XdOGEopbfVh9yKvzpI",
+      "id": "ql_zVxDG9rw",
+      "snippet": {
+        "publishedAt": "2026-11-16T15:22:20Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/sardefault.jpg",
+            "width": 128,
+            "height": 228
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "35",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t_k0Yz-2565u8kdwJSNxOXuuUGs",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -1344,7 +1410,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "284",
+        "viewCount": "287",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8481,70 +8547,6 @@
         "actualStartTime": "2026-06-28T11:14:02Z",
         "actualEndTime": "2026-06-28T12:08:16Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "0eSiQ9mUCtgP2myqcOIn1Dzc4Jk",
-      "id": "PDe_A3i-c4A",
-      "snippet": {
-        "publishedAt": "2026-06-27T13:08:40Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "WHY IS MY GOVERNMENT SO DUMB!?! - Australian Vtuber reacts to MoreParz #vtuber #twitch #funny",
-        "description": "No intro for this one. It's 11pm and I wanna go to bed\n\nCheck out MoreParz at @moreparz \nMy Twitch: https://www.twitch.tv/bonakvt",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PDe_A3i-c4A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PDe_A3i-c4A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PDe_A3i-c4A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/PDe_A3i-c4A/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "WHY IS MY GOVERNMENT SO DUMB!?! - Australian Vtuber reacts to MoreParz #vtuber #twitch #funny",
-          "description": "No intro for this one. It's 11pm and I wanna go to bed\n\nCheck out MoreParz at @moreparz \nMy Twitch: https://www.twitch.tv/bonakvt"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT32M13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "1017",
-        "likeCount": "37",
-        "favoriteCount": "0",
-        "commentCount": "9"
-      }
     }
   ],
   "playlists": [],
@@ -8553,21 +8555,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-16T06:27:57.343Z"
+      "updatedAt": "2026-11-16T16:27:54.554Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-16T06:27:57.343Z"
+      "updatedAt": "2026-11-16T16:27:54.554Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-16T06:27:57.343Z"
+      "updatedAt": "2026-11-16T16:27:54.554Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-16T06:27:57.343Z",
-    "evaluatedAt": "2026-11-16T06:27:58.118Z"
+    "observedAt": "2026-11-16T16:27:54.554Z",
+    "evaluatedAt": "2026-11-16T16:27:55.456Z"
   }
 }

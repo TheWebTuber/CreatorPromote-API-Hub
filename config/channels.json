@@ -78,7 +78,8 @@
       "livestreamCount": 6,
       "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
       "includePlaylists": true,
-      "identityVerified": false
+      "identityVerified": true,
+      "playlistPages": 3
     },
     {
       "slug": "portalmasterofgames",
@@ -86,7 +87,7 @@
       "handle": "@PMOG",
       "channelId": "UCdOJvhjojFe3Z0yKeGEIERA",
       "enabled": false,
-      "identityVerified": false,
+      "identityVerified": true,
       "scanPages": 2,
       "latestCount": 6,
       "livestreamCount": 6

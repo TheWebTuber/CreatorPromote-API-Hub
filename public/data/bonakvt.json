@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-15T23:58:28.533Z",
+  "updatedAt": "2026-11-16T06:27:57.343Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "MNXF7q8E9ADiia3EOqp81mtsGV8",
+    "etag": "rRYpTD0FrRUThup5X0Jza5Xmo1M",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "63884",
+      "viewCount": "64160",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
       "videoCount": "202"
@@ -64,12 +64,12 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "79G9TnbGKUpdANpRHSJau1SPhuU",
+      "etag": "Ygp3aDandOq5KX5dxYXmaAZHXN0",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
         "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+        "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
         "description": "",
         "thumbnails": {
           "default": {
@@ -108,7 +108,7 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+          "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
           "description": ""
         },
         "defaultAudioLanguage": "en"
@@ -131,7 +131,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "283",
+        "viewCount": "284",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -953,7 +953,7 @@
   "latestVideos": [
     {
       "id": "vV4pgjr_fPo",
-      "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+      "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
       "label": "YouTube",
       "publishedAt": "2026-11-15T13:45:53Z",
       "startedAt": null,
@@ -964,7 +964,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vV4pgjr_fPo",
-      "views": "283",
+      "views": "284",
       "live": false,
       "wasLive": false
     },
@@ -1265,8 +1265,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-15T23:58:28.533Z",
-    "expiresAt": "2026-11-16T00:43:28.533Z",
+    "checkedAt": "2026-11-16T06:27:57.343Z",
+    "expiresAt": "2026-11-16T07:12:57.343Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1277,12 +1277,12 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "79G9TnbGKUpdANpRHSJau1SPhuU",
+      "etag": "Ygp3aDandOq5KX5dxYXmaAZHXN0",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
         "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+        "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
         "description": "",
         "thumbnails": {
           "default": {
@@ -1321,7 +1321,7 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp #shorts",
+          "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
           "description": ""
         },
         "defaultAudioLanguage": "en"
@@ -1344,7 +1344,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "283",
+        "viewCount": "284",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8553,21 +8553,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-15T23:58:28.533Z"
+      "updatedAt": "2026-11-16T06:27:57.343Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-15T23:58:28.533Z"
+      "updatedAt": "2026-11-16T06:27:57.343Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-15T23:58:28.533Z"
+      "updatedAt": "2026-11-16T06:27:57.343Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-15T23:58:28.533Z",
-    "evaluatedAt": "2026-11-15T23:58:29.394Z"
+    "observedAt": "2026-11-16T06:27:57.343Z",
+    "evaluatedAt": "2026-11-16T06:27:58.118Z"
   }
 }

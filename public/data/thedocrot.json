@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-16T16:27:45.502Z",
+  "updatedAt": "2026-11-17T00:30:30.181Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "AWRDJz-dYlBu_IlPc-sU19IE7lk",
+    "etag": "Gt8tIbgn_NhA7KMZDVxyEZSU_do",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -42,10 +42,10 @@
       }
     },
     "statistics": {
-      "viewCount": "1212080",
+      "viewCount": "1212281",
       "subscriberCount": "733",
       "hiddenSubscriberCount": false,
-      "videoCount": "3022"
+      "videoCount": "3024"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,186 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "cxUtqq2dPlf8FWF6sRqTehvMj-4",
+      "etag": "3s0PRUdqnYhvCq0Mz19SX2VNtOU",
+      "id": "rtHQCknsutM",
+      "snippet": {
+        "publishedAt": "2026-11-16T22:23:58Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#EFOOTBALL",
+          "#ENTERTAINMENT",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "PlayStation 5",
+          "Sony Interactive Entertainment",
+          "eFootball™"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT2H56M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "55",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-16T19:11:22Z",
+        "actualEndTime": "2026-11-16T22:08:13Z",
+        "scheduledStartTime": "2026-11-16T19:11:09Z",
+        "scheduledEndTime": "2026-11-16T22:13:16Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wTSea9eynK4WQa__086Qh6-NCV0",
+      "id": "S4e6-yav3Y4",
+      "snippet": {
+        "publishedAt": "2026-11-16T20:33:38Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#ENTERTAINMENT",
+          "#FC",
+          "#FC27",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "EA SPORTS FC 27",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT2H6M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "76",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-16T17:00:44Z",
+        "actualEndTime": "2026-11-16T19:07:43Z",
+        "scheduledStartTime": "2026-11-16T17:00:28Z",
+        "scheduledEndTime": "2026-11-16T19:02:35Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NJ1IRN6GTVn5paLOnTrcvb29RaM",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -123,15 +302,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "84",
-        "likeCount": "0",
+        "viewCount": "102",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "gfX2haWwrMc_ZgrOtB4ShEi-mX4",
+      "etag": "CvzYhaC3CN2adc5QrtUjkFYLEK0",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -193,15 +372,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "29",
-        "likeCount": "0",
+        "viewCount": "45",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uAH_QXE16D2bA9_ZB3Qb_Rv014Q",
+      "etag": "oQOHGXrs62aerHh5-3AQrdFj7OY",
       "id": "ZSq8KMLbsG8",
       "snippet": {
         "publishedAt": "2026-11-15T23:14:20Z",
@@ -277,7 +456,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "177",
+        "viewCount": "179",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -291,7 +470,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "z9tMtu8r4EqLeZxLrDpypAdW8-0",
+      "etag": "3YQdomm-cyczKhaVi6gI2xt60o8",
       "id": "wmnmENxdoHo",
       "snippet": {
         "publishedAt": "2026-11-15T10:44:29Z",
@@ -332,8 +511,7 @@
         "localized": {
           "title": "THE REFEREE IS NOT GETTING INVOLVED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football",
           "description": "Not at all!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT48S",
@@ -353,7 +531,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "129",
+        "viewCount": "158",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -361,7 +539,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lT4PzSJgtW1b4QBGYLrklzesBEk",
+      "etag": "ifWPw1sra7OULVp2Oif81kmWhmQ",
       "id": "Aq_q6at-Yjc",
       "snippet": {
         "publishedAt": "2026-11-15T10:40:17Z",
@@ -423,7 +601,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "423",
+        "viewCount": "438",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -431,7 +609,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gvzvsC9PRWFlY_kpb_Tz2s43sw8",
+      "etag": "ZNn6iTaTZpJG1L42gyHTZr5eypo",
       "id": "72iPeZbnt5A",
       "snippet": {
         "publishedAt": "2026-11-14T22:16:58Z",
@@ -506,7 +684,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "86",
+        "viewCount": "93",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -589,7 +767,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7LJws8xm4SOvSBxxB_ho_wd9FIE",
+      "etag": "WNomfDj8_hxdsjcS365CzbeIA0c",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -650,7 +828,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "330",
+        "viewCount": "331",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -658,7 +836,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-iN0SjXVuPdEBFVVJzfOXmIXe64",
+      "etag": "v56Ry7Pc1eky62rZ7_SdD5IkJL0",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -734,7 +912,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "63",
+        "viewCount": "66",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -907,7 +1085,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Bv0oGGrCH9vacoLhVKrjmnPS_Jw",
+      "etag": "4z6z2jBNSU_Wfo9PZ5a7j0t6DOU",
       "id": "7lT3T3uTOhI",
       "snippet": {
         "publishedAt": "2026-11-13T10:10:34Z",
@@ -976,7 +1154,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NKaY6gVKrVnOp59ftTeqMvf9BMA",
+      "etag": "xOyuj6BYTURDTwEnQ35pwPBMu5Q",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -1017,8 +1195,7 @@
         "localized": {
           "title": "I NEED TO CONTRIBUTE MORE!?! | (FC27 PLAYER CAREER EPISODE 7)",
           "description": "What's good everyone, it's your boy thedocrot, and I NEED TO CONTRIBUTE MORE!?!\n\nWhat will happen if I don't...\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT19M59S",
@@ -1038,7 +1215,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "273",
+        "viewCount": "274",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1046,7 +1223,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9lBbjPSA57u43xoXmO4obT_ZAEk",
+      "etag": "qMqM6CwmgO9T9gR8oymUVR-1jPI",
       "id": "UXQh5GGDUYw",
       "snippet": {
         "publishedAt": "2026-11-13T00:58:08Z",
@@ -1123,7 +1300,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "156",
+        "viewCount": "157",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1206,7 +1383,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "CO6Y50K5jjam-2uapVdx7XcnGWY",
+      "etag": "la-BuXqq9oLKa4sns-sqKrpfSdY",
       "id": "XYbNzxJT6Aw",
       "snippet": {
         "publishedAt": "2026-11-12T09:47:31Z",
@@ -1267,7 +1444,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "965",
+        "viewCount": "966",
         "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1275,7 +1452,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AGpN7ws30sSMN4VDhVnFM1Hn5yQ",
+      "etag": "Qpy8s-ExY9cammJ6boi3Ty6H22I",
       "id": "K5M5SYkP60I",
       "snippet": {
         "publishedAt": "2026-11-12T09:43:24Z",
@@ -1503,7 +1680,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DuW2AL_kBTGiXQw41TN_1bf1-Ig",
+      "etag": "vc1phPIKnkNYSsnyAckGhKamp9E",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -1564,8 +1741,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "858",
-        "likeCount": "7",
+        "viewCount": "859",
+        "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -4483,150 +4660,191 @@
         "scheduledStartTime": "2026-10-31T18:59:39Z",
         "scheduledEndTime": "2026-10-31T21:01:47Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ou4JNE84cdn5AgvRhSqJCOak2iw",
-      "id": "DAIi6ij0WBg",
-      "snippet": {
-        "publishedAt": "2026-10-31T10:08:45Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "WHO SPAMMED JUMPSCARES!?! #fortnite #foryou #gaming #shorts #reels #entertainment #horror #halloween",
-        "description": "Happy Halloween!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DAIi6ij0WBg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DAIi6ij0WBg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DAIi6ij0WBg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DAIi6ij0WBg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DAIi6ij0WBg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "WHO SPAMMED JUMPSCARES!?! #fortnite #foryou #gaming #shorts #reels #entertainment #horror #halloween",
-          "description": "Happy Halloween!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT57S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "46",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "5"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "eScQjugs56VEWV-UaaBQQJAu7qw",
-      "id": "6cADZLIUpQA",
-      "snippet": {
-        "publishedAt": "2026-10-31T10:06:44Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "I WISH I CHECKED AGAIN!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-        "description": "You always have to check!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6cADZLIUpQA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6cADZLIUpQA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6cADZLIUpQA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6cADZLIUpQA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6cADZLIUpQA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I WISH I CHECKED AGAIN!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-          "description": "You always have to check!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT49S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "25",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "uAH_QXE16D2bA9_ZB3Qb_Rv014Q",
+      "etag": "3s0PRUdqnYhvCq0Mz19SX2VNtOU",
+      "id": "rtHQCknsutM",
+      "snippet": {
+        "publishedAt": "2026-11-16T22:23:58Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#EFOOTBALL",
+          "#ENTERTAINMENT",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "PlayStation 5",
+          "Sony Interactive Entertainment",
+          "eFootball™"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT2H56M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "55",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-16T19:11:22Z",
+        "actualEndTime": "2026-11-16T22:08:13Z",
+        "scheduledStartTime": "2026-11-16T19:11:09Z",
+        "scheduledEndTime": "2026-11-16T22:13:16Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wTSea9eynK4WQa__086Qh6-NCV0",
+      "id": "S4e6-yav3Y4",
+      "snippet": {
+        "publishedAt": "2026-11-16T20:33:38Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#ENTERTAINMENT",
+          "#FC",
+          "#FC27",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "EA SPORTS FC 27",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT2H6M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "76",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-16T17:00:44Z",
+        "actualEndTime": "2026-11-16T19:07:43Z",
+        "scheduledStartTime": "2026-11-16T17:00:28Z",
+        "scheduledEndTime": "2026-11-16T19:02:35Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oQOHGXrs62aerHh5-3AQrdFj7OY",
       "id": "ZSq8KMLbsG8",
       "snippet": {
         "publishedAt": "2026-11-15T23:14:20Z",
@@ -4702,7 +4920,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "177",
+        "viewCount": "179",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -4716,7 +4934,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gvzvsC9PRWFlY_kpb_Tz2s43sw8",
+      "etag": "ZNn6iTaTZpJG1L42gyHTZr5eypo",
       "id": "72iPeZbnt5A",
       "snippet": {
         "publishedAt": "2026-11-14T22:16:58Z",
@@ -4791,7 +5009,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "86",
+        "viewCount": "93",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4895,7 +5113,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-iN0SjXVuPdEBFVVJzfOXmIXe64",
+      "etag": "v56Ry7Pc1eky62rZ7_SdD5IkJL0",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -4971,7 +5189,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "63",
+        "viewCount": "66",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4982,192 +5200,45 @@
         "scheduledStartTime": "2026-11-13T17:26:36Z",
         "scheduledEndTime": "2026-11-13T19:28:44Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "9lBbjPSA57u43xoXmO4obT_ZAEk",
-      "id": "UXQh5GGDUYw",
-      "snippet": {
-        "publishedAt": "2026-11-13T00:58:08Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/UXQh5GGDUYw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#ENTERTAINMENT",
-          "#FC",
-          "#FC27",
-          "#FOOTBALL",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#PS5Live",
-          "#SOCCER",
-          "#ULTIMATETEAM",
-          "EA SPORTS FC 27",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT3H57M44S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "156",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-12T17:54:08Z",
-        "actualEndTime": "2026-11-12T21:51:56Z",
-        "scheduledStartTime": "2026-11-12T17:53:56Z",
-        "scheduledEndTime": "2026-11-12T20:56:04Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "eAjZx1iGNW8Ds8qHV9O1iUEXwfE",
-      "id": "5M18LGIUcOU",
-      "snippet": {
-        "publishedAt": "2026-11-11T22:44:09Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "I'M STILL BAD AT THIS GAME!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5M18LGIUcOU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "I'M STILL BAD AT THIS GAME!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT4H1M52S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "154",
-        "likeCount": "8",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-11T18:00:31Z",
-        "actualEndTime": "2026-11-11T22:02:23Z",
-        "scheduledStartTime": "2026-11-11T18:00:16Z",
-        "scheduledEndTime": "2026-11-11T22:22:24Z"
-      }
     }
   ],
   "live": null,
   "liveChecked": false,
   "latestVideos": [
+    {
+      "id": "rtHQCknsutM",
+      "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
+      "label": "YouTube",
+      "publishedAt": "2026-11-16T22:23:58Z",
+      "startedAt": "2026-11-16T19:11:22Z",
+      "endedAt": "2026-11-16T22:08:13Z",
+      "scheduledAt": "2026-11-16T19:11:09Z",
+      "duration": "PT2H56M53S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
+      "views": "55",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "S4e6-yav3Y4",
+      "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
+      "label": "YouTube",
+      "publishedAt": "2026-11-16T20:33:38Z",
+      "startedAt": "2026-11-16T17:00:44Z",
+      "endedAt": "2026-11-16T19:07:43Z",
+      "scheduledAt": "2026-11-16T17:00:28Z",
+      "duration": "PT2H6M54S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
+      "views": "76",
+      "live": false,
+      "wasLive": true
+    },
     {
       "id": "MQCq7s8tTZw",
       "title": "I HAVEN'T HEARD THAT BEFORE!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
@@ -5181,7 +5252,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/MQCq7s8tTZw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MQCq7s8tTZw",
-      "views": "84",
+      "views": "102",
       "live": false,
       "wasLive": false
     },
@@ -5198,7 +5269,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vnWCf8PTbdw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vnWCf8PTbdw",
-      "views": "29",
+      "views": "45",
       "live": false,
       "wasLive": false
     },
@@ -5215,7 +5286,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "177",
+      "views": "179",
       "live": false,
       "wasLive": true
     },
@@ -5232,7 +5303,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/wmnmENxdoHo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wmnmENxdoHo",
-      "views": "129",
+      "views": "158",
       "live": false,
       "wasLive": false
     },
@@ -5249,7 +5320,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Aq_q6at-Yjc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Aq_q6at-Yjc",
-      "views": "423",
+      "views": "438",
       "live": false,
       "wasLive": false
     },
@@ -5266,7 +5337,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=72iPeZbnt5A",
-      "views": "86",
+      "views": "93",
       "live": false,
       "wasLive": true
     },
@@ -5300,7 +5371,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZQ-xWuz__Lc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZQ-xWuz__Lc",
-      "views": "330",
+      "views": "331",
       "live": false,
       "wasLive": false
     },
@@ -5317,7 +5388,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
-      "views": "63",
+      "views": "66",
       "live": false,
       "wasLive": true
     },
@@ -5385,7 +5456,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/hDOVncLxJUE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hDOVncLxJUE",
-      "views": "273",
+      "views": "274",
       "live": false,
       "wasLive": false
     },
@@ -5402,7 +5473,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
-      "views": "156",
+      "views": "157",
       "live": false,
       "wasLive": true
     },
@@ -5436,7 +5507,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/XYbNzxJT6Aw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=XYbNzxJT6Aw",
-      "views": "965",
+      "views": "966",
       "live": false,
       "wasLive": false
     },
@@ -5504,7 +5575,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/uD013f3vhZE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uD013f3vhZE",
-      "views": "858",
+      "views": "859",
       "live": false,
       "wasLive": false
     },
@@ -6153,43 +6224,43 @@
       "views": "122",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "DAIi6ij0WBg",
-      "title": "WHO SPAMMED JUMPSCARES!?! #fortnite #foryou #gaming #shorts #reels #entertainment #horror #halloween",
-      "label": "YouTube",
-      "publishedAt": "2026-10-31T10:08:45Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT57S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/DAIi6ij0WBg/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DAIi6ij0WBg",
-      "views": "46",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "6cADZLIUpQA",
-      "title": "I WISH I CHECKED AGAIN!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-      "label": "YouTube",
-      "publishedAt": "2026-10-31T10:06:44Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT49S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/6cADZLIUpQA/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6cADZLIUpQA",
-      "views": "25",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
+    {
+      "id": "rtHQCknsutM",
+      "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
+      "label": "Livestream",
+      "publishedAt": "2026-11-16T22:23:58Z",
+      "startedAt": "2026-11-16T19:11:22Z",
+      "endedAt": "2026-11-16T22:08:13Z",
+      "scheduledAt": "2026-11-16T19:11:09Z",
+      "duration": "PT2H56M53S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
+      "views": "55",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "S4e6-yav3Y4",
+      "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
+      "label": "Livestream",
+      "publishedAt": "2026-11-16T20:33:38Z",
+      "startedAt": "2026-11-16T17:00:44Z",
+      "endedAt": "2026-11-16T19:07:43Z",
+      "scheduledAt": "2026-11-16T17:00:28Z",
+      "duration": "PT2H6M54S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
+      "views": "76",
+      "live": false,
+      "wasLive": true
+    },
     {
       "id": "ZSq8KMLbsG8",
       "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
@@ -6203,7 +6274,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "177",
+      "views": "179",
       "live": false,
       "wasLive": true
     },
@@ -6220,7 +6291,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=72iPeZbnt5A",
-      "views": "86",
+      "views": "93",
       "live": false,
       "wasLive": true
     },
@@ -6254,47 +6325,47 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
-      "views": "63",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "UXQh5GGDUYw",
-      "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
-      "label": "Livestream",
-      "publishedAt": "2026-11-13T00:58:08Z",
-      "startedAt": "2026-11-12T17:54:08Z",
-      "endedAt": "2026-11-12T21:51:56Z",
-      "scheduledAt": "2026-11-12T17:53:56Z",
-      "duration": "PT3H57M44S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
-      "views": "156",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "5M18LGIUcOU",
-      "title": "I'M STILL BAD AT THIS GAME!?! | Dead By Daylight",
-      "label": "Livestream",
-      "publishedAt": "2026-11-11T22:44:09Z",
-      "startedAt": "2026-11-11T18:00:31Z",
-      "endedAt": "2026-11-11T22:02:23Z",
-      "scheduledAt": "2026-11-11T18:00:16Z",
-      "duration": "PT4H1M52S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/5M18LGIUcOU/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5M18LGIUcOU",
-      "views": "154",
+      "views": "66",
       "live": false,
       "wasLive": true
     }
   ],
   "latestReplays": [
     {
+      "id": "rtHQCknsutM",
+      "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
+      "label": "Replay",
+      "publishedAt": "2026-11-16T22:23:58Z",
+      "startedAt": "2026-11-16T19:11:22Z",
+      "endedAt": "2026-11-16T22:08:13Z",
+      "scheduledAt": "2026-11-16T19:11:09Z",
+      "duration": "PT2H56M53S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
+      "views": "55",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "S4e6-yav3Y4",
+      "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
+      "label": "Replay",
+      "publishedAt": "2026-11-16T20:33:38Z",
+      "startedAt": "2026-11-16T17:00:44Z",
+      "endedAt": "2026-11-16T19:07:43Z",
+      "scheduledAt": "2026-11-16T17:00:28Z",
+      "duration": "PT2H6M54S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
+      "views": "76",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "ZSq8KMLbsG8",
       "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
       "label": "Replay",
@@ -6307,7 +6378,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "177",
+      "views": "179",
       "live": false,
       "wasLive": true
     },
@@ -6324,7 +6395,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=72iPeZbnt5A",
-      "views": "86",
+      "views": "93",
       "live": false,
       "wasLive": true
     },
@@ -6358,41 +6429,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
-      "views": "63",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "UXQh5GGDUYw",
-      "title": "IS MY ULTIMATE TEAM GOOD IN NOVEMBER!?! | FC27 Ultimate Team",
-      "label": "Replay",
-      "publishedAt": "2026-11-13T00:58:08Z",
-      "startedAt": "2026-11-12T17:54:08Z",
-      "endedAt": "2026-11-12T21:51:56Z",
-      "scheduledAt": "2026-11-12T17:53:56Z",
-      "duration": "PT3H57M44S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/UXQh5GGDUYw/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UXQh5GGDUYw",
-      "views": "156",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "5M18LGIUcOU",
-      "title": "I'M STILL BAD AT THIS GAME!?! | Dead By Daylight",
-      "label": "Replay",
-      "publishedAt": "2026-11-11T22:44:09Z",
-      "startedAt": "2026-11-11T18:00:31Z",
-      "endedAt": "2026-11-11T22:02:23Z",
-      "scheduledAt": "2026-11-11T18:00:16Z",
-      "duration": "PT4H1M52S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/5M18LGIUcOU/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5M18LGIUcOU",
-      "views": "154",
+      "views": "66",
       "live": false,
       "wasLive": true
     }
@@ -6400,8 +6437,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-16T16:27:45.502Z",
-    "expiresAt": "2026-11-16T17:12:45.502Z",
+    "checkedAt": "2026-11-17T00:30:30.181Z",
+    "expiresAt": "2026-11-17T01:15:30.181Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6412,7 +6449,186 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "cxUtqq2dPlf8FWF6sRqTehvMj-4",
+      "etag": "3s0PRUdqnYhvCq0Mz19SX2VNtOU",
+      "id": "rtHQCknsutM",
+      "snippet": {
+        "publishedAt": "2026-11-16T22:23:58Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rtHQCknsutM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#EFOOTBALL",
+          "#ENTERTAINMENT",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "PlayStation 5",
+          "Sony Interactive Entertainment",
+          "eFootball™"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT2H56M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "55",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-16T19:11:22Z",
+        "actualEndTime": "2026-11-16T22:08:13Z",
+        "scheduledStartTime": "2026-11-16T19:11:09Z",
+        "scheduledEndTime": "2026-11-16T22:13:16Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wTSea9eynK4WQa__086Qh6-NCV0",
+      "id": "S4e6-yav3Y4",
+      "snippet": {
+        "publishedAt": "2026-11-16T20:33:38Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#ENTERTAINMENT",
+          "#FC",
+          "#FC27",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "EA SPORTS FC 27",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT2H6M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "76",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-16T17:00:44Z",
+        "actualEndTime": "2026-11-16T19:07:43Z",
+        "scheduledStartTime": "2026-11-16T17:00:28Z",
+        "scheduledEndTime": "2026-11-16T19:02:35Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NJ1IRN6GTVn5paLOnTrcvb29RaM",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -6474,15 +6690,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "84",
-        "likeCount": "0",
+        "viewCount": "102",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "gfX2haWwrMc_ZgrOtB4ShEi-mX4",
+      "etag": "CvzYhaC3CN2adc5QrtUjkFYLEK0",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -6544,15 +6760,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "29",
-        "likeCount": "0",
+        "viewCount": "45",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uAH_QXE16D2bA9_ZB3Qb_Rv014Q",
+      "etag": "oQOHGXrs62aerHh5-3AQrdFj7OY",
       "id": "ZSq8KMLbsG8",
       "snippet": {
         "publishedAt": "2026-11-15T23:14:20Z",
@@ -6628,7 +6844,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "177",
+        "viewCount": "179",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -6642,7 +6858,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "z9tMtu8r4EqLeZxLrDpypAdW8-0",
+      "etag": "3YQdomm-cyczKhaVi6gI2xt60o8",
       "id": "wmnmENxdoHo",
       "snippet": {
         "publishedAt": "2026-11-15T10:44:29Z",
@@ -6683,8 +6899,7 @@
         "localized": {
           "title": "THE REFEREE IS NOT GETTING INVOLVED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football",
           "description": "Not at all!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT48S",
@@ -6704,7 +6919,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "129",
+        "viewCount": "158",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6712,7 +6927,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lT4PzSJgtW1b4QBGYLrklzesBEk",
+      "etag": "ifWPw1sra7OULVp2Oif81kmWhmQ",
       "id": "Aq_q6at-Yjc",
       "snippet": {
         "publishedAt": "2026-11-15T10:40:17Z",
@@ -6774,7 +6989,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "423",
+        "viewCount": "438",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6782,7 +6997,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gvzvsC9PRWFlY_kpb_Tz2s43sw8",
+      "etag": "ZNn6iTaTZpJG1L42gyHTZr5eypo",
       "id": "72iPeZbnt5A",
       "snippet": {
         "publishedAt": "2026-11-14T22:16:58Z",
@@ -6857,7 +7072,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "86",
+        "viewCount": "93",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6940,7 +7155,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7LJws8xm4SOvSBxxB_ho_wd9FIE",
+      "etag": "WNomfDj8_hxdsjcS365CzbeIA0c",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -7001,7 +7216,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "330",
+        "viewCount": "331",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7009,7 +7224,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-iN0SjXVuPdEBFVVJzfOXmIXe64",
+      "etag": "v56Ry7Pc1eky62rZ7_SdD5IkJL0",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -7085,7 +7300,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "63",
+        "viewCount": "66",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7258,7 +7473,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Bv0oGGrCH9vacoLhVKrjmnPS_Jw",
+      "etag": "4z6z2jBNSU_Wfo9PZ5a7j0t6DOU",
       "id": "7lT3T3uTOhI",
       "snippet": {
         "publishedAt": "2026-11-13T10:10:34Z",
@@ -7327,7 +7542,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NKaY6gVKrVnOp59ftTeqMvf9BMA",
+      "etag": "xOyuj6BYTURDTwEnQ35pwPBMu5Q",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -7368,8 +7583,7 @@
         "localized": {
           "title": "I NEED TO CONTRIBUTE MORE!?! | (FC27 PLAYER CAREER EPISODE 7)",
           "description": "What's good everyone, it's your boy thedocrot, and I NEED TO CONTRIBUTE MORE!?!\n\nWhat will happen if I don't...\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT19M59S",
@@ -7389,7 +7603,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "273",
+        "viewCount": "274",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -7397,7 +7611,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9lBbjPSA57u43xoXmO4obT_ZAEk",
+      "etag": "qMqM6CwmgO9T9gR8oymUVR-1jPI",
       "id": "UXQh5GGDUYw",
       "snippet": {
         "publishedAt": "2026-11-13T00:58:08Z",
@@ -7474,7 +7688,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "156",
+        "viewCount": "157",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -7557,7 +7771,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "CO6Y50K5jjam-2uapVdx7XcnGWY",
+      "etag": "la-BuXqq9oLKa4sns-sqKrpfSdY",
       "id": "XYbNzxJT6Aw",
       "snippet": {
         "publishedAt": "2026-11-12T09:47:31Z",
@@ -7618,7 +7832,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "965",
+        "viewCount": "966",
         "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7626,7 +7840,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AGpN7ws30sSMN4VDhVnFM1Hn5yQ",
+      "etag": "Qpy8s-ExY9cammJ6boi3Ty6H22I",
       "id": "K5M5SYkP60I",
       "snippet": {
         "publishedAt": "2026-11-12T09:43:24Z",
@@ -7854,7 +8068,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DuW2AL_kBTGiXQw41TN_1bf1-Ig",
+      "etag": "vc1phPIKnkNYSsnyAckGhKamp9E",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -7915,8 +8129,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "858",
-        "likeCount": "7",
+        "viewCount": "859",
+        "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -13255,7 +13469,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "aGK9P3lU6Uoxxxya3WAWRlB1tx0",
+      "etag": "Ko1k49f-abjgmWz7oqycU7WGUhU",
       "id": "FFBPBuFg3Fo",
       "snippet": {
         "publishedAt": "2026-10-22T10:10:24Z",
@@ -13316,7 +13530,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "121",
+        "viewCount": "123",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -14850,7 +15064,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Ng6G9Yfkz0Jm09HUfTA_u7HEdVw",
+      "etag": "F8wY0K4W4QzW_6nms4ZokJJXOjw",
       "id": "9kgOAmhyKe8",
       "snippet": {
         "publishedAt": "2026-10-16T10:03:37Z",
@@ -14919,7 +15133,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FeonT2vtFkbBfF6Em134hQJCcDI",
+      "etag": "536WJ-zL9G_8_9yKcTmhbyoEXUo",
       "id": "a1ygmHzo7hI",
       "snippet": {
         "publishedAt": "2026-10-16T09:15:32Z",
@@ -14988,7 +15202,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sxvre5C8atJPToiDA4m9yTF132U",
+      "etag": "eeWZ7w2ritWFdpmalpXo6KStnJY",
       "id": "4GP7qRPQGVY",
       "snippet": {
         "publishedAt": "2026-10-16T09:09:47Z",
@@ -17621,144 +17835,6 @@
         "scheduledStartTime": "2026-10-06T17:35:07Z",
         "scheduledEndTime": "2026-10-06T21:17:15Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "XcC33zmHOq36UuS-QRAA5Zy7iZ8",
-      "id": "sLedCc1VJyY",
-      "snippet": {
-        "publishedAt": "2026-10-06T08:30:34Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "A VERY TIGHT ANGLE!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-        "description": "It seemed too tight!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sLedCc1VJyY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sLedCc1VJyY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sLedCc1VJyY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sLedCc1VJyY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sLedCc1VJyY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "A VERY TIGHT ANGLE!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-          "description": "It seemed too tight!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "127",
-        "likeCount": "3",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "mcRMBLJM-2Tct2qW0SDUP5OdRGc",
-      "id": "U_sHUb0s9xQ",
-      "snippet": {
-        "publishedAt": "2026-10-06T08:26:38Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "WHEN THEY'RE CHILL TOO!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-        "description": "Very chill!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/U_sHUb0s9xQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/U_sHUb0s9xQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/U_sHUb0s9xQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/U_sHUb0s9xQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/U_sHUb0s9xQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "WHEN THEY'RE CHILL TOO!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-          "description": "Very chill!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT18S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "31",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "playlists": [],
@@ -17767,21 +17843,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-16T16:27:45.502Z"
+      "updatedAt": "2026-11-17T00:30:30.181Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-16T16:27:45.502Z"
+      "updatedAt": "2026-11-17T00:30:30.181Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-16T16:27:45.502Z"
+      "updatedAt": "2026-11-17T00:30:30.181Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-16T16:27:45.502Z",
-    "evaluatedAt": "2026-11-16T16:27:47.898Z"
+    "observedAt": "2026-11-17T00:30:30.181Z",
+    "evaluatedAt": "2026-11-17T00:30:33.264Z"
   }
 }

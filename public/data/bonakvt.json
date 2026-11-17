@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-16T16:27:54.554Z",
+  "updatedAt": "2026-11-17T00:30:41.786Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "nN61qwRhOFtVXAkt9UbI7Xws4CQ",
+    "etag": "7QnvMELbNQHvgIeOckDRFUlLgI8",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "64160",
+      "viewCount": "64173",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
       "videoCount": "203"
@@ -64,7 +64,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "9xnNRNrI6XdOGEopbfVh9yKvzpI",
+      "etag": "AtQ--qozEh5gSNqAyUGOO_D69OY",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -126,15 +126,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "35",
-        "likeCount": "1",
+        "viewCount": "755",
+        "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "t_k0Yz-2565u8kdwJSNxOXuuUGs",
+      "etag": "kYD4G-bYVO47LR7qBm0HwB90SMk",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -201,7 +201,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "287",
+        "viewCount": "288",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -960,7 +960,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
-      "views": "35",
+      "views": "755",
       "live": false,
       "wasLive": false
     },
@@ -977,7 +977,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vV4pgjr_fPo",
-      "views": "287",
+      "views": "288",
       "live": false,
       "wasLive": false
     },
@@ -1261,8 +1261,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-16T16:27:54.554Z",
-    "expiresAt": "2026-11-16T17:12:54.554Z",
+    "checkedAt": "2026-11-17T00:30:41.786Z",
+    "expiresAt": "2026-11-17T01:15:41.786Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1273,7 +1273,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "9xnNRNrI6XdOGEopbfVh9yKvzpI",
+      "etag": "AtQ--qozEh5gSNqAyUGOO_D69OY",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -1335,15 +1335,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "35",
-        "likeCount": "1",
+        "viewCount": "755",
+        "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "t_k0Yz-2565u8kdwJSNxOXuuUGs",
+      "etag": "kYD4G-bYVO47LR7qBm0HwB90SMk",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -1410,7 +1410,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "287",
+        "viewCount": "288",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1713,7 +1713,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lvJTqk3gOINXYgYuoDMu2WIGgug",
+      "etag": "62P8_PaL0rCuXlAI-rxOu0MKvO4",
       "id": "vssbsSM6KBQ",
       "snippet": {
         "publishedAt": "2026-11-09T12:35:54Z",
@@ -1759,7 +1759,8 @@
         "localized": {
           "title": "\"what the hangba- oh shit\"  #vtuber #leagueoflegends #shorts #fyp",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT11S",
@@ -2815,7 +2816,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "t13A1RetSJuBR0fRQvZArtCpFSo",
+      "etag": "xFOti8MZ8cX_KllHLmYo0jeu9Tw",
       "id": "JPD6fVTMWMs",
       "snippet": {
         "publishedAt": "2026-10-18T08:42:17Z",
@@ -2881,7 +2882,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "492",
+        "viewCount": "495",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -4947,7 +4948,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Aq0gMao2BpOGihLxipUC0Dc5354",
+      "etag": "tzwvEHn8wa7X1SEIr7crPrlFm-w",
       "id": "NX-SJoCG_C8",
       "snippet": {
         "publishedAt": "2026-09-07T11:34:15Z",
@@ -4982,11 +4983,6 @@
           }
         },
         "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "leagueoflegends",
-          "twitch"
-        ],
         "categoryId": "20",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
@@ -5014,7 +5010,7 @@
       },
       "statistics": {
         "viewCount": "815",
-        "likeCount": "6",
+        "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -8555,21 +8551,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-16T16:27:54.554Z"
+      "updatedAt": "2026-11-17T00:30:41.786Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-16T16:27:54.554Z"
+      "updatedAt": "2026-11-17T00:30:41.786Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-16T16:27:54.554Z"
+      "updatedAt": "2026-11-17T00:30:41.786Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-16T16:27:54.554Z",
-    "evaluatedAt": "2026-11-16T16:27:55.456Z"
+    "observedAt": "2026-11-17T00:30:41.786Z",
+    "evaluatedAt": "2026-11-17T00:30:45.341Z"
   }
 }

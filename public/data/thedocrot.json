@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-17T17:53:46.974Z",
+  "updatedAt": "2026-11-17T21:05:24.293Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "gpzyCYDZUkxkIkLzzmBtnVYEiPQ",
+    "etag": "Z7YSV4S8bzDISYSSPKZBTjQ_H0g",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -42,7 +42,7 @@
       }
     },
     "statistics": {
-      "viewCount": "1212641",
+      "viewCount": "1212718",
       "subscriberCount": "734",
       "hiddenSubscriberCount": false,
       "videoCount": "3026"
@@ -61,7 +61,97 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "3D1lHx79NhzZaR32qcInN0webaM",
+      "etag": "PAREgQbiZkJJZmK6OFKmlxbvK_U",
+      "id": "Jg96wuh6Gks",
+      "snippet": {
+        "publishedAt": "2026-11-17T18:49:29Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/default.jpg?v=6afca1d7",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg?v=6afca1d7",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/hqdefault.jpg?v=6afca1d7",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/sddefault.jpg?v=6afca1d7",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/maxresdefault.jpg?v=6afca1d7",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#WRESTLING",
+          "#WWE",
+          "#WWE2K26",
+          "PlayStation 5",
+          "Sony Interactive Entertainment",
+          "WWE 2K26"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "live",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "22",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-17T18:49:42Z",
+        "scheduledStartTime": "2026-11-17T18:49:28Z",
+        "scheduledEndTime": "2026-11-17T20:51:35Z",
+        "concurrentViewers": "2",
+        "activeLiveChatId": "Cg0KC0pnOTZ3dWg2R2tzKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILSmc5Nnd1aDZHa3M"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4ktQI0V8uLJa2zWSpTUNL9Gtmo4",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -123,7 +213,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "38",
+        "viewCount": "50",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -131,7 +221,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yHamhRYitIzz1teKigEXKY1EsE4",
+      "etag": "9BihkvugxexXRnekOVL0Kl9NbEc",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -193,10 +283,10 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "49",
+        "viewCount": "73",
         "likeCount": "2",
         "favoriteCount": "0",
-        "commentCount": "0"
+        "commentCount": "2"
       }
     },
     {
@@ -290,7 +380,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Kr8PfiRi5XrwQZRwN5HPhN3-Cfc",
+      "etag": "bKL81iR12PHFmYqEBjgSjEUxlok",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -366,7 +456,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "85",
+        "viewCount": "87",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -380,7 +470,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cVyIfi0lgNJU1nxOW-dNRELMTMA",
+      "etag": "ucXVdaioY6LfnUZ8RNHfjvKkMUE",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -442,7 +532,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "113",
+        "viewCount": "121",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -450,7 +540,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MNzgO7HLn7fBaaRkKdQhSZLodQ0",
+      "etag": "PwQuCv-DCzFNiZ4qkTqUA3i87oQ",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -512,7 +602,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "58",
+        "viewCount": "77",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1155,7 +1245,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "b61S0BU1tpBToMJTYNhIqd0iWiM",
+      "etag": "60NlYxPY6aVJ81ruWsO_tqeeUVk",
       "id": "eXCJqh1EggI",
       "snippet": {
         "publishedAt": "2026-11-13T10:13:33Z",
@@ -1293,7 +1383,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xOyuj6BYTURDTwEnQ35pwPBMu5Q",
+      "etag": "HQRUFrXB03NPocyA-lttwMb5_So",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -1819,7 +1909,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QNO1497WHbnkGy3rJapUCcOmzhc",
+      "etag": "sK1AKRSBa4IS4Em05I6svCDJZYs",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -1880,7 +1970,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "861",
+        "viewCount": "869",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4571,75 +4661,6 @@
         "scheduledStartTime": "2026-10-31T20:48:18Z",
         "scheduledEndTime": "2026-10-31T22:10:25Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ETtC0oTxOZWaOIKr4AtM31cqjyM",
-      "id": "IRqU66eWtYs",
-      "snippet": {
-        "publishedAt": "2026-11-01T09:52:38Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "HE STOPPED FOR THAT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-        "description": "That felt like a violation...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IRqU66eWtYs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IRqU66eWtYs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IRqU66eWtYs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IRqU66eWtYs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/IRqU66eWtYs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "HE STOPPED FOR THAT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-          "description": "That felt like a violation..."
-        }
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "1053",
-        "likeCount": "11",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "replays": [
@@ -4734,7 +4755,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Kr8PfiRi5XrwQZRwN5HPhN3-Cfc",
+      "etag": "bKL81iR12PHFmYqEBjgSjEUxlok",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -4810,7 +4831,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "85",
+        "viewCount": "87",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5182,9 +5203,115 @@
       }
     }
   ],
-  "live": null,
-  "liveChecked": false,
+  "live": {
+    "kind": "youtube#video",
+    "etag": "PAREgQbiZkJJZmK6OFKmlxbvK_U",
+    "id": "Jg96wuh6Gks",
+    "snippet": {
+      "publishedAt": "2026-11-17T18:49:29Z",
+      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+      "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
+      "description": "GOOD VIBES!!! :)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/default.jpg?v=6afca1d7",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg?v=6afca1d7",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/hqdefault.jpg?v=6afca1d7",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/sddefault.jpg?v=6afca1d7",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/maxresdefault.jpg?v=6afca1d7",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "the docrot",
+      "tags": [
+        "#ENTERTAINMENT",
+        "#FORYOU",
+        "#FUNNY",
+        "#GAMING",
+        "#PS5Live",
+        "#WRESTLING",
+        "#WWE",
+        "#WWE2K26",
+        "PlayStation 5",
+        "Sony Interactive Entertainment",
+        "WWE 2K26"
+      ],
+      "categoryId": "20",
+      "liveBroadcastContent": "live",
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
+        "description": "GOOD VIBES!!! :)"
+      },
+      "defaultAudioLanguage": "en-GB"
+    },
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "uploaded",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "22",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2026-11-17T18:49:42Z",
+      "scheduledStartTime": "2026-11-17T18:49:28Z",
+      "scheduledEndTime": "2026-11-17T20:51:35Z",
+      "concurrentViewers": "2",
+      "activeLiveChatId": "Cg0KC0pnOTZ3dWg2R2tzKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILSmc5Nnd1aDZHa3M"
+    }
+  },
+  "liveChecked": true,
   "latestVideos": [
+    {
+      "id": "Jg96wuh6Gks",
+      "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
+      "label": "YouTube",
+      "publishedAt": "2026-11-17T18:49:29Z",
+      "startedAt": "2026-11-17T18:49:42Z",
+      "endedAt": null,
+      "scheduledAt": "2026-11-17T18:49:28Z",
+      "duration": "P0D",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg?v=6afca1d7",
+      "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
+      "views": "22",
+      "live": true,
+      "wasLive": true
+    },
     {
       "id": "_iwQGw2yV5A",
       "title": "WHEN MOMENTUM SHIFTS!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
@@ -5198,7 +5325,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/_iwQGw2yV5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_iwQGw2yV5A",
-      "views": "38",
+      "views": "50",
       "live": false,
       "wasLive": false
     },
@@ -5215,7 +5342,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/soKh-xuZRZ4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=soKh-xuZRZ4",
-      "views": "49",
+      "views": "73",
       "live": false,
       "wasLive": false
     },
@@ -5249,7 +5376,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "85",
+      "views": "87",
       "live": false,
       "wasLive": true
     },
@@ -5266,7 +5393,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/MQCq7s8tTZw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MQCq7s8tTZw",
-      "views": "113",
+      "views": "121",
       "live": false,
       "wasLive": false
     },
@@ -5283,7 +5410,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vnWCf8PTbdw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vnWCf8PTbdw",
-      "views": "58",
+      "views": "77",
       "live": false,
       "wasLive": false
     },
@@ -5589,7 +5716,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/uD013f3vhZE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uD013f3vhZE",
-      "views": "861",
+      "views": "869",
       "live": false,
       "wasLive": false
     },
@@ -6187,26 +6314,26 @@
       "views": "66",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "IRqU66eWtYs",
-      "title": "HE STOPPED FOR THAT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-      "label": "YouTube",
-      "publishedAt": "2026-11-01T09:52:38Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT17S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/IRqU66eWtYs/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IRqU66eWtYs",
-      "views": "1053",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
+    {
+      "id": "Jg96wuh6Gks",
+      "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
+      "label": "Livestream",
+      "publishedAt": "2026-11-17T18:49:29Z",
+      "startedAt": "2026-11-17T18:49:42Z",
+      "endedAt": null,
+      "scheduledAt": "2026-11-17T18:49:28Z",
+      "duration": "P0D",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg?v=6afca1d7",
+      "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
+      "views": "22",
+      "live": true,
+      "wasLive": true
+    },
     {
       "id": "rtHQCknsutM",
       "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
@@ -6237,7 +6364,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "85",
+      "views": "87",
       "live": false,
       "wasLive": true
     },
@@ -6291,23 +6418,6 @@
       "views": "59",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "KxNOmjNveX8",
-      "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
-      "label": "Livestream",
-      "publishedAt": "2026-11-14T07:31:10Z",
-      "startedAt": "2026-11-13T17:26:52Z",
-      "endedAt": "2026-11-13T19:20:05Z",
-      "scheduledAt": "2026-11-13T17:26:36Z",
-      "duration": "PT1H53M11S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/KxNOmjNveX8/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KxNOmjNveX8",
-      "views": "67",
-      "live": false,
-      "wasLive": true
     }
   ],
   "latestReplays": [
@@ -6341,7 +6451,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "85",
+      "views": "87",
       "live": false,
       "wasLive": true
     },
@@ -6415,10 +6525,26 @@
     }
   ],
   "liveStatus": {
-    "status": "unknown",
-    "video": null,
-    "checkedAt": "2026-11-17T17:53:46.974Z",
-    "expiresAt": "2026-11-17T18:38:46.974Z",
+    "status": "live",
+    "video": {
+      "id": "Jg96wuh6Gks",
+      "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
+      "label": "Live now",
+      "publishedAt": "2026-11-17T18:49:29Z",
+      "startedAt": "2026-11-17T18:49:42Z",
+      "endedAt": null,
+      "scheduledAt": "2026-11-17T18:49:28Z",
+      "duration": "P0D",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg?v=6afca1d7",
+      "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
+      "views": "22",
+      "live": true,
+      "wasLive": true
+    },
+    "checkedAt": "2026-11-17T21:05:24.293Z",
+    "expiresAt": "2026-11-17T21:50:24.293Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6429,7 +6555,97 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "3D1lHx79NhzZaR32qcInN0webaM",
+      "etag": "PAREgQbiZkJJZmK6OFKmlxbvK_U",
+      "id": "Jg96wuh6Gks",
+      "snippet": {
+        "publishedAt": "2026-11-17T18:49:29Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/default.jpg?v=6afca1d7",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg?v=6afca1d7",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/hqdefault.jpg?v=6afca1d7",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/sddefault.jpg?v=6afca1d7",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/maxresdefault.jpg?v=6afca1d7",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#WRESTLING",
+          "#WWE",
+          "#WWE2K26",
+          "PlayStation 5",
+          "Sony Interactive Entertainment",
+          "WWE 2K26"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "live",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "22",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-17T18:49:42Z",
+        "scheduledStartTime": "2026-11-17T18:49:28Z",
+        "scheduledEndTime": "2026-11-17T20:51:35Z",
+        "concurrentViewers": "2",
+        "activeLiveChatId": "Cg0KC0pnOTZ3dWg2R2tzKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILSmc5Nnd1aDZHa3M"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4ktQI0V8uLJa2zWSpTUNL9Gtmo4",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -6491,7 +6707,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "38",
+        "viewCount": "50",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6499,7 +6715,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yHamhRYitIzz1teKigEXKY1EsE4",
+      "etag": "9BihkvugxexXRnekOVL0Kl9NbEc",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -6561,10 +6777,10 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "49",
+        "viewCount": "73",
         "likeCount": "2",
         "favoriteCount": "0",
-        "commentCount": "0"
+        "commentCount": "2"
       }
     },
     {
@@ -6658,7 +6874,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Kr8PfiRi5XrwQZRwN5HPhN3-Cfc",
+      "etag": "bKL81iR12PHFmYqEBjgSjEUxlok",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -6734,7 +6950,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "85",
+        "viewCount": "87",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6748,7 +6964,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cVyIfi0lgNJU1nxOW-dNRELMTMA",
+      "etag": "ucXVdaioY6LfnUZ8RNHfjvKkMUE",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -6810,7 +7026,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "113",
+        "viewCount": "121",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6818,7 +7034,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MNzgO7HLn7fBaaRkKdQhSZLodQ0",
+      "etag": "PwQuCv-DCzFNiZ4qkTqUA3i87oQ",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -6880,7 +7096,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "58",
+        "viewCount": "77",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7523,7 +7739,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "b61S0BU1tpBToMJTYNhIqd0iWiM",
+      "etag": "60NlYxPY6aVJ81ruWsO_tqeeUVk",
       "id": "eXCJqh1EggI",
       "snippet": {
         "publishedAt": "2026-11-13T10:13:33Z",
@@ -7661,7 +7877,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xOyuj6BYTURDTwEnQ35pwPBMu5Q",
+      "etag": "HQRUFrXB03NPocyA-lttwMb5_So",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -8187,7 +8403,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QNO1497WHbnkGy3rJapUCcOmzhc",
+      "etag": "sK1AKRSBa4IS4Em05I6svCDJZYs",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -8248,7 +8464,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "861",
+        "viewCount": "869",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -14955,7 +15171,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gntWjQSQeS7CBA5QY9P20ATk9aE",
+      "etag": "buNo1bprHJO8r1R_lSqsgQBvveg",
       "id": "DI4i0wUd4RI",
       "snippet": {
         "publishedAt": "2026-10-17T09:40:29Z",
@@ -15024,7 +15240,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sLX3yCF8-8FDeyQAlCX5Tido6ck",
+      "etag": "XGQdRANMAdvF-iwUNv-EYLbnouQ",
       "id": "VPxybo_V4Yc",
       "snippet": {
         "publishedAt": "2026-10-17T09:35:20Z",
@@ -15093,7 +15309,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ubARPBn6FAyV4sjt_BTnsV59-PQ",
+      "etag": "cSW5O4eO4bVdVQycxo_9KWMZWew",
       "id": "X3ZM2CC_ypQ",
       "snippet": {
         "publishedAt": "2026-10-16T20:54:45Z",
@@ -17727,75 +17943,6 @@
         "favoriteCount": "0",
         "commentCount": "4"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_hODJJT51imFi_avU_wX_EIOatY",
-      "id": "oCpA-DDTRTU",
-      "snippet": {
-        "publishedAt": "2026-10-07T08:56:02Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "DID YOU LIKE THE OG EL GRANDE!?! #wwe2k26 #wwe #foryou #gaming #shorts #reels #entertainment #short",
-        "description": "I wonder who the new one is?",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oCpA-DDTRTU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oCpA-DDTRTU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oCpA-DDTRTU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oCpA-DDTRTU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oCpA-DDTRTU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "DID YOU LIKE THE OG EL GRANDE!?! #wwe2k26 #wwe #foryou #gaming #shorts #reels #entertainment #short",
-          "description": "I wonder who the new one is?"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT28S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "174",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
     }
   ],
   "playlists": [],
@@ -17804,21 +17951,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T17:53:46.974Z"
+      "updatedAt": "2026-11-17T21:05:24.293Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T17:53:46.974Z"
+      "updatedAt": "2026-11-17T21:05:24.293Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T17:53:46.974Z"
+      "updatedAt": "2026-11-17T21:05:24.293Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-17T17:53:46.974Z",
-    "evaluatedAt": "2026-11-17T17:53:48.736Z"
+    "observedAt": "2026-11-17T21:05:24.293Z",
+    "evaluatedAt": "2026-11-17T21:05:26.503Z"
   }
 }

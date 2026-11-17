@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-17T17:53:48.751Z",
+  "updatedAt": "2026-11-17T21:05:26.515Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "X-IGLVT5l2t_FdGfsK9dZEi01po",
+    "etag": "Cn_esKUaPU6PNYlqE3IW00cd5IQ",
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
     "snippet": {
       "title": "Dream Drops Crew",
@@ -45,7 +45,7 @@
       "viewCount": "99274",
       "subscriberCount": "505",
       "hiddenSubscriberCount": false,
-      "videoCount": "868"
+      "videoCount": "869"
     },
     "brandingSettings": {
       "channel": {
@@ -61,26 +61,26 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "VeEyUqKeFnyf_iYkzgU44zDcbW0",
+      "etag": "TdJp2bFqRe5JmBTxP8ci3BmECEc",
       "id": "qJvKHIvR29U",
       "snippet": {
-        "publishedAt": "2026-11-17T01:56:36Z",
+        "publishedAt": "2026-11-17T19:01:48Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Sal rejoins the Jianhu! Where Winds Meet",
         "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/default.jpg?v=6afbb6fc",
+            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg?v=6afbb6fc",
+            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/hqdefault.jpg?v=6afbb6fc",
+            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
@@ -105,16 +105,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT2H26M24S",
+        "duration": "PT2H25M59S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -122,7 +122,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "55",
+        "viewCount": "56",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -541,26 +541,26 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "VeEyUqKeFnyf_iYkzgU44zDcbW0",
+      "etag": "TdJp2bFqRe5JmBTxP8ci3BmECEc",
       "id": "qJvKHIvR29U",
       "snippet": {
-        "publishedAt": "2026-11-17T01:56:36Z",
+        "publishedAt": "2026-11-17T19:01:48Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Sal rejoins the Jianhu! Where Winds Meet",
         "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/default.jpg?v=6afbb6fc",
+            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg?v=6afbb6fc",
+            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/hqdefault.jpg?v=6afbb6fc",
+            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
@@ -585,16 +585,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT2H26M24S",
+        "duration": "PT2H25M59S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -602,7 +602,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "55",
+        "viewCount": "56",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1049,16 +1049,16 @@
       "id": "qJvKHIvR29U",
       "title": "Sal rejoins the Jianhu! Where Winds Meet",
       "label": "YouTube",
-      "publishedAt": "2026-11-17T01:56:36Z",
+      "publishedAt": "2026-11-17T19:01:48Z",
       "startedAt": "2026-11-17T02:11:51Z",
       "endedAt": "2026-11-17T04:38:15Z",
       "scheduledAt": null,
-      "duration": "PT2H26M24S",
+      "duration": "PT2H25M59S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg?v=6afbb6fc",
+      "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "55",
+      "views": "56",
       "live": false,
       "wasLive": true
     },
@@ -1153,16 +1153,16 @@
       "id": "qJvKHIvR29U",
       "title": "Sal rejoins the Jianhu! Where Winds Meet",
       "label": "Livestream",
-      "publishedAt": "2026-11-17T01:56:36Z",
+      "publishedAt": "2026-11-17T19:01:48Z",
       "startedAt": "2026-11-17T02:11:51Z",
       "endedAt": "2026-11-17T04:38:15Z",
       "scheduledAt": null,
-      "duration": "PT2H26M24S",
+      "duration": "PT2H25M59S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg?v=6afbb6fc",
+      "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "55",
+      "views": "56",
       "live": false,
       "wasLive": true
     },
@@ -1257,16 +1257,16 @@
       "id": "qJvKHIvR29U",
       "title": "Sal rejoins the Jianhu! Where Winds Meet",
       "label": "Replay",
-      "publishedAt": "2026-11-17T01:56:36Z",
+      "publishedAt": "2026-11-17T19:01:48Z",
       "startedAt": "2026-11-17T02:11:51Z",
       "endedAt": "2026-11-17T04:38:15Z",
       "scheduledAt": null,
-      "duration": "PT2H26M24S",
+      "duration": "PT2H25M59S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg?v=6afbb6fc",
+      "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "55",
+      "views": "56",
       "live": false,
       "wasLive": true
     },
@@ -1359,8 +1359,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-17T17:53:48.751Z",
-    "expiresAt": "2026-11-17T18:38:48.751Z",
+    "checkedAt": "2026-11-17T21:05:26.515Z",
+    "expiresAt": "2026-11-17T21:50:26.515Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1369,6 +1369,79 @@
   "scannedUploadCount": 400,
   "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed.",
   "catalog": [
+    {
+      "kind": "youtube#video",
+      "etag": "TdJp2bFqRe5JmBTxP8ci3BmECEc",
+      "id": "qJvKHIvR29U",
+      "snippet": {
+        "publishedAt": "2026-11-17T19:01:48Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Sal rejoins the Jianhu! Where Winds Meet",
+        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gameplay",
+          "games",
+          "vtuber",
+          "png tuber",
+          "Dressmaker",
+          "cozy",
+          "fashion"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Sal rejoins the Jianhu! Where Winds Meet",
+          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H25M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "56",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-17T02:11:51Z",
+        "actualEndTime": "2026-11-17T04:38:15Z"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "-NF5m-dxE8J6782cA5GnIn85zrk",
@@ -1439,79 +1512,6 @@
       },
       "liveStreamingDetails": {
         "activeLiveChatId": "Cg0KCzBKMXo5LTZHaXlBKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILMEoxejktNkdpeUE"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "VeEyUqKeFnyf_iYkzgU44zDcbW0",
-      "id": "qJvKHIvR29U",
-      "snippet": {
-        "publishedAt": "2026-11-17T01:56:36Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Sal rejoins the Jianhu! Where Winds Meet",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/default.jpg?v=6afbb6fc",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg?v=6afbb6fc",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qJvKHIvR29U/hqdefault.jpg?v=6afbb6fc",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "Dressmaker",
-          "cozy",
-          "fashion"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Sal rejoins the Jianhu! Where Winds Meet",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H26M24S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "55",
-        "likeCount": "3",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-17T02:11:51Z",
-        "actualEndTime": "2026-11-17T04:38:15Z"
       }
     },
     {
@@ -3766,7 +3766,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cTjIflIhGxpKLCzRC3uhhgtBuAY",
+      "etag": "mKt55bdI2pC_S53k1Ut_C7F-ECw",
       "id": "SBzE3J_sTtk",
       "snippet": {
         "publishedAt": "2026-10-17T04:39:06Z",
@@ -3842,7 +3842,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qtcIBfyJW3h3E9IRBa3hoLhRmRI",
+      "etag": "eaCQXLDEEmZ5xhFo5qA2PHCsPFA",
       "id": "3AnW4m-SO84",
       "snippet": {
         "publishedAt": "2026-10-17T04:38:18Z",
@@ -39844,21 +39844,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T17:53:48.751Z"
+      "updatedAt": "2026-11-17T21:05:26.515Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T17:53:48.751Z"
+      "updatedAt": "2026-11-17T21:05:26.515Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T17:53:48.751Z"
+      "updatedAt": "2026-11-17T21:05:26.515Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-17T17:53:48.751Z",
-    "evaluatedAt": "2026-11-17T17:53:53.069Z"
+    "observedAt": "2026-11-17T21:05:26.515Z",
+    "evaluatedAt": "2026-11-17T21:05:31.107Z"
   }
 }

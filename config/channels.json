@@ -86,7 +86,7 @@
       "label": "Portal Master Of Games",
       "handle": "@PMOG",
       "channelId": "UCdOJvhjojFe3Z0yKeGEIERA",
-      "enabled": false,
+      "enabled": true,
       "identityVerified": true,
       "scanPages": 2,
       "latestCount": 6,

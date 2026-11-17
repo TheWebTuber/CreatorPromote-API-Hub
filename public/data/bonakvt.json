@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-17T00:30:41.786Z",
+  "updatedAt": "2026-11-17T08:31:08.214Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "7QnvMELbNQHvgIeOckDRFUlLgI8",
+    "etag": "r_u4xbWBs69O55SwQEXx-KqmnjY",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "64173",
+      "viewCount": "64961",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
       "videoCount": "203"
@@ -64,7 +64,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "AtQ--qozEh5gSNqAyUGOO_D69OY",
+      "etag": "mttzJRd5eIpmhY3bAIiV6UTgYHk",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -126,7 +126,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "755",
+        "viewCount": "807",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -209,7 +209,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZKnvO5zxyn5MMWs4rpKvR1p7QxY",
+      "etag": "1Eo1K9uNEUHRrssvXPS7ee6CzJs",
       "id": "xd36eXXJqu0",
       "snippet": {
         "publishedAt": "2026-11-15T05:06:35Z",
@@ -250,8 +250,7 @@
         "localized": {
           "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "und"
+        }
       },
       "contentDetails": {
         "duration": "PT2H19M43S",
@@ -506,7 +505,7 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "ZKnvO5zxyn5MMWs4rpKvR1p7QxY",
+      "etag": "1Eo1K9uNEUHRrssvXPS7ee6CzJs",
       "id": "xd36eXXJqu0",
       "snippet": {
         "publishedAt": "2026-11-15T05:06:35Z",
@@ -547,8 +546,7 @@
         "localized": {
           "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "und"
+        }
       },
       "contentDetails": {
         "duration": "PT2H19M43S",
@@ -960,7 +958,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
-      "views": "755",
+      "views": "807",
       "live": false,
       "wasLive": false
     },
@@ -1261,8 +1259,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-17T00:30:41.786Z",
-    "expiresAt": "2026-11-17T01:15:41.786Z",
+    "checkedAt": "2026-11-17T08:31:08.214Z",
+    "expiresAt": "2026-11-17T09:16:08.214Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1273,7 +1271,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "AtQ--qozEh5gSNqAyUGOO_D69OY",
+      "etag": "mttzJRd5eIpmhY3bAIiV6UTgYHk",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -1335,7 +1333,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "755",
+        "viewCount": "807",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1418,7 +1416,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZKnvO5zxyn5MMWs4rpKvR1p7QxY",
+      "etag": "1Eo1K9uNEUHRrssvXPS7ee6CzJs",
       "id": "xd36eXXJqu0",
       "snippet": {
         "publishedAt": "2026-11-15T05:06:35Z",
@@ -1459,8 +1457,7 @@
         "localized": {
           "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "und"
+        }
       },
       "contentDetails": {
         "duration": "PT2H19M43S",
@@ -1713,7 +1710,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "62P8_PaL0rCuXlAI-rxOu0MKvO4",
+      "etag": "RQfs1lEYWecAznew1hsa05ozhsg",
       "id": "vssbsSM6KBQ",
       "snippet": {
         "publishedAt": "2026-11-09T12:35:54Z",
@@ -1780,7 +1777,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "193",
+        "viewCount": "194",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4948,7 +4945,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tzwvEHn8wa7X1SEIr7crPrlFm-w",
+      "etag": "Aq0gMao2BpOGihLxipUC0Dc5354",
       "id": "NX-SJoCG_C8",
       "snippet": {
         "publishedAt": "2026-09-07T11:34:15Z",
@@ -4983,6 +4980,11 @@
           }
         },
         "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
         "categoryId": "20",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
@@ -5010,7 +5012,7 @@
       },
       "statistics": {
         "viewCount": "815",
-        "likeCount": "0",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -8551,21 +8553,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T00:30:41.786Z"
+      "updatedAt": "2026-11-17T08:31:08.214Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T00:30:41.786Z"
+      "updatedAt": "2026-11-17T08:31:08.214Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T00:30:41.786Z"
+      "updatedAt": "2026-11-17T08:31:08.214Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-17T00:30:41.786Z",
-    "evaluatedAt": "2026-11-17T00:30:45.341Z"
+    "observedAt": "2026-11-17T08:31:08.214Z",
+    "evaluatedAt": "2026-11-17T08:31:09.092Z"
   }
 }

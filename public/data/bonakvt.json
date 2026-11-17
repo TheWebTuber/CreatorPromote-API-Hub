@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-17T08:31:08.214Z",
+  "updatedAt": "2026-11-17T17:53:54.488Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "r_u4xbWBs69O55SwQEXx-KqmnjY",
+    "etag": "Rk6omU33sPCPCgYtCUb_PGnKkug",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,10 +43,10 @@
       }
     },
     "statistics": {
-      "viewCount": "64961",
+      "viewCount": "64997",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
-      "videoCount": "203"
+      "videoCount": "204"
     },
     "brandingSettings": {
       "channel": {
@@ -64,7 +64,156 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "mttzJRd5eIpmhY3bAIiV6UTgYHk",
+      "etag": "tCm5XVJ-0EIZ_4nHo_6-014toho",
+      "id": "iwXIeP9x8WM",
+      "snippet": {
+        "publishedAt": "2026-11-17T14:47:56Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "maybe I shouldn't facecheck bushes  #vtuber #leagueoflegends #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "maybe I shouldn't facecheck bushes  #vtuber #leagueoflegends #fyp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "657",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VxK2GSCo4Zl4q30kLdrP3OE_crU",
+      "id": "jRW7YQHJyLA",
+      "snippet": {
+        "publishedAt": "2026-11-17T09:59:27Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/default.jpg?v=6afc257f",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/mqdefault.jpg?v=6afc257f",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/hqdefault.jpg?v=6afc257f",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/sddefault.jpg?v=6afc257f",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        },
+        "defaultAudioLanguage": "und"
+      },
+      "contentDetails": {
+        "duration": "PT1H46M3S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "14",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-17T10:03:11Z",
+        "actualEndTime": "2026-11-17T11:49:14Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-WtD_AFx62h9iQs7FcBwkX7aAyo",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -126,7 +275,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "807",
+        "viewCount": "842",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -282,7 +431,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qDM75F8pxYIholRD0VBEq3Dbkgw",
+      "etag": "ZM1nvNXM8mAz1neoVninQMCAeVc",
       "id": "uOKARoS7rk4",
       "snippet": {
         "publishedAt": "2026-11-13T13:21:05Z",
@@ -348,113 +497,41 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1144",
+        "viewCount": "1141",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
+    }
+  ],
+  "replays": [
     {
       "kind": "youtube#video",
-      "etag": "vnNBSnwz7EM-Jh8PiS2GnlD-a5c",
-      "id": "D3ibkTmeRww",
+      "etag": "VxK2GSCo4Zl4q30kLdrP3OE_crU",
+      "id": "jRW7YQHJyLA",
       "snippet": {
-        "publishedAt": "2026-11-10T09:25:08Z",
+        "publishedAt": "2026-11-17T09:59:27Z",
         "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "the top lane experience  #vtuber #leagueoflegends #shorts #fyp",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/D3ibkTmeRww/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "leagueoflegends",
-          "twitch"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "the top lane experience  #vtuber #leagueoflegends #shorts #fyp",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT14S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "1203",
-        "likeCount": "3",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "nvI5xoO9yN8M5aYiABs3FFRwsyc",
-      "id": "YDibgw7mSKI",
-      "snippet": {
-        "publishedAt": "2026-11-09T22:50:33Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "why do I both love and hate this game #vtuber #leagueoflegends",
+        "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
         "description": "Twitch stream here https://www.twitch.tv/bonakvt",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/default.jpg",
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/default.jpg?v=6afc257f",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/mqdefault.jpg?v=6afc257f",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/hqdefault.jpg?v=6afc257f",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/YDibgw7mSKI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/sddefault.jpg?v=6afc257f",
             "width": 640,
             "height": 480
           }
@@ -469,21 +546,22 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "why do I both love and hate this game #vtuber #leagueoflegends",
+          "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "und"
       },
       "contentDetails": {
-        "duration": "PT1H47M2S",
+        "duration": "PT1H46M3S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "processed",
+        "uploadStatus": "uploaded",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -491,18 +569,16 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "6",
+        "viewCount": "14",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
-        "actualStartTime": "2026-11-09T08:46:00Z",
-        "actualEndTime": "2026-11-09T10:33:03Z"
+        "actualStartTime": "2026-11-17T10:03:11Z",
+        "actualEndTime": "2026-11-17T11:49:14Z"
       }
-    }
-  ],
-  "replays": [
+    },
     {
       "kind": "youtube#video",
       "etag": "1Eo1K9uNEUHRrssvXPS7ee6CzJs",
@@ -867,84 +943,45 @@
         "actualStartTime": "2026-10-22T08:41:42Z",
         "actualEndTime": "2026-10-22T12:02:41Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "3W14G1ebVqro-Qett7HAOnH5_fQ",
-      "id": "mJ0v3O_PJww",
-      "snippet": {
-        "publishedAt": "2026-10-13T23:06:11Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
-        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mJ0v3O_PJww/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mJ0v3O_PJww/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mJ0v3O_PJww/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/mJ0v3O_PJww/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "fnaf",
-          "fivenightsatfreddys2"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
-          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1H9S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "21",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-13T09:58:26Z",
-        "actualEndTime": "2026-10-13T10:58:40Z"
-      }
     }
   ],
   "live": null,
   "liveChecked": false,
   "latestVideos": [
+    {
+      "id": "iwXIeP9x8WM",
+      "title": "maybe I shouldn't facecheck bushes  #vtuber #leagueoflegends #fyp",
+      "label": "YouTube",
+      "publishedAt": "2026-11-17T14:47:56Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT16S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/iwXIeP9x8WM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iwXIeP9x8WM",
+      "views": "657",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "jRW7YQHJyLA",
+      "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
+      "label": "YouTube",
+      "publishedAt": "2026-11-17T09:59:27Z",
+      "startedAt": "2026-11-17T10:03:11Z",
+      "endedAt": "2026-11-17T11:49:14Z",
+      "scheduledAt": null,
+      "duration": "PT1H46M3S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/jRW7YQHJyLA/mqdefault.jpg?v=6afc257f",
+      "url": "https://www.youtube.com/watch?v=jRW7YQHJyLA",
+      "views": "14",
+      "live": false,
+      "wasLive": true
+    },
     {
       "id": "ql_zVxDG9rw",
       "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
@@ -958,7 +995,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
-      "views": "807",
+      "views": "842",
       "live": false,
       "wasLive": false
     },
@@ -1009,46 +1046,29 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/uOKARoS7rk4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uOKARoS7rk4",
-      "views": "1144",
+      "views": "1141",
       "live": false,
       "wasLive": false
-    },
-    {
-      "id": "D3ibkTmeRww",
-      "title": "the top lane experience  #vtuber #leagueoflegends #shorts #fyp",
-      "label": "YouTube",
-      "publishedAt": "2026-11-10T09:25:08Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT14S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/D3ibkTmeRww/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=D3ibkTmeRww",
-      "views": "1203",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "YDibgw7mSKI",
-      "title": "why do I both love and hate this game #vtuber #leagueoflegends",
-      "label": "YouTube",
-      "publishedAt": "2026-11-09T22:50:33Z",
-      "startedAt": "2026-11-09T08:46:00Z",
-      "endedAt": "2026-11-09T10:33:03Z",
-      "scheduledAt": null,
-      "duration": "PT1H47M2S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/YDibgw7mSKI/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YDibgw7mSKI",
-      "views": "6",
-      "live": false,
-      "wasLive": true
     }
   ],
   "latestLivestreams": [
+    {
+      "id": "jRW7YQHJyLA",
+      "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
+      "label": "Livestream",
+      "publishedAt": "2026-11-17T09:59:27Z",
+      "startedAt": "2026-11-17T10:03:11Z",
+      "endedAt": "2026-11-17T11:49:14Z",
+      "scheduledAt": null,
+      "duration": "PT1H46M3S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/jRW7YQHJyLA/mqdefault.jpg?v=6afc257f",
+      "url": "https://www.youtube.com/watch?v=jRW7YQHJyLA",
+      "views": "14",
+      "live": false,
+      "wasLive": true
+    },
     {
       "id": "xd36eXXJqu0",
       "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
@@ -1131,29 +1151,29 @@
       "thumbnail": "https://i.ytimg.com/vi/9Y71X8ioFdY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=9Y71X8ioFdY",
       "views": "25",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "mJ0v3O_PJww",
-      "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
-      "label": "Livestream",
-      "publishedAt": "2026-10-13T23:06:11Z",
-      "startedAt": "2026-10-13T09:58:26Z",
-      "endedAt": "2026-10-13T10:58:40Z",
-      "scheduledAt": null,
-      "duration": "PT1H9S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/mJ0v3O_PJww/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mJ0v3O_PJww",
-      "views": "21",
       "live": false,
       "wasLive": true
     }
   ],
   "latestReplays": [
     {
+      "id": "jRW7YQHJyLA",
+      "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
+      "label": "Replay",
+      "publishedAt": "2026-11-17T09:59:27Z",
+      "startedAt": "2026-11-17T10:03:11Z",
+      "endedAt": "2026-11-17T11:49:14Z",
+      "scheduledAt": null,
+      "duration": "PT1H46M3S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/jRW7YQHJyLA/mqdefault.jpg?v=6afc257f",
+      "url": "https://www.youtube.com/watch?v=jRW7YQHJyLA",
+      "views": "14",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "xd36eXXJqu0",
       "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
       "label": "Replay",
@@ -1235,23 +1255,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9Y71X8ioFdY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=9Y71X8ioFdY",
       "views": "25",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "mJ0v3O_PJww",
-      "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
-      "label": "Replay",
-      "publishedAt": "2026-10-13T23:06:11Z",
-      "startedAt": "2026-10-13T09:58:26Z",
-      "endedAt": "2026-10-13T10:58:40Z",
-      "scheduledAt": null,
-      "duration": "PT1H9S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/mJ0v3O_PJww/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mJ0v3O_PJww",
-      "views": "21",
       "live": false,
       "wasLive": true
     }
@@ -1259,8 +1262,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-17T08:31:08.214Z",
-    "expiresAt": "2026-11-17T09:16:08.214Z",
+    "checkedAt": "2026-11-17T17:53:54.488Z",
+    "expiresAt": "2026-11-17T18:38:54.488Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1271,7 +1274,156 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "mttzJRd5eIpmhY3bAIiV6UTgYHk",
+      "etag": "tCm5XVJ-0EIZ_4nHo_6-014toho",
+      "id": "iwXIeP9x8WM",
+      "snippet": {
+        "publishedAt": "2026-11-17T14:47:56Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "maybe I shouldn't facecheck bushes  #vtuber #leagueoflegends #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iwXIeP9x8WM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "maybe I shouldn't facecheck bushes  #vtuber #leagueoflegends #fyp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "657",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VxK2GSCo4Zl4q30kLdrP3OE_crU",
+      "id": "jRW7YQHJyLA",
+      "snippet": {
+        "publishedAt": "2026-11-17T09:59:27Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/default.jpg?v=6afc257f",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/mqdefault.jpg?v=6afc257f",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/hqdefault.jpg?v=6afc257f",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jRW7YQHJyLA/sddefault.jpg?v=6afc257f",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        },
+        "defaultAudioLanguage": "und"
+      },
+      "contentDetails": {
+        "duration": "PT1H46M3S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "14",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-17T10:03:11Z",
+        "actualEndTime": "2026-11-17T11:49:14Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-WtD_AFx62h9iQs7FcBwkX7aAyo",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -1333,7 +1485,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "807",
+        "viewCount": "842",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1489,7 +1641,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qDM75F8pxYIholRD0VBEq3Dbkgw",
+      "etag": "ZM1nvNXM8mAz1neoVninQMCAeVc",
       "id": "uOKARoS7rk4",
       "snippet": {
         "publishedAt": "2026-11-13T13:21:05Z",
@@ -1555,7 +1707,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1144",
+        "viewCount": "1141",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1563,7 +1715,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vnNBSnwz7EM-Jh8PiS2GnlD-a5c",
+      "etag": "F2HjKEM1caTT5AmGSh_p6ajeWq8",
       "id": "D3ibkTmeRww",
       "snippet": {
         "publishedAt": "2026-11-10T09:25:08Z",
@@ -1629,7 +1781,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1203",
+        "viewCount": "1204",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8398,153 +8550,6 @@
         "actualStartTime": "2026-06-29T03:25:01Z",
         "actualEndTime": "2026-06-29T05:04:30Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Eccr6K-dqgPTjbTYw7vzufqz9EY",
-      "id": "dG-yp3DJ-n0",
-      "snippet": {
-        "publishedAt": "2026-06-29T12:45:18Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "How to Build and Play Diana in 3 minutes or less #riotgames #leagueoflegends #riftbound ",
-        "description": "Wanna know how to Build Diana Scorn of the Moon. I got you covered with a complete decklist and a how to guide on how to play it\n\nTimestamps\n0:02 Legend \n0:15 Champion Unit\n0:25 Runes\n0:30 Battlefields\n0:42 unit to spell ratio\n0:52 Spells\n1:16 Units\n1:45 Sideboard\n1:57 How to play",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dG-yp3DJ-n0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dG-yp3DJ-n0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dG-yp3DJ-n0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dG-yp3DJ-n0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dG-yp3DJ-n0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "uhd": {
-            "url": "https://i.ytimg.com/vi/dG-yp3DJ-n0/uhddefault.jpg",
-            "width": 3840,
-            "height": 2160
-          }
-        },
-        "channelTitle": "BonakVT",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How to Build and Play Diana in 3 minutes or less #riotgames #leagueoflegends #riftbound ",
-          "description": "Wanna know how to Build Diana Scorn of the Moon. I got you covered with a complete decklist and a how to guide on how to play it\n\nTimestamps\n0:02 Legend \n0:15 Champion Unit\n0:25 Runes\n0:30 Battlefields\n0:42 unit to spell ratio\n0:52 Spells\n1:16 Units\n1:45 Sideboard\n1:57 How to play"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT2M26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "24",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Uo_oNgLqXMH-SpLWxUz0Q9muoEg",
-      "id": "jiQ5cXOx8M4",
-      "snippet": {
-        "publishedAt": "2026-06-29T00:25:56Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "-400 LP here I come - Ranked Grind OCE #twitch #vtuber #leagueoflegends",
-        "description": "fox plays league",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jiQ5cXOx8M4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jiQ5cXOx8M4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jiQ5cXOx8M4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jiQ5cXOx8M4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "fnaf",
-          "fivenightsatfreddys2"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "-400 LP here I come - Ranked Grind OCE #twitch #vtuber #leagueoflegends",
-          "description": "fox plays league"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT54M13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "20",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-06-28T11:14:02Z",
-        "actualEndTime": "2026-06-28T12:08:16Z"
-      }
     }
   ],
   "playlists": [],
@@ -8553,21 +8558,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T08:31:08.214Z"
+      "updatedAt": "2026-11-17T17:53:54.488Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T08:31:08.214Z"
+      "updatedAt": "2026-11-17T17:53:54.488Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T08:31:08.214Z"
+      "updatedAt": "2026-11-17T17:53:54.488Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-17T08:31:08.214Z",
-    "evaluatedAt": "2026-11-17T08:31:09.092Z"
+    "observedAt": "2026-11-17T17:53:54.488Z",
+    "evaluatedAt": "2026-11-17T17:53:55.433Z"
   }
 }

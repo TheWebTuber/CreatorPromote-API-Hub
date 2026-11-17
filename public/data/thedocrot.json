@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-17T08:31:00.899Z",
+  "updatedAt": "2026-11-17T17:53:46.974Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "j_JFbjoir2lwjcOWsyRDcED5zqU",
+    "etag": "gpzyCYDZUkxkIkLzzmBtnVYEiPQ",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -43,9 +43,9 @@
     },
     "statistics": {
       "viewCount": "1212641",
-      "subscriberCount": "733",
+      "subscriberCount": "734",
       "hiddenSubscriberCount": false,
-      "videoCount": "3024"
+      "videoCount": "3026"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,147 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "oVwJouIfzf6BZS4ZiTWl5wwbvZk",
+      "etag": "3D1lHx79NhzZaR32qcInN0webaM",
+      "id": "_iwQGw2yV5A",
+      "snippet": {
+        "publishedAt": "2026-11-17T09:53:21Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHEN MOMENTUM SHIFTS!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
+        "description": "You really feel it!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WHEN MOMENTUM SHIFTS!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
+          "description": "You really feel it!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "38",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yHamhRYitIzz1teKigEXKY1EsE4",
+      "id": "soKh-xuZRZ4",
+      "snippet": {
+        "publishedAt": "2026-11-17T09:48:05Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "STICK DRIFT MADE ME ESCAPE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
+        "description": "It wasn't me!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "STICK DRIFT MADE ME ESCAPE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
+          "description": "It wasn't me!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "49",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AJlVjrKNZGrw_3ZjnjD37sbM90o",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -136,7 +276,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "77",
+        "viewCount": "78",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -150,7 +290,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QJavBVOUSdXhtszbBVBKwtbRSW4",
+      "etag": "Kr8PfiRi5XrwQZRwN5HPhN3-Cfc",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -226,7 +366,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "82",
+        "viewCount": "85",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -240,7 +380,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NJ1IRN6GTVn5paLOnTrcvb29RaM",
+      "etag": "cVyIfi0lgNJU1nxOW-dNRELMTMA",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -302,15 +442,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "102",
-        "likeCount": "1",
+        "viewCount": "113",
+        "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fa808wBZE4HcczfUOlirJms955o",
+      "etag": "MNzgO7HLn7fBaaRkKdQhSZLodQ0",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -372,7 +512,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "46",
+        "viewCount": "58",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -380,7 +520,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-sFFugZmTU2n4CVndcDPjnX175c",
+      "etag": "sfgxZ7iUUKMXeePLX--x8tGSJk0",
       "id": "ZSq8KMLbsG8",
       "snippet": {
         "publishedAt": "2026-11-15T23:14:20Z",
@@ -456,7 +596,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "180",
+        "viewCount": "181",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -470,7 +610,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fdaS9hvB4xFhfoiUosI0vvAMocU",
+      "etag": "_oa4FiYei489mQbuuxDPs_5qZug",
       "id": "wmnmENxdoHo",
       "snippet": {
         "publishedAt": "2026-11-15T10:44:29Z",
@@ -531,7 +671,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "175",
+        "viewCount": "186",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -539,7 +679,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AMT89OZvAjkN2qSyiINuyGjsgno",
+      "etag": "FOB7gHvoG8Obe5MuUuYM7hZMXBs",
       "id": "Aq_q6at-Yjc",
       "snippet": {
         "publishedAt": "2026-11-15T10:40:17Z",
@@ -600,7 +740,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "453",
+        "viewCount": "458",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1451,7 +1591,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Qpy8s-ExY9cammJ6boi3Ty6H22I",
+      "etag": "0jHM84DHCoXRgCA1vqWduCRjq6I",
       "id": "K5M5SYkP60I",
       "snippet": {
         "publishedAt": "2026-11-12T09:43:24Z",
@@ -1512,7 +1652,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "728",
+        "viewCount": "727",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1610,7 +1750,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1c-GV0ASCPL5EzektP42ICoqJKo",
+      "etag": "GRKXFFuGtlauOGjGjUunSe6LhM0",
       "id": "OZARQEtjG7o",
       "snippet": {
         "publishedAt": "2026-11-11T10:40:40Z",
@@ -1671,7 +1811,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "27",
+        "viewCount": "26",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1679,7 +1819,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vc1phPIKnkNYSsnyAckGhKamp9E",
+      "etag": "QNO1497WHbnkGy3rJapUCcOmzhc",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -1740,7 +1880,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "859",
+        "viewCount": "861",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4500,171 +4640,12 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "g7kxJsN3hueMrebw707lBU0xDoM",
-      "id": "9UXKF5l6pDw",
-      "snippet": {
-        "publishedAt": "2026-11-01T09:49:03Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "BALD DWIGHT HERITAGE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-        "description": "Works like a charm!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9UXKF5l6pDw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9UXKF5l6pDw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9UXKF5l6pDw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9UXKF5l6pDw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9UXKF5l6pDw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "BALD DWIGHT HERITAGE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-          "description": "Works like a charm!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT51S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "1023",
-        "likeCount": "13",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "7wEmgqQxaqD0J8LDd1QIVncC4rg",
-      "id": "x8TqZpTPi00",
-      "snippet": {
-        "publishedAt": "2026-11-01T09:06:45Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "HALLOWEEN SPECIAL!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/x8TqZpTPi00/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/x8TqZpTPi00/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/x8TqZpTPi00/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/x8TqZpTPi00/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/x8TqZpTPi00/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "HALLOWEEN SPECIAL!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT1H44M40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "122",
-        "likeCount": "3",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-31T18:59:53Z",
-        "actualEndTime": "2026-10-31T20:44:31Z",
-        "scheduledStartTime": "2026-10-31T18:59:39Z",
-        "scheduledEndTime": "2026-10-31T21:01:47Z"
-      }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "oVwJouIfzf6BZS4ZiTWl5wwbvZk",
+      "etag": "AJlVjrKNZGrw_3ZjnjD37sbM90o",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -4739,7 +4720,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "77",
+        "viewCount": "78",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4753,7 +4734,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QJavBVOUSdXhtszbBVBKwtbRSW4",
+      "etag": "Kr8PfiRi5XrwQZRwN5HPhN3-Cfc",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -4829,7 +4810,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "82",
+        "viewCount": "85",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4843,7 +4824,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-sFFugZmTU2n4CVndcDPjnX175c",
+      "etag": "sfgxZ7iUUKMXeePLX--x8tGSJk0",
       "id": "ZSq8KMLbsG8",
       "snippet": {
         "publishedAt": "2026-11-15T23:14:20Z",
@@ -4919,7 +4900,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "180",
+        "viewCount": "181",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -5205,6 +5186,40 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "_iwQGw2yV5A",
+      "title": "WHEN MOMENTUM SHIFTS!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
+      "label": "YouTube",
+      "publishedAt": "2026-11-17T09:53:21Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT58S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/_iwQGw2yV5A/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_iwQGw2yV5A",
+      "views": "38",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "soKh-xuZRZ4",
+      "title": "STICK DRIFT MADE ME ESCAPE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
+      "label": "YouTube",
+      "publishedAt": "2026-11-17T09:48:05Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT39S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/soKh-xuZRZ4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=soKh-xuZRZ4",
+      "views": "49",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "rtHQCknsutM",
       "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
       "label": "YouTube",
@@ -5217,7 +5232,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "77",
+      "views": "78",
       "live": false,
       "wasLive": true
     },
@@ -5234,7 +5249,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "82",
+      "views": "85",
       "live": false,
       "wasLive": true
     },
@@ -5251,7 +5266,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/MQCq7s8tTZw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MQCq7s8tTZw",
-      "views": "102",
+      "views": "113",
       "live": false,
       "wasLive": false
     },
@@ -5268,7 +5283,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vnWCf8PTbdw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vnWCf8PTbdw",
-      "views": "46",
+      "views": "58",
       "live": false,
       "wasLive": false
     },
@@ -5285,7 +5300,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "180",
+      "views": "181",
       "live": false,
       "wasLive": true
     },
@@ -5302,7 +5317,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/wmnmENxdoHo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wmnmENxdoHo",
-      "views": "175",
+      "views": "186",
       "live": false,
       "wasLive": false
     },
@@ -5319,7 +5334,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Aq_q6at-Yjc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Aq_q6at-Yjc",
-      "views": "453",
+      "views": "458",
       "live": false,
       "wasLive": false
     },
@@ -5523,7 +5538,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/K5M5SYkP60I/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=K5M5SYkP60I",
-      "views": "728",
+      "views": "727",
       "live": false,
       "wasLive": false
     },
@@ -5557,7 +5572,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OZARQEtjG7o/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OZARQEtjG7o",
-      "views": "27",
+      "views": "26",
       "live": false,
       "wasLive": false
     },
@@ -5574,7 +5589,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/uD013f3vhZE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uD013f3vhZE",
-      "views": "859",
+      "views": "861",
       "live": false,
       "wasLive": false
     },
@@ -6189,40 +6204,6 @@
       "views": "1053",
       "live": false,
       "wasLive": false
-    },
-    {
-      "id": "9UXKF5l6pDw",
-      "title": "BALD DWIGHT HERITAGE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-      "label": "YouTube",
-      "publishedAt": "2026-11-01T09:49:03Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT51S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/9UXKF5l6pDw/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9UXKF5l6pDw",
-      "views": "1023",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "x8TqZpTPi00",
-      "title": "HALLOWEEN SPECIAL!?! | Dead By Daylight",
-      "label": "YouTube",
-      "publishedAt": "2026-11-01T09:06:45Z",
-      "startedAt": "2026-10-31T18:59:53Z",
-      "endedAt": "2026-10-31T20:44:31Z",
-      "scheduledAt": "2026-10-31T18:59:39Z",
-      "duration": "PT1H44M40S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/x8TqZpTPi00/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=x8TqZpTPi00",
-      "views": "122",
-      "live": false,
-      "wasLive": true
     }
   ],
   "latestLivestreams": [
@@ -6239,7 +6220,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "77",
+      "views": "78",
       "live": false,
       "wasLive": true
     },
@@ -6256,7 +6237,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "82",
+      "views": "85",
       "live": false,
       "wasLive": true
     },
@@ -6273,7 +6254,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "180",
+      "views": "181",
       "live": false,
       "wasLive": true
     },
@@ -6343,7 +6324,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "77",
+      "views": "78",
       "live": false,
       "wasLive": true
     },
@@ -6360,7 +6341,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "82",
+      "views": "85",
       "live": false,
       "wasLive": true
     },
@@ -6377,7 +6358,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "180",
+      "views": "181",
       "live": false,
       "wasLive": true
     },
@@ -6436,8 +6417,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-17T08:31:00.899Z",
-    "expiresAt": "2026-11-17T09:16:00.899Z",
+    "checkedAt": "2026-11-17T17:53:46.974Z",
+    "expiresAt": "2026-11-17T18:38:46.974Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6448,7 +6429,147 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "oVwJouIfzf6BZS4ZiTWl5wwbvZk",
+      "etag": "3D1lHx79NhzZaR32qcInN0webaM",
+      "id": "_iwQGw2yV5A",
+      "snippet": {
+        "publishedAt": "2026-11-17T09:53:21Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHEN MOMENTUM SHIFTS!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
+        "description": "You really feel it!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_iwQGw2yV5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WHEN MOMENTUM SHIFTS!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
+          "description": "You really feel it!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "38",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yHamhRYitIzz1teKigEXKY1EsE4",
+      "id": "soKh-xuZRZ4",
+      "snippet": {
+        "publishedAt": "2026-11-17T09:48:05Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "STICK DRIFT MADE ME ESCAPE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
+        "description": "It wasn't me!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/soKh-xuZRZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "STICK DRIFT MADE ME ESCAPE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
+          "description": "It wasn't me!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "49",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AJlVjrKNZGrw_3ZjnjD37sbM90o",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -6523,7 +6644,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "77",
+        "viewCount": "78",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6537,7 +6658,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QJavBVOUSdXhtszbBVBKwtbRSW4",
+      "etag": "Kr8PfiRi5XrwQZRwN5HPhN3-Cfc",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -6613,7 +6734,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "82",
+        "viewCount": "85",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6627,7 +6748,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NJ1IRN6GTVn5paLOnTrcvb29RaM",
+      "etag": "cVyIfi0lgNJU1nxOW-dNRELMTMA",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -6689,15 +6810,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "102",
-        "likeCount": "1",
+        "viewCount": "113",
+        "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fa808wBZE4HcczfUOlirJms955o",
+      "etag": "MNzgO7HLn7fBaaRkKdQhSZLodQ0",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -6759,7 +6880,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "46",
+        "viewCount": "58",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6767,7 +6888,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-sFFugZmTU2n4CVndcDPjnX175c",
+      "etag": "sfgxZ7iUUKMXeePLX--x8tGSJk0",
       "id": "ZSq8KMLbsG8",
       "snippet": {
         "publishedAt": "2026-11-15T23:14:20Z",
@@ -6843,7 +6964,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "180",
+        "viewCount": "181",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -6857,7 +6978,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fdaS9hvB4xFhfoiUosI0vvAMocU",
+      "etag": "_oa4FiYei489mQbuuxDPs_5qZug",
       "id": "wmnmENxdoHo",
       "snippet": {
         "publishedAt": "2026-11-15T10:44:29Z",
@@ -6918,7 +7039,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "175",
+        "viewCount": "186",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6926,7 +7047,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AMT89OZvAjkN2qSyiINuyGjsgno",
+      "etag": "FOB7gHvoG8Obe5MuUuYM7hZMXBs",
       "id": "Aq_q6at-Yjc",
       "snippet": {
         "publishedAt": "2026-11-15T10:40:17Z",
@@ -6987,7 +7108,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "453",
+        "viewCount": "458",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7838,7 +7959,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Qpy8s-ExY9cammJ6boi3Ty6H22I",
+      "etag": "0jHM84DHCoXRgCA1vqWduCRjq6I",
       "id": "K5M5SYkP60I",
       "snippet": {
         "publishedAt": "2026-11-12T09:43:24Z",
@@ -7899,7 +8020,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "728",
+        "viewCount": "727",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7997,7 +8118,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1c-GV0ASCPL5EzektP42ICoqJKo",
+      "etag": "GRKXFFuGtlauOGjGjUunSe6LhM0",
       "id": "OZARQEtjG7o",
       "snippet": {
         "publishedAt": "2026-11-11T10:40:40Z",
@@ -8058,7 +8179,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "27",
+        "viewCount": "26",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -8066,7 +8187,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vc1phPIKnkNYSsnyAckGhKamp9E",
+      "etag": "QNO1497WHbnkGy3rJapUCcOmzhc",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -8127,7 +8248,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "859",
+        "viewCount": "861",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -17675,164 +17796,6 @@
         "favoriteCount": "0",
         "commentCount": "2"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "VkpOtR3n8g9_VA-dsrax-ASnlZw",
-      "id": "cdZWCsZigjM",
-      "snippet": {
-        "publishedAt": "2026-10-07T08:50:48Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "I SHOULD'VE JUST LOOKED!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-        "description": "The second jumpscare got me!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cdZWCsZigjM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cdZWCsZigjM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cdZWCsZigjM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cdZWCsZigjM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cdZWCsZigjM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I SHOULD'VE JUST LOOKED!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
-          "description": "The second jumpscare got me!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT38S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "66",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "TH0jxUVPjxQtUUltQSkj_5ljUnQ",
-      "id": "tLUWnsAHPTE",
-      "snippet": {
-        "publishedAt": "2026-10-06T21:19:35Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "WHO WILL WIN AT MONEY IN THE BANK!?! | WWE2K26",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tLUWnsAHPTE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tLUWnsAHPTE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tLUWnsAHPTE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tLUWnsAHPTE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tLUWnsAHPTE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#PS5Live",
-          "#WRESTLING",
-          "#WWE",
-          "#WWE2K26",
-          "PlayStation 5",
-          "Sony Interactive Entertainment",
-          "WWE 2K26"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "WHO WILL WIN AT MONEY IN THE BANK!?! | WWE2K26",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT3H33M31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "170",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-06T17:35:23Z",
-        "actualEndTime": "2026-10-06T21:09:04Z",
-        "scheduledStartTime": "2026-10-06T17:35:07Z",
-        "scheduledEndTime": "2026-10-06T21:17:15Z"
-      }
     }
   ],
   "playlists": [],
@@ -17841,21 +17804,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T08:31:00.899Z"
+      "updatedAt": "2026-11-17T17:53:46.974Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T08:31:00.899Z"
+      "updatedAt": "2026-11-17T17:53:46.974Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-17T08:31:00.899Z"
+      "updatedAt": "2026-11-17T17:53:46.974Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-17T08:31:00.899Z",
-    "evaluatedAt": "2026-11-17T08:31:02.894Z"
+    "observedAt": "2026-11-17T17:53:46.974Z",
+    "evaluatedAt": "2026-11-17T17:53:48.736Z"
   }
 }

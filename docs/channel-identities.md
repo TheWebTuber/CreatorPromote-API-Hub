@@ -21,3 +21,5 @@ Existing active channel IDs were pinned to IDs returned by the currently deploye
 - bonakvt: UCKE1MnwHQBM8i7Or5K_zcmA
 
 Bonak has a Hub feed but its website currently needs no automatic feed. Gamin Thunder is an additional nested creator page with no identified API migration requirement; it has not been added or enabled.
+
+Blackjack Setzer was verified on 18 November 2026. The [YouTube RSS feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCZ1YWkHXSEW1aqPjMERmKcg) identifies the channel as Blackjack Dream Drops. YouTube oEmbed for a video in that feed returned the author handle [@blackjacksetzer](https://www.youtube.com/@blackjacksetzer), matching the website configuration. Three uploads pages preserve coverage of up to 150 uploads. One channel request, up to three playlistItems requests and three videos requests add at most seven units per run, or 336 per day at 48 runs. The seven-feed estimate is 3,312 units per day before retries and manual runs.

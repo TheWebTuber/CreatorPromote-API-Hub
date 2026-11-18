@@ -96,11 +96,12 @@
       "slug": "blackjacksetzer",
       "label": "Blackjacksetzer",
       "handle": "@Blackjacksetzer",
-      "enabled": false,
-      "identityVerified": false,
+      "enabled": true,
+      "identityVerified": true,
       "scanPages": 3,
       "latestCount": 6,
-      "livestreamCount": 6
+      "livestreamCount": 6,
+      "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg"
     },
     {
       "slug": "crystalsdreamdrops",

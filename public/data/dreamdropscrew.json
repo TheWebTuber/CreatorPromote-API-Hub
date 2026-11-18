@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-18T00:57:37.137Z",
+  "updatedAt": "2026-11-18T08:32:40.587Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "Cn_esKUaPU6PNYlqE3IW00cd5IQ",
+    "etag": "uApy8ZTrIfATFDJmZKd-QXQ5ykY",
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
     "snippet": {
       "title": "Dream Drops Crew",
@@ -42,10 +42,10 @@
       }
     },
     "statistics": {
-      "viewCount": "99274",
-      "subscriberCount": "505",
+      "viewCount": "99282",
+      "subscriberCount": "504",
       "hiddenSubscriberCount": false,
-      "videoCount": "869"
+      "videoCount": "870"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,82 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "W9ePFbSnI-32sVBQuCBR0rvbeVc",
+      "etag": "IOWxmje63CXIpXclgiDdZlUeeA8",
+      "id": "jmu-EysDFP8",
+      "snippet": {
+        "publishedAt": "2026-11-18T06:21:26Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Cleaning the Moon! - MoonSweepers",
+        "description": "All this dust and only a brush...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Cleaning the Moon! - MoonSweepers",
+          "description": "All this dust and only a brush..."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H57M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PVUzPSHX1GfdrsbUSIlnuca1g_c",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -122,7 +197,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "57",
+        "viewCount": "58",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -134,7 +209,96 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iXT1Ko4Ee3IJ9zzx1V82AP5yV-0",
+      "etag": "U_8_ipseM2OhdgrEAi4j_e1fD3s",
+      "id": "0J1z9-6GiyA",
+      "snippet": {
+        "publishedAt": "2026-11-17T04:38:22Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Cleaning the Moon! - MoonSweepers",
+        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg?v=6afd165a",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg?v=6afd165a",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/sddefault.jpg?v=6afd165a",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/maxresdefault.jpg?v=6afd165a",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/fhddefault.jpg?v=6afd165a",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gameplay",
+          "games",
+          "vtuber",
+          "png tuber",
+          "cozy",
+          "indie game",
+          "simulation",
+          "MoonSweepers"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Cleaning the Moon! - MoonSweepers",
+          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H1M20S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "15",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-18T03:08:26Z",
+        "actualEndTime": "2026-11-18T05:09:47Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cln9FpYJDTbujjkOLO-SxiklYrQ",
       "id": "5qfMc-EK3p4",
       "snippet": {
         "publishedAt": "2026-11-13T18:31:15Z",
@@ -200,7 +364,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "27",
+        "viewCount": "29",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -212,7 +376,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZS6qLX9kz4ltKgQDasgv1QnkZQw",
+      "etag": "ARv6d3lPALwerhBEIEv_UuBiw78",
       "id": "_xdGpmss-y4",
       "snippet": {
         "publishedAt": "2026-11-13T05:24:19Z",
@@ -279,7 +443,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "9",
+        "viewCount": "10",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -372,119 +536,46 @@
         "actualStartTime": "2026-11-11T02:02:15Z",
         "actualEndTime": "2026-11-11T05:02:13Z"
       }
-    },
+    }
+  ],
+  "replays": [
     {
       "kind": "youtube#video",
-      "etag": "dm3-zR2zhzDOXqOCQn6gtMeG8uk",
-      "id": "KGoPudyhZLg",
+      "etag": "U_8_ipseM2OhdgrEAi4j_e1fD3s",
+      "id": "0J1z9-6GiyA",
       "snippet": {
-        "publishedAt": "2026-11-11T06:40:32Z",
+        "publishedAt": "2026-11-17T04:38:22Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "(Portrait) Money! Money!! Money!!! - Raccoin",
-        "description": "It was time for Blackjack do something casino related",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KGoPudyhZLg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KGoPudyhZLg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KGoPudyhZLg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/KGoPudyhZLg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/KGoPudyhZLg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "qhd": {
-            "url": "https://i.ytimg.com/vi/KGoPudyhZLg/qhddefault.jpg",
-            "width": 2560,
-            "height": 1440
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "(Portrait) Money! Money!! Money!!! - Raccoin",
-          "description": "It was time for Blackjack do something casino related"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H56M21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "3",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "YK74QD7o7ilhEYuYHiXD6k36RBs",
-      "id": "_Lq5pKJ_TwM",
-      "snippet": {
-        "publishedAt": "2026-11-10T17:47:59Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Onward to our last badge! - Pokemon Shining Pearl",
+        "title": "Cleaning the Moon! - MoonSweepers",
         "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/default.jpg",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg?v=6afd165a",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg?v=6afd165a",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/sddefault.jpg?v=6afd165a",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/maxresdefault.jpg?v=6afd165a",
             "width": 1280,
             "height": 720
           },
           "fhd": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/fhddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/fhddefault.jpg?v=6afd165a",
             "width": 1920,
             "height": 1080
           }
@@ -495,31 +586,31 @@
           "games",
           "vtuber",
           "png tuber",
-          "Nintendo",
-          "Pokemon",
-          "Shining Pearl",
-          "Switch"
+          "cozy",
+          "indie game",
+          "simulation",
+          "MoonSweepers"
         ],
         "categoryId": "20",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en-US",
         "localized": {
-          "title": "Onward to our last badge! - Pokemon Shining Pearl",
+          "title": "Cleaning the Moon! - MoonSweepers",
           "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
         },
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT2H32M10S",
+        "duration": "PT2H1M20S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "processed",
+        "uploadStatus": "uploaded",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -527,21 +618,19 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "66",
-        "likeCount": "2",
+        "viewCount": "15",
+        "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
-        "actualStartTime": "2026-11-10T02:07:01Z",
-        "actualEndTime": "2026-11-10T04:41:32Z"
+        "actualStartTime": "2026-11-18T03:08:26Z",
+        "actualEndTime": "2026-11-18T05:09:47Z"
       }
-    }
-  ],
-  "replays": [
+    },
     {
       "kind": "youtube#video",
-      "etag": "W9ePFbSnI-32sVBQuCBR0rvbeVc",
+      "etag": "PVUzPSHX1GfdrsbUSIlnuca1g_c",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -602,7 +691,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "57",
+        "viewCount": "58",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -614,7 +703,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iXT1Ko4Ee3IJ9zzx1V82AP5yV-0",
+      "etag": "cln9FpYJDTbujjkOLO-SxiklYrQ",
       "id": "5qfMc-EK3p4",
       "snippet": {
         "publishedAt": "2026-11-13T18:31:15Z",
@@ -680,7 +769,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "27",
+        "viewCount": "29",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -951,100 +1040,28 @@
         "actualStartTime": "2026-11-07T02:06:48Z",
         "actualEndTime": "2026-11-07T05:04:57Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "p8F_O8lZM6BIqMDIBE2bLgHpr04",
-      "id": "1YD1ZIu4A1s",
-      "snippet": {
-        "publishedAt": "2026-11-06T17:52:07Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Vs Team Galactic! -  Pokemon Shining Pearl",
-        "description": "The Crew's individual channels! \n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1YD1ZIu4A1s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1YD1ZIu4A1s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1YD1ZIu4A1s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1YD1ZIu4A1s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1YD1ZIu4A1s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/1YD1ZIu4A1s/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "3d vtuber",
-          "chill gaming",
-          "Nintendo",
-          "Pokemon",
-          "Shining Pearl"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Vs Team Galactic! -  Pokemon Shining Pearl",
-          "description": "The Crew's individual channels! \n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H21M10S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "66",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-06T02:24:32Z",
-        "actualEndTime": "2026-11-06T04:46:02Z"
-      }
     }
   ],
   "live": null,
   "liveChecked": false,
   "latestVideos": [
+    {
+      "id": "jmu-EysDFP8",
+      "title": "Cleaning the Moon! - MoonSweepers",
+      "label": "YouTube",
+      "publishedAt": "2026-11-18T06:21:26Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT1H57M56S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/jmu-EysDFP8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jmu-EysDFP8",
+      "views": "1",
+      "live": false,
+      "wasLive": false
+    },
     {
       "id": "qJvKHIvR29U",
       "title": "Sal rejoins the Jianhu! Where Winds Meet",
@@ -1058,7 +1075,24 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "57",
+      "views": "58",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "0J1z9-6GiyA",
+      "title": "Cleaning the Moon! - MoonSweepers",
+      "label": "YouTube",
+      "publishedAt": "2026-11-17T04:38:22Z",
+      "startedAt": "2026-11-18T03:08:26Z",
+      "endedAt": "2026-11-18T05:09:47Z",
+      "scheduledAt": null,
+      "duration": "PT2H1M20S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
+      "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
+      "views": "15",
       "live": false,
       "wasLive": true
     },
@@ -1075,7 +1109,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/5qfMc-EK3p4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=5qfMc-EK3p4",
-      "views": "27",
+      "views": "29",
       "live": false,
       "wasLive": true
     },
@@ -1092,7 +1126,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/_xdGpmss-y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_xdGpmss-y4",
-      "views": "9",
+      "views": "10",
       "live": false,
       "wasLive": false
     },
@@ -1110,46 +1144,29 @@
       "thumbnail": "https://i.ytimg.com/vi/7p1l4-YNuFQ/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7p1l4-YNuFQ",
       "views": "53",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "KGoPudyhZLg",
-      "title": "(Portrait) Money! Money!! Money!!! - Raccoin",
-      "label": "YouTube",
-      "publishedAt": "2026-11-11T06:40:32Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT2H56M21S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/KGoPudyhZLg/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KGoPudyhZLg",
-      "views": "3",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "_Lq5pKJ_TwM",
-      "title": "Onward to our last badge! - Pokemon Shining Pearl",
-      "label": "YouTube",
-      "publishedAt": "2026-11-10T17:47:59Z",
-      "startedAt": "2026-11-10T02:07:01Z",
-      "endedAt": "2026-11-10T04:41:32Z",
-      "scheduledAt": null,
-      "duration": "PT2H32M10S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_Lq5pKJ_TwM",
-      "views": "66",
       "live": false,
       "wasLive": true
     }
   ],
   "latestLivestreams": [
     {
+      "id": "0J1z9-6GiyA",
+      "title": "Cleaning the Moon! - MoonSweepers",
+      "label": "Livestream",
+      "publishedAt": "2026-11-17T04:38:22Z",
+      "startedAt": "2026-11-18T03:08:26Z",
+      "endedAt": "2026-11-18T05:09:47Z",
+      "scheduledAt": null,
+      "duration": "PT2H1M20S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
+      "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
+      "views": "15",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "qJvKHIvR29U",
       "title": "Sal rejoins the Jianhu! Where Winds Meet",
       "label": "Livestream",
@@ -1162,7 +1179,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "57",
+      "views": "58",
       "live": false,
       "wasLive": true
     },
@@ -1179,7 +1196,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/5qfMc-EK3p4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=5qfMc-EK3p4",
-      "views": "27",
+      "views": "29",
       "live": false,
       "wasLive": true
     },
@@ -1231,29 +1248,29 @@
       "thumbnail": "https://i.ytimg.com/vi/1mk5a3N4ODk/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1mk5a3N4ODk",
       "views": "113",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "1YD1ZIu4A1s",
-      "title": "Vs Team Galactic! -  Pokemon Shining Pearl",
-      "label": "Livestream",
-      "publishedAt": "2026-11-06T17:52:07Z",
-      "startedAt": "2026-11-06T02:24:32Z",
-      "endedAt": "2026-11-06T04:46:02Z",
-      "scheduledAt": null,
-      "duration": "PT2H21M10S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/1YD1ZIu4A1s/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1YD1ZIu4A1s",
-      "views": "66",
       "live": false,
       "wasLive": true
     }
   ],
   "latestReplays": [
     {
+      "id": "0J1z9-6GiyA",
+      "title": "Cleaning the Moon! - MoonSweepers",
+      "label": "Replay",
+      "publishedAt": "2026-11-17T04:38:22Z",
+      "startedAt": "2026-11-18T03:08:26Z",
+      "endedAt": "2026-11-18T05:09:47Z",
+      "scheduledAt": null,
+      "duration": "PT2H1M20S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
+      "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
+      "views": "15",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "qJvKHIvR29U",
       "title": "Sal rejoins the Jianhu! Where Winds Meet",
       "label": "Replay",
@@ -1266,7 +1283,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "57",
+      "views": "58",
       "live": false,
       "wasLive": true
     },
@@ -1283,7 +1300,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/5qfMc-EK3p4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=5qfMc-EK3p4",
-      "views": "27",
+      "views": "29",
       "live": false,
       "wasLive": true
     },
@@ -1335,23 +1352,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1mk5a3N4ODk/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1mk5a3N4ODk",
       "views": "113",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "1YD1ZIu4A1s",
-      "title": "Vs Team Galactic! -  Pokemon Shining Pearl",
-      "label": "Replay",
-      "publishedAt": "2026-11-06T17:52:07Z",
-      "startedAt": "2026-11-06T02:24:32Z",
-      "endedAt": "2026-11-06T04:46:02Z",
-      "scheduledAt": null,
-      "duration": "PT2H21M10S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/1YD1ZIu4A1s/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1YD1ZIu4A1s",
-      "views": "66",
       "live": false,
       "wasLive": true
     }
@@ -1359,8 +1359,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T00:57:37.137Z",
-    "expiresAt": "2026-11-18T01:42:37.137Z",
+    "checkedAt": "2026-11-18T08:32:40.587Z",
+    "expiresAt": "2026-11-18T09:17:40.587Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1371,7 +1371,170 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "W9ePFbSnI-32sVBQuCBR0rvbeVc",
+      "etag": "IOWxmje63CXIpXclgiDdZlUeeA8",
+      "id": "jmu-EysDFP8",
+      "snippet": {
+        "publishedAt": "2026-11-18T06:21:26Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Cleaning the Moon! - MoonSweepers",
+        "description": "All this dust and only a brush...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/jmu-EysDFP8/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Cleaning the Moon! - MoonSweepers",
+          "description": "All this dust and only a brush..."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H57M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PxkYYsvHg-sRsoR-YgkeeziMiPQ",
+      "id": "gEJPdoETSMs",
+      "snippet": {
+        "publishedAt": "2026-11-18T05:09:59Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Cleaning the Moon! - MoonSweepers",
+        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/default.jpg?v=6afd3327",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg?v=6afd3327",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/hqdefault.jpg?v=6afd3327",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/sddefault.jpg?v=6afd3327",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/maxresdefault.jpg?v=6afd3327",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/fhddefault.jpg?v=6afd3327",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gameplay",
+          "games",
+          "vtuber",
+          "png tuber",
+          "cozy",
+          "indie game",
+          "simulation",
+          "MoonSweepers"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Cleaning the Moon! - MoonSweepers",
+          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "activeLiveChatId": "Cg0KC2dFSlBkb0VUU01zKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILZ0VKUGRvRVRTTXM"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PVUzPSHX1GfdrsbUSIlnuca1g_c",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -1432,7 +1595,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "57",
+        "viewCount": "58",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1444,28 +1607,43 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-NF5m-dxE8J6782cA5GnIn85zrk",
+      "etag": "U_8_ipseM2OhdgrEAi4j_e1fD3s",
       "id": "0J1z9-6GiyA",
       "snippet": {
         "publishedAt": "2026-11-17T04:38:22Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Sal rejoins the Jianhu! Where Winds Meet",
+        "title": "Cleaning the Moon! - MoonSweepers",
         "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg?v=6afbda3e",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg?v=6afd165a",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afbda3e",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg?v=6afbda3e",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg?v=6afd165a",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/sddefault.jpg?v=6afd165a",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/maxresdefault.jpg?v=6afd165a",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/fhddefault.jpg?v=6afd165a",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "Dream Drops Crew",
@@ -1474,21 +1652,22 @@
           "games",
           "vtuber",
           "png tuber",
-          "Dressmaker",
           "cozy",
-          "fashion"
+          "indie game",
+          "simulation",
+          "MoonSweepers"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "upcoming",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-US",
         "localized": {
-          "title": "Sal rejoins the Jianhu! Where Winds Meet",
+          "title": "Cleaning the Moon! - MoonSweepers",
           "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
         },
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT2H1M20S",
         "dimension": "2d",
         "definition": "sd",
         "caption": "false",
@@ -1505,18 +1684,19 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "0",
-        "likeCount": "0",
+        "viewCount": "15",
+        "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
-        "activeLiveChatId": "Cg0KCzBKMXo5LTZHaXlBKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILMEoxejktNkdpeUE"
+        "actualStartTime": "2026-11-18T03:08:26Z",
+        "actualEndTime": "2026-11-18T05:09:47Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "iXT1Ko4Ee3IJ9zzx1V82AP5yV-0",
+      "etag": "cln9FpYJDTbujjkOLO-SxiklYrQ",
       "id": "5qfMc-EK3p4",
       "snippet": {
         "publishedAt": "2026-11-13T18:31:15Z",
@@ -1582,7 +1762,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "27",
+        "viewCount": "29",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1594,7 +1774,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZS6qLX9kz4ltKgQDasgv1QnkZQw",
+      "etag": "ARv6d3lPALwerhBEIEv_UuBiw78",
       "id": "_xdGpmss-y4",
       "snippet": {
         "publishedAt": "2026-11-13T05:24:19Z",
@@ -1661,7 +1841,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "9",
+        "viewCount": "10",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -15525,7 +15705,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AQawqmjWTzgrYOErub8LDkqSLEE",
+      "etag": "N2f5pMfCPZbHbIOFopHxxMv1nCs",
       "id": "WrPDdHEnXLg",
       "snippet": {
         "publishedAt": "2026-03-12T05:02:07Z",
@@ -15610,7 +15790,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1460",
+        "viewCount": "1461",
         "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -39585,257 +39765,6 @@
         "actualStartTime": "2025-02-27T02:17:12Z",
         "actualEndTime": "2025-02-27T05:11:42Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "xQFge0ei4Lwtlk32KIy6vEaJ6L0",
-      "id": "UN97Pk5p0Ao",
-      "snippet": {
-        "publishedAt": "2025-02-26T05:08:42Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "More FF14! and More",
-        "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UN97Pk5p0Ao/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UN97Pk5p0Ao/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UN97Pk5p0Ao/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/UN97Pk5p0Ao/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/UN97Pk5p0Ao/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "art stream",
-          "podcast",
-          "chatting",
-          "genshin",
-          "genshin impact",
-          "impact",
-          "star",
-          "rail",
-          "star rail",
-          "hoyo",
-          "late",
-          "nite",
-          "latenite",
-          "ff14",
-          "ffxiv",
-          "final",
-          "fantasy",
-          "Roblox",
-          "Kingdom hearts",
-          "kingdom",
-          "hearts",
-          "contents",
-          "we were here",
-          "zenless",
-          "zone",
-          "zero",
-          "zenless zone zero",
-          "doulingo",
-          ".hack",
-          ".hack//sign",
-          ".hack//infection",
-          "dot hack",
-          "minecraft",
-          "bedrock",
-          "learning chinese",
-          "learning spanish",
-          "chinese",
-          "spanish",
-          "bahamut",
-          "heavensward",
-          "hw",
-          "hwffxiv",
-          "monster",
-          "hunter",
-          "monster hunter",
-          "supermarket",
-          "project zomboid",
-          "zombies",
-          "zoms",
-          "zeds",
-          "survival"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "More FF14! and More",
-          "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT2H58M54S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "41",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2025-02-26T02:00:51Z",
-        "actualEndTime": "2025-02-26T04:59:40Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Mh9oOVgmHjVwK-quusJqgoPzwow",
-      "id": "7BcTnkRoDOY",
-      "snippet": {
-        "publishedAt": "2025-02-25T05:11:26Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Swim this way , we'll dance and we'll play!",
-        "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7BcTnkRoDOY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7BcTnkRoDOY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7BcTnkRoDOY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7BcTnkRoDOY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "art stream",
-          "podcast",
-          "chatting",
-          "genshin",
-          "genshin impact",
-          "impact",
-          "star",
-          "rail",
-          "star rail",
-          "hoyo",
-          "late",
-          "nite",
-          "latenite",
-          "ff14",
-          "ffxiv",
-          "final",
-          "fantasy",
-          "Roblox",
-          "Kingdom hearts",
-          "kingdom",
-          "hearts",
-          "contents",
-          "we were here",
-          "zenless",
-          "zone",
-          "zero",
-          "zenless zone zero",
-          "doulingo",
-          ".hack",
-          ".hack//sign",
-          ".hack//infection",
-          "dot hack",
-          "minecraft",
-          "bedrock",
-          "learning chinese",
-          "learning spanish",
-          "chinese",
-          "spanish",
-          "bahamut",
-          "heavensward",
-          "hw",
-          "hwffxiv",
-          "monster",
-          "hunter",
-          "monster hunter",
-          "supermarket",
-          "project zomboid",
-          "zombies",
-          "zoms",
-          "zeds",
-          "survival"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Swim this way , we'll dance and we'll play!",
-          "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT2H40M26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "46",
-        "likeCount": "5",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2025-02-25T02:21:32Z",
-        "actualEndTime": "2025-02-25T05:01:51Z"
-      }
     }
   ],
   "playlists": [],
@@ -39844,21 +39773,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T00:57:37.137Z"
+      "updatedAt": "2026-11-18T08:32:40.587Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T00:57:37.137Z"
+      "updatedAt": "2026-11-18T08:32:40.587Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T00:57:37.137Z"
+      "updatedAt": "2026-11-18T08:32:40.587Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T00:57:37.137Z",
-    "evaluatedAt": "2026-11-18T00:57:40.396Z"
+    "observedAt": "2026-11-18T08:32:40.587Z",
+    "evaluatedAt": "2026-11-18T08:32:44.218Z"
   }
 }

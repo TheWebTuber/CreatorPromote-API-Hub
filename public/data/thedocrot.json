@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-18T00:57:35.270Z",
+  "updatedAt": "2026-11-18T08:32:38.354Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "cdJwZWyLNC97UxU-JEYo19pCDAQ",
+    "etag": "vN5GKTgyULOQYjWssoh-Eon2duw",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -42,8 +42,8 @@
       }
     },
     "statistics": {
-      "viewCount": "1212718",
-      "subscriberCount": "734",
+      "viewCount": "1212952",
+      "subscriberCount": "733",
       "hiddenSubscriberCount": false,
       "videoCount": "3027"
     },
@@ -61,7 +61,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "8mkZvB2MdZA_sBawoKyTpqKVqCQ",
+      "etag": "D2kSyPm0JZQK0XXV1UD-aTU7wfk",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -136,7 +136,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "70",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -150,7 +150,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "d3rsIIxdOiO5DdgAqe-N1NKniu4",
+      "etag": "L-Y79UXSLrhkboei_vdKZru0e6k",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -212,7 +212,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "64",
+        "viewCount": "74",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -220,7 +220,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5qxV14kBFZSu9ws1kjJ72V9flCE",
+      "etag": "I5U5-4JgjZys0bnj-fgAcoyZ2og",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -282,7 +282,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "87",
+        "viewCount": "114",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -379,7 +379,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7tx3748uw_pohNIUed6dY-WWl04",
+      "etag": "NdxBvl9W5ZJrarDEh8HJtFHjibw",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -455,7 +455,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "89",
+        "viewCount": "97",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -469,7 +469,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1S6LwIDRKxNPIZTPNET1PoteXf0",
+      "etag": "w6hO6ZPCRnsqBrPLXO_eE6JWMOI",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -530,7 +530,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "125",
+        "viewCount": "133",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -538,7 +538,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xzXjQIclA3DEmkufVM0qXbjA0BY",
+      "etag": "kBMCGSdOOBQGh22w9MMDxs0mmSg",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -579,7 +579,8 @@
         "localized": {
           "title": "PURE 2V1!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel #horror",
           "description": "Longest of days!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT23S",
@@ -599,7 +600,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "79",
+        "viewCount": "90",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -835,7 +836,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZNn6iTaTZpJG1L42gyHTZr5eypo",
+      "etag": "1-Sj_TphQu_oQCHvKdRIw2IKsOg",
       "id": "72iPeZbnt5A",
       "snippet": {
         "publishedAt": "2026-11-14T22:16:58Z",
@@ -924,7 +925,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_xaocA7GqzhpG8hz3I_G9-0A0A8",
+      "etag": "0AvYYVNMuJEPlPI-dFgAD781DNI",
       "id": "SbCFAXODENY",
       "snippet": {
         "publishedAt": "2026-11-14T10:08:46Z",
@@ -965,7 +966,8 @@
         "localized": {
           "title": "IF THE GAME WANTS IT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
           "description": "And it certainly did!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT19S",
@@ -993,7 +995,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WNomfDj8_hxdsjcS365CzbeIA0c",
+      "etag": "7LJws8xm4SOvSBxxB_ho_wd9FIE",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -1054,7 +1056,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "331",
+        "viewCount": "330",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1062,7 +1064,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yavTElR8buZMrcHtFJMpzJyLky8",
+      "etag": "IZG1dibkQ0rCaKNcVwx1Kk8PCbM",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -1242,7 +1244,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "60NlYxPY6aVJ81ruWsO_tqeeUVk",
+      "etag": "r1LgXy3xsH7rjVJRzWkBY1K4GG0",
       "id": "eXCJqh1EggI",
       "snippet": {
         "publishedAt": "2026-11-13T10:13:33Z",
@@ -1283,7 +1285,8 @@
         "localized": {
           "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
           "description": "I was and still am fuming!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT32S",
@@ -1311,7 +1314,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4z6z2jBNSU_Wfo9PZ5a7j0t6DOU",
+      "etag": "vG-oBcCCCcErDPN9Zl7dbtbzfMY",
       "id": "7lT3T3uTOhI",
       "snippet": {
         "publishedAt": "2026-11-13T10:10:34Z",
@@ -1352,7 +1355,8 @@
         "localized": {
           "title": "I DIDN'T EVEN SEE THAT COMING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
           "description": "You know I was in trouble!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT14S",
@@ -1678,7 +1682,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0jHM84DHCoXRgCA1vqWduCRjq6I",
+      "etag": "ketG2LSoFR8MqCHK1PUXWwmE6Rk",
       "id": "K5M5SYkP60I",
       "snippet": {
         "publishedAt": "2026-11-12T09:43:24Z",
@@ -1719,7 +1723,8 @@
         "localized": {
           "title": "THAT SCARED ME A LOT!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
           "description": "Lights out is good for jumpscares!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT34S",
@@ -1739,7 +1744,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "727",
+        "viewCount": "728",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1906,7 +1911,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Bo4crjRLhdEV2oBCzfSUPlXjXAQ",
+      "etag": "I_fbyhEKm5fyEw_tq-g8I5fg9AY",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -1967,7 +1972,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "874",
+        "viewCount": "877",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4663,7 +4668,7 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "8mkZvB2MdZA_sBawoKyTpqKVqCQ",
+      "etag": "D2kSyPm0JZQK0XXV1UD-aTU7wfk",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -4738,7 +4743,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "70",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4841,7 +4846,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7tx3748uw_pohNIUed6dY-WWl04",
+      "etag": "NdxBvl9W5ZJrarDEh8HJtFHjibw",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -4917,7 +4922,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "89",
+        "viewCount": "97",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5021,7 +5026,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZNn6iTaTZpJG1L42gyHTZr5eypo",
+      "etag": "1-Sj_TphQu_oQCHvKdRIw2IKsOg",
       "id": "72iPeZbnt5A",
       "snippet": {
         "publishedAt": "2026-11-14T22:16:58Z",
@@ -5215,7 +5220,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "67",
+      "views": "70",
       "live": false,
       "wasLive": true
     },
@@ -5232,7 +5237,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/_iwQGw2yV5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_iwQGw2yV5A",
-      "views": "64",
+      "views": "74",
       "live": false,
       "wasLive": false
     },
@@ -5249,7 +5254,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/soKh-xuZRZ4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=soKh-xuZRZ4",
-      "views": "87",
+      "views": "114",
       "live": false,
       "wasLive": false
     },
@@ -5283,7 +5288,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "89",
+      "views": "97",
       "live": false,
       "wasLive": true
     },
@@ -5300,7 +5305,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/MQCq7s8tTZw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MQCq7s8tTZw",
-      "views": "125",
+      "views": "133",
       "live": false,
       "wasLive": false
     },
@@ -5317,7 +5322,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vnWCf8PTbdw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vnWCf8PTbdw",
-      "views": "79",
+      "views": "90",
       "live": false,
       "wasLive": false
     },
@@ -5419,7 +5424,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZQ-xWuz__Lc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZQ-xWuz__Lc",
-      "views": "331",
+      "views": "330",
       "live": false,
       "wasLive": false
     },
@@ -5572,7 +5577,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/K5M5SYkP60I/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=K5M5SYkP60I",
-      "views": "727",
+      "views": "728",
       "live": false,
       "wasLive": false
     },
@@ -5623,7 +5628,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/uD013f3vhZE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uD013f3vhZE",
-      "views": "874",
+      "views": "877",
       "live": false,
       "wasLive": false
     },
@@ -6237,7 +6242,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "67",
+      "views": "70",
       "live": false,
       "wasLive": true
     },
@@ -6271,7 +6276,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "89",
+      "views": "97",
       "live": false,
       "wasLive": true
     },
@@ -6341,7 +6346,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "67",
+      "views": "70",
       "live": false,
       "wasLive": true
     },
@@ -6375,7 +6380,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "89",
+      "views": "97",
       "live": false,
       "wasLive": true
     },
@@ -6434,8 +6439,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T00:57:35.270Z",
-    "expiresAt": "2026-11-18T01:42:35.270Z",
+    "checkedAt": "2026-11-18T08:32:38.354Z",
+    "expiresAt": "2026-11-18T09:17:38.354Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6446,7 +6451,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "8mkZvB2MdZA_sBawoKyTpqKVqCQ",
+      "etag": "D2kSyPm0JZQK0XXV1UD-aTU7wfk",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -6521,7 +6526,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "70",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6535,7 +6540,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "d3rsIIxdOiO5DdgAqe-N1NKniu4",
+      "etag": "L-Y79UXSLrhkboei_vdKZru0e6k",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -6597,7 +6602,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "64",
+        "viewCount": "74",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6605,7 +6610,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5qxV14kBFZSu9ws1kjJ72V9flCE",
+      "etag": "I5U5-4JgjZys0bnj-fgAcoyZ2og",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -6667,7 +6672,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "87",
+        "viewCount": "114",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -6764,7 +6769,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7tx3748uw_pohNIUed6dY-WWl04",
+      "etag": "NdxBvl9W5ZJrarDEh8HJtFHjibw",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -6840,7 +6845,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "89",
+        "viewCount": "97",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6854,7 +6859,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1S6LwIDRKxNPIZTPNET1PoteXf0",
+      "etag": "w6hO6ZPCRnsqBrPLXO_eE6JWMOI",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -6915,7 +6920,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "125",
+        "viewCount": "133",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6923,7 +6928,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xzXjQIclA3DEmkufVM0qXbjA0BY",
+      "etag": "kBMCGSdOOBQGh22w9MMDxs0mmSg",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -6964,7 +6969,8 @@
         "localized": {
           "title": "PURE 2V1!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel #horror",
           "description": "Longest of days!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT23S",
@@ -6984,7 +6990,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "79",
+        "viewCount": "90",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7220,7 +7226,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZNn6iTaTZpJG1L42gyHTZr5eypo",
+      "etag": "1-Sj_TphQu_oQCHvKdRIw2IKsOg",
       "id": "72iPeZbnt5A",
       "snippet": {
         "publishedAt": "2026-11-14T22:16:58Z",
@@ -7309,7 +7315,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_xaocA7GqzhpG8hz3I_G9-0A0A8",
+      "etag": "0AvYYVNMuJEPlPI-dFgAD781DNI",
       "id": "SbCFAXODENY",
       "snippet": {
         "publishedAt": "2026-11-14T10:08:46Z",
@@ -7350,7 +7356,8 @@
         "localized": {
           "title": "IF THE GAME WANTS IT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
           "description": "And it certainly did!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT19S",
@@ -7378,7 +7385,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WNomfDj8_hxdsjcS365CzbeIA0c",
+      "etag": "7LJws8xm4SOvSBxxB_ho_wd9FIE",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -7439,7 +7446,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "331",
+        "viewCount": "330",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7447,7 +7454,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yavTElR8buZMrcHtFJMpzJyLky8",
+      "etag": "IZG1dibkQ0rCaKNcVwx1Kk8PCbM",
       "id": "KxNOmjNveX8",
       "snippet": {
         "publishedAt": "2026-11-14T07:31:10Z",
@@ -7627,7 +7634,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "60NlYxPY6aVJ81ruWsO_tqeeUVk",
+      "etag": "r1LgXy3xsH7rjVJRzWkBY1K4GG0",
       "id": "eXCJqh1EggI",
       "snippet": {
         "publishedAt": "2026-11-13T10:13:33Z",
@@ -7668,7 +7675,8 @@
         "localized": {
           "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
           "description": "I was and still am fuming!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT32S",
@@ -7696,7 +7704,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4z6z2jBNSU_Wfo9PZ5a7j0t6DOU",
+      "etag": "vG-oBcCCCcErDPN9Zl7dbtbzfMY",
       "id": "7lT3T3uTOhI",
       "snippet": {
         "publishedAt": "2026-11-13T10:10:34Z",
@@ -7737,7 +7745,8 @@
         "localized": {
           "title": "I DIDN'T EVEN SEE THAT COMING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
           "description": "You know I was in trouble!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT14S",
@@ -8063,7 +8072,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0jHM84DHCoXRgCA1vqWduCRjq6I",
+      "etag": "ketG2LSoFR8MqCHK1PUXWwmE6Rk",
       "id": "K5M5SYkP60I",
       "snippet": {
         "publishedAt": "2026-11-12T09:43:24Z",
@@ -8104,7 +8113,8 @@
         "localized": {
           "title": "THAT SCARED ME A LOT!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
           "description": "Lights out is good for jumpscares!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT34S",
@@ -8124,7 +8134,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "727",
+        "viewCount": "728",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8291,7 +8301,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Bo4crjRLhdEV2oBCzfSUPlXjXAQ",
+      "etag": "I_fbyhEKm5fyEw_tq-g8I5fg9AY",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -8352,7 +8362,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "874",
+        "viewCount": "877",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -17839,21 +17849,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T00:57:35.270Z"
+      "updatedAt": "2026-11-18T08:32:38.354Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T00:57:35.270Z"
+      "updatedAt": "2026-11-18T08:32:38.354Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T00:57:35.270Z"
+      "updatedAt": "2026-11-18T08:32:38.354Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T00:57:35.270Z",
-    "evaluatedAt": "2026-11-18T00:57:37.122Z"
+    "observedAt": "2026-11-18T08:32:38.354Z",
+    "evaluatedAt": "2026-11-18T08:32:40.573Z"
   }
 }

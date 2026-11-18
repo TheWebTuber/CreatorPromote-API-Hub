@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-18T17:34:49.999Z",
+  "updatedAt": "2026-11-18T21:34:50.990Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "uApy8ZTrIfATFDJmZKd-QXQ5ykY",
+    "etag": "0oUgVz9b5StM0L60Z8y4u_cV8I0",
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
     "snippet": {
       "title": "Dream Drops Crew",
@@ -45,7 +45,7 @@
       "viewCount": "99282",
       "subscriberCount": "504",
       "hiddenSubscriberCount": false,
-      "videoCount": "870"
+      "videoCount": "871"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,96 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "_NJawJ5-eyw2X5FgtyZpVfogOsU",
+      "etag": "sfI7erBhl11F6zeKSa9BKMW9Y3o",
+      "id": "0J1z9-6GiyA",
+      "snippet": {
+        "publishedAt": "2026-11-18T18:11:58Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Cleaning the Moon! - MoonSweepers",
+        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gameplay",
+          "games",
+          "vtuber",
+          "png tuber",
+          "cozy",
+          "indie game",
+          "simulation",
+          "MoonSweepers"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Cleaning the Moon! - MoonSweepers",
+          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H58M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "18",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-18T03:08:26Z",
+        "actualEndTime": "2026-11-18T05:09:47Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R_S_vPGJPHDv9GpDoph9OGGpQJY",
       "id": "jmu-EysDFP8",
       "snippet": {
         "publishedAt": "2026-11-18T06:21:26Z",
@@ -128,7 +217,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "4",
+        "viewCount": "7",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -136,7 +225,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PVUzPSHX1GfdrsbUSIlnuca1g_c",
+      "etag": "SJc62ROGmocX33xDIeEx_i5rEUw",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -197,7 +286,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "58",
+        "viewCount": "59",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -205,95 +294,6 @@
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-17T02:11:51Z",
         "actualEndTime": "2026-11-17T04:38:15Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jlEwZ9HIUHYSK_u5UzVm60A7jtQ",
-      "id": "0J1z9-6GiyA",
-      "snippet": {
-        "publishedAt": "2026-11-17T04:38:22Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Cleaning the Moon! - MoonSweepers",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg?v=6afd165a",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg?v=6afd165a",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/sddefault.jpg?v=6afd165a",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/maxresdefault.jpg?v=6afd165a",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/fhddefault.jpg?v=6afd165a",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "cozy",
-          "indie game",
-          "simulation",
-          "MoonSweepers"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Cleaning the Moon! - MoonSweepers",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H1M20S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "16",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-18T03:08:26Z",
-        "actualEndTime": "2026-11-18T05:09:47Z"
       }
     },
     {
@@ -541,41 +541,41 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "jlEwZ9HIUHYSK_u5UzVm60A7jtQ",
+      "etag": "sfI7erBhl11F6zeKSa9BKMW9Y3o",
       "id": "0J1z9-6GiyA",
       "snippet": {
-        "publishedAt": "2026-11-17T04:38:22Z",
+        "publishedAt": "2026-11-18T18:11:58Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Cleaning the Moon! - MoonSweepers",
         "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg?v=6afd165a",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg?v=6afd165a",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/sddefault.jpg?v=6afd165a",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/maxresdefault.jpg?v=6afd165a",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           },
           "fhd": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/fhddefault.jpg?v=6afd165a",
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/fhddefault.jpg",
             "width": 1920,
             "height": 1080
           }
@@ -601,16 +601,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT2H1M20S",
+        "duration": "PT1H58M49S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -618,7 +618,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "16",
+        "viewCount": "18",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -630,7 +630,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PVUzPSHX1GfdrsbUSIlnuca1g_c",
+      "etag": "SJc62ROGmocX33xDIeEx_i5rEUw",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -691,7 +691,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "58",
+        "viewCount": "59",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1046,6 +1046,23 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "0J1z9-6GiyA",
+      "title": "Cleaning the Moon! - MoonSweepers",
+      "label": "YouTube",
+      "publishedAt": "2026-11-18T18:11:58Z",
+      "startedAt": "2026-11-18T03:08:26Z",
+      "endedAt": "2026-11-18T05:09:47Z",
+      "scheduledAt": null,
+      "duration": "PT1H58M49S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
+      "views": "18",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "jmu-EysDFP8",
       "title": "Cleaning the Moon! - MoonSweepers",
       "label": "YouTube",
@@ -1058,7 +1075,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/jmu-EysDFP8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jmu-EysDFP8",
-      "views": "4",
+      "views": "7",
       "live": false,
       "wasLive": false
     },
@@ -1075,24 +1092,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "58",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "0J1z9-6GiyA",
-      "title": "Cleaning the Moon! - MoonSweepers",
-      "label": "YouTube",
-      "publishedAt": "2026-11-17T04:38:22Z",
-      "startedAt": "2026-11-18T03:08:26Z",
-      "endedAt": "2026-11-18T05:09:47Z",
-      "scheduledAt": null,
-      "duration": "PT2H1M20S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
-      "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
-      "views": "16",
+      "views": "59",
       "live": false,
       "wasLive": true
     },
@@ -1153,16 +1153,16 @@
       "id": "0J1z9-6GiyA",
       "title": "Cleaning the Moon! - MoonSweepers",
       "label": "Livestream",
-      "publishedAt": "2026-11-17T04:38:22Z",
+      "publishedAt": "2026-11-18T18:11:58Z",
       "startedAt": "2026-11-18T03:08:26Z",
       "endedAt": "2026-11-18T05:09:47Z",
       "scheduledAt": null,
-      "duration": "PT2H1M20S",
+      "duration": "PT1H58M49S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
+      "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
-      "views": "16",
+      "views": "18",
       "live": false,
       "wasLive": true
     },
@@ -1179,7 +1179,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "58",
+      "views": "59",
       "live": false,
       "wasLive": true
     },
@@ -1257,16 +1257,16 @@
       "id": "0J1z9-6GiyA",
       "title": "Cleaning the Moon! - MoonSweepers",
       "label": "Replay",
-      "publishedAt": "2026-11-17T04:38:22Z",
+      "publishedAt": "2026-11-18T18:11:58Z",
       "startedAt": "2026-11-18T03:08:26Z",
       "endedAt": "2026-11-18T05:09:47Z",
       "scheduledAt": null,
-      "duration": "PT2H1M20S",
+      "duration": "PT1H58M49S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
+      "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
-      "views": "16",
+      "views": "18",
       "live": false,
       "wasLive": true
     },
@@ -1283,7 +1283,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "58",
+      "views": "59",
       "live": false,
       "wasLive": true
     },
@@ -1359,8 +1359,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T17:34:49.999Z",
-    "expiresAt": "2026-11-18T18:19:49.999Z",
+    "checkedAt": "2026-11-18T21:34:50.990Z",
+    "expiresAt": "2026-11-18T22:19:50.990Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1371,7 +1371,96 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "_NJawJ5-eyw2X5FgtyZpVfogOsU",
+      "etag": "sfI7erBhl11F6zeKSa9BKMW9Y3o",
+      "id": "0J1z9-6GiyA",
+      "snippet": {
+        "publishedAt": "2026-11-18T18:11:58Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Cleaning the Moon! - MoonSweepers",
+        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gameplay",
+          "games",
+          "vtuber",
+          "png tuber",
+          "cozy",
+          "indie game",
+          "simulation",
+          "MoonSweepers"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Cleaning the Moon! - MoonSweepers",
+          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H58M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "18",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-18T03:08:26Z",
+        "actualEndTime": "2026-11-18T05:09:47Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R_S_vPGJPHDv9GpDoph9OGGpQJY",
       "id": "jmu-EysDFP8",
       "snippet": {
         "publishedAt": "2026-11-18T06:21:26Z",
@@ -1438,7 +1527,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "4",
+        "viewCount": "7",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1534,7 +1623,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PVUzPSHX1GfdrsbUSIlnuca1g_c",
+      "etag": "SJc62ROGmocX33xDIeEx_i5rEUw",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -1595,7 +1684,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "58",
+        "viewCount": "59",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1603,95 +1692,6 @@
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-17T02:11:51Z",
         "actualEndTime": "2026-11-17T04:38:15Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jlEwZ9HIUHYSK_u5UzVm60A7jtQ",
-      "id": "0J1z9-6GiyA",
-      "snippet": {
-        "publishedAt": "2026-11-17T04:38:22Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Cleaning the Moon! - MoonSweepers",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/default.jpg?v=6afd165a",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg?v=6afd165a",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/hqdefault.jpg?v=6afd165a",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/sddefault.jpg?v=6afd165a",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/maxresdefault.jpg?v=6afd165a",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/0J1z9-6GiyA/fhddefault.jpg?v=6afd165a",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "cozy",
-          "indie game",
-          "simulation",
-          "MoonSweepers"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Cleaning the Moon! - MoonSweepers",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H1M20S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "16",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-18T03:08:26Z",
-        "actualEndTime": "2026-11-18T05:09:47Z"
       }
     },
     {
@@ -15705,7 +15705,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "n64nk88jbh-0BZzx4cm6ZPszR68",
+      "etag": "r7z8Jj0qE2nMk9uQM6cSSY_3SRA",
       "id": "WrPDdHEnXLg",
       "snippet": {
         "publishedAt": "2026-03-12T05:02:07Z",
@@ -15790,7 +15790,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1462",
+        "viewCount": "1463",
         "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -39773,21 +39773,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T17:34:49.999Z"
+      "updatedAt": "2026-11-18T21:34:50.990Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T17:34:49.999Z"
+      "updatedAt": "2026-11-18T21:34:50.990Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T17:34:49.999Z"
+      "updatedAt": "2026-11-18T21:34:50.990Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T17:34:49.999Z",
-    "evaluatedAt": "2026-11-18T17:34:53.109Z"
+    "observedAt": "2026-11-18T21:34:50.990Z",
+    "evaluatedAt": "2026-11-18T21:34:54.696Z"
   }
 }

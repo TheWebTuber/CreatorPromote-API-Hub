@@ -1,48 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T17:34:59.170Z",
+  "updatedAt": "2026-11-18T21:35:02.389Z",
   "channels": [
     {
       "slug": "thedocrot",
       "label": "TheDocRot",
       "handle": "@thedocrot",
-      "updatedAt": "2026-11-18T17:34:47.734Z",
+      "updatedAt": "2026-11-18T21:34:47.462Z",
       "channelId": "UCiXeV-jUw_yCqScuZGopvVQ"
     },
     {
       "slug": "dreamdropscrew",
       "label": "Dream Drops Crew",
       "handle": "@DreamDropsCrew",
-      "updatedAt": "2026-11-18T17:34:49.999Z",
+      "updatedAt": "2026-11-18T21:34:50.990Z",
       "channelId": "UCuK6uJXgGlJd4TLNjTwtluA"
     },
     {
       "slug": "daddydepresso",
       "label": "Daddy Depresso",
       "handle": "@daddydepresso",
-      "updatedAt": "2026-11-18T17:34:53.117Z",
+      "updatedAt": "2026-11-18T21:34:54.702Z",
       "channelId": "UCKP2iEDv2W4ptqNObi7rSzQ"
     },
     {
       "slug": "bonakvt",
       "label": "BonakVT",
       "handle": "@Bonakvtuber",
-      "updatedAt": "2026-11-18T17:34:54.519Z",
+      "updatedAt": "2026-11-18T21:34:56.172Z",
       "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA"
     },
     {
       "slug": "duffball16",
       "label": "Duffball16",
       "handle": "@Duffball16",
-      "updatedAt": "2026-11-18T17:34:55.353Z",
+      "updatedAt": "2026-11-18T21:34:57.226Z",
       "channelId": "UC2iwDFfrVjWYFpXahr-o8cA"
     },
     {
       "slug": "portalmasterofgames",
       "label": "Portal Master Of Games",
       "handle": "@PMOG",
-      "updatedAt": "2026-11-18T17:34:58.192Z",
+      "updatedAt": "2026-11-18T21:35:00.838Z",
       "channelId": "UCdOJvhjojFe3Z0yKeGEIERA"
+    },
+    {
+      "slug": "blackjacksetzer",
+      "label": "Blackjacksetzer",
+      "handle": "@Blackjacksetzer",
+      "updatedAt": "2026-11-18T21:35:01.931Z",
+      "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg"
     }
   ]
 }

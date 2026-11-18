@@ -1,0 +1,3435 @@
+{
+  "version": 1,
+  "slug": "blackjacksetzer",
+  "label": "Blackjacksetzer",
+  "updatedAt": "2026-11-18T21:35:01.931Z",
+  "source": "YouTube Data API v3 via GitHub Actions",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "b5DLKkwZ4_PgdCKKbTs-0bmeONU",
+    "id": "UCZ1YWkHXSEW1aqPjMERmKcg",
+    "snippet": {
+      "title": "Blackjack Dream Drops ",
+      "description": "Member of the Dream Drops Crew\nWe play games and chat a bit.",
+      "customUrl": "@blackjacksetzer",
+      "publishedAt": "2011-10-21T04:21:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/gaW077oc359YVnU6pL-nPXtX8bQclyhd_rMKbYUo9vFjRSRrq20tqk5AeN0xKnLdc4bsPkdV=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/gaW077oc359YVnU6pL-nPXtX8bQclyhd_rMKbYUo9vFjRSRrq20tqk5AeN0xKnLdc4bsPkdV=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/gaW077oc359YVnU6pL-nPXtX8bQclyhd_rMKbYUo9vFjRSRrq20tqk5AeN0xKnLdc4bsPkdV=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Blackjack Dream Drops ",
+        "description": "Member of the Dream Drops Crew\nWe play games and chat a bit."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZ1YWkHXSEW1aqPjMERmKcg"
+      }
+    },
+    "statistics": {
+      "viewCount": "277",
+      "subscriberCount": "10",
+      "hiddenSubscriberCount": false,
+      "videoCount": "30"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Blackjack Dream Drops ",
+        "description": "Member of the Dream Drops Crew\nWe play games and chat a bit."
+      }
+    },
+    "url": "https://www.youtube.com/channel/UCZ1YWkHXSEW1aqPjMERmKcg"
+  },
+  "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "MzgoxhsOfzDke93kPJ_ld8lHXko",
+      "id": "Mwb0TFA1cSU",
+      "snippet": {
+        "publishedAt": "2026-08-25T09:35:07Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Not the birds!!! - Fire Emblem: Path of Radiance #16",
+        "description": "This Naesala guy seems like a hard cookie to crack....",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Not the birds!!! - Fire Emblem: Path of Radiance #16",
+          "description": "This Naesala guy seems like a hard cookie to crack...."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H43M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-24T18:36:03Z",
+        "actualEndTime": "2026-08-24T21:19:19Z",
+        "scheduledStartTime": "2026-08-24T18:35:52Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Lv1ogAd2E-E3EPPVFYZv-7kMKyk",
+      "id": "6PCmw7O-EW8",
+      "snippet": {
+        "publishedAt": "2026-08-07T14:01:26Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "We march! - Fire Emblem: Path of Radiance #15",
+        "description": "With Begnion on our side, we march on to liberate our homeland!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "We march! - Fire Emblem: Path of Radiance #15",
+          "description": "With Begnion on our side, we march on to liberate our homeland!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H6M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-06T22:58:26Z",
+        "actualEndTime": "2026-08-07T01:07:13Z",
+        "scheduledStartTime": "2026-08-06T22:58:12Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ACt_yP0zqni-ulmtyHyn2SA6c58",
+      "id": "foIZBUVpI3M",
+      "snippet": {
+        "publishedAt": "2026-07-31T11:37:09Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Into the forest - Fire Emblem: Path of Radiance #14",
+        "description": "We deal once for all whit the crazy guy, maybe we save a heron or two!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Into the forest - Fire Emblem: Path of Radiance #14",
+          "description": "We deal once for all whit the crazy guy, maybe we save a heron or two!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H20M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-30T22:05:17Z",
+        "actualEndTime": "2026-07-30T23:25:59Z",
+        "scheduledStartTime": "2026-07-30T22:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j69eT8_nNARj0ElSeqdH8Czam7w",
+      "id": "chJgwQ7ItTM",
+      "snippet": {
+        "publishedAt": "2026-07-09T04:20:09Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Into the Serenes forest - Fire Emblem: Path of Radiance #13",
+        "description": "We can´t let Oliver escape, timo to follow into the creepy forest",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Into the Serenes forest - Fire Emblem: Path of Radiance #13",
+          "description": "We can´t let Oliver escape, timo to follow into the creepy forest"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT4H33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-09T00:09:53Z",
+        "actualEndTime": "2026-07-09T04:10:31Z",
+        "scheduledStartTime": "2026-07-09T00:09:40Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "y-nWyMsAhzpugEXWZDogBkD52Uo",
+      "id": "0pQj-kKXxwE",
+      "snippet": {
+        "publishedAt": "2026-07-02T17:14:05Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Infiltrating the mansion - Fire Emblem: Path of Radiance #12",
+        "description": "We need to try and save Reyson!, lets hurry up an break in the duke mansion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Infiltrating the mansion - Fire Emblem: Path of Radiance #12",
+          "description": "We need to try and save Reyson!, lets hurry up an break in the duke mansion."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H12M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-02T02:18:58Z",
+        "actualEndTime": "2026-07-02T04:31:51Z",
+        "scheduledStartTime": "2026-07-02T02:18:43Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-faJpYFIOH-1mXel2ufpLbQBejI",
+      "id": "XtES3xURi-Y",
+      "snippet": {
+        "publishedAt": "2026-06-29T16:33:17Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Let me try my power armor",
+        "description": "We try to defeat some bosses in Daemon X Machina",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Let me try my power armor",
+          "description": "We try to defeat some bosses in Daemon X Machina"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H2M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-29T02:52:39Z",
+        "actualEndTime": "2026-06-29T03:55:39Z",
+        "scheduledStartTime": "2026-06-29T02:52:26Z"
+      }
+    }
+  ],
+  "replays": [
+    {
+      "kind": "youtube#video",
+      "etag": "MzgoxhsOfzDke93kPJ_ld8lHXko",
+      "id": "Mwb0TFA1cSU",
+      "snippet": {
+        "publishedAt": "2026-08-25T09:35:07Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Not the birds!!! - Fire Emblem: Path of Radiance #16",
+        "description": "This Naesala guy seems like a hard cookie to crack....",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Not the birds!!! - Fire Emblem: Path of Radiance #16",
+          "description": "This Naesala guy seems like a hard cookie to crack...."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H43M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-24T18:36:03Z",
+        "actualEndTime": "2026-08-24T21:19:19Z",
+        "scheduledStartTime": "2026-08-24T18:35:52Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Lv1ogAd2E-E3EPPVFYZv-7kMKyk",
+      "id": "6PCmw7O-EW8",
+      "snippet": {
+        "publishedAt": "2026-08-07T14:01:26Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "We march! - Fire Emblem: Path of Radiance #15",
+        "description": "With Begnion on our side, we march on to liberate our homeland!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "We march! - Fire Emblem: Path of Radiance #15",
+          "description": "With Begnion on our side, we march on to liberate our homeland!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H6M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-06T22:58:26Z",
+        "actualEndTime": "2026-08-07T01:07:13Z",
+        "scheduledStartTime": "2026-08-06T22:58:12Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ACt_yP0zqni-ulmtyHyn2SA6c58",
+      "id": "foIZBUVpI3M",
+      "snippet": {
+        "publishedAt": "2026-07-31T11:37:09Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Into the forest - Fire Emblem: Path of Radiance #14",
+        "description": "We deal once for all whit the crazy guy, maybe we save a heron or two!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Into the forest - Fire Emblem: Path of Radiance #14",
+          "description": "We deal once for all whit the crazy guy, maybe we save a heron or two!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H20M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-30T22:05:17Z",
+        "actualEndTime": "2026-07-30T23:25:59Z",
+        "scheduledStartTime": "2026-07-30T22:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j69eT8_nNARj0ElSeqdH8Czam7w",
+      "id": "chJgwQ7ItTM",
+      "snippet": {
+        "publishedAt": "2026-07-09T04:20:09Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Into the Serenes forest - Fire Emblem: Path of Radiance #13",
+        "description": "We can´t let Oliver escape, timo to follow into the creepy forest",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Into the Serenes forest - Fire Emblem: Path of Radiance #13",
+          "description": "We can´t let Oliver escape, timo to follow into the creepy forest"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT4H33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-09T00:09:53Z",
+        "actualEndTime": "2026-07-09T04:10:31Z",
+        "scheduledStartTime": "2026-07-09T00:09:40Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "y-nWyMsAhzpugEXWZDogBkD52Uo",
+      "id": "0pQj-kKXxwE",
+      "snippet": {
+        "publishedAt": "2026-07-02T17:14:05Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Infiltrating the mansion - Fire Emblem: Path of Radiance #12",
+        "description": "We need to try and save Reyson!, lets hurry up an break in the duke mansion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Infiltrating the mansion - Fire Emblem: Path of Radiance #12",
+          "description": "We need to try and save Reyson!, lets hurry up an break in the duke mansion."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H12M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-02T02:18:58Z",
+        "actualEndTime": "2026-07-02T04:31:51Z",
+        "scheduledStartTime": "2026-07-02T02:18:43Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-faJpYFIOH-1mXel2ufpLbQBejI",
+      "id": "XtES3xURi-Y",
+      "snippet": {
+        "publishedAt": "2026-06-29T16:33:17Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Let me try my power armor",
+        "description": "We try to defeat some bosses in Daemon X Machina",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Let me try my power armor",
+          "description": "We try to defeat some bosses in Daemon X Machina"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H2M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-29T02:52:39Z",
+        "actualEndTime": "2026-06-29T03:55:39Z",
+        "scheduledStartTime": "2026-06-29T02:52:26Z"
+      }
+    }
+  ],
+  "live": null,
+  "liveChecked": false,
+  "latestVideos": [
+    {
+      "id": "Mwb0TFA1cSU",
+      "title": "Not the birds!!! - Fire Emblem: Path of Radiance #16",
+      "label": "YouTube",
+      "publishedAt": "2026-08-25T09:35:07Z",
+      "startedAt": "2026-08-24T18:36:03Z",
+      "endedAt": "2026-08-24T21:19:19Z",
+      "scheduledAt": "2026-08-24T18:35:52Z",
+      "duration": "PT2H43M9S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Mwb0TFA1cSU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Mwb0TFA1cSU",
+      "views": "7",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "6PCmw7O-EW8",
+      "title": "We march! - Fire Emblem: Path of Radiance #15",
+      "label": "YouTube",
+      "publishedAt": "2026-08-07T14:01:26Z",
+      "startedAt": "2026-08-06T22:58:26Z",
+      "endedAt": "2026-08-07T01:07:13Z",
+      "scheduledAt": "2026-08-06T22:58:12Z",
+      "duration": "PT2H6M3S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/6PCmw7O-EW8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6PCmw7O-EW8",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "foIZBUVpI3M",
+      "title": "Into the forest - Fire Emblem: Path of Radiance #14",
+      "label": "YouTube",
+      "publishedAt": "2026-07-31T11:37:09Z",
+      "startedAt": "2026-07-30T22:05:17Z",
+      "endedAt": "2026-07-30T23:25:59Z",
+      "scheduledAt": "2026-07-30T22:05:01Z",
+      "duration": "PT1H20M34S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/foIZBUVpI3M/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=foIZBUVpI3M",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "chJgwQ7ItTM",
+      "title": "Into the Serenes forest - Fire Emblem: Path of Radiance #13",
+      "label": "YouTube",
+      "publishedAt": "2026-07-09T04:20:09Z",
+      "startedAt": "2026-07-09T00:09:53Z",
+      "endedAt": "2026-07-09T04:10:31Z",
+      "scheduledAt": "2026-07-09T00:09:40Z",
+      "duration": "PT4H33S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/chJgwQ7ItTM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=chJgwQ7ItTM",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "0pQj-kKXxwE",
+      "title": "Infiltrating the mansion - Fire Emblem: Path of Radiance #12",
+      "label": "YouTube",
+      "publishedAt": "2026-07-02T17:14:05Z",
+      "startedAt": "2026-07-02T02:18:58Z",
+      "endedAt": "2026-07-02T04:31:51Z",
+      "scheduledAt": "2026-07-02T02:18:43Z",
+      "duration": "PT2H12M46S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/0pQj-kKXxwE/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0pQj-kKXxwE",
+      "views": "8",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "XtES3xURi-Y",
+      "title": "Let me try my power armor",
+      "label": "YouTube",
+      "publishedAt": "2026-06-29T16:33:17Z",
+      "startedAt": "2026-06-29T02:52:39Z",
+      "endedAt": "2026-06-29T03:55:39Z",
+      "scheduledAt": "2026-06-29T02:52:26Z",
+      "duration": "PT1H2M56S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/XtES3xURi-Y/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XtES3xURi-Y",
+      "views": "7",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "latestLivestreams": [
+    {
+      "id": "Mwb0TFA1cSU",
+      "title": "Not the birds!!! - Fire Emblem: Path of Radiance #16",
+      "label": "Livestream",
+      "publishedAt": "2026-08-25T09:35:07Z",
+      "startedAt": "2026-08-24T18:36:03Z",
+      "endedAt": "2026-08-24T21:19:19Z",
+      "scheduledAt": "2026-08-24T18:35:52Z",
+      "duration": "PT2H43M9S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Mwb0TFA1cSU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Mwb0TFA1cSU",
+      "views": "7",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "6PCmw7O-EW8",
+      "title": "We march! - Fire Emblem: Path of Radiance #15",
+      "label": "Livestream",
+      "publishedAt": "2026-08-07T14:01:26Z",
+      "startedAt": "2026-08-06T22:58:26Z",
+      "endedAt": "2026-08-07T01:07:13Z",
+      "scheduledAt": "2026-08-06T22:58:12Z",
+      "duration": "PT2H6M3S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/6PCmw7O-EW8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6PCmw7O-EW8",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "foIZBUVpI3M",
+      "title": "Into the forest - Fire Emblem: Path of Radiance #14",
+      "label": "Livestream",
+      "publishedAt": "2026-07-31T11:37:09Z",
+      "startedAt": "2026-07-30T22:05:17Z",
+      "endedAt": "2026-07-30T23:25:59Z",
+      "scheduledAt": "2026-07-30T22:05:01Z",
+      "duration": "PT1H20M34S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/foIZBUVpI3M/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=foIZBUVpI3M",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "chJgwQ7ItTM",
+      "title": "Into the Serenes forest - Fire Emblem: Path of Radiance #13",
+      "label": "Livestream",
+      "publishedAt": "2026-07-09T04:20:09Z",
+      "startedAt": "2026-07-09T00:09:53Z",
+      "endedAt": "2026-07-09T04:10:31Z",
+      "scheduledAt": "2026-07-09T00:09:40Z",
+      "duration": "PT4H33S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/chJgwQ7ItTM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=chJgwQ7ItTM",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "0pQj-kKXxwE",
+      "title": "Infiltrating the mansion - Fire Emblem: Path of Radiance #12",
+      "label": "Livestream",
+      "publishedAt": "2026-07-02T17:14:05Z",
+      "startedAt": "2026-07-02T02:18:58Z",
+      "endedAt": "2026-07-02T04:31:51Z",
+      "scheduledAt": "2026-07-02T02:18:43Z",
+      "duration": "PT2H12M46S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/0pQj-kKXxwE/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0pQj-kKXxwE",
+      "views": "8",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "XtES3xURi-Y",
+      "title": "Let me try my power armor",
+      "label": "Livestream",
+      "publishedAt": "2026-06-29T16:33:17Z",
+      "startedAt": "2026-06-29T02:52:39Z",
+      "endedAt": "2026-06-29T03:55:39Z",
+      "scheduledAt": "2026-06-29T02:52:26Z",
+      "duration": "PT1H2M56S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/XtES3xURi-Y/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XtES3xURi-Y",
+      "views": "7",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "latestReplays": [
+    {
+      "id": "Mwb0TFA1cSU",
+      "title": "Not the birds!!! - Fire Emblem: Path of Radiance #16",
+      "label": "Replay",
+      "publishedAt": "2026-08-25T09:35:07Z",
+      "startedAt": "2026-08-24T18:36:03Z",
+      "endedAt": "2026-08-24T21:19:19Z",
+      "scheduledAt": "2026-08-24T18:35:52Z",
+      "duration": "PT2H43M9S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Mwb0TFA1cSU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Mwb0TFA1cSU",
+      "views": "7",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "6PCmw7O-EW8",
+      "title": "We march! - Fire Emblem: Path of Radiance #15",
+      "label": "Replay",
+      "publishedAt": "2026-08-07T14:01:26Z",
+      "startedAt": "2026-08-06T22:58:26Z",
+      "endedAt": "2026-08-07T01:07:13Z",
+      "scheduledAt": "2026-08-06T22:58:12Z",
+      "duration": "PT2H6M3S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/6PCmw7O-EW8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6PCmw7O-EW8",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "foIZBUVpI3M",
+      "title": "Into the forest - Fire Emblem: Path of Radiance #14",
+      "label": "Replay",
+      "publishedAt": "2026-07-31T11:37:09Z",
+      "startedAt": "2026-07-30T22:05:17Z",
+      "endedAt": "2026-07-30T23:25:59Z",
+      "scheduledAt": "2026-07-30T22:05:01Z",
+      "duration": "PT1H20M34S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/foIZBUVpI3M/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=foIZBUVpI3M",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "chJgwQ7ItTM",
+      "title": "Into the Serenes forest - Fire Emblem: Path of Radiance #13",
+      "label": "Replay",
+      "publishedAt": "2026-07-09T04:20:09Z",
+      "startedAt": "2026-07-09T00:09:53Z",
+      "endedAt": "2026-07-09T04:10:31Z",
+      "scheduledAt": "2026-07-09T00:09:40Z",
+      "duration": "PT4H33S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/chJgwQ7ItTM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=chJgwQ7ItTM",
+      "views": "6",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "0pQj-kKXxwE",
+      "title": "Infiltrating the mansion - Fire Emblem: Path of Radiance #12",
+      "label": "Replay",
+      "publishedAt": "2026-07-02T17:14:05Z",
+      "startedAt": "2026-07-02T02:18:58Z",
+      "endedAt": "2026-07-02T04:31:51Z",
+      "scheduledAt": "2026-07-02T02:18:43Z",
+      "duration": "PT2H12M46S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/0pQj-kKXxwE/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0pQj-kKXxwE",
+      "views": "8",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "XtES3xURi-Y",
+      "title": "Let me try my power armor",
+      "label": "Replay",
+      "publishedAt": "2026-06-29T16:33:17Z",
+      "startedAt": "2026-06-29T02:52:39Z",
+      "endedAt": "2026-06-29T03:55:39Z",
+      "scheduledAt": "2026-06-29T02:52:26Z",
+      "duration": "PT1H2M56S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/XtES3xURi-Y/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XtES3xURi-Y",
+      "views": "7",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "liveStatus": {
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-18T21:35:01.931Z",
+    "expiresAt": "2026-11-18T22:20:01.931Z",
+    "method": "recent_uploads",
+    "note": "Not detected does not prove offline; observations expire after 45 minutes."
+  },
+  "collabs": [],
+  "collabIssues": [],
+  "scannedUploadCount": 31,
+  "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed.",
+  "catalog": [
+    {
+      "kind": "youtube#video",
+      "etag": "MzgoxhsOfzDke93kPJ_ld8lHXko",
+      "id": "Mwb0TFA1cSU",
+      "snippet": {
+        "publishedAt": "2026-08-25T09:35:07Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Not the birds!!! - Fire Emblem: Path of Radiance #16",
+        "description": "This Naesala guy seems like a hard cookie to crack....",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mwb0TFA1cSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Not the birds!!! - Fire Emblem: Path of Radiance #16",
+          "description": "This Naesala guy seems like a hard cookie to crack...."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H43M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-24T18:36:03Z",
+        "actualEndTime": "2026-08-24T21:19:19Z",
+        "scheduledStartTime": "2026-08-24T18:35:52Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Lv1ogAd2E-E3EPPVFYZv-7kMKyk",
+      "id": "6PCmw7O-EW8",
+      "snippet": {
+        "publishedAt": "2026-08-07T14:01:26Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "We march! - Fire Emblem: Path of Radiance #15",
+        "description": "With Begnion on our side, we march on to liberate our homeland!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6PCmw7O-EW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "We march! - Fire Emblem: Path of Radiance #15",
+          "description": "With Begnion on our side, we march on to liberate our homeland!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H6M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-06T22:58:26Z",
+        "actualEndTime": "2026-08-07T01:07:13Z",
+        "scheduledStartTime": "2026-08-06T22:58:12Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ACt_yP0zqni-ulmtyHyn2SA6c58",
+      "id": "foIZBUVpI3M",
+      "snippet": {
+        "publishedAt": "2026-07-31T11:37:09Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Into the forest - Fire Emblem: Path of Radiance #14",
+        "description": "We deal once for all whit the crazy guy, maybe we save a heron or two!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/foIZBUVpI3M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Into the forest - Fire Emblem: Path of Radiance #14",
+          "description": "We deal once for all whit the crazy guy, maybe we save a heron or two!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H20M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-30T22:05:17Z",
+        "actualEndTime": "2026-07-30T23:25:59Z",
+        "scheduledStartTime": "2026-07-30T22:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j69eT8_nNARj0ElSeqdH8Czam7w",
+      "id": "chJgwQ7ItTM",
+      "snippet": {
+        "publishedAt": "2026-07-09T04:20:09Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Into the Serenes forest - Fire Emblem: Path of Radiance #13",
+        "description": "We can´t let Oliver escape, timo to follow into the creepy forest",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/chJgwQ7ItTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Into the Serenes forest - Fire Emblem: Path of Radiance #13",
+          "description": "We can´t let Oliver escape, timo to follow into the creepy forest"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT4H33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-09T00:09:53Z",
+        "actualEndTime": "2026-07-09T04:10:31Z",
+        "scheduledStartTime": "2026-07-09T00:09:40Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "y-nWyMsAhzpugEXWZDogBkD52Uo",
+      "id": "0pQj-kKXxwE",
+      "snippet": {
+        "publishedAt": "2026-07-02T17:14:05Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Infiltrating the mansion - Fire Emblem: Path of Radiance #12",
+        "description": "We need to try and save Reyson!, lets hurry up an break in the duke mansion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0pQj-kKXxwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Infiltrating the mansion - Fire Emblem: Path of Radiance #12",
+          "description": "We need to try and save Reyson!, lets hurry up an break in the duke mansion."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H12M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-02T02:18:58Z",
+        "actualEndTime": "2026-07-02T04:31:51Z",
+        "scheduledStartTime": "2026-07-02T02:18:43Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-faJpYFIOH-1mXel2ufpLbQBejI",
+      "id": "XtES3xURi-Y",
+      "snippet": {
+        "publishedAt": "2026-06-29T16:33:17Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Let me try my power armor",
+        "description": "We try to defeat some bosses in Daemon X Machina",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XtES3xURi-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Let me try my power armor",
+          "description": "We try to defeat some bosses in Daemon X Machina"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H2M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-29T02:52:39Z",
+        "actualEndTime": "2026-06-29T03:55:39Z",
+        "scheduledStartTime": "2026-06-29T02:52:26Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "w3bw1ySnF3NRPVO-2j8ggc78yt8",
+      "id": "tjI2OOAqUoc",
+      "snippet": {
+        "publishedAt": "2026-05-17T15:19:44Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "#6 Pokemon Soul Link with Portal! - Let's finish this",
+        "description": "Let's reach the Elite 4!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tjI2OOAqUoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tjI2OOAqUoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tjI2OOAqUoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tjI2OOAqUoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#6 Pokemon Soul Link with Portal! - Let's finish this",
+          "description": "Let's reach the Elite 4!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H23M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "15",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-05-17T01:38:21Z",
+        "actualEndTime": "2026-05-17T03:02:28Z",
+        "scheduledStartTime": "2026-05-17T01:38:08Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8qAsu0-8XcpnRzS_qgfPZ_p5Ni8",
+      "id": "phDLpHI6NJQ",
+      "snippet": {
+        "publishedAt": "2026-04-12T13:51:39Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "#5 Die hard, but with Pokemon - Pokemon Soul Link with Portal",
+        "description": "We raid Silph Co. to save it from team Rocket!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/phDLpHI6NJQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/phDLpHI6NJQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/phDLpHI6NJQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/phDLpHI6NJQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#5 Die hard, but with Pokemon - Pokemon Soul Link with Portal",
+          "description": "We raid Silph Co. to save it from team Rocket!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H55M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-11T18:46:32Z",
+        "actualEndTime": "2026-04-11T21:41:39Z",
+        "scheduledStartTime": "2026-04-11T18:46:21Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GNDJQcjpenQEMXVABrPF5DUfHSI",
+      "id": "rWLXsWl6Rk4",
+      "snippet": {
+        "publishedAt": "2026-03-29T15:38:50Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "#4 To the Safari Zone - Pokemon Soul link with Portal",
+        "description": "We get to advance in our pokemon adventure!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rWLXsWl6Rk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rWLXsWl6Rk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rWLXsWl6Rk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rWLXsWl6Rk4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#4 To the Safari Zone - Pokemon Soul link with Portal",
+          "description": "We get to advance in our pokemon adventure!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H38M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-29T00:34:42Z",
+        "actualEndTime": "2026-03-29T03:12:56Z",
+        "scheduledStartTime": "2026-03-29T00:34:29Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WL4fXi0_iLraz9_0QAQy0BYjw78",
+      "id": "4a1ud77y7PM",
+      "snippet": {
+        "publishedAt": "2026-03-15T14:17:36Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Pokemon Soul link with Portal #3",
+        "description": "We  about to get into a dark cave and a spooky town!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4a1ud77y7PM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4a1ud77y7PM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4a1ud77y7PM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4a1ud77y7PM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Pokemon Soul link with Portal #3",
+          "description": "We  about to get into a dark cave and a spooky town!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT3H3M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-14T22:47:13Z",
+        "actualEndTime": "2026-03-15T01:50:31Z",
+        "scheduledStartTime": "2026-03-14T22:45:27Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LCYbDd7aEEmr4Il1gHydu3E0b8g",
+      "id": "sUews2RAEUo",
+      "snippet": {
+        "publishedAt": "2026-03-01T14:47:43Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Pokémon Soul Link with Portal #2",
+        "description": "We gonna ride a boat and beat LT. Surge and wonder whats more?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sUews2RAEUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sUews2RAEUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sUews2RAEUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sUews2RAEUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Pokémon Soul Link with Portal #2",
+          "description": "We gonna ride a boat and beat LT. Surge and wonder whats more?"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H33M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-28T23:03:56Z",
+        "actualEndTime": "2026-03-01T01:37:18Z",
+        "scheduledStartTime": "2026-02-28T23:03:45Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fzw5IyCKLbgfoEh-GmusHn8xQ-E",
+      "id": "FM13CzFaj8k",
+      "snippet": {
+        "publishedAt": "2026-02-22T04:27:48Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Pokemon Soul Link with Portal! #1",
+        "description": "We start our nuzzlocke together",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FM13CzFaj8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FM13CzFaj8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FM13CzFaj8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FM13CzFaj8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Pokemon Soul Link with Portal! #1",
+          "description": "We start our nuzzlocke together"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT5H2M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "25",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-21T23:13:02Z",
+        "actualEndTime": "2026-02-22T04:15:22Z",
+        "scheduledStartTime": "2026-02-21T23:10:09Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CaGAOWiPde_Opk2GWSrHv24xWEw",
+      "id": "fJLrjfB5Ur8",
+      "snippet": {
+        "publishedAt": "2026-02-19T08:39:52Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Laguz Friends - Fire Emblem: Path of Radiance #10",
+        "description": "We continue or work in Begnion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJLrjfB5Ur8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJLrjfB5Ur8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJLrjfB5Ur8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fJLrjfB5Ur8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Laguz Friends - Fire Emblem: Path of Radiance #10",
+          "description": "We continue or work in Begnion"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H59M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-18T18:23:16Z",
+        "actualEndTime": "2026-02-18T20:22:36Z",
+        "scheduledStartTime": "2026-02-18T18:23:02Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q8pHIZxz6ryHDwQhEG0SBVwvR7U",
+      "id": "hrROT6-YLDQ",
+      "snippet": {
+        "publishedAt": "2026-02-16T15:52:02Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "We will get to Begnion for sure this time! - Fire Emblem: Path of Radiance #10",
+        "description": "Right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hrROT6-YLDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hrROT6-YLDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hrROT6-YLDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hrROT6-YLDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "We will get to Begnion for sure this time! - Fire Emblem: Path of Radiance #10",
+          "description": "Right?"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H28M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-16T00:49:25Z",
+        "actualEndTime": "2026-02-16T03:18:16Z",
+        "scheduledStartTime": "2026-02-16T00:49:09Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GnQoMgAOSk8aLmVIlseHooMQZkQ",
+      "id": "KrvRuMHXxR4",
+      "snippet": {
+        "publishedAt": "2026-02-14T15:42:00Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Guess we kinda have to guard the Empress... - Fire Emblem: Path of Radiance #9.5",
+        "description": "Last time was embarassing! talk about pride before the fall!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KrvRuMHXxR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KrvRuMHXxR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KrvRuMHXxR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KrvRuMHXxR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Guess we kinda have to guard the Empress... - Fire Emblem: Path of Radiance #9.5",
+          "description": "Last time was embarassing! talk about pride before the fall!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H3M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-14T02:30:23Z",
+        "actualEndTime": "2026-02-14T03:33:35Z",
+        "scheduledStartTime": "2026-02-14T02:29:54Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vZSAj7aVAsMWYFD3qMogw3f-Vt0",
+      "id": "vCU1pHBrICY",
+      "snippet": {
+        "publishedAt": "2026-02-13T08:21:20Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Defend the ship!!! - Fire Emblem: Path of Radiance #9",
+        "description": "We keep going on our sea adventures towards Begnion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vCU1pHBrICY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vCU1pHBrICY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vCU1pHBrICY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vCU1pHBrICY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Defend the ship!!! - Fire Emblem: Path of Radiance #9",
+          "description": "We keep going on our sea adventures towards Begnion"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H5M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-12T18:06:27Z",
+        "actualEndTime": "2026-02-12T20:12:03Z",
+        "scheduledStartTime": "2026-02-12T18:06:14Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a8-_JD64KccoG6ukQW2pzvyykCQ",
+      "id": "aLvfBK1ST4Q",
+      "snippet": {
+        "publishedAt": "2026-02-04T16:53:04Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Sailing to Begnion!. - Fire Emblem: Path of Radiance #8",
+        "description": "We got on our ship on time, for sure there won't be any more set backs, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLvfBK1ST4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLvfBK1ST4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLvfBK1ST4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aLvfBK1ST4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Sailing to Begnion!. - Fire Emblem: Path of Radiance #8",
+          "description": "We got on our ship on time, for sure there won't be any more set backs, right?"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H46M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-04T02:52:02Z",
+        "actualEndTime": "2026-02-04T04:38:22Z",
+        "scheduledStartTime": "2026-02-04T02:51:50Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "05qfiSy32LCuQKySAmYsxnBql4U",
+      "id": "AQQzohXEkfg",
+      "snippet": {
+        "publishedAt": "2026-01-28T17:06:19Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "I demand a redo... - Fire Emblem: Path of Radiance #7.5",
+        "description": "Black Knigth got us real good last time, didn't he?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AQQzohXEkfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AQQzohXEkfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AQQzohXEkfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AQQzohXEkfg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I demand a redo... - Fire Emblem: Path of Radiance #7.5",
+          "description": "Black Knigth got us real good last time, didn't he?"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT57M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-28T03:18:56Z",
+        "actualEndTime": "2026-01-28T04:16:15Z",
+        "scheduledStartTime": "2026-01-28T03:18:43Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t385qY-7tKHfXxZ6TujdYt40uDc",
+      "id": "onwCZXKzAfQ",
+      "snippet": {
+        "publishedAt": "2026-01-27T14:06:38Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "What's behind this door? - Fire Emblem: Path of Radiance #7",
+        "description": "We race to et a bot that will take Princess Elincia and company to Begnion, having trouble along the way",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/onwCZXKzAfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/onwCZXKzAfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/onwCZXKzAfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/onwCZXKzAfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What's behind this door? - Fire Emblem: Path of Radiance #7",
+          "description": "We race to et a bot that will take Princess Elincia and company to Begnion, having trouble along the way"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H41M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "15",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-26T23:58:17Z",
+        "actualEndTime": "2026-01-27T01:39:33Z",
+        "scheduledStartTime": "2026-01-26T23:58:04Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "L2G3USm7rPbIJtA2xjK5bF8VgZw",
+      "id": "-AkNTMo94Ko",
+      "snippet": {
+        "publishedAt": "2026-01-25T02:32:48Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "To Begnion   Fire Emblem  Path of Radiance #6 (story)",
+        "description": "Story part of chapter #6 of the playtrough",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-AkNTMo94Ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-AkNTMo94Ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-AkNTMo94Ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-AkNTMo94Ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "To Begnion   Fire Emblem  Path of Radiance #6 (story)",
+          "description": "Story part of chapter #6 of the playtrough"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT59M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AwNKSuhpnX5EAiDjtqhKAoigprU",
+      "id": "1lm93dfsH2I",
+      "snippet": {
+        "publishedAt": "2026-01-24T18:09:03Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "To Begnion - Fire Emblem: Path of Radiance #6",
+        "description": "Ike and Princess Elincia embark on a quest to request help from Begnion Holy Empire",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1lm93dfsH2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1lm93dfsH2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1lm93dfsH2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1lm93dfsH2I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "To Begnion - Fire Emblem: Path of Radiance #6",
+          "description": "Ike and Princess Elincia embark on a quest to request help from Begnion Holy Empire"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H28M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-24T04:30:51Z",
+        "actualEndTime": "2026-01-24T06:00:24Z",
+        "scheduledStartTime": "2026-01-24T04:30:41Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PWSUw8RpYe9FufTo5sNJohQfnM4",
+      "id": "iISY8UmM9Ig",
+      "snippet": {
+        "publishedAt": "2026-01-24T04:27:23Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Emisión en directo de Blackjack Dream Drops",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iISY8UmM9Ig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iISY8UmM9Ig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iISY8UmM9Ig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iISY8UmM9Ig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Emisión en directo de Blackjack Dream Drops",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "activeLiveChatId": "Cg0KC2lJU1k4VW1NOUlnKicKGFVDWjFZV2tIWFNFVzFhcVBqTUVSbUtjZxILaUlTWThVbU05SWc"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FLy26NLIsgNDniJ_7jo4QvN-KE4",
+      "id": "FuxQLDe30QE",
+      "snippet": {
+        "publishedAt": "2026-01-16T18:30:36Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Im a Laguz! - Fire Emblem: Path of radiance #5",
+        "description": "After a tragic event, the Greil mercenaries get ready to visit the Galias's king palace\n\n\n#Dream Drops Crew\n#Fire Emblem: Path of Radiance",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FuxQLDe30QE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FuxQLDe30QE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FuxQLDe30QE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FuxQLDe30QE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Im a Laguz! - Fire Emblem: Path of radiance #5",
+          "description": "After a tragic event, the Greil mercenaries get ready to visit the Galias's king palace\n\n\n#Dream Drops Crew\n#Fire Emblem: Path of Radiance"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H23M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-16T02:59:15Z",
+        "actualEndTime": "2026-01-16T05:26:40Z",
+        "scheduledStartTime": "2026-01-16T02:59:01Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZW3-7MVzBoHoPepV__wC1BmglWs",
+      "id": "FSpXbDQI36o",
+      "snippet": {
+        "publishedAt": "2026-01-15T18:58:30Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Of Laguz and Beorc - Fire Emblem: Path of Radiance #4",
+        "description": "Ike and the group go into Galia to seek sanctuary for the mysterious princess Elincia\n\n\n#Dream Drops Crew\n#Fire Emblem: Path of Radiance",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FSpXbDQI36o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FSpXbDQI36o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FSpXbDQI36o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FSpXbDQI36o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Of Laguz and Beorc - Fire Emblem: Path of Radiance #4",
+          "description": "Ike and the group go into Galia to seek sanctuary for the mysterious princess Elincia\n\n\n#Dream Drops Crew\n#Fire Emblem: Path of Radiance"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H55M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-15T03:07:16Z",
+        "actualEndTime": "2026-01-15T06:02:30Z",
+        "scheduledStartTime": "2026-01-15T03:06:50Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fUueB1KxvwdX03lBwWwpvRfSHUk",
+      "id": "CcCORVFD9oA",
+      "snippet": {
+        "publishedAt": "2026-01-14T18:22:01Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "War is coming?! - Fire Emblem: Path of Radiance #3",
+        "description": "We follow magic Ike and the group as war breaks in Crimea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CcCORVFD9oA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CcCORVFD9oA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CcCORVFD9oA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CcCORVFD9oA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "War is coming?! - Fire Emblem: Path of Radiance #3",
+          "description": "We follow magic Ike and the group as war breaks in Crimea"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H1M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-14T04:09:46Z",
+        "actualEndTime": "2026-01-14T06:11:29Z",
+        "scheduledStartTime": "2026-01-14T04:07:16Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aNGkQC_KW7jEXvvPJhgCiruKA-Q",
+      "id": "KWnm4yPYTe8",
+      "snippet": {
+        "publishedAt": "2026-01-13T19:28:00Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Mercenary work... Fire Emblem: Path of Radiance #2",
+        "description": "We continue Ike work as a Greil Mercenary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KWnm4yPYTe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KWnm4yPYTe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KWnm4yPYTe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KWnm4yPYTe8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Mercenary work... Fire Emblem: Path of Radiance #2",
+          "description": "We continue Ike work as a Greil Mercenary"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H39M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-13T04:57:16Z",
+        "actualEndTime": "2026-01-13T06:37:21Z",
+        "scheduledStartTime": "2026-01-13T04:55:44Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QtPEUzCFV-KJNvpDJrEuYQj8E2I",
+      "id": "EngT7FbNUjs",
+      "snippet": {
+        "publishedAt": "2026-01-12T18:33:58Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Fire Emblem: Path of Radiance #1; Back to a childhood classic!",
+        "description": "Replaying this favorite of mine since childhood because it came in Nintendo online!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EngT7FbNUjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EngT7FbNUjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EngT7FbNUjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EngT7FbNUjs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Fire Emblem: Path of Radiance #1; Back to a childhood classic!",
+          "description": "Replaying this favorite of mine since childhood because it came in Nintendo online!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H41M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "19",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-12T04:16:54Z",
+        "actualEndTime": "2026-01-12T05:58:35Z",
+        "scheduledStartTime": "2026-01-12T03:22:21Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IxEu8whuJ58j8gWgpffoPMdwQOU",
+      "id": "nF9Kt8T0FXk",
+      "snippet": {
+        "publishedAt": "2026-01-05T20:23:45Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "BlackJack going solo?",
+        "description": "Short stream to play Master Duel Story mode and test stream!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nF9Kt8T0FXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nF9Kt8T0FXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nF9Kt8T0FXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nF9Kt8T0FXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "BlackJack going solo?",
+          "description": "Short stream to play Master Duel Story mode and test stream!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H4M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-05T06:09:58Z",
+        "actualEndTime": "2026-01-05T07:14:28Z",
+        "scheduledStartTime": "2026-01-05T06:09:45Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "h_mmJve_y0WKrttaMhgJatKfJuY",
+      "id": "5ord5mj4Esg",
+      "snippet": {
+        "publishedAt": "2025-01-26T08:18:39Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Cup of ace OTK",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ord5mj4Esg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ord5mj4Esg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ord5mj4Esg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5ord5mj4Esg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5ord5mj4Esg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Cup of ace OTK",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "19",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-vJCDPURImSetaIDnipibd7Evnw",
+      "id": "ncOQKS1EDwE",
+      "snippet": {
+        "publishedAt": "2020-10-12T06:16:52Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Genshin Impact_20201012011207",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ncOQKS1EDwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ncOQKS1EDwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ncOQKS1EDwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "tags": [
+          "#PS4share",
+          "PlayStation 4",
+          "Sony Interactive Entertainment",
+          "Genshin Impact",
+          "david_setzer"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Genshin Impact_20201012011207",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4zyOYx-Z4m1chDXyvpusw-jB8Jc",
+      "id": "Qy3T1_bx9cc",
+      "snippet": {
+        "publishedAt": "2014-12-13T08:35:32Z",
+        "channelId": "UCZ1YWkHXSEW1aqPjMERmKcg",
+        "title": "Wii U - Mario Kart 8 - Dolphin Shoals",
+        "description": "Mario Kart 8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qy3T1_bx9cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qy3T1_bx9cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qy3T1_bx9cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qy3T1_bx9cc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qy3T1_bx9cc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blackjack Dream Drops ",
+        "tags": [
+          "マリオカート8",
+          "Mario Kart 8",
+          "MK8",
+          "Highlight",
+          "GrandPrix",
+          "Dolphin Shoals",
+          "Rosalina",
+          "B Dasher",
+          "Roller",
+          "Hylian Kite"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Wii U - Mario Kart 8 - Dolphin Shoals",
+          "description": "Mario Kart 8"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "16",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    }
+  ],
+  "playlists": [],
+  "collabSources": {},
+  "legacyCollabs": [],
+  "sections": {
+    "channel": {
+      "status": "fresh",
+      "updatedAt": "2026-11-18T21:35:01.931Z"
+    },
+    "videos": {
+      "status": "fresh",
+      "updatedAt": "2026-11-18T21:35:01.931Z"
+    },
+    "collabs": {
+      "status": "fresh",
+      "updatedAt": "2026-11-18T21:35:01.931Z"
+    }
+  },
+  "issues": [],
+  "freshness": {
+    "liveFresh": true,
+    "observedAt": "2026-11-18T21:35:01.931Z",
+    "evaluatedAt": "2026-11-18T21:35:02.360Z"
+  }
+}

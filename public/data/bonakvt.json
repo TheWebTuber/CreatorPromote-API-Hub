@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-18T17:34:54.519Z",
+  "updatedAt": "2026-11-18T21:34:56.172Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -64,12 +64,12 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "81mXJXaE4rGkSWIbsCwhUJpcbqQ",
+      "etag": "0fGpn8d7kdms2FDuIUwhqrNI49M",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
         "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+        "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
         "description": "",
         "thumbnails": {
           "default": {
@@ -108,7 +108,7 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+          "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
           "description": ""
         },
         "defaultAudioLanguage": "en"
@@ -131,7 +131,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "181",
+        "viewCount": "207",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -139,7 +139,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Z7wml9TURTUcbKjmxnKh8nJFUsY",
+      "etag": "7PILWNZfyIICgmHDJsex5IHdy_s",
       "id": "jRW7YQHJyLA",
       "snippet": {
         "publishedAt": "2026-11-18T00:23:21Z",
@@ -201,7 +201,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "14",
+        "viewCount": "20",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -288,7 +288,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KbgNtumGVJXydCu2Vc-rGhGMr3M",
+      "etag": "T75qA_0_D1zbyScXI_DulPayjuo",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -350,7 +350,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "923",
+        "viewCount": "936",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -507,7 +507,7 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "Z7wml9TURTUcbKjmxnKh8nJFUsY",
+      "etag": "7PILWNZfyIICgmHDJsex5IHdy_s",
       "id": "jRW7YQHJyLA",
       "snippet": {
         "publishedAt": "2026-11-18T00:23:21Z",
@@ -569,7 +569,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "14",
+        "viewCount": "20",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -950,7 +950,7 @@
   "latestVideos": [
     {
       "id": "P8cpT20NmI8",
-      "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+      "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
       "label": "YouTube",
       "publishedAt": "2026-11-18T13:35:19Z",
       "startedAt": null,
@@ -961,7 +961,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/P8cpT20NmI8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=P8cpT20NmI8",
-      "views": "181",
+      "views": "207",
       "live": false,
       "wasLive": false
     },
@@ -978,7 +978,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/jRW7YQHJyLA/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jRW7YQHJyLA",
-      "views": "14",
+      "views": "20",
       "live": false,
       "wasLive": true
     },
@@ -1012,7 +1012,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
-      "views": "923",
+      "views": "936",
       "live": false,
       "wasLive": false
     },
@@ -1065,7 +1065,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/jRW7YQHJyLA/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jRW7YQHJyLA",
-      "views": "14",
+      "views": "20",
       "live": false,
       "wasLive": true
     },
@@ -1169,7 +1169,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/jRW7YQHJyLA/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jRW7YQHJyLA",
-      "views": "14",
+      "views": "20",
       "live": false,
       "wasLive": true
     },
@@ -1262,8 +1262,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T17:34:54.519Z",
-    "expiresAt": "2026-11-18T18:19:54.519Z",
+    "checkedAt": "2026-11-18T21:34:56.172Z",
+    "expiresAt": "2026-11-18T22:19:56.172Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1274,12 +1274,12 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "81mXJXaE4rGkSWIbsCwhUJpcbqQ",
+      "etag": "0fGpn8d7kdms2FDuIUwhqrNI49M",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
         "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+        "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
         "description": "",
         "thumbnails": {
           "default": {
@@ -1318,7 +1318,7 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+          "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
           "description": ""
         },
         "defaultAudioLanguage": "en"
@@ -1341,7 +1341,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "181",
+        "viewCount": "207",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1349,7 +1349,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Z7wml9TURTUcbKjmxnKh8nJFUsY",
+      "etag": "7PILWNZfyIICgmHDJsex5IHdy_s",
       "id": "jRW7YQHJyLA",
       "snippet": {
         "publishedAt": "2026-11-18T00:23:21Z",
@@ -1411,7 +1411,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "14",
+        "viewCount": "20",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1498,7 +1498,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KbgNtumGVJXydCu2Vc-rGhGMr3M",
+      "etag": "T75qA_0_D1zbyScXI_DulPayjuo",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -1560,7 +1560,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "923",
+        "viewCount": "936",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8558,21 +8558,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T17:34:54.519Z"
+      "updatedAt": "2026-11-18T21:34:56.172Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T17:34:54.519Z"
+      "updatedAt": "2026-11-18T21:34:56.172Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T17:34:54.519Z"
+      "updatedAt": "2026-11-18T21:34:56.172Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T17:34:54.519Z",
-    "evaluatedAt": "2026-11-18T17:34:55.342Z"
+    "observedAt": "2026-11-18T21:34:56.172Z",
+    "evaluatedAt": "2026-11-18T21:34:57.217Z"
   }
 }

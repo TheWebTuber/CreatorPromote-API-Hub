@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-18T08:32:38.354Z",
+  "updatedAt": "2026-11-18T16:52:33.274Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "vN5GKTgyULOQYjWssoh-Eon2duw",
+    "etag": "lr8GFlXJfrg1KsyhG1HbTvjJdKc",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -45,7 +45,7 @@
       "viewCount": "1212952",
       "subscriberCount": "733",
       "hiddenSubscriberCount": false,
-      "videoCount": "3027"
+      "videoCount": "3030"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,217 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "D2kSyPm0JZQK0XXV1UD-aTU7wfk",
+      "etag": "FwuiO4Ywq6oxb8JFPh5ly_CJvko",
+      "id": "8ec7wR5ao2c",
+      "snippet": {
+        "publishedAt": "2026-11-18T10:35:00Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "HALLOWEEN IS OVER!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
+        "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HALLOWEEN IS OVER!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
+          "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qwhVbQKTOp7t55qii5IxkDW2gV0",
+      "id": "mwnD-4PlF1o",
+      "snippet": {
+        "publishedAt": "2026-11-18T10:13:18Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "NO WAY THAT ALMOST WORKED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+        "description": "It was very close!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "NO WAY THAT ALMOST WORKED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+          "description": "It was very close!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "171",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "d1C6cgzkdDp7cDCPbR1ZY2dVAp0",
+      "id": "1dvi9ql_Ndo",
+      "snippet": {
+        "publishedAt": "2026-11-18T10:10:22Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "JUMPSCARING AT SHACK!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+        "description": "2v8 was fun!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "JUMPSCARING AT SHACK!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+          "description": "2v8 was fun!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "121",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r0jurrC3AaGOYOiUwE-mpzTa1FI",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -136,7 +346,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "70",
+        "viewCount": "72",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -150,7 +360,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "L-Y79UXSLrhkboei_vdKZru0e6k",
+      "etag": "NdPVJzqNOVtaGbpD5RoyHExYv1s",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -212,7 +422,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "74",
+        "viewCount": "89",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -220,7 +430,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "I5U5-4JgjZys0bnj-fgAcoyZ2og",
+      "etag": "FmaH4CfYCZ7dY370-5_0gcfuiVE",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -282,7 +492,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "114",
+        "viewCount": "140",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -290,7 +500,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AJlVjrKNZGrw_3ZjnjD37sbM90o",
+      "etag": "xlN_FFgxyOxjVEapoExbIwwLZB4",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -379,7 +589,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NdxBvl9W5ZJrarDEh8HJtFHjibw",
+      "etag": "bnoQb4P-C2rXMBhK_ismWeAkmXs",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -455,7 +665,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "97",
+        "viewCount": "98",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -469,7 +679,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "w6hO6ZPCRnsqBrPLXO_eE6JWMOI",
+      "etag": "Cr3y9sIpTCvhNMLiFldPE349EFQ",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -510,7 +720,8 @@
         "localized": {
           "title": "I HAVEN'T HEARD THAT BEFORE!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
           "description": "That's a new one!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT15S",
@@ -530,7 +741,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "133",
+        "viewCount": "136",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -538,7 +749,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kBMCGSdOOBQGh22w9MMDxs0mmSg",
+      "etag": "ZuryxD9Skcdbsei3h3ku3nld3Zk",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -600,7 +811,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "90",
+        "viewCount": "96",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -608,7 +819,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Dy1lC2Q30ehlMxNzk43faSv-uBM",
+      "etag": "BUme9iooX4X4eDDsDkxgbNtPLSA",
       "id": "ZSq8KMLbsG8",
       "snippet": {
         "publishedAt": "2026-11-15T23:14:20Z",
@@ -684,7 +895,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "184",
+        "viewCount": "188",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -767,7 +978,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FOB7gHvoG8Obe5MuUuYM7hZMXBs",
+      "etag": "Gj2-XnSZ0MXsi66b8cIasMgFyfs",
       "id": "Aq_q6at-Yjc",
       "snippet": {
         "publishedAt": "2026-11-15T10:40:17Z",
@@ -808,7 +1019,8 @@
         "localized": {
           "title": "WHAT DO I DO IN A 2V1!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
           "description": "Get cooked?"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT29S",
@@ -925,7 +1137,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0AvYYVNMuJEPlPI-dFgAD781DNI",
+      "etag": "eyE2uciX-cyichtDq6cHwtJtMmY",
       "id": "SbCFAXODENY",
       "snippet": {
         "publishedAt": "2026-11-14T10:08:46Z",
@@ -987,7 +1199,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "923",
+        "viewCount": "917",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -995,7 +1207,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7LJws8xm4SOvSBxxB_ho_wd9FIE",
+      "etag": "J4W0wfWFsFk_KZT6AzIraFAXGY4",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -1036,7 +1248,8 @@
         "localized": {
           "title": "POOR HUNTRESS!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
           "description": "At least they did hit me?"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT41S",
@@ -1154,7 +1367,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WDgk79AP6Mg4Rkaz-ywROLV_sSA",
+      "etag": "wkFsMUDC4rCmlyyxRDhqneKzf2k",
       "id": "5KooI0w2I70",
       "snippet": {
         "publishedAt": "2026-11-14T00:07:06Z",
@@ -1384,7 +1597,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HQRUFrXB03NPocyA-lttwMb5_So",
+      "etag": "PUZp4LxObgA8Tq_EBAleYoan79U",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -1425,7 +1638,8 @@
         "localized": {
           "title": "I NEED TO CONTRIBUTE MORE!?! | (FC27 PLAYER CAREER EPISODE 7)",
           "description": "What's good everyone, it's your boy thedocrot, and I NEED TO CONTRIBUTE MORE!?!\n\nWhat will happen if I don't...\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT19M59S",
@@ -1453,7 +1667,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qMqM6CwmgO9T9gR8oymUVR-1jPI",
+      "etag": "A3DPSB2H6R5nTLQ-QRwKB8vecVo",
       "id": "UXQh5GGDUYw",
       "snippet": {
         "publishedAt": "2026-11-13T00:58:08Z",
@@ -1544,7 +1758,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eeBjbRE54yS65yfaoAoOORH65dI",
+      "etag": "4DcNPZaMmFK64Y1WhHZMVVkoK-0",
       "id": "QcwN-Y1N8-Y",
       "snippet": {
         "publishedAt": "2026-11-12T10:10:51Z",
@@ -1585,7 +1799,8 @@
         "localized": {
           "title": "HOPEFULLY THIS WILL GO WELL!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
           "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT14M58S",
@@ -1752,7 +1967,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eAjZx1iGNW8Ds8qHV9O1iUEXwfE",
+      "etag": "B6rLLZl2J9oWLkVx7OiwrOROkBY",
       "id": "5M18LGIUcOU",
       "snippet": {
         "publishedAt": "2026-11-11T22:44:09Z",
@@ -1842,7 +2057,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GRKXFFuGtlauOGjGjUunSe6LhM0",
+      "etag": "62nL9PMnBe9jLTWqtUmAAif9GVo",
       "id": "OZARQEtjG7o",
       "snippet": {
         "publishedAt": "2026-11-11T10:40:40Z",
@@ -1883,7 +2098,8 @@
         "localized": {
           "title": "MY DBD LUCK HASN'T BEEN GREAT RECENTLY!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
           "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT11M45S",
@@ -1911,7 +2127,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "I_fbyhEKm5fyEw_tq-g8I5fg9AY",
+      "etag": "BfxYzOWLVNOLBbmW2O8Z-kHI7-M",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -1952,7 +2168,8 @@
         "localized": {
           "title": "IS THAT AKINFENWA OR RONALDO!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #short",
           "description": "I couldn't tell you!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT30S",
@@ -1972,7 +2189,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "877",
+        "viewCount": "880",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2049,7 +2266,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LfCupaujeQu8QSFSWaAIMyzGirI",
+      "etag": "s_LOq0SGcueoWK2xRwKTjUKp_Wg",
       "id": "Ru3_YOIH6eI",
       "snippet": {
         "publishedAt": "2026-11-11T09:47:02Z",
@@ -2138,7 +2355,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8mZi6dNnjCkMlIRvUpAcgo2xIJw",
+      "etag": "Ou-d-WJ2A1q1i57YDxeWfoXU6i8",
       "id": "u6cOFmZ6PD8",
       "snippet": {
         "publishedAt": "2026-11-10T10:05:57Z",
@@ -2179,7 +2396,8 @@
         "localized": {
           "title": "IT WAS NOT IN OUR WAY!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #reel",
           "description": "I could smell it!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT21S",
@@ -2207,7 +2425,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EarWR8alVha8K5FtetAGJP7bGXE",
+      "etag": "bElF2G11WDDnpZEQNHa4Pw3sNvI",
       "id": "MpFIqYbTRqA",
       "snippet": {
         "publishedAt": "2026-11-10T10:03:06Z",
@@ -2248,7 +2466,8 @@
         "localized": {
           "title": "THAT IS A BASEMENT BUBBA!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #reel",
           "description": "Which is a no from me!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT40S",
@@ -2594,7 +2813,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "g-0jc0CyUMg0xPzybBqTNWu-VMg",
+      "etag": "mlWf0WSajugY7EHdsxclD8R3P1Q",
       "id": "enbkJI1_yxo",
       "snippet": {
         "publishedAt": "2026-11-08T10:12:48Z",
@@ -2655,7 +2874,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "430",
+        "viewCount": "431",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -4393,282 +4612,12 @@
         "scheduledStartTime": "2026-11-01T20:15:55Z",
         "scheduledEndTime": "2026-11-01T22:38:02Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "897ynHwTRWzDbe3rSjgpILZduXg",
-      "id": "t8jgepwgALQ",
-      "snippet": {
-        "publishedAt": "2026-11-01T22:36:22Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "MY FC27 PACK LUCK HAS BEEN CRAZY!?! | FC27 Ultimate Team",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/t8jgepwgALQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/t8jgepwgALQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/t8jgepwgALQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/t8jgepwgALQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/t8jgepwgALQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#ENTERTAINMENT",
-          "#FC",
-          "#FC27",
-          "#FOOTBALL",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#PS5Live",
-          "#SOCCER",
-          "EA SPORTS FC 27",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "MY FC27 PACK LUCK HAS BEEN CRAZY!?! | FC27 Ultimate Team",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT2H1M4S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "76",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-01T18:09:29Z",
-        "actualEndTime": "2026-11-01T20:10:31Z",
-        "scheduledStartTime": "2026-11-01T18:09:15Z",
-        "scheduledEndTime": "2026-11-01T20:31:22Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "JDQFZWFGbBpq572Cp2QCrNyuu0w",
-      "id": "UN-6BKZS6Nk",
-      "snippet": {
-        "publishedAt": "2026-11-01T11:11:25Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "HALLOWEEN SPECIAL!?! | Halloween: The Game",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UN-6BKZS6Nk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UN-6BKZS6Nk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UN-6BKZS6Nk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/UN-6BKZS6Nk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/UN-6BKZS6Nk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HALLOWEEN",
-          "#HALLOWEENTHEGAME",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Halloween: The Game",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "HALLOWEEN SPECIAL!?! | Halloween: The Game",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT53M58S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "97",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-31T22:01:05Z",
-        "actualEndTime": "2026-10-31T22:55:02Z",
-        "scheduledStartTime": "2026-10-31T22:00:51Z",
-        "scheduledEndTime": "2026-10-31T23:02:59Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "FgUVtU0OVja8nyNMPWyYD2YJsdQ",
-      "id": "wq71FaoH6Fo",
-      "snippet": {
-        "publishedAt": "2026-11-01T10:07:31Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "HALLOWEEN SPECIAL!?! | Phasmophobia",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wq71FaoH6Fo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wq71FaoH6Fo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wq71FaoH6Fo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wq71FaoH6Fo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wq71FaoH6Fo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Phasmophobia",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "HALLOWEEN SPECIAL!?! | Phasmophobia",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT1H10M31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "66",
-        "likeCount": "5",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-31T20:48:33Z",
-        "actualEndTime": "2026-10-31T21:59:03Z",
-        "scheduledStartTime": "2026-10-31T20:48:18Z",
-        "scheduledEndTime": "2026-10-31T22:10:25Z"
-      }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "D2kSyPm0JZQK0XXV1UD-aTU7wfk",
+      "etag": "r0jurrC3AaGOYOiUwE-mpzTa1FI",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -4743,7 +4692,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "70",
+        "viewCount": "72",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4757,7 +4706,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AJlVjrKNZGrw_3ZjnjD37sbM90o",
+      "etag": "xlN_FFgxyOxjVEapoExbIwwLZB4",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -4846,7 +4795,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NdxBvl9W5ZJrarDEh8HJtFHjibw",
+      "etag": "bnoQb4P-C2rXMBhK_ismWeAkmXs",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -4922,7 +4871,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "97",
+        "viewCount": "98",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4936,7 +4885,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Dy1lC2Q30ehlMxNzk43faSv-uBM",
+      "etag": "BUme9iooX4X4eDDsDkxgbNtPLSA",
       "id": "ZSq8KMLbsG8",
       "snippet": {
         "publishedAt": "2026-11-15T23:14:20Z",
@@ -5012,7 +4961,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "184",
+        "viewCount": "188",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -5115,7 +5064,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WDgk79AP6Mg4Rkaz-ywROLV_sSA",
+      "etag": "wkFsMUDC4rCmlyyxRDhqneKzf2k",
       "id": "5KooI0w2I70",
       "snippet": {
         "publishedAt": "2026-11-14T00:07:06Z",
@@ -5208,6 +5157,57 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "8ec7wR5ao2c",
+      "title": "HALLOWEEN IS OVER!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
+      "label": "YouTube",
+      "publishedAt": "2026-11-18T10:35:00Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT12M51S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/8ec7wR5ao2c/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8ec7wR5ao2c",
+      "views": "3",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "mwnD-4PlF1o",
+      "title": "NO WAY THAT ALMOST WORKED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+      "label": "YouTube",
+      "publishedAt": "2026-11-18T10:13:18Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT23S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/mwnD-4PlF1o/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mwnD-4PlF1o",
+      "views": "171",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "1dvi9ql_Ndo",
+      "title": "JUMPSCARING AT SHACK!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+      "label": "YouTube",
+      "publishedAt": "2026-11-18T10:10:22Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT38S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/1dvi9ql_Ndo/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1dvi9ql_Ndo",
+      "views": "121",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "Jg96wuh6Gks",
       "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
       "label": "YouTube",
@@ -5220,7 +5220,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "70",
+      "views": "72",
       "live": false,
       "wasLive": true
     },
@@ -5237,7 +5237,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/_iwQGw2yV5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_iwQGw2yV5A",
-      "views": "74",
+      "views": "89",
       "live": false,
       "wasLive": false
     },
@@ -5254,7 +5254,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/soKh-xuZRZ4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=soKh-xuZRZ4",
-      "views": "114",
+      "views": "140",
       "live": false,
       "wasLive": false
     },
@@ -5288,7 +5288,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "97",
+      "views": "98",
       "live": false,
       "wasLive": true
     },
@@ -5305,7 +5305,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/MQCq7s8tTZw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MQCq7s8tTZw",
-      "views": "133",
+      "views": "136",
       "live": false,
       "wasLive": false
     },
@@ -5322,7 +5322,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vnWCf8PTbdw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vnWCf8PTbdw",
-      "views": "90",
+      "views": "96",
       "live": false,
       "wasLive": false
     },
@@ -5339,7 +5339,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "184",
+      "views": "188",
       "live": false,
       "wasLive": true
     },
@@ -5407,7 +5407,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/SbCFAXODENY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=SbCFAXODENY",
-      "views": "923",
+      "views": "917",
       "live": false,
       "wasLive": false
     },
@@ -5628,7 +5628,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/uD013f3vhZE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uD013f3vhZE",
-      "views": "877",
+      "views": "880",
       "live": false,
       "wasLive": false
     },
@@ -5781,7 +5781,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/enbkJI1_yxo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=enbkJI1_yxo",
-      "views": "430",
+      "views": "431",
       "live": false,
       "wasLive": false
     },
@@ -6175,57 +6175,6 @@
       "views": "144",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "t8jgepwgALQ",
-      "title": "MY FC27 PACK LUCK HAS BEEN CRAZY!?! | FC27 Ultimate Team",
-      "label": "YouTube",
-      "publishedAt": "2026-11-01T22:36:22Z",
-      "startedAt": "2026-11-01T18:09:29Z",
-      "endedAt": "2026-11-01T20:10:31Z",
-      "scheduledAt": "2026-11-01T18:09:15Z",
-      "duration": "PT2H1M4S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/t8jgepwgALQ/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=t8jgepwgALQ",
-      "views": "76",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "UN-6BKZS6Nk",
-      "title": "HALLOWEEN SPECIAL!?! | Halloween: The Game",
-      "label": "YouTube",
-      "publishedAt": "2026-11-01T11:11:25Z",
-      "startedAt": "2026-10-31T22:01:05Z",
-      "endedAt": "2026-10-31T22:55:02Z",
-      "scheduledAt": "2026-10-31T22:00:51Z",
-      "duration": "PT53M58S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/UN-6BKZS6Nk/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UN-6BKZS6Nk",
-      "views": "97",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "wq71FaoH6Fo",
-      "title": "HALLOWEEN SPECIAL!?! | Phasmophobia",
-      "label": "YouTube",
-      "publishedAt": "2026-11-01T10:07:31Z",
-      "startedAt": "2026-10-31T20:48:33Z",
-      "endedAt": "2026-10-31T21:59:03Z",
-      "scheduledAt": "2026-10-31T20:48:18Z",
-      "duration": "PT1H10M31S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/wq71FaoH6Fo/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wq71FaoH6Fo",
-      "views": "66",
-      "live": false,
-      "wasLive": true
     }
   ],
   "latestLivestreams": [
@@ -6242,7 +6191,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "70",
+      "views": "72",
       "live": false,
       "wasLive": true
     },
@@ -6276,7 +6225,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "97",
+      "views": "98",
       "live": false,
       "wasLive": true
     },
@@ -6293,7 +6242,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "184",
+      "views": "188",
       "live": false,
       "wasLive": true
     },
@@ -6346,7 +6295,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "70",
+      "views": "72",
       "live": false,
       "wasLive": true
     },
@@ -6380,7 +6329,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "97",
+      "views": "98",
       "live": false,
       "wasLive": true
     },
@@ -6397,7 +6346,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "184",
+      "views": "188",
       "live": false,
       "wasLive": true
     },
@@ -6439,8 +6388,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T08:32:38.354Z",
-    "expiresAt": "2026-11-18T09:17:38.354Z",
+    "checkedAt": "2026-11-18T16:52:33.274Z",
+    "expiresAt": "2026-11-18T17:37:33.274Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6451,7 +6400,217 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "D2kSyPm0JZQK0XXV1UD-aTU7wfk",
+      "etag": "FwuiO4Ywq6oxb8JFPh5ly_CJvko",
+      "id": "8ec7wR5ao2c",
+      "snippet": {
+        "publishedAt": "2026-11-18T10:35:00Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "HALLOWEEN IS OVER!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
+        "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8ec7wR5ao2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HALLOWEEN IS OVER!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
+          "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qwhVbQKTOp7t55qii5IxkDW2gV0",
+      "id": "mwnD-4PlF1o",
+      "snippet": {
+        "publishedAt": "2026-11-18T10:13:18Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "NO WAY THAT ALMOST WORKED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+        "description": "It was very close!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mwnD-4PlF1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "NO WAY THAT ALMOST WORKED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+          "description": "It was very close!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "171",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "d1C6cgzkdDp7cDCPbR1ZY2dVAp0",
+      "id": "1dvi9ql_Ndo",
+      "snippet": {
+        "publishedAt": "2026-11-18T10:10:22Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "JUMPSCARING AT SHACK!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+        "description": "2v8 was fun!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1dvi9ql_Ndo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "JUMPSCARING AT SHACK!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+          "description": "2v8 was fun!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "121",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r0jurrC3AaGOYOiUwE-mpzTa1FI",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -6526,7 +6685,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "70",
+        "viewCount": "72",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6540,7 +6699,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "L-Y79UXSLrhkboei_vdKZru0e6k",
+      "etag": "NdPVJzqNOVtaGbpD5RoyHExYv1s",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -6602,7 +6761,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "74",
+        "viewCount": "89",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6610,7 +6769,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "I5U5-4JgjZys0bnj-fgAcoyZ2og",
+      "etag": "FmaH4CfYCZ7dY370-5_0gcfuiVE",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -6672,7 +6831,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "114",
+        "viewCount": "140",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -6680,7 +6839,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AJlVjrKNZGrw_3ZjnjD37sbM90o",
+      "etag": "xlN_FFgxyOxjVEapoExbIwwLZB4",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -6769,7 +6928,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NdxBvl9W5ZJrarDEh8HJtFHjibw",
+      "etag": "bnoQb4P-C2rXMBhK_ismWeAkmXs",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -6845,7 +7004,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "97",
+        "viewCount": "98",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6859,7 +7018,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "w6hO6ZPCRnsqBrPLXO_eE6JWMOI",
+      "etag": "Cr3y9sIpTCvhNMLiFldPE349EFQ",
       "id": "MQCq7s8tTZw",
       "snippet": {
         "publishedAt": "2026-11-16T09:40:39Z",
@@ -6900,7 +7059,8 @@
         "localized": {
           "title": "I HAVEN'T HEARD THAT BEFORE!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
           "description": "That's a new one!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT15S",
@@ -6920,7 +7080,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "133",
+        "viewCount": "136",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6928,7 +7088,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kBMCGSdOOBQGh22w9MMDxs0mmSg",
+      "etag": "ZuryxD9Skcdbsei3h3ku3nld3Zk",
       "id": "vnWCf8PTbdw",
       "snippet": {
         "publishedAt": "2026-11-16T09:37:58Z",
@@ -6990,7 +7150,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "90",
+        "viewCount": "96",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6998,7 +7158,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Dy1lC2Q30ehlMxNzk43faSv-uBM",
+      "etag": "BUme9iooX4X4eDDsDkxgbNtPLSA",
       "id": "ZSq8KMLbsG8",
       "snippet": {
         "publishedAt": "2026-11-15T23:14:20Z",
@@ -7074,7 +7234,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "184",
+        "viewCount": "188",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -7157,7 +7317,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FOB7gHvoG8Obe5MuUuYM7hZMXBs",
+      "etag": "Gj2-XnSZ0MXsi66b8cIasMgFyfs",
       "id": "Aq_q6at-Yjc",
       "snippet": {
         "publishedAt": "2026-11-15T10:40:17Z",
@@ -7198,7 +7358,8 @@
         "localized": {
           "title": "WHAT DO I DO IN A 2V1!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
           "description": "Get cooked?"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT29S",
@@ -7315,7 +7476,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0AvYYVNMuJEPlPI-dFgAD781DNI",
+      "etag": "eyE2uciX-cyichtDq6cHwtJtMmY",
       "id": "SbCFAXODENY",
       "snippet": {
         "publishedAt": "2026-11-14T10:08:46Z",
@@ -7377,7 +7538,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "923",
+        "viewCount": "917",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7385,7 +7546,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7LJws8xm4SOvSBxxB_ho_wd9FIE",
+      "etag": "J4W0wfWFsFk_KZT6AzIraFAXGY4",
       "id": "ZQ-xWuz__Lc",
       "snippet": {
         "publishedAt": "2026-11-14T10:05:02Z",
@@ -7426,7 +7587,8 @@
         "localized": {
           "title": "POOR HUNTRESS!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
           "description": "At least they did hit me?"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT41S",
@@ -7544,7 +7706,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WDgk79AP6Mg4Rkaz-ywROLV_sSA",
+      "etag": "wkFsMUDC4rCmlyyxRDhqneKzf2k",
       "id": "5KooI0w2I70",
       "snippet": {
         "publishedAt": "2026-11-14T00:07:06Z",
@@ -7774,7 +7936,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HQRUFrXB03NPocyA-lttwMb5_So",
+      "etag": "PUZp4LxObgA8Tq_EBAleYoan79U",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -7815,7 +7977,8 @@
         "localized": {
           "title": "I NEED TO CONTRIBUTE MORE!?! | (FC27 PLAYER CAREER EPISODE 7)",
           "description": "What's good everyone, it's your boy thedocrot, and I NEED TO CONTRIBUTE MORE!?!\n\nWhat will happen if I don't...\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT19M59S",
@@ -7843,7 +8006,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qMqM6CwmgO9T9gR8oymUVR-1jPI",
+      "etag": "A3DPSB2H6R5nTLQ-QRwKB8vecVo",
       "id": "UXQh5GGDUYw",
       "snippet": {
         "publishedAt": "2026-11-13T00:58:08Z",
@@ -7934,7 +8097,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eeBjbRE54yS65yfaoAoOORH65dI",
+      "etag": "4DcNPZaMmFK64Y1WhHZMVVkoK-0",
       "id": "QcwN-Y1N8-Y",
       "snippet": {
         "publishedAt": "2026-11-12T10:10:51Z",
@@ -7975,7 +8138,8 @@
         "localized": {
           "title": "HOPEFULLY THIS WILL GO WELL!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
           "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT14M58S",
@@ -8142,7 +8306,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eAjZx1iGNW8Ds8qHV9O1iUEXwfE",
+      "etag": "B6rLLZl2J9oWLkVx7OiwrOROkBY",
       "id": "5M18LGIUcOU",
       "snippet": {
         "publishedAt": "2026-11-11T22:44:09Z",
@@ -8232,7 +8396,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GRKXFFuGtlauOGjGjUunSe6LhM0",
+      "etag": "62nL9PMnBe9jLTWqtUmAAif9GVo",
       "id": "OZARQEtjG7o",
       "snippet": {
         "publishedAt": "2026-11-11T10:40:40Z",
@@ -8273,7 +8437,8 @@
         "localized": {
           "title": "MY DBD LUCK HASN'T BEEN GREAT RECENTLY!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
           "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT11M45S",
@@ -8301,7 +8466,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "I_fbyhEKm5fyEw_tq-g8I5fg9AY",
+      "etag": "BfxYzOWLVNOLBbmW2O8Z-kHI7-M",
       "id": "uD013f3vhZE",
       "snippet": {
         "publishedAt": "2026-11-11T10:16:42Z",
@@ -8342,7 +8507,8 @@
         "localized": {
           "title": "IS THAT AKINFENWA OR RONALDO!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #short",
           "description": "I couldn't tell you!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT30S",
@@ -8362,7 +8528,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "877",
+        "viewCount": "880",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8439,7 +8605,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LfCupaujeQu8QSFSWaAIMyzGirI",
+      "etag": "s_LOq0SGcueoWK2xRwKTjUKp_Wg",
       "id": "Ru3_YOIH6eI",
       "snippet": {
         "publishedAt": "2026-11-11T09:47:02Z",
@@ -8528,7 +8694,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8mZi6dNnjCkMlIRvUpAcgo2xIJw",
+      "etag": "Ou-d-WJ2A1q1i57YDxeWfoXU6i8",
       "id": "u6cOFmZ6PD8",
       "snippet": {
         "publishedAt": "2026-11-10T10:05:57Z",
@@ -8569,7 +8735,8 @@
         "localized": {
           "title": "IT WAS NOT IN OUR WAY!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #reel",
           "description": "I could smell it!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT21S",
@@ -8597,7 +8764,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EarWR8alVha8K5FtetAGJP7bGXE",
+      "etag": "bElF2G11WDDnpZEQNHa4Pw3sNvI",
       "id": "MpFIqYbTRqA",
       "snippet": {
         "publishedAt": "2026-11-10T10:03:06Z",
@@ -8638,7 +8805,8 @@
         "localized": {
           "title": "THAT IS A BASEMENT BUBBA!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #reel",
           "description": "Which is a no from me!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT40S",
@@ -8984,7 +9152,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "g-0jc0CyUMg0xPzybBqTNWu-VMg",
+      "etag": "mlWf0WSajugY7EHdsxclD8R3P1Q",
       "id": "enbkJI1_yxo",
       "snippet": {
         "publishedAt": "2026-11-08T10:12:48Z",
@@ -9045,7 +9213,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "430",
+        "viewCount": "431",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -17613,234 +17781,6 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "gdnJ2IhhUelnM9tyvLe4ENgXSd4",
-      "id": "DV03zCyhdPA",
-      "snippet": {
-        "publishedAt": "2026-10-08T08:39:50Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "THE BOT ALMOST DID ME DIRTY!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
-        "description": "It was very close!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DV03zCyhdPA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DV03zCyhdPA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DV03zCyhdPA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DV03zCyhdPA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DV03zCyhdPA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "THE BOT ALMOST DID ME DIRTY!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
-          "description": "It was very close!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "269",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "lW3whxG1yBXRmJuwTj2vWXW9Agw",
-      "id": "70du__Tlcow",
-      "snippet": {
-        "publishedAt": "2026-10-07T21:39:16Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "DBD HAD QUITE THE UPDATE!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/70du__Tlcow/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/70du__Tlcow/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/70du__Tlcow/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/70du__Tlcow/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/70du__Tlcow/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "DBD HAD QUITE THE UPDATE!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT5H4M10S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "359",
-        "likeCount": "7",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-07T16:20:11Z",
-        "actualEndTime": "2026-10-07T21:25:07Z",
-        "scheduledStartTime": "2026-10-07T16:19:54Z",
-        "scheduledEndTime": "2026-10-07T21:42:02Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "CufDK-o0qZHKERZZzh9wf_Wdhns",
-      "id": "9FJBQdKmsaQ",
-      "snippet": {
-        "publishedAt": "2026-10-07T09:18:17Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "AN ALIEN INSPIRED 2V8!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
-        "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9FJBQdKmsaQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9FJBQdKmsaQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9FJBQdKmsaQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9FJBQdKmsaQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9FJBQdKmsaQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "AN ALIEN INSPIRED 2V8!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
-          "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT17M7S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "69",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
     }
   ],
   "playlists": [],
@@ -17849,21 +17789,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T08:32:38.354Z"
+      "updatedAt": "2026-11-18T16:52:33.274Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T08:32:38.354Z"
+      "updatedAt": "2026-11-18T16:52:33.274Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T08:32:38.354Z"
+      "updatedAt": "2026-11-18T16:52:33.274Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T08:32:38.354Z",
-    "evaluatedAt": "2026-11-18T08:32:40.573Z"
+    "observedAt": "2026-11-18T16:52:33.274Z",
+    "evaluatedAt": "2026-11-18T16:52:35.748Z"
   }
 }

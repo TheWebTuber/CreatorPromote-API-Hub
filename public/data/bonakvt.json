@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-18T08:32:45.730Z",
+  "updatedAt": "2026-11-18T16:52:41.311Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "rOU3aOaMzjdsAcgz962EF8tGCRo",
+    "etag": "w7Hk3re0ZMiX2fYUrag11zCnedI",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -46,7 +46,7 @@
       "viewCount": "65053",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
-      "videoCount": "205"
+      "videoCount": "206"
     },
     "brandingSettings": {
       "channel": {
@@ -62,6 +62,81 @@
     "url": "https://www.youtube.com/channel/UCKE1MnwHQBM8i7Or5K_zcmA"
   },
   "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "81mXJXaE4rGkSWIbsCwhUJpcbqQ",
+      "id": "P8cpT20NmI8",
+      "snippet": {
+        "publishedAt": "2026-11-18T13:35:19Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "181",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "Z7wml9TURTUcbKjmxnKh8nJFUsY",
@@ -213,7 +288,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KwSQWPELJZKPo59qyRcpO-yY84Y",
+      "etag": "dZ2Ghy7quaQM6VNB0ced1cAscjU",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -275,7 +350,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "892",
+        "viewCount": "925",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -426,80 +501,6 @@
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-15T01:20:04Z",
         "actualEndTime": "2026-11-15T03:39:44Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UIUzH2XrUU9Xa1oGC0E1lsBEqU8",
-      "id": "uOKARoS7rk4",
-      "snippet": {
-        "publishedAt": "2026-11-13T13:21:05Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "horse tries to touch me (in game) #vtuber #leagueoflegends #shorts #fyp",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uOKARoS7rk4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "leagueoflegends",
-          "twitch"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "horse tries to touch me (in game) #vtuber #leagueoflegends #shorts #fyp",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M3S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "1141",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
       }
     }
   ],
@@ -948,6 +949,23 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "P8cpT20NmI8",
+      "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+      "label": "YouTube",
+      "publishedAt": "2026-11-18T13:35:19Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT31S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/P8cpT20NmI8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=P8cpT20NmI8",
+      "views": "181",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "jRW7YQHJyLA",
       "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
       "label": "YouTube",
@@ -994,7 +1012,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
-      "views": "892",
+      "views": "925",
       "live": false,
       "wasLive": false
     },
@@ -1031,23 +1049,6 @@
       "views": "22",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "uOKARoS7rk4",
-      "title": "horse tries to touch me (in game) #vtuber #leagueoflegends #shorts #fyp",
-      "label": "YouTube",
-      "publishedAt": "2026-11-13T13:21:05Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT1M3S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/uOKARoS7rk4/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=uOKARoS7rk4",
-      "views": "1141",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
@@ -1261,8 +1262,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T08:32:45.730Z",
-    "expiresAt": "2026-11-18T09:17:45.730Z",
+    "checkedAt": "2026-11-18T16:52:41.311Z",
+    "expiresAt": "2026-11-18T17:37:41.311Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1271,6 +1272,81 @@
   "scannedUploadCount": 100,
   "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed.",
   "catalog": [
+    {
+      "kind": "youtube#video",
+      "etag": "81mXJXaE4rGkSWIbsCwhUJpcbqQ",
+      "id": "P8cpT20NmI8",
+      "snippet": {
+        "publishedAt": "2026-11-18T13:35:19Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P8cpT20NmI8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "181",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "Z7wml9TURTUcbKjmxnKh8nJFUsY",
@@ -1422,7 +1498,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KwSQWPELJZKPo59qyRcpO-yY84Y",
+      "etag": "dZ2Ghy7quaQM6VNB0ced1cAscjU",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -1484,7 +1560,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "892",
+        "viewCount": "925",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8474,79 +8550,6 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hu3g3q5UMmc85VyJs9vB7SOsjhI",
-      "id": "5IAKEt_bok0",
-      "snippet": {
-        "publishedAt": "2026-06-29T17:44:54Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "chilling on the rift OCE #twitch #vtuber #leagueoflegends",
-        "description": "fox plays league",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5IAKEt_bok0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5IAKEt_bok0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5IAKEt_bok0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5IAKEt_bok0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "fnaf",
-          "fivenightsatfreddys2"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "chilling on the rift OCE #twitch #vtuber #leagueoflegends",
-          "description": "fox plays league"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1H39M28S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "6",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-06-29T03:25:01Z",
-        "actualEndTime": "2026-06-29T05:04:30Z"
-      }
     }
   ],
   "playlists": [],
@@ -8555,21 +8558,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T08:32:45.730Z"
+      "updatedAt": "2026-11-18T16:52:41.311Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T08:32:45.730Z"
+      "updatedAt": "2026-11-18T16:52:41.311Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T08:32:45.730Z"
+      "updatedAt": "2026-11-18T16:52:41.311Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T08:32:45.730Z",
-    "evaluatedAt": "2026-11-18T08:32:46.618Z"
+    "observedAt": "2026-11-18T16:52:41.311Z",
+    "evaluatedAt": "2026-11-18T16:52:42.387Z"
   }
 }

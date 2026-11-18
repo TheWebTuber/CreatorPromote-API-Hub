@@ -3,13 +3,13 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {fetchChannelData,validateConfig} from '../scripts/hub.mjs';
 const config=JSON.parse(await fs.readFile(new URL('../config/channels.json',import.meta.url)));
-test('Enabled feeds include verified Blackjack and the six previous creators',()=>{
+test('Enabled feeds include verified Crystal and the seven previous creators',()=>{
   const channels=validateConfig(config.channels);
-  assert.deepEqual(channels.filter(c=>c.enabled).map(c=>c.slug),['thedocrot','dreamdropscrew','daddydepresso','bonakvt','duffball16','portalmasterofgames','blackjacksetzer']);
-  for(const slug of ['duffball16','portalmasterofgames','blackjacksetzer']) {
+  assert.deepEqual(channels.filter(c=>c.enabled).map(c=>c.slug),['thedocrot','dreamdropscrew','daddydepresso','bonakvt','duffball16','portalmasterofgames','blackjacksetzer','crystalsdreamdrops']);
+  for(const slug of ['duffball16','portalmasterofgames','blackjacksetzer','crystalsdreamdrops']) {
     const c=channels.find(c=>c.slug===slug);assert.equal(c.identityVerified,true);assert.equal(c.enabled,true);
   }
-  for(const slug of ['crystalsdreamdrops','salahare'])assert.equal(channels.find(c=>c.slug===slug).identityVerified,false);
+  assert.equal(channels.find(c=>c.slug==='salahare').identityVerified,false);
 });
 test('Duffball catalog and three playlist pages preserve the website scan coverage without search',async()=>{
   const cfg=config.channels.find(c=>c.slug==='duffball16');const calls=[];

@@ -107,11 +107,12 @@
       "slug": "crystalsdreamdrops",
       "label": "Crystalsdreamdrops",
       "handle": "@Crystalsdreamdrops",
-      "enabled": false,
-      "identityVerified": false,
+      "enabled": true,
+      "identityVerified": true,
       "scanPages": 4,
       "latestCount": 6,
-      "livestreamCount": 6
+      "livestreamCount": 6,
+      "channelId": "UCtaRwYXdPWmrXhwirPL3oKw"
     },
     {
       "slug": "salahare",

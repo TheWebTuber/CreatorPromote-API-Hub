@@ -3,11 +3,11 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {fetchChannelData,validateConfig} from '../scripts/hub.mjs';
 const config=JSON.parse(await fs.readFile(new URL('../config/channels.json',import.meta.url)));
-test('Phase 4 adds only verified PMOG to the four existing live feeds',()=>{
+test('Phase 5 enables verified Duffball16 while preserving the five existing feeds',()=>{
   const channels=validateConfig(config.channels);
-  assert.deepEqual(channels.filter(c=>c.enabled).map(c=>c.slug),['thedocrot','dreamdropscrew','daddydepresso','bonakvt','portalmasterofgames']);
+  assert.deepEqual(channels.filter(c=>c.enabled).map(c=>c.slug),['thedocrot','dreamdropscrew','daddydepresso','bonakvt','duffball16','portalmasterofgames']);
   for(const slug of ['duffball16','portalmasterofgames']) {
-    const c=channels.find(c=>c.slug===slug);assert.equal(c.identityVerified,true);assert.equal(c.enabled,slug==='portalmasterofgames');
+    const c=channels.find(c=>c.slug===slug);assert.equal(c.identityVerified,true);assert.equal(c.enabled,true);
   }
   for(const slug of ['blackjacksetzer','crystalsdreamdrops','salahare'])assert.equal(channels.find(c=>c.slug===slug).identityVerified,false);
 });

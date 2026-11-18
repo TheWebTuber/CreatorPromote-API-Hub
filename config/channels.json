@@ -72,7 +72,7 @@
       "slug": "duffball16",
       "label": "Duffball16",
       "handle": "@Duffball16",
-      "enabled": false,
+      "enabled": true,
       "scanPages": 5,
       "latestCount": 6,
       "livestreamCount": 6,

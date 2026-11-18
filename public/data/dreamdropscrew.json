@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-18T16:52:35.763Z",
+  "updatedAt": "2026-11-18T17:34:49.999Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -61,7 +61,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "PZRSkVw1DqAmxTA6m2s49-2kJWs",
+      "etag": "_NJawJ5-eyw2X5FgtyZpVfogOsU",
       "id": "jmu-EysDFP8",
       "snippet": {
         "publishedAt": "2026-11-18T06:21:26Z",
@@ -128,7 +128,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "3",
+        "viewCount": "4",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1058,7 +1058,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/jmu-EysDFP8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jmu-EysDFP8",
-      "views": "3",
+      "views": "4",
       "live": false,
       "wasLive": false
     },
@@ -1359,8 +1359,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T16:52:35.763Z",
-    "expiresAt": "2026-11-18T17:37:35.763Z",
+    "checkedAt": "2026-11-18T17:34:49.999Z",
+    "expiresAt": "2026-11-18T18:19:49.999Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1371,7 +1371,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "PZRSkVw1DqAmxTA6m2s49-2kJWs",
+      "etag": "_NJawJ5-eyw2X5FgtyZpVfogOsU",
       "id": "jmu-EysDFP8",
       "snippet": {
         "publishedAt": "2026-11-18T06:21:26Z",
@@ -1438,7 +1438,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "3",
+        "viewCount": "4",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -39773,21 +39773,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:35.763Z"
+      "updatedAt": "2026-11-18T17:34:49.999Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:35.763Z"
+      "updatedAt": "2026-11-18T17:34:49.999Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:35.763Z"
+      "updatedAt": "2026-11-18T17:34:49.999Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T16:52:35.763Z",
-    "evaluatedAt": "2026-11-18T16:52:39.877Z"
+    "observedAt": "2026-11-18T17:34:49.999Z",
+    "evaluatedAt": "2026-11-18T17:34:53.109Z"
   }
 }

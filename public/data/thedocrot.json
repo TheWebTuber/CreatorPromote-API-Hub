@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-18T16:52:33.274Z",
+  "updatedAt": "2026-11-18T17:34:47.734Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -131,7 +131,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qwhVbQKTOp7t55qii5IxkDW2gV0",
+      "etag": "VC8bW7b8BpCRwwaX1w28B--kKVY",
       "id": "mwnD-4PlF1o",
       "snippet": {
         "publishedAt": "2026-11-18T10:13:18Z",
@@ -193,7 +193,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "171",
+        "viewCount": "183",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -201,7 +201,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "d1C6cgzkdDp7cDCPbR1ZY2dVAp0",
+      "etag": "7eJYPyX1dkT0hl3sqib6VdJRmps",
       "id": "1dvi9ql_Ndo",
       "snippet": {
         "publishedAt": "2026-11-18T10:10:22Z",
@@ -263,7 +263,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "121",
+        "viewCount": "128",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -360,7 +360,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NdPVJzqNOVtaGbpD5RoyHExYv1s",
+      "etag": "Pw71n222zYOPuWBhdP_74DpMYg0",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -422,7 +422,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "89",
+        "viewCount": "85",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -430,7 +430,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FmaH4CfYCZ7dY370-5_0gcfuiVE",
+      "etag": "JyzaaOsBzWKUu7QEwjnP7ZKPJnc",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -492,7 +492,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "140",
+        "viewCount": "142",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -1828,7 +1828,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "la-BuXqq9oLKa4sns-sqKrpfSdY",
+      "etag": "14976btae9J76cS6N7-USbomA5M",
       "id": "XYbNzxJT6Aw",
       "snippet": {
         "publishedAt": "2026-11-12T09:47:31Z",
@@ -1869,7 +1869,8 @@
         "localized": {
           "title": "HOW TO SCORE FROM CORNERS!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
           "description": "PURE JAM!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT29S",
@@ -5186,7 +5187,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/mwnD-4PlF1o/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mwnD-4PlF1o",
-      "views": "171",
+      "views": "183",
       "live": false,
       "wasLive": false
     },
@@ -5203,7 +5204,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/1dvi9ql_Ndo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1dvi9ql_Ndo",
-      "views": "121",
+      "views": "128",
       "live": false,
       "wasLive": false
     },
@@ -5237,7 +5238,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/_iwQGw2yV5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_iwQGw2yV5A",
-      "views": "89",
+      "views": "85",
       "live": false,
       "wasLive": false
     },
@@ -5254,7 +5255,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/soKh-xuZRZ4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=soKh-xuZRZ4",
-      "views": "140",
+      "views": "142",
       "live": false,
       "wasLive": false
     },
@@ -6388,8 +6389,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T16:52:33.274Z",
-    "expiresAt": "2026-11-18T17:37:33.274Z",
+    "checkedAt": "2026-11-18T17:34:47.734Z",
+    "expiresAt": "2026-11-18T18:19:47.734Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6470,7 +6471,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qwhVbQKTOp7t55qii5IxkDW2gV0",
+      "etag": "VC8bW7b8BpCRwwaX1w28B--kKVY",
       "id": "mwnD-4PlF1o",
       "snippet": {
         "publishedAt": "2026-11-18T10:13:18Z",
@@ -6532,7 +6533,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "171",
+        "viewCount": "183",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6540,7 +6541,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "d1C6cgzkdDp7cDCPbR1ZY2dVAp0",
+      "etag": "7eJYPyX1dkT0hl3sqib6VdJRmps",
       "id": "1dvi9ql_Ndo",
       "snippet": {
         "publishedAt": "2026-11-18T10:10:22Z",
@@ -6602,7 +6603,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "121",
+        "viewCount": "128",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6699,7 +6700,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NdPVJzqNOVtaGbpD5RoyHExYv1s",
+      "etag": "Pw71n222zYOPuWBhdP_74DpMYg0",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -6761,7 +6762,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "89",
+        "viewCount": "85",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6769,7 +6770,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FmaH4CfYCZ7dY370-5_0gcfuiVE",
+      "etag": "JyzaaOsBzWKUu7QEwjnP7ZKPJnc",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -6831,7 +6832,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "140",
+        "viewCount": "142",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -8167,7 +8168,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "la-BuXqq9oLKa4sns-sqKrpfSdY",
+      "etag": "14976btae9J76cS6N7-USbomA5M",
       "id": "XYbNzxJT6Aw",
       "snippet": {
         "publishedAt": "2026-11-12T09:47:31Z",
@@ -8208,7 +8209,8 @@
         "localized": {
           "title": "HOW TO SCORE FROM CORNERS!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
           "description": "PURE JAM!"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT29S",
@@ -17789,21 +17791,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:33.274Z"
+      "updatedAt": "2026-11-18T17:34:47.734Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:33.274Z"
+      "updatedAt": "2026-11-18T17:34:47.734Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:33.274Z"
+      "updatedAt": "2026-11-18T17:34:47.734Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T16:52:33.274Z",
-    "evaluatedAt": "2026-11-18T16:52:35.748Z"
+    "observedAt": "2026-11-18T17:34:47.734Z",
+    "evaluatedAt": "2026-11-18T17:34:49.988Z"
   }
 }

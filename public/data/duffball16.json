@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "duffball16",
   "label": "Duffball16",
-  "updatedAt": "2026-11-18T16:52:42.528Z",
+  "updatedAt": "2026-11-18T17:34:55.353Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -286,7 +286,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9EKogvw3EetPBKMJXjupF46sQRc",
+      "etag": "roaGdEaEsVhEnR1rJ2bwGjKUdm8",
       "id": "VDndXyRhMuQ",
       "snippet": {
         "publishedAt": "2026-11-18T00:01:12Z",
@@ -414,7 +414,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1395",
+        "viewCount": "1421",
         "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -918,7 +918,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "289My1TjmtdVC3E6yV5gq6sO70s",
+      "etag": "80eySNZo3coTS8_6-H8PWxTAVSQ",
       "id": "Q8VOmiAEOp8",
       "snippet": {
         "publishedAt": "2026-11-16T23:33:46Z",
@@ -1233,7 +1233,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2SWj3w9T9m7vwxcHwzuLIxDIw_s",
+      "etag": "M0pvjLw6MDpD0TVDe22E9VkKqf4",
       "id": "QLhuNm1vSW0",
       "snippet": {
         "publishedAt": "2026-11-11T22:30:51Z",
@@ -1301,7 +1301,7 @@
       },
       "statistics": {
         "viewCount": "162",
-        "likeCount": "0",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       },
@@ -1362,7 +1362,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/VDndXyRhMuQ/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VDndXyRhMuQ",
-      "views": "1395",
+      "views": "1421",
       "live": false,
       "wasLive": false
     },
@@ -1629,8 +1629,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T16:52:42.528Z",
-    "expiresAt": "2026-11-18T17:37:42.528Z",
+    "checkedAt": "2026-11-18T17:34:55.353Z",
+    "expiresAt": "2026-11-18T18:19:55.353Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1863,7 +1863,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9EKogvw3EetPBKMJXjupF46sQRc",
+      "etag": "roaGdEaEsVhEnR1rJ2bwGjKUdm8",
       "id": "VDndXyRhMuQ",
       "snippet": {
         "publishedAt": "2026-11-18T00:01:12Z",
@@ -1991,7 +1991,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1395",
+        "viewCount": "1421",
         "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2413,7 +2413,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "289My1TjmtdVC3E6yV5gq6sO70s",
+      "etag": "80eySNZo3coTS8_6-H8PWxTAVSQ",
       "id": "Q8VOmiAEOp8",
       "snippet": {
         "publishedAt": "2026-11-16T23:33:46Z",
@@ -2982,7 +2982,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WAVbIsIpqQ_FJjdaKArHtYbTYhk",
+      "etag": "0fAlaY65cGDfBv4Edes9JYa4sss",
       "id": "6Ey5VDOJH4c",
       "snippet": {
         "publishedAt": "2026-11-15T22:06:29Z",
@@ -3114,7 +3114,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "51",
+        "viewCount": "52",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -4512,7 +4512,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2SWj3w9T9m7vwxcHwzuLIxDIw_s",
+      "etag": "M0pvjLw6MDpD0TVDe22E9VkKqf4",
       "id": "QLhuNm1vSW0",
       "snippet": {
         "publishedAt": "2026-11-11T22:30:51Z",
@@ -4580,7 +4580,7 @@
       },
       "statistics": {
         "viewCount": "162",
-        "likeCount": "0",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       },
@@ -9402,7 +9402,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "m1ABENxHtVWYxNnpvgyyz551qxg",
+      "etag": "Ki8Y9t8EoMElxem29ZI9Go6BS7w",
       "id": "ochLvev3w8Q",
       "snippet": {
         "publishedAt": "2026-10-27T10:34:48Z",
@@ -9533,7 +9533,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1317",
+        "viewCount": "1319",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -9541,7 +9541,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ipQ27HqRFpxXSj_p3z7QEi0p574",
+      "etag": "Id5UpiaJHESux6HScSMHQjrxs4o",
       "id": "jei6-KGri50",
       "snippet": {
         "publishedAt": "2026-10-27T00:14:43Z",
@@ -9672,7 +9672,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "913",
+        "viewCount": "914",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -14634,7 +14634,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vPeEX7T5TYAT-XWECrNWqv3WiHA",
+      "etag": "g8yX-TNj6297LV5v77E4mhMCh_M",
       "id": "-HxIVijNAok",
       "snippet": {
         "publishedAt": "2026-10-09T23:00:54Z",
@@ -14762,7 +14762,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "3561",
+        "viewCount": "3564",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "13"
@@ -35686,25 +35686,25 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:42.528Z"
+      "updatedAt": "2026-11-18T17:34:55.353Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:42.528Z"
+      "updatedAt": "2026-11-18T17:34:55.353Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:42.528Z"
+      "updatedAt": "2026-11-18T17:34:55.353Z"
     },
     "playlists": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T16:52:42.528Z"
+      "updatedAt": "2026-11-18T17:34:55.353Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T16:52:42.528Z",
-    "evaluatedAt": "2026-11-18T16:52:45.573Z"
+    "observedAt": "2026-11-18T17:34:55.353Z",
+    "evaluatedAt": "2026-11-18T17:34:58.182Z"
   }
 }

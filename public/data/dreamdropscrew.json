@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-18T21:34:50.990Z",
+  "updatedAt": "2026-11-18T21:42:18.119Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1359,8 +1359,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T21:34:50.990Z",
-    "expiresAt": "2026-11-18T22:19:50.990Z",
+    "checkedAt": "2026-11-18T21:42:18.119Z",
+    "expiresAt": "2026-11-18T22:27:18.119Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -39773,21 +39773,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T21:34:50.990Z"
+      "updatedAt": "2026-11-18T21:42:18.119Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T21:34:50.990Z"
+      "updatedAt": "2026-11-18T21:42:18.119Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T21:34:50.990Z"
+      "updatedAt": "2026-11-18T21:42:18.119Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T21:34:50.990Z",
-    "evaluatedAt": "2026-11-18T21:34:54.696Z"
+    "observedAt": "2026-11-18T21:42:18.119Z",
+    "evaluatedAt": "2026-11-18T21:42:21.780Z"
   }
 }

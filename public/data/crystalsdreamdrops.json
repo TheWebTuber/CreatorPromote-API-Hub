@@ -1,0 +1,3231 @@
+{
+  "version": 1,
+  "slug": "crystalsdreamdrops",
+  "label": "Crystalsdreamdrops",
+  "updatedAt": "2026-11-18T21:42:28.146Z",
+  "source": "YouTube Data API v3 via GitHub Actions",
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "kt3j5xsFlHPQIQ1OYM1wcG9x1AI",
+    "id": "UCtaRwYXdPWmrXhwirPL3oKw",
+    "snippet": {
+      "title": "Crystal’s Dream Drops",
+      "description": "I’m the host of @DreamDropsCrew , Crystal and this is my personal channel! Welcome!",
+      "customUrl": "@crystalsdreamdrops",
+      "publishedAt": "2024-08-04T02:23:35.795928Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/VRiB_iwWSzKbRqMSBR6ntdkF8FDriI8CfvXyXIJHnNTlv0XgGY0mCzmOqdsWEDOzcQQF17QV=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/VRiB_iwWSzKbRqMSBR6ntdkF8FDriI8CfvXyXIJHnNTlv0XgGY0mCzmOqdsWEDOzcQQF17QV=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/VRiB_iwWSzKbRqMSBR6ntdkF8FDriI8CfvXyXIJHnNTlv0XgGY0mCzmOqdsWEDOzcQQF17QV=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Crystal’s Dream Drops",
+        "description": "I’m the host of @DreamDropsCrew , Crystal and this is my personal channel! Welcome!"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtaRwYXdPWmrXhwirPL3oKw"
+      }
+    },
+    "statistics": {
+      "viewCount": "3335",
+      "subscriberCount": "29",
+      "hiddenSubscriberCount": false,
+      "videoCount": "25"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Crystal’s Dream Drops",
+        "description": "I’m the host of @DreamDropsCrew , Crystal and this is my personal channel! Welcome!",
+        "keywords": "Vtuber games videos commentary reviews acting \"voice acting\" podcast anime character characters Gaming \"Final fantasy\" \"final fantasy XIV online\" FF FF14 online genshin \"genshin impact\"",
+        "country": "US"
+      }
+    },
+    "url": "https://www.youtube.com/channel/UCtaRwYXdPWmrXhwirPL3oKw"
+  },
+  "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "w8CoCrcNjrkXOTIOcfpTyWYUy-0",
+      "id": "t7wuA3THESI",
+      "snippet": {
+        "publishedAt": "2026-07-03T04:45:37Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Growing my Cult of the Lamp ep2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "playing",
+          "Ale",
+          "Tale",
+          "Tavern",
+          "Ale & Tale Tavern",
+          "Restaurant",
+          "vtubers",
+          "3d vtubers",
+          "exploration"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Growing my Cult of the Lamp ep2",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3H14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "21",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-03T01:38:21Z",
+        "actualEndTime": "2026-07-03T04:38:26Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n6dTgO_yd8SjMJVd_KPMcZ4Adkk",
+      "id": "1MwEIePb6rY",
+      "snippet": {
+        "publishedAt": "2026-07-01T04:30:15Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Trying to reach the dungeons in Ale & tale Tavern With Sal",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "playing",
+          "Ale",
+          "Tale",
+          "Tavern",
+          "Ale & Tale Tavern",
+          "Restaurant",
+          "vtubers",
+          "3d vtubers",
+          "exploration"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Trying to reach the dungeons in Ale & tale Tavern With Sal",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H52M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "18",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-01T01:29:19Z",
+        "actualEndTime": "2026-07-01T04:21:26Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gObn112BfAuoRohj_RKN51XmuMM",
+      "id": "ekFw3AuivVU",
+      "snippet": {
+        "publishedAt": "2026-06-28T07:38:43Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Ale & tale Tavern with Portal",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "genshin",
+          "genshin impact",
+          "just chatting",
+          "playing",
+          "games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ale & tale Tavern with Portal",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H20M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-27T18:10:06Z",
+        "actualEndTime": "2026-06-27T19:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1Xsc46SvYTij8-An07TVnkV63Rs",
+      "id": "dSpW4gBhgWw",
+      "snippet": {
+        "publishedAt": "2026-06-17T04:04:40Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Resident evil 0 ep 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "genshin",
+          "genshin impact",
+          "just chatting",
+          "playing",
+          "games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Resident evil 0 ep 1",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H44M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "22",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-17T01:12:51Z",
+        "actualEndTime": "2026-06-17T03:57:23Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RHM-97r_5vC1yI8ZwP1cLiZG1LM",
+      "id": "YTn2hxa0Zv8",
+      "snippet": {
+        "publishedAt": "2024-10-17T18:36:29Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "It's a meh Stream",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "It's a meh Stream",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H47M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-10-17T04:29:00Z",
+        "actualEndTime": "2024-10-17T06:16:42Z",
+        "scheduledStartTime": "2024-10-17T04:28:50Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AwwIl8BUFBzvxn3xOC5viPQcJyI",
+      "id": "WU9ihxNWyvA",
+      "snippet": {
+        "publishedAt": "2024-10-16T18:14:27Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Farming for characters",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Farming for characters",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H19M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-10-16T04:42:40Z",
+        "actualEndTime": "2024-10-16T06:01:49Z",
+        "scheduledStartTime": "2024-10-16T04:42:29Z"
+      }
+    }
+  ],
+  "replays": [
+    {
+      "kind": "youtube#video",
+      "etag": "w8CoCrcNjrkXOTIOcfpTyWYUy-0",
+      "id": "t7wuA3THESI",
+      "snippet": {
+        "publishedAt": "2026-07-03T04:45:37Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Growing my Cult of the Lamp ep2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "playing",
+          "Ale",
+          "Tale",
+          "Tavern",
+          "Ale & Tale Tavern",
+          "Restaurant",
+          "vtubers",
+          "3d vtubers",
+          "exploration"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Growing my Cult of the Lamp ep2",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3H14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "21",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-03T01:38:21Z",
+        "actualEndTime": "2026-07-03T04:38:26Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n6dTgO_yd8SjMJVd_KPMcZ4Adkk",
+      "id": "1MwEIePb6rY",
+      "snippet": {
+        "publishedAt": "2026-07-01T04:30:15Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Trying to reach the dungeons in Ale & tale Tavern With Sal",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "playing",
+          "Ale",
+          "Tale",
+          "Tavern",
+          "Ale & Tale Tavern",
+          "Restaurant",
+          "vtubers",
+          "3d vtubers",
+          "exploration"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Trying to reach the dungeons in Ale & tale Tavern With Sal",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H52M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "18",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-01T01:29:19Z",
+        "actualEndTime": "2026-07-01T04:21:26Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gObn112BfAuoRohj_RKN51XmuMM",
+      "id": "ekFw3AuivVU",
+      "snippet": {
+        "publishedAt": "2026-06-28T07:38:43Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Ale & tale Tavern with Portal",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "genshin",
+          "genshin impact",
+          "just chatting",
+          "playing",
+          "games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ale & tale Tavern with Portal",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H20M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-27T18:10:06Z",
+        "actualEndTime": "2026-06-27T19:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1Xsc46SvYTij8-An07TVnkV63Rs",
+      "id": "dSpW4gBhgWw",
+      "snippet": {
+        "publishedAt": "2026-06-17T04:04:40Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Resident evil 0 ep 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "genshin",
+          "genshin impact",
+          "just chatting",
+          "playing",
+          "games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Resident evil 0 ep 1",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H44M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "22",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-17T01:12:51Z",
+        "actualEndTime": "2026-06-17T03:57:23Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RHM-97r_5vC1yI8ZwP1cLiZG1LM",
+      "id": "YTn2hxa0Zv8",
+      "snippet": {
+        "publishedAt": "2024-10-17T18:36:29Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "It's a meh Stream",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "It's a meh Stream",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H47M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-10-17T04:29:00Z",
+        "actualEndTime": "2024-10-17T06:16:42Z",
+        "scheduledStartTime": "2024-10-17T04:28:50Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AwwIl8BUFBzvxn3xOC5viPQcJyI",
+      "id": "WU9ihxNWyvA",
+      "snippet": {
+        "publishedAt": "2024-10-16T18:14:27Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Farming for characters",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Farming for characters",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H19M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-10-16T04:42:40Z",
+        "actualEndTime": "2024-10-16T06:01:49Z",
+        "scheduledStartTime": "2024-10-16T04:42:29Z"
+      }
+    }
+  ],
+  "live": null,
+  "liveChecked": false,
+  "latestVideos": [
+    {
+      "id": "t7wuA3THESI",
+      "title": "Growing my Cult of the Lamp ep2",
+      "label": "YouTube",
+      "publishedAt": "2026-07-03T04:45:37Z",
+      "startedAt": "2026-07-03T01:38:21Z",
+      "endedAt": "2026-07-03T04:38:26Z",
+      "scheduledAt": null,
+      "duration": "PT3H14S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/t7wuA3THESI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=t7wuA3THESI",
+      "views": "21",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "1MwEIePb6rY",
+      "title": "Trying to reach the dungeons in Ale & tale Tavern With Sal",
+      "label": "YouTube",
+      "publishedAt": "2026-07-01T04:30:15Z",
+      "startedAt": "2026-07-01T01:29:19Z",
+      "endedAt": "2026-07-01T04:21:26Z",
+      "scheduledAt": null,
+      "duration": "PT2H52M16S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/1MwEIePb6rY/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1MwEIePb6rY",
+      "views": "18",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "ekFw3AuivVU",
+      "title": "Ale & tale Tavern with Portal",
+      "label": "YouTube",
+      "publishedAt": "2026-06-28T07:38:43Z",
+      "startedAt": "2026-06-27T18:10:06Z",
+      "endedAt": "2026-06-27T19:30:19Z",
+      "scheduledAt": null,
+      "duration": "PT1H20M20S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/ekFw3AuivVU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ekFw3AuivVU",
+      "views": "12",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "dSpW4gBhgWw",
+      "title": "Resident evil 0 ep 1",
+      "label": "YouTube",
+      "publishedAt": "2026-06-17T04:04:40Z",
+      "startedAt": "2026-06-17T01:12:51Z",
+      "endedAt": "2026-06-17T03:57:23Z",
+      "scheduledAt": null,
+      "duration": "PT2H44M40S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/dSpW4gBhgWw/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dSpW4gBhgWw",
+      "views": "22",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "YTn2hxa0Zv8",
+      "title": "It's a meh Stream",
+      "label": "YouTube",
+      "publishedAt": "2024-10-17T18:36:29Z",
+      "startedAt": "2024-10-17T04:29:00Z",
+      "endedAt": "2024-10-17T06:16:42Z",
+      "scheduledAt": "2024-10-17T04:28:50Z",
+      "duration": "PT1H47M50S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/YTn2hxa0Zv8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YTn2hxa0Zv8",
+      "views": "10",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "WU9ihxNWyvA",
+      "title": "Farming for characters",
+      "label": "YouTube",
+      "publishedAt": "2024-10-16T18:14:27Z",
+      "startedAt": "2024-10-16T04:42:40Z",
+      "endedAt": "2024-10-16T06:01:49Z",
+      "scheduledAt": "2024-10-16T04:42:29Z",
+      "duration": "PT1H19M16S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/WU9ihxNWyvA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WU9ihxNWyvA",
+      "views": "4",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "latestLivestreams": [
+    {
+      "id": "t7wuA3THESI",
+      "title": "Growing my Cult of the Lamp ep2",
+      "label": "Livestream",
+      "publishedAt": "2026-07-03T04:45:37Z",
+      "startedAt": "2026-07-03T01:38:21Z",
+      "endedAt": "2026-07-03T04:38:26Z",
+      "scheduledAt": null,
+      "duration": "PT3H14S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/t7wuA3THESI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=t7wuA3THESI",
+      "views": "21",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "1MwEIePb6rY",
+      "title": "Trying to reach the dungeons in Ale & tale Tavern With Sal",
+      "label": "Livestream",
+      "publishedAt": "2026-07-01T04:30:15Z",
+      "startedAt": "2026-07-01T01:29:19Z",
+      "endedAt": "2026-07-01T04:21:26Z",
+      "scheduledAt": null,
+      "duration": "PT2H52M16S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/1MwEIePb6rY/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1MwEIePb6rY",
+      "views": "18",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "ekFw3AuivVU",
+      "title": "Ale & tale Tavern with Portal",
+      "label": "Livestream",
+      "publishedAt": "2026-06-28T07:38:43Z",
+      "startedAt": "2026-06-27T18:10:06Z",
+      "endedAt": "2026-06-27T19:30:19Z",
+      "scheduledAt": null,
+      "duration": "PT1H20M20S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/ekFw3AuivVU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ekFw3AuivVU",
+      "views": "12",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "dSpW4gBhgWw",
+      "title": "Resident evil 0 ep 1",
+      "label": "Livestream",
+      "publishedAt": "2026-06-17T04:04:40Z",
+      "startedAt": "2026-06-17T01:12:51Z",
+      "endedAt": "2026-06-17T03:57:23Z",
+      "scheduledAt": null,
+      "duration": "PT2H44M40S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/dSpW4gBhgWw/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dSpW4gBhgWw",
+      "views": "22",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "YTn2hxa0Zv8",
+      "title": "It's a meh Stream",
+      "label": "Livestream",
+      "publishedAt": "2024-10-17T18:36:29Z",
+      "startedAt": "2024-10-17T04:29:00Z",
+      "endedAt": "2024-10-17T06:16:42Z",
+      "scheduledAt": "2024-10-17T04:28:50Z",
+      "duration": "PT1H47M50S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/YTn2hxa0Zv8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YTn2hxa0Zv8",
+      "views": "10",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "WU9ihxNWyvA",
+      "title": "Farming for characters",
+      "label": "Livestream",
+      "publishedAt": "2024-10-16T18:14:27Z",
+      "startedAt": "2024-10-16T04:42:40Z",
+      "endedAt": "2024-10-16T06:01:49Z",
+      "scheduledAt": "2024-10-16T04:42:29Z",
+      "duration": "PT1H19M16S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/WU9ihxNWyvA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WU9ihxNWyvA",
+      "views": "4",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "latestReplays": [
+    {
+      "id": "t7wuA3THESI",
+      "title": "Growing my Cult of the Lamp ep2",
+      "label": "Replay",
+      "publishedAt": "2026-07-03T04:45:37Z",
+      "startedAt": "2026-07-03T01:38:21Z",
+      "endedAt": "2026-07-03T04:38:26Z",
+      "scheduledAt": null,
+      "duration": "PT3H14S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/t7wuA3THESI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=t7wuA3THESI",
+      "views": "21",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "1MwEIePb6rY",
+      "title": "Trying to reach the dungeons in Ale & tale Tavern With Sal",
+      "label": "Replay",
+      "publishedAt": "2026-07-01T04:30:15Z",
+      "startedAt": "2026-07-01T01:29:19Z",
+      "endedAt": "2026-07-01T04:21:26Z",
+      "scheduledAt": null,
+      "duration": "PT2H52M16S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/1MwEIePb6rY/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1MwEIePb6rY",
+      "views": "18",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "ekFw3AuivVU",
+      "title": "Ale & tale Tavern with Portal",
+      "label": "Replay",
+      "publishedAt": "2026-06-28T07:38:43Z",
+      "startedAt": "2026-06-27T18:10:06Z",
+      "endedAt": "2026-06-27T19:30:19Z",
+      "scheduledAt": null,
+      "duration": "PT1H20M20S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/ekFw3AuivVU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ekFw3AuivVU",
+      "views": "12",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "dSpW4gBhgWw",
+      "title": "Resident evil 0 ep 1",
+      "label": "Replay",
+      "publishedAt": "2026-06-17T04:04:40Z",
+      "startedAt": "2026-06-17T01:12:51Z",
+      "endedAt": "2026-06-17T03:57:23Z",
+      "scheduledAt": null,
+      "duration": "PT2H44M40S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/dSpW4gBhgWw/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dSpW4gBhgWw",
+      "views": "22",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "YTn2hxa0Zv8",
+      "title": "It's a meh Stream",
+      "label": "Replay",
+      "publishedAt": "2024-10-17T18:36:29Z",
+      "startedAt": "2024-10-17T04:29:00Z",
+      "endedAt": "2024-10-17T06:16:42Z",
+      "scheduledAt": "2024-10-17T04:28:50Z",
+      "duration": "PT1H47M50S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/YTn2hxa0Zv8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YTn2hxa0Zv8",
+      "views": "10",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "WU9ihxNWyvA",
+      "title": "Farming for characters",
+      "label": "Replay",
+      "publishedAt": "2024-10-16T18:14:27Z",
+      "startedAt": "2024-10-16T04:42:40Z",
+      "endedAt": "2024-10-16T06:01:49Z",
+      "scheduledAt": "2024-10-16T04:42:29Z",
+      "duration": "PT1H19M16S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/WU9ihxNWyvA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WU9ihxNWyvA",
+      "views": "4",
+      "live": false,
+      "wasLive": true
+    }
+  ],
+  "liveStatus": {
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-18T21:42:28.146Z",
+    "expiresAt": "2026-11-18T22:27:28.146Z",
+    "method": "recent_uploads",
+    "note": "Not detected does not prove offline; observations expire after 45 minutes."
+  },
+  "collabs": [],
+  "collabIssues": [],
+  "scannedUploadCount": 26,
+  "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed.",
+  "catalog": [
+    {
+      "kind": "youtube#video",
+      "etag": "w8CoCrcNjrkXOTIOcfpTyWYUy-0",
+      "id": "t7wuA3THESI",
+      "snippet": {
+        "publishedAt": "2026-07-03T04:45:37Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Growing my Cult of the Lamp ep2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t7wuA3THESI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "playing",
+          "Ale",
+          "Tale",
+          "Tavern",
+          "Ale & Tale Tavern",
+          "Restaurant",
+          "vtubers",
+          "3d vtubers",
+          "exploration"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Growing my Cult of the Lamp ep2",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3H14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "21",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-03T01:38:21Z",
+        "actualEndTime": "2026-07-03T04:38:26Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bfiWsUZ2wU1qFfBazxAed8-Hdvo",
+      "id": "WqJwV69XVYk",
+      "snippet": {
+        "publishedAt": "2026-07-03T04:38:30Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Growing my Cult of the Lamp ep2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WqJwV69XVYk/default.jpg?v=6a473cc6",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WqJwV69XVYk/mqdefault.jpg?v=6a473cc6",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WqJwV69XVYk/hqdefault.jpg?v=6a473cc6",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WqJwV69XVYk/sddefault.jpg?v=6a473cc6",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "playing",
+          "Ale",
+          "Tale",
+          "Tavern",
+          "Ale & Tale Tavern",
+          "Restaurant",
+          "vtubers",
+          "3d vtubers",
+          "exploration"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Growing my Cult of the Lamp ep2",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "activeLiveChatId": "Cg0KC1dxSndWNjlYVllrKicKGFVDdGFSd1lYZFBXbXJYaHdpclBMM29LdxILV3FKd1Y2OVhWWWs"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n6dTgO_yd8SjMJVd_KPMcZ4Adkk",
+      "id": "1MwEIePb6rY",
+      "snippet": {
+        "publishedAt": "2026-07-01T04:30:15Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Trying to reach the dungeons in Ale & tale Tavern With Sal",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1MwEIePb6rY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "playing",
+          "Ale",
+          "Tale",
+          "Tavern",
+          "Ale & Tale Tavern",
+          "Restaurant",
+          "vtubers",
+          "3d vtubers",
+          "exploration"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Trying to reach the dungeons in Ale & tale Tavern With Sal",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H52M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "18",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-01T01:29:19Z",
+        "actualEndTime": "2026-07-01T04:21:26Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gObn112BfAuoRohj_RKN51XmuMM",
+      "id": "ekFw3AuivVU",
+      "snippet": {
+        "publishedAt": "2026-06-28T07:38:43Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Ale & tale Tavern with Portal",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ekFw3AuivVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "genshin",
+          "genshin impact",
+          "just chatting",
+          "playing",
+          "games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ale & tale Tavern with Portal",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H20M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-27T18:10:06Z",
+        "actualEndTime": "2026-06-27T19:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1Xsc46SvYTij8-An07TVnkV63Rs",
+      "id": "dSpW4gBhgWw",
+      "snippet": {
+        "publishedAt": "2026-06-17T04:04:40Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Resident evil 0 ep 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dSpW4gBhgWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "genshin",
+          "genshin impact",
+          "just chatting",
+          "playing",
+          "games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Resident evil 0 ep 1",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H44M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "22",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-17T01:12:51Z",
+        "actualEndTime": "2026-06-17T03:57:23Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RHM-97r_5vC1yI8ZwP1cLiZG1LM",
+      "id": "YTn2hxa0Zv8",
+      "snippet": {
+        "publishedAt": "2024-10-17T18:36:29Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "It's a meh Stream",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YTn2hxa0Zv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "It's a meh Stream",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H47M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-10-17T04:29:00Z",
+        "actualEndTime": "2024-10-17T06:16:42Z",
+        "scheduledStartTime": "2024-10-17T04:28:50Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AwwIl8BUFBzvxn3xOC5viPQcJyI",
+      "id": "WU9ihxNWyvA",
+      "snippet": {
+        "publishedAt": "2024-10-16T18:14:27Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Farming for characters",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WU9ihxNWyvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Farming for characters",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I: https://www.youtube.com/@DreamDropsCrew\n\nJoin my Discord: https://discord.gg/y5sPHtzJyx\n\nJoin the DDC Discord: https://discord.gg/HKRuj5UN"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H19M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-10-16T04:42:40Z",
+        "actualEndTime": "2024-10-16T06:01:49Z",
+        "scheduledStartTime": "2024-10-16T04:42:29Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zTP5ePVyYVeJlImyZlNc_wxQsds",
+      "id": "cta-yzARdDY",
+      "snippet": {
+        "publishedAt": "2024-09-22T03:18:31Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Creating a character and starting FF14! Pt1",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cta-yzARdDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cta-yzARdDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cta-yzARdDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cta-yzARdDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cta-yzARdDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "tags": [
+          "Final fantasy",
+          "FF14"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Creating a character and starting FF14! Pt1",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H18M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "16",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-09-22T00:52:45Z",
+        "actualEndTime": "2024-09-22T03:11:16Z",
+        "scheduledStartTime": "2024-09-22T00:52:31Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_ccxwiywBtkmj4uPwqu2AE-oRQc",
+      "id": "exqtuytbfsk",
+      "snippet": {
+        "publishedAt": "2024-09-21T08:13:30Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Learning how to become.... with special guest Salahare",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/exqtuytbfsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/exqtuytbfsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/exqtuytbfsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/exqtuytbfsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/exqtuytbfsk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Learning how to become.... with special guest Salahare",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H21M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "20",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-09-20T18:38:10Z",
+        "actualEndTime": "2024-09-20T20:04:02Z",
+        "scheduledStartTime": "2024-09-20T18:37:58Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zL_0YRpgJNgDUt45E1_7blQKoy8",
+      "id": "4EW0C8ewmsQ",
+      "snippet": {
+        "publishedAt": "2024-09-20T07:58:27Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Learning how to  act from Youtube",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4EW0C8ewmsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4EW0C8ewmsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4EW0C8ewmsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4EW0C8ewmsQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4EW0C8ewmsQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Learning how to  act from Youtube",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H33M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-09-19T18:15:36Z",
+        "actualEndTime": "2024-09-19T19:48:47Z",
+        "scheduledStartTime": "2024-09-19T18:15:22Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_OFGfek_AkCFXESevzlS2yxfCo0",
+      "id": "9zLB474O7J8",
+      "snippet": {
+        "publishedAt": "2024-09-19T07:58:38Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Learning how to voice act from Youtube",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9zLB474O7J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9zLB474O7J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9zLB474O7J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9zLB474O7J8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9zLB474O7J8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Learning how to voice act from Youtube",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H26M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-09-18T18:24:50Z",
+        "actualEndTime": "2024-09-18T19:50:37Z",
+        "scheduledStartTime": "2024-09-18T18:24:12Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j2bzwKA3Sktkp-eS8J8IqHFu-g4",
+      "id": "1k85JHmbuLU",
+      "snippet": {
+        "publishedAt": "2024-09-18T07:52:25Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Learning how to get views",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1k85JHmbuLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1k85JHmbuLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1k85JHmbuLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1k85JHmbuLU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1k85JHmbuLU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Learning how to get views",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H41M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-09-17T17:57:33Z",
+        "actualEndTime": "2024-09-17T19:39:23Z",
+        "scheduledStartTime": "2024-09-17T17:57:24Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Z6Qu6KRsD0wI0xkx4L7Jf0aJQ24",
+      "id": "kg9csV7eEz0",
+      "snippet": {
+        "publishedAt": "2024-09-14T07:46:51Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "What kind of streamer should I be?",
+        "description": "Check out @DreamDropsCrew for streams with my friends and I",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kg9csV7eEz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kg9csV7eEz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kg9csV7eEz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kg9csV7eEz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kg9csV7eEz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What kind of streamer should I be?",
+          "description": "Check out @DreamDropsCrew for streams with my friends and I"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H30M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-09-13T18:04:29Z",
+        "actualEndTime": "2024-09-13T19:35:00Z",
+        "scheduledStartTime": "2024-09-13T18:03:53Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wzHVfQ1mdotYIF-YCJhuquXcOFI",
+      "id": "yOdcLKM8HjQ",
+      "snippet": {
+        "publishedAt": "2024-09-13T08:04:36Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Who is Crystal? And exploding fish in Genshin",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOdcLKM8HjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOdcLKM8HjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOdcLKM8HjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yOdcLKM8HjQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yOdcLKM8HjQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Who is Crystal? And exploding fish in Genshin",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H51M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-09-12T18:00:00Z",
+        "actualEndTime": "2024-09-12T19:54:26Z",
+        "scheduledStartTime": "2024-09-12T17:59:23Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "92cEj3XxzTbwEAlNmcNxPeiOBUI",
+      "id": "ibswEIWTXtQ",
+      "snippet": {
+        "publishedAt": "2024-09-07T23:01:32Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Sometimes I stop because I get sad",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ibswEIWTXtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ibswEIWTXtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ibswEIWTXtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ibswEIWTXtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ibswEIWTXtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Sometimes I stop because I get sad",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "14",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iuUzM2FfVQqTLJCFxl0phr2YV_g",
+      "id": "hNSduViZP2k",
+      "snippet": {
+        "publishedAt": "2024-09-07T04:17:13Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "I can read… #vtuberclips #vtuber #50percentoff #skit",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hNSduViZP2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hNSduViZP2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hNSduViZP2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hNSduViZP2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hNSduViZP2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I can read… #vtuberclips #vtuber #50percentoff #skit",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "868",
+        "likeCount": "36",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zgdFQgxPF5VUi-fE9bPoUU5rp5s",
+      "id": "MNT_ZmCps_M",
+      "snippet": {
+        "publishedAt": "2024-09-05T19:45:20Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "How upset about I am! #vtuberclips #art #3dvtuber #envtubermemes #skit #vtuber #virtualyoutuber",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MNT_ZmCps_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MNT_ZmCps_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MNT_ZmCps_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MNT_ZmCps_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MNT_ZmCps_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How upset about I am! #vtuberclips #art #3dvtuber #envtubermemes #skit #vtuber #virtualyoutuber",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "55",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "e93cttTHjUixAnsCLFRWlyGTVOA",
+      "id": "SbqvpQLEq4I",
+      "snippet": {
+        "publishedAt": "2024-09-04T17:46:00Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "I can’t do both #vtuberclips #3dvtuber #vtuber #skit #virtualyoutuber #both #whichone",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SbqvpQLEq4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SbqvpQLEq4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SbqvpQLEq4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SbqvpQLEq4I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SbqvpQLEq4I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I can’t do both #vtuberclips #3dvtuber #vtuber #skit #virtualyoutuber #both #whichone",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "94",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7--K0RqPDf_fxLT1RopWNq5bSEg",
+      "id": "_RbAF4i5LaA",
+      "snippet": {
+        "publishedAt": "2024-08-27T21:41:11Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Wanna tell me what you did #americandad #vtuberclips #3dvtuber #avatar #whatyoudid #virtualyoutuber",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_RbAF4i5LaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_RbAF4i5LaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_RbAF4i5LaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_RbAF4i5LaA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_RbAF4i5LaA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Wanna tell me what you did #americandad #vtuberclips #3dvtuber #avatar #whatyoudid #virtualyoutuber",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0c6x9lNBWCLNP2MlUsWcr4JbBis",
+      "id": "ShrfPugao3Y",
+      "snippet": {
+        "publishedAt": "2024-08-25T20:55:09Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "We’re not dumb…#3dvtuber #vtuberclips #skit #virtualyoutuber",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ShrfPugao3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ShrfPugao3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ShrfPugao3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ShrfPugao3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ShrfPugao3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "We’re not dumb…#3dvtuber #vtuberclips #skit #virtualyoutuber",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "461",
+        "likeCount": "17",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FaDFthb2KDJmWOOr6jBTv5bzVvo",
+      "id": "Pd5F6B1Kv3Y",
+      "snippet": {
+        "publishedAt": "2024-08-13T18:55:22Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "I promised #vtuber #vtuberclips #avatar #skit #3d #ipromise #best #viralvideo #viralshorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pd5F6B1Kv3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pd5F6B1Kv3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pd5F6B1Kv3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pd5F6B1Kv3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pd5F6B1Kv3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I promised #vtuber #vtuberclips #avatar #skit #3d #ipromise #best #viralvideo #viralshorts",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "H4upBDR1tfqJaO5FBh0Txmy2F1U",
+      "id": "J5aQ7JzyLVQ",
+      "snippet": {
+        "publishedAt": "2024-08-13T17:58:01Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Give them a reason   #pngtuber #vtuber #vtuberclips #avatar #skit #vroid #3d #reason #no",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J5aQ7JzyLVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J5aQ7JzyLVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J5aQ7JzyLVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J5aQ7JzyLVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J5aQ7JzyLVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Give them a reason   #pngtuber #vtuber #vtuberclips #avatar #skit #vroid #3d #reason #no",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "56",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RTJOsePipoQfhrh8CGLqWMOzlUs",
+      "id": "QY_FGh7jaaI",
+      "snippet": {
+        "publishedAt": "2024-08-12T19:01:17Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "She’s also 2D! #pngtuber #vtuber #vtuberclips #avatar #avatars #2d #skit #viralshorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QY_FGh7jaaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QY_FGh7jaaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QY_FGh7jaaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QY_FGh7jaaI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QY_FGh7jaaI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "She’s also 2D! #pngtuber #vtuber #vtuberclips #avatar #avatars #2d #skit #viralshorts",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "23",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kbVM87K_gXY3zsOD_pcXbmJdag4",
+      "id": "7m74-QsNE7o",
+      "snippet": {
+        "publishedAt": "2024-08-12T17:56:14Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "We are sexy #pngtuber #vtuber #vtuberclips #avatar #austinpowers #wearesexy #avatars #viralvideo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7m74-QsNE7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7m74-QsNE7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7m74-QsNE7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7m74-QsNE7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7m74-QsNE7o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "We are sexy #pngtuber #vtuber #vtuberclips #avatar #austinpowers #wearesexy #avatars #viralvideo",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "513",
+        "likeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "roF8p9wolfnqnSCUURrd6EB4a4w",
+      "id": "ZZXrNUQJrPU",
+      "snippet": {
+        "publishedAt": "2024-08-12T03:37:12Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "JD ver 2? #pngtuber #vtuber #avatar #vtuberclips #llyod #ninjago #skit",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZZXrNUQJrPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZZXrNUQJrPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZZXrNUQJrPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZZXrNUQJrPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZZXrNUQJrPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "JD ver 2? #pngtuber #vtuber #avatar #vtuberclips #llyod #ninjago #skit",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "80",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZFDSN8zB6-BMiLlfNawjQuRIbzs",
+      "id": "HfQ-boroqKU",
+      "snippet": {
+        "publishedAt": "2024-08-12T03:33:28Z",
+        "channelId": "UCtaRwYXdPWmrXhwirPL3oKw",
+        "title": "Let’s become! #music  #vtuber #armydreamers #startofsomethingnew #vtubers #vtuberclips #pngtuber",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HfQ-boroqKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HfQ-boroqKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HfQ-boroqKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HfQ-boroqKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HfQ-boroqKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crystal’s Dream Drops",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Let’s become! #music  #vtuber #armydreamers #startofsomethingnew #vtubers #vtuberclips #pngtuber",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "993",
+        "likeCount": "49",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    }
+  ],
+  "playlists": [],
+  "collabSources": {},
+  "legacyCollabs": [],
+  "sections": {
+    "channel": {
+      "status": "fresh",
+      "updatedAt": "2026-11-18T21:42:28.146Z"
+    },
+    "videos": {
+      "status": "fresh",
+      "updatedAt": "2026-11-18T21:42:28.146Z"
+    },
+    "collabs": {
+      "status": "fresh",
+      "updatedAt": "2026-11-18T21:42:28.146Z"
+    }
+  },
+  "issues": [],
+  "freshness": {
+    "liveFresh": true,
+    "observedAt": "2026-11-18T21:42:28.146Z",
+    "evaluatedAt": "2026-11-18T21:42:28.556Z"
+  }
+}

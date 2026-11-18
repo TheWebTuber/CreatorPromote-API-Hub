@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-18T22:03:15.307Z",
+  "updatedAt": "2026-11-18T23:36:21.383Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "lr8GFlXJfrg1KsyhG1HbTvjJdKc",
+    "etag": "MhowhCktePokGRPOZQiBqG-b8iE",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -45,7 +45,7 @@
       "viewCount": "1212952",
       "subscriberCount": "733",
       "hiddenSubscriberCount": false,
-      "videoCount": "3030"
+      "videoCount": "3031"
     },
     "brandingSettings": {
       "channel": {
@@ -61,36 +61,36 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "hSdWfFZiZcHwVJYAYWgnx3064pU",
+      "etag": "blEI-0v1o8jW6YgmlKD6yPsebQo",
       "id": "2LkM5ExOr18",
       "snippet": {
-        "publishedAt": "2026-11-18T18:07:27Z",
+        "publishedAt": "2026-11-18T22:53:53Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/default.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/hqdefault.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/sddefault.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/maxresdefault.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -111,7 +111,7 @@
           "Sony Interactive Entertainment"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
@@ -120,16 +120,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT4H4M9S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -137,17 +137,16 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "35",
+        "viewCount": "47",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-18T18:07:40Z",
+        "actualEndTime": "2026-11-18T22:11:47Z",
         "scheduledStartTime": "2026-11-18T18:07:26Z",
-        "scheduledEndTime": "2026-11-18T22:09:33Z",
-        "concurrentViewers": "2",
-        "activeLiveChatId": "Cg0KCzJMa001RXhPcjE4KicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILMkxrTTVFeE9yMTg"
+        "scheduledEndTime": "2026-11-18T22:29:33Z"
       }
     },
     {
@@ -362,7 +361,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Yr2BWOFkSM1oznovPl8rEqquZbk",
+      "etag": "KEvSnESjWeCb9nHUUf9n1mHuAcA",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -437,7 +436,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "75",
+        "viewCount": "77",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4621,7 +4620,97 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "Yr2BWOFkSM1oznovPl8rEqquZbk",
+      "etag": "blEI-0v1o8jW6YgmlKD6yPsebQo",
+      "id": "2LkM5ExOr18",
+      "snippet": {
+        "publishedAt": "2026-11-18T22:53:53Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT4H4M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "47",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-18T18:07:40Z",
+        "actualEndTime": "2026-11-18T22:11:47Z",
+        "scheduledStartTime": "2026-11-18T18:07:26Z",
+        "scheduledEndTime": "2026-11-18T22:29:33Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KEvSnESjWeCb9nHUUf9n1mHuAcA",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -4696,7 +4785,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "75",
+        "viewCount": "77",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5065,206 +5154,26 @@
         "scheduledStartTime": "2026-11-14T18:57:03Z",
         "scheduledEndTime": "2026-11-14T21:59:11Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "wkFsMUDC4rCmlyyxRDhqneKzf2k",
-      "id": "5KooI0w2I70",
-      "snippet": {
-        "publishedAt": "2026-11-14T00:07:06Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5KooI0w2I70/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT3H11M42S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "59",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-13T19:21:38Z",
-        "actualEndTime": "2026-11-13T22:33:28Z",
-        "scheduledStartTime": "2026-11-13T19:21:24Z",
-        "scheduledEndTime": "2026-11-13T22:23:32Z"
-      }
     }
   ],
-  "live": {
-    "kind": "youtube#video",
-    "etag": "hSdWfFZiZcHwVJYAYWgnx3064pU",
-    "id": "2LkM5ExOr18",
-    "snippet": {
-      "publishedAt": "2026-11-18T18:07:27Z",
-      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-      "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
-      "description": "GOOD VIBES!!! :)",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2LkM5ExOr18/default.jpg?v=6afde97a",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg?v=6afde97a",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2LkM5ExOr18/hqdefault.jpg?v=6afde97a",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/2LkM5ExOr18/sddefault.jpg?v=6afde97a",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/2LkM5ExOr18/maxresdefault.jpg?v=6afde97a",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "the docrot",
-      "tags": [
-        "#DBD",
-        "#DEADBYDAYLIGHT",
-        "#ENTERTAINMENT",
-        "#FORYOU",
-        "#FUNNY",
-        "#GAMING",
-        "#HORROR",
-        "#PS5Live",
-        "#SCARY",
-        "Dead by Daylight",
-        "PlayStation 5",
-        "Sony Interactive Entertainment"
-      ],
-      "categoryId": "20",
-      "liveBroadcastContent": "live",
-      "defaultLanguage": "en-GB",
-      "localized": {
-        "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)"
-      },
-      "defaultAudioLanguage": "en-GB"
-    },
-    "contentDetails": {
-      "duration": "P0D",
-      "dimension": "2d",
-      "definition": "sd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "status": {
-      "uploadStatus": "uploaded",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    },
-    "statistics": {
-      "viewCount": "35",
-      "likeCount": "3",
-      "favoriteCount": "0",
-      "commentCount": "0"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2026-11-18T18:07:40Z",
-      "scheduledStartTime": "2026-11-18T18:07:26Z",
-      "scheduledEndTime": "2026-11-18T22:09:33Z",
-      "concurrentViewers": "2",
-      "activeLiveChatId": "Cg0KCzJMa001RXhPcjE4KicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILMkxrTTVFeE9yMTg"
-    }
-  },
-  "liveChecked": true,
+  "live": null,
+  "liveChecked": false,
   "latestVideos": [
     {
       "id": "2LkM5ExOr18",
       "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
       "label": "YouTube",
-      "publishedAt": "2026-11-18T18:07:27Z",
+      "publishedAt": "2026-11-18T22:53:53Z",
       "startedAt": "2026-11-18T18:07:40Z",
-      "endedAt": null,
+      "endedAt": "2026-11-18T22:11:47Z",
       "scheduledAt": "2026-11-18T18:07:26Z",
-      "duration": "P0D",
+      "duration": "PT4H4M9S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg?v=6afde97a",
+      "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "35",
-      "live": true,
+      "views": "47",
+      "live": false,
       "wasLive": true
     },
     {
@@ -5331,7 +5240,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "75",
+      "views": "77",
       "live": false,
       "wasLive": true
     },
@@ -6276,17 +6185,17 @@
       "id": "2LkM5ExOr18",
       "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
       "label": "Livestream",
-      "publishedAt": "2026-11-18T18:07:27Z",
+      "publishedAt": "2026-11-18T22:53:53Z",
       "startedAt": "2026-11-18T18:07:40Z",
-      "endedAt": null,
+      "endedAt": "2026-11-18T22:11:47Z",
       "scheduledAt": "2026-11-18T18:07:26Z",
-      "duration": "P0D",
+      "duration": "PT4H4M9S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg?v=6afde97a",
+      "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "35",
-      "live": true,
+      "views": "47",
+      "live": false,
       "wasLive": true
     },
     {
@@ -6302,7 +6211,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "75",
+      "views": "77",
       "live": false,
       "wasLive": true
     },
@@ -6377,6 +6286,23 @@
   ],
   "latestReplays": [
     {
+      "id": "2LkM5ExOr18",
+      "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
+      "label": "Replay",
+      "publishedAt": "2026-11-18T22:53:53Z",
+      "startedAt": "2026-11-18T18:07:40Z",
+      "endedAt": "2026-11-18T22:11:47Z",
+      "scheduledAt": "2026-11-18T18:07:26Z",
+      "duration": "PT4H4M9S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
+      "views": "47",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "Jg96wuh6Gks",
       "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
       "label": "Replay",
@@ -6389,7 +6315,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "75",
+      "views": "77",
       "live": false,
       "wasLive": true
     },
@@ -6460,46 +6386,13 @@
       "views": "93",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "5KooI0w2I70",
-      "title": "IT'S FRIDAY 13TH!?! | Dead By Daylight",
-      "label": "Replay",
-      "publishedAt": "2026-11-14T00:07:06Z",
-      "startedAt": "2026-11-13T19:21:38Z",
-      "endedAt": "2026-11-13T22:33:28Z",
-      "scheduledAt": "2026-11-13T19:21:24Z",
-      "duration": "PT3H11M42S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5KooI0w2I70",
-      "views": "59",
-      "live": false,
-      "wasLive": true
     }
   ],
   "liveStatus": {
-    "status": "live",
-    "video": {
-      "id": "2LkM5ExOr18",
-      "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
-      "label": "Live now",
-      "publishedAt": "2026-11-18T18:07:27Z",
-      "startedAt": "2026-11-18T18:07:40Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-18T18:07:26Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg?v=6afde97a",
-      "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "35",
-      "live": true,
-      "wasLive": true
-    },
-    "checkedAt": "2026-11-18T22:03:15.307Z",
-    "expiresAt": "2026-11-18T22:48:15.307Z",
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-18T23:36:21.383Z",
+    "expiresAt": "2026-11-19T00:21:21.383Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6510,36 +6403,36 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "hSdWfFZiZcHwVJYAYWgnx3064pU",
+      "etag": "blEI-0v1o8jW6YgmlKD6yPsebQo",
       "id": "2LkM5ExOr18",
       "snippet": {
-        "publishedAt": "2026-11-18T18:07:27Z",
+        "publishedAt": "2026-11-18T22:53:53Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/default.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/hqdefault.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/sddefault.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/maxresdefault.jpg?v=6afde97a",
+            "url": "https://i.ytimg.com/vi/2LkM5ExOr18/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -6560,7 +6453,7 @@
           "Sony Interactive Entertainment"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "CONTINUING WITH THE ADEPTS!?! | Dead By Daylight",
@@ -6569,16 +6462,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT4H4M9S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -6586,17 +6479,16 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "35",
+        "viewCount": "47",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-18T18:07:40Z",
+        "actualEndTime": "2026-11-18T22:11:47Z",
         "scheduledStartTime": "2026-11-18T18:07:26Z",
-        "scheduledEndTime": "2026-11-18T22:09:33Z",
-        "concurrentViewers": "2",
-        "activeLiveChatId": "Cg0KCzJMa001RXhPcjE4KicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILMkxrTTVFeE9yMTg"
+        "scheduledEndTime": "2026-11-18T22:29:33Z"
       }
     },
     {
@@ -6811,7 +6703,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Yr2BWOFkSM1oznovPl8rEqquZbk",
+      "etag": "KEvSnESjWeCb9nHUUf9n1mHuAcA",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -6886,7 +6778,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "75",
+        "viewCount": "77",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -17924,21 +17816,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:15.307Z"
+      "updatedAt": "2026-11-18T23:36:21.383Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:15.307Z"
+      "updatedAt": "2026-11-18T23:36:21.383Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:15.307Z"
+      "updatedAt": "2026-11-18T23:36:21.383Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T22:03:15.307Z",
-    "evaluatedAt": "2026-11-18T22:03:17.096Z"
+    "observedAt": "2026-11-18T23:36:21.383Z",
+    "evaluatedAt": "2026-11-18T23:36:23.611Z"
   }
 }

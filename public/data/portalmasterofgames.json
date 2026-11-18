@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "portalmasterofgames",
   "label": "Portal Master Of Games",
-  "updatedAt": "2026-11-18T22:03:23.541Z",
+  "updatedAt": "2026-11-18T23:36:32.330Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1339,8 +1339,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T22:03:23.541Z",
-    "expiresAt": "2026-11-18T22:48:23.541Z",
+    "checkedAt": "2026-11-18T23:36:32.330Z",
+    "expiresAt": "2026-11-19T00:21:32.330Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -8833,21 +8833,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:23.541Z"
+      "updatedAt": "2026-11-18T23:36:32.330Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:23.541Z"
+      "updatedAt": "2026-11-18T23:36:32.330Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:23.541Z"
+      "updatedAt": "2026-11-18T23:36:32.330Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T22:03:23.541Z",
-    "evaluatedAt": "2026-11-18T22:03:24.106Z"
+    "observedAt": "2026-11-18T23:36:32.330Z",
+    "evaluatedAt": "2026-11-18T23:36:33.019Z"
   }
 }

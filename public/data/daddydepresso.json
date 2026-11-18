@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "daddydepresso",
   "label": "Daddy Depresso",
-  "updatedAt": "2026-11-18T22:03:19.501Z",
+  "updatedAt": "2026-11-18T23:36:27.021Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -957,8 +957,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T22:03:19.501Z",
-    "expiresAt": "2026-11-18T22:48:19.501Z",
+    "checkedAt": "2026-11-18T23:36:27.021Z",
+    "expiresAt": "2026-11-19T00:21:27.021Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -4595,7 +4595,7 @@
   "collabSources": {
     "PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:19.501Z",
+      "updatedAt": "2026-11-18T23:36:27.021Z",
       "items": [
         {
           "id": "FRVmoksciRg",
@@ -4619,7 +4619,7 @@
     },
     "PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:19.501Z",
+      "updatedAt": "2026-11-18T23:36:27.021Z",
       "items": [
         {
           "id": "Q7gZ-ubMTSA",
@@ -5471,7 +5471,7 @@
     },
     "PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:19.501Z",
+      "updatedAt": "2026-11-18T23:36:27.021Z",
       "items": [
         {
           "id": "TqJk7cQ72e0",
@@ -5750,33 +5750,33 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:19.501Z"
+      "updatedAt": "2026-11-18T23:36:27.021Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:19.501Z"
+      "updatedAt": "2026-11-18T23:36:27.021Z"
     },
     "collab:PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:19.501Z"
+      "updatedAt": "2026-11-18T23:36:27.021Z"
     },
     "collab:PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:19.501Z"
+      "updatedAt": "2026-11-18T23:36:27.021Z"
     },
     "collab:PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:19.501Z"
+      "updatedAt": "2026-11-18T23:36:27.021Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T22:03:19.501Z"
+      "updatedAt": "2026-11-18T23:36:27.021Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T22:03:19.501Z",
-    "evaluatedAt": "2026-11-18T22:03:20.526Z"
+    "observedAt": "2026-11-18T23:36:27.021Z",
+    "evaluatedAt": "2026-11-18T23:36:28.548Z"
   }
 }

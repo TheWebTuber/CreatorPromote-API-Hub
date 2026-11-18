@@ -118,11 +118,12 @@
       "slug": "salahare",
       "label": "Salahare",
       "handle": "@Salahare",
-      "enabled": false,
-      "identityVerified": false,
+      "enabled": true,
+      "identityVerified": true,
       "scanPages": 3,
       "latestCount": 6,
-      "livestreamCount": 6
+      "livestreamCount": 6,
+      "channelId": "UCW2g_zIWdsZkbsFc0AUR-ag"
     }
   ]
 }

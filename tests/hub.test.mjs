@@ -32,7 +32,7 @@ test('configured creator names have unique valid slugs; only verified candidates
   const config=JSON.parse(fs.readFileSync(new URL('../config/channels.json',import.meta.url),'utf8'));
   const entries=validateConfig(config.channels);
   assert.equal(entries.length,9);
-  assert.equal(entries.filter(c=>c.enabled).length,8);
+  assert.equal(entries.filter(c=>c.enabled).length,9);
   assert(entries.filter(c=>c.identityVerified===false).every(c=>!c.enabled));
   assert.equal(entries.find(c=>c.slug==='duffball16').enabled,true);
   assert(entries.some(c=>c.slug==='daddydepresso'&&c.collabPlaylists.length===3));

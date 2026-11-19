@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-19T04:31:51.357Z",
+  "updatedAt": "2026-11-19T13:55:29.042Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -213,7 +213,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0BkHkPtvUrM1YRjy_y2dziPA7g0",
+      "etag": "Tp8a4da-fFXC1TfaQXoZT07nfuw",
       "id": "iwXIeP9x8WM",
       "snippet": {
         "publishedAt": "2026-11-17T14:47:56Z",
@@ -259,8 +259,7 @@
         "localized": {
           "title": "maybe I shouldn't facecheck bushes  #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT16S",
@@ -357,7 +356,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "brnu0-kCCIxLl96-WM9rx1Y5iO8",
+      "etag": "F_cJiIXA5kRAT6qqF0sZLS6B310",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -423,7 +422,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "289",
+        "viewCount": "288",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1028,7 +1027,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vV4pgjr_fPo",
-      "views": "289",
+      "views": "288",
       "live": false,
       "wasLive": false
     },
@@ -1261,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-19T04:31:51.357Z",
-    "expiresAt": "2026-11-19T05:16:51.357Z",
+    "checkedAt": "2026-11-19T13:55:29.042Z",
+    "expiresAt": "2026-11-19T14:40:29.042Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1271,6 +1270,79 @@
   "scannedUploadCount": 100,
   "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed.",
   "catalog": [
+    {
+      "kind": "youtube#video",
+      "etag": "EzHwkyXyU_HTDBlh-CS0ATWH5rg",
+      "id": "MY-5TLy6y38",
+      "snippet": {
+        "publishedAt": "2026-11-19T08:30:47Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "voice chat in league, what could possibly go wrong #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/default.jpg?v=6afeb3b7",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/mqdefault.jpg?v=6afeb3b7",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/hqdefault.jpg?v=6afeb3b7",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/sddefault.jpg?v=6afeb3b7",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "voice chat in league, what could possibly go wrong #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        },
+        "defaultAudioLanguage": "und"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "activeLiveChatId": "Cg0KC01ZLTVUTHk2eTM4KicKGFVDS0UxTW53SFFCTThpN09yNUtfemNtQRILTVktNVRMeTZ5Mzg"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "pRxE9VHOQkKnKwkGozUYfsMFC1Q",
@@ -1422,7 +1494,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0BkHkPtvUrM1YRjy_y2dziPA7g0",
+      "etag": "Tp8a4da-fFXC1TfaQXoZT07nfuw",
       "id": "iwXIeP9x8WM",
       "snippet": {
         "publishedAt": "2026-11-17T14:47:56Z",
@@ -1468,8 +1540,7 @@
         "localized": {
           "title": "maybe I shouldn't facecheck bushes  #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT16S",
@@ -1566,7 +1637,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "brnu0-kCCIxLl96-WM9rx1Y5iO8",
+      "etag": "F_cJiIXA5kRAT6qqF0sZLS6B310",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -1632,7 +1703,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "289",
+        "viewCount": "288",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8484,70 +8555,6 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "DYLKNPymgHGhdEMDjeOaRQ4acM0",
-      "id": "bCM88APqxpQ",
-      "snippet": {
-        "publishedAt": "2026-07-04T13:51:52Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "THE BIRD ALL AUSTRALIANS FEAR - Australian Vtuber reacts to MoreParz #vtuber #twitch",
-        "description": "no intro cuz I'm editing this at 11:20pm\n\nCheck out MoreParz ar @moreparz \n\nChecl me out on twitch.tv/BonakVT",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bCM88APqxpQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bCM88APqxpQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bCM88APqxpQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/bCM88APqxpQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "THE BIRD ALL AUSTRALIANS FEAR - Australian Vtuber reacts to MoreParz #vtuber #twitch",
-          "description": "no intro cuz I'm editing this at 11:20pm\n\nCheck out MoreParz ar @moreparz \n\nChecl me out on twitch.tv/BonakVT"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT37M26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "88",
-        "likeCount": "7",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "playlists": [],
@@ -8556,21 +8563,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T04:31:51.357Z"
+      "updatedAt": "2026-11-19T13:55:29.042Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T04:31:51.357Z"
+      "updatedAt": "2026-11-19T13:55:29.042Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T04:31:51.357Z"
+      "updatedAt": "2026-11-19T13:55:29.042Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T04:31:51.357Z",
-    "evaluatedAt": "2026-11-19T04:31:52.168Z"
+    "observedAt": "2026-11-19T13:55:29.042Z",
+    "evaluatedAt": "2026-11-19T13:55:29.879Z"
   }
 }

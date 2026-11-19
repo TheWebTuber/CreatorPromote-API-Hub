@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-19T04:31:47.145Z",
+  "updatedAt": "2026-11-19T13:55:23.244Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "xcdVDAm91_ReBsk4dzu2SykYaSY",
+    "etag": "TlddSorT9SCZRru65COY6NCHzLs",
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
     "snippet": {
       "title": "Dream Drops Crew",
@@ -42,10 +42,10 @@
       }
     },
     "statistics": {
-      "viewCount": "99282",
+      "viewCount": "99319",
       "subscriberCount": "506",
       "hiddenSubscriberCount": false,
-      "videoCount": "872"
+      "videoCount": "874"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,149 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "sN5CiRWIxx7vqIVnoto_B7YgOtY",
+      "etag": "epDZ1ECVfolXRbDjlVfxF56oFlo",
+      "id": "VK8om5pkadI",
+      "snippet": {
+        "publishedAt": "2026-11-19T05:45:16Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Making up for lost time on Dressmaker with JD",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VK8om5pkadI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VK8om5pkadI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "dressmaker",
+          "indie",
+          "game",
+          "dresses"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Making up for lost time on Dressmaker with JD",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT3H9M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "31",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-19T02:12:11Z",
+        "actualEndTime": "2026-11-19T05:21:39Z",
+        "scheduledStartTime": "2026-11-19T02:11:51Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "va25mTQSyLda2ApRGktW6leqhqY",
+      "id": "7fypDnSjs28",
+      "snippet": {
+        "publishedAt": "2026-11-19T05:43:08Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Making up for lost time on Dressmaker with JD (Portrait)",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fypDnSjs28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fypDnSjs28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "dressmaker",
+          "indie",
+          "game",
+          "dresses"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Making up for lost time on Dressmaker with JD (Portrait)",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT3H9M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "708",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-19T02:12:12Z",
+        "actualEndTime": "2026-11-19T05:21:38Z",
+        "scheduledStartTime": "2026-11-19T02:11:59Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y5ruKHi2nWjrGITcaNZs1G_TW8s",
       "id": "iSXNRXoE_UE",
       "snippet": {
         "publishedAt": "2026-11-19T02:12:54Z",
@@ -113,7 +255,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1",
+        "viewCount": "3",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -126,151 +268,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "TYK9TrFL01RZY7NcWiJbJ2Bj3vg",
-      "id": "7fypDnSjs28",
-      "snippet": {
-        "publishedAt": "2026-11-19T02:11:59Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Making up for lost time on Dressmaker with JD (Portrait)",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7fypDnSjs28/default.jpg?v=6afe5b5b",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg?v=6afe5b5b",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7fypDnSjs28/hqdefault.jpg?v=6afe5b5b",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "dressmaker",
-          "indie",
-          "game",
-          "dresses"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "live",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Making up for lost time on Dressmaker with JD (Portrait)",
-          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "P0D",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "545",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-19T02:12:12Z",
-        "scheduledStartTime": "2026-11-19T02:11:59Z",
-        "concurrentViewers": "3",
-        "activeLiveChatId": "Cg0KCzdmeXBEblNqczI4KicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILN2Z5cERuU2pzMjg"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "It35Uc-NNjK2Z23SCJWzBTdrh6U",
-      "id": "VK8om5pkadI",
-      "snippet": {
-        "publishedAt": "2026-11-19T02:11:52Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Making up for lost time on Dressmaker with JD",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VK8om5pkadI/default.jpg?v=6afe5ae9",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg?v=6afe5ae9",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VK8om5pkadI/hqdefault.jpg?v=6afe5ae9",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "dressmaker",
-          "indie",
-          "game",
-          "dresses"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "live",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Making up for lost time on Dressmaker with JD",
-          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "P0D",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "6",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-19T02:12:11Z",
-        "scheduledStartTime": "2026-11-19T02:11:51Z",
-        "concurrentViewers": "1",
-        "activeLiveChatId": "Cg0KC1ZLOG9tNXBrYWRJKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILVks4b201cGthZEk"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "I-mM5i3vUsVK_kfhwq4LS2UxMr0",
+      "etag": "Tww-UR0vbhA302sFYsrbekQTLSw",
       "id": "0J1z9-6GiyA",
       "snippet": {
         "publishedAt": "2026-11-18T18:11:58Z",
@@ -347,7 +345,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "24",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -434,7 +432,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cAC0U8aQM1w2XzH4MxUXAoloM6g",
+      "etag": "Gd9ckd9LTKtFJoklEbrsB4BZbJM",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -495,7 +493,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "60",
+        "viewCount": "61",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -509,7 +507,149 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "sN5CiRWIxx7vqIVnoto_B7YgOtY",
+      "etag": "va25mTQSyLda2ApRGktW6leqhqY",
+      "id": "7fypDnSjs28",
+      "snippet": {
+        "publishedAt": "2026-11-19T05:43:08Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Making up for lost time on Dressmaker with JD (Portrait)",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fypDnSjs28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fypDnSjs28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "dressmaker",
+          "indie",
+          "game",
+          "dresses"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Making up for lost time on Dressmaker with JD (Portrait)",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT3H9M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "708",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-19T02:12:12Z",
+        "actualEndTime": "2026-11-19T05:21:38Z",
+        "scheduledStartTime": "2026-11-19T02:11:59Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "epDZ1ECVfolXRbDjlVfxF56oFlo",
+      "id": "VK8om5pkadI",
+      "snippet": {
+        "publishedAt": "2026-11-19T05:45:16Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Making up for lost time on Dressmaker with JD",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VK8om5pkadI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VK8om5pkadI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "dressmaker",
+          "indie",
+          "game",
+          "dresses"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Making up for lost time on Dressmaker with JD",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT3H9M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "31",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-19T02:12:11Z",
+        "actualEndTime": "2026-11-19T05:21:39Z",
+        "scheduledStartTime": "2026-11-19T02:11:51Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y5ruKHi2nWjrGITcaNZs1G_TW8s",
       "id": "iSXNRXoE_UE",
       "snippet": {
         "publishedAt": "2026-11-19T02:12:54Z",
@@ -561,7 +701,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1",
+        "viewCount": "3",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -574,7 +714,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "I-mM5i3vUsVK_kfhwq4LS2UxMr0",
+      "etag": "Tww-UR0vbhA302sFYsrbekQTLSw",
       "id": "0J1z9-6GiyA",
       "snippet": {
         "publishedAt": "2026-11-18T18:11:58Z",
@@ -651,7 +791,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "24",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -663,7 +803,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cAC0U8aQM1w2XzH4MxUXAoloM6g",
+      "etag": "Gd9ckd9LTKtFJoklEbrsB4BZbJM",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -724,7 +864,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "60",
+        "viewCount": "61",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -811,259 +951,45 @@
         "actualStartTime": "2026-11-13T02:03:52Z",
         "actualEndTime": "2026-11-13T04:25:18Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "nxGT15mdHfGrbA7J1pj85r1lDk0",
-      "id": "7p1l4-YNuFQ",
-      "snippet": {
-        "publishedAt": "2026-11-11T18:31:34Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Money! Money!! Money!!! - Raccoin",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "Nintendo",
-          "Switch",
-          "Raccoin"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Money! Money!! Money!!! - Raccoin",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H56M55S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "54",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-11T02:02:15Z",
-        "actualEndTime": "2026-11-11T05:02:13Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "YK74QD7o7ilhEYuYHiXD6k36RBs",
-      "id": "_Lq5pKJ_TwM",
-      "snippet": {
-        "publishedAt": "2026-11-10T17:47:59Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Onward to our last badge! - Pokemon Shining Pearl",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "Nintendo",
-          "Pokemon",
-          "Shining Pearl",
-          "Switch"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Onward to our last badge! - Pokemon Shining Pearl",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H32M10S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "66",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-10T02:07:01Z",
-        "actualEndTime": "2026-11-10T04:41:32Z"
-      }
     }
   ],
-  "live": {
-    "kind": "youtube#video",
-    "etag": "TYK9TrFL01RZY7NcWiJbJ2Bj3vg",
-    "id": "7fypDnSjs28",
-    "snippet": {
-      "publishedAt": "2026-11-19T02:11:59Z",
-      "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-      "title": "Making up for lost time on Dressmaker with JD (Portrait)",
-      "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7fypDnSjs28/default.jpg?v=6afe5b5b",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg?v=6afe5b5b",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7fypDnSjs28/hqdefault.jpg?v=6afe5b5b",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Dream Drops Crew",
-      "tags": [
-        "dressmaker",
-        "indie",
-        "game",
-        "dresses"
-      ],
-      "categoryId": "20",
-      "liveBroadcastContent": "live",
-      "defaultLanguage": "en-US",
-      "localized": {
-        "title": "Making up for lost time on Dressmaker with JD (Portrait)",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-      },
-      "defaultAudioLanguage": "en-US"
-    },
-    "contentDetails": {
-      "duration": "P0D",
-      "dimension": "2d",
-      "definition": "sd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "status": {
-      "uploadStatus": "uploaded",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    },
-    "statistics": {
-      "viewCount": "545",
-      "likeCount": "4",
-      "favoriteCount": "0",
-      "commentCount": "0"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2026-11-19T02:12:12Z",
-      "scheduledStartTime": "2026-11-19T02:11:59Z",
-      "concurrentViewers": "3",
-      "activeLiveChatId": "Cg0KCzdmeXBEblNqczI4KicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILN2Z5cERuU2pzMjg"
-    }
-  },
-  "liveChecked": true,
+  "live": null,
+  "liveChecked": false,
   "latestVideos": [
+    {
+      "id": "VK8om5pkadI",
+      "title": "Making up for lost time on Dressmaker with JD",
+      "label": "YouTube",
+      "publishedAt": "2026-11-19T05:45:16Z",
+      "startedAt": "2026-11-19T02:12:11Z",
+      "endedAt": "2026-11-19T05:21:39Z",
+      "scheduledAt": "2026-11-19T02:11:51Z",
+      "duration": "PT3H9M34S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
+      "views": "31",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "7fypDnSjs28",
+      "title": "Making up for lost time on Dressmaker with JD (Portrait)",
+      "label": "YouTube",
+      "publishedAt": "2026-11-19T05:43:08Z",
+      "startedAt": "2026-11-19T02:12:12Z",
+      "endedAt": "2026-11-19T05:21:38Z",
+      "scheduledAt": "2026-11-19T02:11:59Z",
+      "duration": "PT3H9M32S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
+      "views": "708",
+      "live": false,
+      "wasLive": true
+    },
     {
       "id": "iSXNRXoE_UE",
       "title": "Making up for lost time on Dressmaker with JD",
@@ -1077,42 +1003,8 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/iSXNRXoE_UE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=iSXNRXoE_UE",
-      "views": "1",
+      "views": "3",
       "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "7fypDnSjs28",
-      "title": "Making up for lost time on Dressmaker with JD (Portrait)",
-      "label": "YouTube",
-      "publishedAt": "2026-11-19T02:11:59Z",
-      "startedAt": "2026-11-19T02:12:12Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-19T02:11:59Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg?v=6afe5b5b",
-      "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
-      "views": "545",
-      "live": true,
-      "wasLive": true
-    },
-    {
-      "id": "VK8om5pkadI",
-      "title": "Making up for lost time on Dressmaker with JD",
-      "label": "YouTube",
-      "publishedAt": "2026-11-19T02:11:52Z",
-      "startedAt": "2026-11-19T02:12:11Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-19T02:11:51Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg?v=6afe5ae9",
-      "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
-      "views": "6",
-      "live": true,
       "wasLive": true
     },
     {
@@ -1128,7 +1020,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
-      "views": "22",
+      "views": "24",
       "live": false,
       "wasLive": true
     },
@@ -1162,7 +1054,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "60",
+      "views": "61",
       "live": false,
       "wasLive": true
     }
@@ -1172,34 +1064,34 @@
       "id": "7fypDnSjs28",
       "title": "Making up for lost time on Dressmaker with JD (Portrait)",
       "label": "Livestream",
-      "publishedAt": "2026-11-19T02:11:59Z",
+      "publishedAt": "2026-11-19T05:43:08Z",
       "startedAt": "2026-11-19T02:12:12Z",
-      "endedAt": null,
+      "endedAt": "2026-11-19T05:21:38Z",
       "scheduledAt": "2026-11-19T02:11:59Z",
-      "duration": "P0D",
+      "duration": "PT3H9M32S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg?v=6afe5b5b",
+      "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
-      "views": "545",
-      "live": true,
+      "views": "708",
+      "live": false,
       "wasLive": true
     },
     {
       "id": "VK8om5pkadI",
       "title": "Making up for lost time on Dressmaker with JD",
       "label": "Livestream",
-      "publishedAt": "2026-11-19T02:11:52Z",
+      "publishedAt": "2026-11-19T05:45:16Z",
       "startedAt": "2026-11-19T02:12:11Z",
-      "endedAt": null,
+      "endedAt": "2026-11-19T05:21:39Z",
       "scheduledAt": "2026-11-19T02:11:51Z",
-      "duration": "P0D",
+      "duration": "PT3H9M34S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg?v=6afe5ae9",
+      "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
-      "views": "6",
-      "live": true,
+      "views": "31",
+      "live": false,
       "wasLive": true
     },
     {
@@ -1215,7 +1107,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/iSXNRXoE_UE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=iSXNRXoE_UE",
-      "views": "1",
+      "views": "3",
       "live": false,
       "wasLive": true
     },
@@ -1232,7 +1124,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
-      "views": "22",
+      "views": "24",
       "live": false,
       "wasLive": true
     },
@@ -1249,7 +1141,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "60",
+      "views": "61",
       "live": false,
       "wasLive": true
     },
@@ -1273,6 +1165,40 @@
   ],
   "latestReplays": [
     {
+      "id": "7fypDnSjs28",
+      "title": "Making up for lost time on Dressmaker with JD (Portrait)",
+      "label": "Replay",
+      "publishedAt": "2026-11-19T05:43:08Z",
+      "startedAt": "2026-11-19T02:12:12Z",
+      "endedAt": "2026-11-19T05:21:38Z",
+      "scheduledAt": "2026-11-19T02:11:59Z",
+      "duration": "PT3H9M32S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
+      "views": "708",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "VK8om5pkadI",
+      "title": "Making up for lost time on Dressmaker with JD",
+      "label": "Replay",
+      "publishedAt": "2026-11-19T05:45:16Z",
+      "startedAt": "2026-11-19T02:12:11Z",
+      "endedAt": "2026-11-19T05:21:39Z",
+      "scheduledAt": "2026-11-19T02:11:51Z",
+      "duration": "PT3H9M34S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
+      "views": "31",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "iSXNRXoE_UE",
       "title": "Making up for lost time on Dressmaker with JD",
       "label": "Replay",
@@ -1285,7 +1211,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/iSXNRXoE_UE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=iSXNRXoE_UE",
-      "views": "1",
+      "views": "3",
       "live": false,
       "wasLive": true
     },
@@ -1302,7 +1228,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/0J1z9-6GiyA/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=0J1z9-6GiyA",
-      "views": "22",
+      "views": "24",
       "live": false,
       "wasLive": true
     },
@@ -1319,7 +1245,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "60",
+      "views": "61",
       "live": false,
       "wasLive": true
     },
@@ -1339,63 +1265,13 @@
       "views": "29",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "7p1l4-YNuFQ",
-      "title": "Money! Money!! Money!!! - Raccoin",
-      "label": "Replay",
-      "publishedAt": "2026-11-11T18:31:34Z",
-      "startedAt": "2026-11-11T02:02:15Z",
-      "endedAt": "2026-11-11T05:02:13Z",
-      "scheduledAt": null,
-      "duration": "PT2H56M55S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/7p1l4-YNuFQ/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7p1l4-YNuFQ",
-      "views": "54",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "_Lq5pKJ_TwM",
-      "title": "Onward to our last badge! - Pokemon Shining Pearl",
-      "label": "Replay",
-      "publishedAt": "2026-11-10T17:47:59Z",
-      "startedAt": "2026-11-10T02:07:01Z",
-      "endedAt": "2026-11-10T04:41:32Z",
-      "scheduledAt": null,
-      "duration": "PT2H32M10S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/_Lq5pKJ_TwM/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_Lq5pKJ_TwM",
-      "views": "66",
-      "live": false,
-      "wasLive": true
     }
   ],
   "liveStatus": {
-    "status": "live",
-    "video": {
-      "id": "7fypDnSjs28",
-      "title": "Making up for lost time on Dressmaker with JD (Portrait)",
-      "label": "Live now",
-      "publishedAt": "2026-11-19T02:11:59Z",
-      "startedAt": "2026-11-19T02:12:12Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-19T02:11:59Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg?v=6afe5b5b",
-      "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
-      "views": "545",
-      "live": true,
-      "wasLive": true
-    },
-    "checkedAt": "2026-11-19T04:31:47.145Z",
-    "expiresAt": "2026-11-19T05:16:47.145Z",
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-19T13:55:23.244Z",
+    "expiresAt": "2026-11-19T14:40:23.244Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1406,7 +1282,149 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "sN5CiRWIxx7vqIVnoto_B7YgOtY",
+      "etag": "epDZ1ECVfolXRbDjlVfxF56oFlo",
+      "id": "VK8om5pkadI",
+      "snippet": {
+        "publishedAt": "2026-11-19T05:45:16Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Making up for lost time on Dressmaker with JD",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VK8om5pkadI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VK8om5pkadI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "dressmaker",
+          "indie",
+          "game",
+          "dresses"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Making up for lost time on Dressmaker with JD",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT3H9M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "31",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-19T02:12:11Z",
+        "actualEndTime": "2026-11-19T05:21:39Z",
+        "scheduledStartTime": "2026-11-19T02:11:51Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "va25mTQSyLda2ApRGktW6leqhqY",
+      "id": "7fypDnSjs28",
+      "snippet": {
+        "publishedAt": "2026-11-19T05:43:08Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Making up for lost time on Dressmaker with JD (Portrait)",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fypDnSjs28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fypDnSjs28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "dressmaker",
+          "indie",
+          "game",
+          "dresses"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Making up for lost time on Dressmaker with JD (Portrait)",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT3H9M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "708",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-19T02:12:12Z",
+        "actualEndTime": "2026-11-19T05:21:38Z",
+        "scheduledStartTime": "2026-11-19T02:11:59Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y5ruKHi2nWjrGITcaNZs1G_TW8s",
       "id": "iSXNRXoE_UE",
       "snippet": {
         "publishedAt": "2026-11-19T02:12:54Z",
@@ -1458,7 +1476,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1",
+        "viewCount": "3",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1471,151 +1489,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "TYK9TrFL01RZY7NcWiJbJ2Bj3vg",
-      "id": "7fypDnSjs28",
-      "snippet": {
-        "publishedAt": "2026-11-19T02:11:59Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Making up for lost time on Dressmaker with JD (Portrait)",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7fypDnSjs28/default.jpg?v=6afe5b5b",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg?v=6afe5b5b",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7fypDnSjs28/hqdefault.jpg?v=6afe5b5b",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "dressmaker",
-          "indie",
-          "game",
-          "dresses"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "live",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Making up for lost time on Dressmaker with JD (Portrait)",
-          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "P0D",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "545",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-19T02:12:12Z",
-        "scheduledStartTime": "2026-11-19T02:11:59Z",
-        "concurrentViewers": "3",
-        "activeLiveChatId": "Cg0KCzdmeXBEblNqczI4KicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILN2Z5cERuU2pzMjg"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "It35Uc-NNjK2Z23SCJWzBTdrh6U",
-      "id": "VK8om5pkadI",
-      "snippet": {
-        "publishedAt": "2026-11-19T02:11:52Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Making up for lost time on Dressmaker with JD",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VK8om5pkadI/default.jpg?v=6afe5ae9",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg?v=6afe5ae9",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VK8om5pkadI/hqdefault.jpg?v=6afe5ae9",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "dressmaker",
-          "indie",
-          "game",
-          "dresses"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "live",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Making up for lost time on Dressmaker with JD",
-          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "P0D",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "6",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-19T02:12:11Z",
-        "scheduledStartTime": "2026-11-19T02:11:51Z",
-        "concurrentViewers": "1",
-        "activeLiveChatId": "Cg0KC1ZLOG9tNXBrYWRJKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILVks4b201cGthZEk"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "I-mM5i3vUsVK_kfhwq4LS2UxMr0",
+      "etag": "Tww-UR0vbhA302sFYsrbekQTLSw",
       "id": "0J1z9-6GiyA",
       "snippet": {
         "publishedAt": "2026-11-18T18:11:58Z",
@@ -1692,7 +1566,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "24",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1867,7 +1741,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cAC0U8aQM1w2XzH4MxUXAoloM6g",
+      "etag": "Gd9ckd9LTKtFJoklEbrsB4BZbJM",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -1928,7 +1802,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "60",
+        "viewCount": "61",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -39657,21 +39531,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T04:31:47.145Z"
+      "updatedAt": "2026-11-19T13:55:23.244Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T04:31:47.145Z"
+      "updatedAt": "2026-11-19T13:55:23.244Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T04:31:47.145Z"
+      "updatedAt": "2026-11-19T13:55:23.244Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T04:31:47.145Z",
-    "evaluatedAt": "2026-11-19T04:31:50.110Z"
+    "observedAt": "2026-11-19T13:55:23.244Z",
+    "evaluatedAt": "2026-11-19T13:55:27.339Z"
   }
 }

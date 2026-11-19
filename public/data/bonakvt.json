@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-18T23:36:28.550Z",
+  "updatedAt": "2026-11-19T04:31:51.357Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "w7Hk3re0ZMiX2fYUrag11zCnedI",
+    "etag": "tYLJcSVWGOV6pzVP_1le95X2LFI",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "65053",
+      "viewCount": "66529",
       "subscriberCount": "99",
       "hiddenSubscriberCount": false,
       "videoCount": "206"
@@ -64,7 +64,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "GAlKOp-MaxyD5Pa5k6EnAIsjYwg",
+      "etag": "pRxE9VHOQkKnKwkGozUYfsMFC1Q",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
@@ -131,7 +131,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "209",
+        "viewCount": "212",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -288,7 +288,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "T75qA_0_D1zbyScXI_DulPayjuo",
+      "etag": "XJGPNi5zxsRpNbNGDTnto7_m-Xk",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -329,8 +329,7 @@
         "localized": {
           "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT39S",
@@ -350,7 +349,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "936",
+        "viewCount": "938",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -961,7 +960,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/P8cpT20NmI8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=P8cpT20NmI8",
-      "views": "209",
+      "views": "212",
       "live": false,
       "wasLive": false
     },
@@ -1012,7 +1011,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
-      "views": "936",
+      "views": "938",
       "live": false,
       "wasLive": false
     },
@@ -1262,8 +1261,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T23:36:28.550Z",
-    "expiresAt": "2026-11-19T00:21:28.550Z",
+    "checkedAt": "2026-11-19T04:31:51.357Z",
+    "expiresAt": "2026-11-19T05:16:51.357Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1274,7 +1273,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "GAlKOp-MaxyD5Pa5k6EnAIsjYwg",
+      "etag": "pRxE9VHOQkKnKwkGozUYfsMFC1Q",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
@@ -1341,7 +1340,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "209",
+        "viewCount": "212",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1498,7 +1497,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "T75qA_0_D1zbyScXI_DulPayjuo",
+      "etag": "XJGPNi5zxsRpNbNGDTnto7_m-Xk",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -1539,8 +1538,7 @@
         "localized": {
           "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT39S",
@@ -1560,7 +1558,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "936",
+        "viewCount": "938",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3038,7 +3036,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xFOti8MZ8cX_KllHLmYo0jeu9Tw",
+      "etag": "1sQaL91bdSvjqZzKdxy6kXrfazQ",
       "id": "JPD6fVTMWMs",
       "snippet": {
         "publishedAt": "2026-10-18T08:42:17Z",
@@ -8558,21 +8556,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T23:36:28.550Z"
+      "updatedAt": "2026-11-19T04:31:51.357Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T23:36:28.550Z"
+      "updatedAt": "2026-11-19T04:31:51.357Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T23:36:28.550Z"
+      "updatedAt": "2026-11-19T04:31:51.357Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T23:36:28.550Z",
-    "evaluatedAt": "2026-11-18T23:36:29.576Z"
+    "observedAt": "2026-11-19T04:31:51.357Z",
+    "evaluatedAt": "2026-11-19T04:31:52.168Z"
   }
 }

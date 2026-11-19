@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-18T23:36:33.868Z",
+  "updatedAt": "2026-11-19T04:31:56.027Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-18T23:36:33.868Z",
-    "expiresAt": "2026-11-19T00:21:33.868Z",
+    "checkedAt": "2026-11-19T04:31:56.027Z",
+    "expiresAt": "2026-11-19T05:16:56.027Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6438,21 +6438,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T23:36:33.868Z"
+      "updatedAt": "2026-11-19T04:31:56.027Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T23:36:33.868Z"
+      "updatedAt": "2026-11-19T04:31:56.027Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-18T23:36:33.868Z"
+      "updatedAt": "2026-11-19T04:31:56.027Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-18T23:36:33.868Z",
-    "evaluatedAt": "2026-11-18T23:36:34.701Z"
+    "observedAt": "2026-11-19T04:31:56.027Z",
+    "evaluatedAt": "2026-11-19T04:31:56.683Z"
   }
 }

@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "duffball16",
   "label": "Duffball16",
-  "updatedAt": "2026-11-19T13:55:29.889Z",
+  "updatedAt": "2026-11-19T22:09:48.311Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "kdujCAukLiaULsYMc7KlH_zKTWI",
+    "etag": "6oAFEnQmQi0yYggpRoZrYqDNnSY",
     "id": "UC2iwDFfrVjWYFpXahr-o8cA",
     "snippet": {
       "title": "Duffball16",
@@ -46,7 +46,7 @@
       "viewCount": "36879849",
       "subscriberCount": "30400",
       "hiddenSubscriberCount": false,
-      "videoCount": "2869"
+      "videoCount": "2870"
     },
     "brandingSettings": {
       "channel": {
@@ -64,7 +64,149 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "BYkeH8hEdvwv_s0xh98kmJNFFk8",
+      "etag": "iJPGyWK5BbK_vwxz_kCBip5_Ay4",
+      "id": "2venu_B7VPg",
+      "snippet": {
+        "publishedAt": "2026-11-19T19:59:47Z",
+        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
+        "title": "This Is SUCH An Underrated ONE PIECE Opening... 🖐️",
+        "description": "[Background Song] - \"Fight Together\" By, Namie Amuro / https://youtu.be/by0PpbRo5gM\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #anime #animes #manga #mangas #ost #intro #intros #op #onepiece #opening #underrated",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Duffball16",
+        "tags": [
+          "#duffball16",
+          "duffinians",
+          "duffball16",
+          "#duffinians",
+          "youtube",
+          "#youtube",
+          "yt",
+          "#yt",
+          "fyp",
+          "#fyp",
+          "#duffy",
+          "duffy",
+          "duff",
+          "#duff",
+          "duffball",
+          "#duffball",
+          "recommended",
+          "#recommended",
+          "trend",
+          "#trend",
+          "#trending",
+          "trending",
+          "entertainment",
+          "#entertainment",
+          "#short",
+          "short",
+          "shorts",
+          "#shorts",
+          "#reel",
+          "reel",
+          "reels",
+          "#reels",
+          "#filter",
+          "filter",
+          "#filters",
+          "filters",
+          "viral",
+          "#viral",
+          "#popular",
+          "popular",
+          "#trends",
+          "trends",
+          "#trendy",
+          "trendy",
+          "fy",
+          "#fy",
+          "#new",
+          "new",
+          "#skits",
+          "skits",
+          "skit",
+          "#skit",
+          "irl",
+          "#irl",
+          "music",
+          "#music",
+          "meme",
+          "#meme",
+          "memes",
+          "#memes",
+          "anime",
+          "#anime",
+          "manga",
+          "#manga",
+          "onepiece",
+          "#onepiece",
+          "#op",
+          "op",
+          "#sub",
+          "sub"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "This Is SUCH An Underrated ONE PIECE Opening... 🖐️",
+          "description": "[Background Song] - \"Fight Together\" By, Namie Amuro / https://youtu.be/by0PpbRo5gM\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #anime #animes #manga #mangas #ost #intro #intros #op #onepiece #opening #underrated"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "685",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GyD-asCgPXK5WMhdSf7iimOjMbU",
       "id": "2AmXA5HSfJM",
       "snippet": {
         "publishedAt": "2026-11-19T11:02:51Z",
@@ -202,15 +344,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "689",
-        "likeCount": "14",
+        "viewCount": "915",
+        "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "tLs0pRviFnFTELFepOzEyDdkF1c",
+      "etag": "wewqxweeGVqWrCAlj-_NIuvrMzw",
       "id": "wliOW_PRXWs",
       "snippet": {
         "publishedAt": "2026-11-19T00:17:12Z",
@@ -340,15 +482,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "898",
-        "likeCount": "15",
+        "viewCount": "903",
+        "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GMhATFzWrKCW5L6GoadBQ1Yq3TQ",
+      "etag": "4EQlvcTwuxngbQFvfDJUEfm2jFQ",
       "id": "ayjT4NczlzE",
       "snippet": {
         "publishedAt": "2026-11-19T00:01:35Z",
@@ -482,15 +624,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "708",
-        "likeCount": "4",
+        "viewCount": "811",
+        "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kqJmKzpJUzMNL5uTyBOoM7XO6RM",
+      "etag": "vKxvPutxyjQI2BNoN4J-T_kqj3Q",
       "id": "w9SDnluf7XY",
       "snippet": {
         "publishedAt": "2026-11-18T20:32:05Z",
@@ -557,7 +699,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "59",
+        "viewCount": "62",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -647,154 +789,12 @@
         "actualEndTime": "2026-11-17T22:40:43Z",
         "scheduledStartTime": "2026-11-17T20:52:11Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "X6dEATaNyG2XYE0Nb0pbPjanSmc",
-      "id": "pFxJqOIGX1w",
-      "snippet": {
-        "publishedAt": "2026-11-18T10:01:27Z",
-        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
-        "title": "What's The BEST PRE-TIME SKIP ONE PIECE OPENING? 🚣",
-        "description": "[Background Song] - \"Hikari E\" By, Vic Mignogna / https://youtu.be/ZDcl1f4UzDY\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #anime #animes #manga #mangas #ost #intro #intros #op #onepiece #opening #best #timeskip",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pFxJqOIGX1w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pFxJqOIGX1w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pFxJqOIGX1w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pFxJqOIGX1w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/pFxJqOIGX1w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Duffball16",
-        "tags": [
-          "#duffball16",
-          "duffinians",
-          "duffball16",
-          "#duffinians",
-          "youtube",
-          "#youtube",
-          "yt",
-          "#yt",
-          "fyp",
-          "#fyp",
-          "#duffy",
-          "duffy",
-          "duff",
-          "#duff",
-          "duffball",
-          "#duffball",
-          "recommended",
-          "#recommended",
-          "trend",
-          "#trend",
-          "#trending",
-          "trending",
-          "entertainment",
-          "#entertainment",
-          "#short",
-          "short",
-          "shorts",
-          "#shorts",
-          "#reel",
-          "reel",
-          "reels",
-          "#reels",
-          "#filter",
-          "filter",
-          "#filters",
-          "filters",
-          "viral",
-          "#viral",
-          "#popular",
-          "popular",
-          "#trends",
-          "trends",
-          "#trendy",
-          "trendy",
-          "fy",
-          "#fy",
-          "#new",
-          "new",
-          "#skits",
-          "skits",
-          "skit",
-          "#skit",
-          "irl",
-          "#irl",
-          "music",
-          "#music",
-          "meme",
-          "#meme",
-          "memes",
-          "#memes",
-          "anime",
-          "#anime",
-          "manga",
-          "#manga",
-          "onepiece",
-          "#onepiece",
-          "#op",
-          "op",
-          "#sub",
-          "sub"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "What's The BEST PRE-TIME SKIP ONE PIECE OPENING? 🚣",
-          "description": "[Background Song] - \"Hikari E\" By, Vic Mignogna / https://youtu.be/ZDcl1f4UzDY\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #anime #animes #manga #mangas #ost #intro #intros #op #onepiece #opening #best #timeskip"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "1291",
-        "likeCount": "12",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "kqJmKzpJUzMNL5uTyBOoM7XO6RM",
+      "etag": "vKxvPutxyjQI2BNoN4J-T_kqj3Q",
       "id": "w9SDnluf7XY",
       "snippet": {
         "publishedAt": "2026-11-18T20:32:05Z",
@@ -861,7 +861,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "59",
+        "viewCount": "62",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1272,6 +1272,23 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "2venu_B7VPg",
+      "title": "This Is SUCH An Underrated ONE PIECE Opening... 🖐️",
+      "label": "YouTube",
+      "publishedAt": "2026-11-19T19:59:47Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT26S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/2venu_B7VPg/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2venu_B7VPg",
+      "views": "685",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "2AmXA5HSfJM",
       "title": "Rest In Peace To Them. 🕊️",
       "label": "YouTube",
@@ -1284,7 +1301,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2AmXA5HSfJM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2AmXA5HSfJM",
-      "views": "689",
+      "views": "915",
       "live": false,
       "wasLive": false
     },
@@ -1301,7 +1318,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/wliOW_PRXWs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wliOW_PRXWs",
-      "views": "898",
+      "views": "903",
       "live": false,
       "wasLive": false
     },
@@ -1318,7 +1335,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ayjT4NczlzE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ayjT4NczlzE",
-      "views": "708",
+      "views": "811",
       "live": false,
       "wasLive": false
     },
@@ -1335,7 +1352,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/w9SDnluf7XY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=w9SDnluf7XY",
-      "views": "59",
+      "views": "62",
       "live": false,
       "wasLive": true
     },
@@ -1355,23 +1372,6 @@
       "views": "61",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "pFxJqOIGX1w",
-      "title": "What's The BEST PRE-TIME SKIP ONE PIECE OPENING? 🚣",
-      "label": "YouTube",
-      "publishedAt": "2026-11-18T10:01:27Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT40S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/pFxJqOIGX1w/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pFxJqOIGX1w",
-      "views": "1291",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
@@ -1388,7 +1388,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/w9SDnluf7XY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=w9SDnluf7XY",
-      "views": "59",
+      "views": "62",
       "live": false,
       "wasLive": true
     },
@@ -1492,7 +1492,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/w9SDnluf7XY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=w9SDnluf7XY",
-      "views": "59",
+      "views": "62",
       "live": false,
       "wasLive": true
     },
@@ -1585,8 +1585,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-19T13:55:29.889Z",
-    "expiresAt": "2026-11-19T14:40:29.889Z",
+    "checkedAt": "2026-11-19T22:09:48.311Z",
+    "expiresAt": "2026-11-19T22:54:48.311Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1597,7 +1597,149 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "BYkeH8hEdvwv_s0xh98kmJNFFk8",
+      "etag": "iJPGyWK5BbK_vwxz_kCBip5_Ay4",
+      "id": "2venu_B7VPg",
+      "snippet": {
+        "publishedAt": "2026-11-19T19:59:47Z",
+        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
+        "title": "This Is SUCH An Underrated ONE PIECE Opening... 🖐️",
+        "description": "[Background Song] - \"Fight Together\" By, Namie Amuro / https://youtu.be/by0PpbRo5gM\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #anime #animes #manga #mangas #ost #intro #intros #op #onepiece #opening #underrated",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2venu_B7VPg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Duffball16",
+        "tags": [
+          "#duffball16",
+          "duffinians",
+          "duffball16",
+          "#duffinians",
+          "youtube",
+          "#youtube",
+          "yt",
+          "#yt",
+          "fyp",
+          "#fyp",
+          "#duffy",
+          "duffy",
+          "duff",
+          "#duff",
+          "duffball",
+          "#duffball",
+          "recommended",
+          "#recommended",
+          "trend",
+          "#trend",
+          "#trending",
+          "trending",
+          "entertainment",
+          "#entertainment",
+          "#short",
+          "short",
+          "shorts",
+          "#shorts",
+          "#reel",
+          "reel",
+          "reels",
+          "#reels",
+          "#filter",
+          "filter",
+          "#filters",
+          "filters",
+          "viral",
+          "#viral",
+          "#popular",
+          "popular",
+          "#trends",
+          "trends",
+          "#trendy",
+          "trendy",
+          "fy",
+          "#fy",
+          "#new",
+          "new",
+          "#skits",
+          "skits",
+          "skit",
+          "#skit",
+          "irl",
+          "#irl",
+          "music",
+          "#music",
+          "meme",
+          "#meme",
+          "memes",
+          "#memes",
+          "anime",
+          "#anime",
+          "manga",
+          "#manga",
+          "onepiece",
+          "#onepiece",
+          "#op",
+          "op",
+          "#sub",
+          "sub"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "This Is SUCH An Underrated ONE PIECE Opening... 🖐️",
+          "description": "[Background Song] - \"Fight Together\" By, Namie Amuro / https://youtu.be/by0PpbRo5gM\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #anime #animes #manga #mangas #ost #intro #intros #op #onepiece #opening #underrated"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "685",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GyD-asCgPXK5WMhdSf7iimOjMbU",
       "id": "2AmXA5HSfJM",
       "snippet": {
         "publishedAt": "2026-11-19T11:02:51Z",
@@ -1735,15 +1877,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "689",
-        "likeCount": "14",
+        "viewCount": "915",
+        "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "tLs0pRviFnFTELFepOzEyDdkF1c",
+      "etag": "wewqxweeGVqWrCAlj-_NIuvrMzw",
       "id": "wliOW_PRXWs",
       "snippet": {
         "publishedAt": "2026-11-19T00:17:12Z",
@@ -1873,15 +2015,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "898",
-        "likeCount": "15",
+        "viewCount": "903",
+        "likeCount": "16",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GMhATFzWrKCW5L6GoadBQ1Yq3TQ",
+      "etag": "4EQlvcTwuxngbQFvfDJUEfm2jFQ",
       "id": "ayjT4NczlzE",
       "snippet": {
         "publishedAt": "2026-11-19T00:01:35Z",
@@ -2015,15 +2157,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "708",
-        "likeCount": "4",
+        "viewCount": "811",
+        "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kqJmKzpJUzMNL5uTyBOoM7XO6RM",
+      "etag": "vKxvPutxyjQI2BNoN4J-T_kqj3Q",
       "id": "w9SDnluf7XY",
       "snippet": {
         "publishedAt": "2026-11-18T20:32:05Z",
@@ -2090,7 +2232,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "59",
+        "viewCount": "62",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2325,7 +2467,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "OCw3wcn9clKiY1fNDJMF1YEQujU",
+      "etag": "5GAOPmW4MJlByT32JJdxC3IdZNM",
       "id": "VDndXyRhMuQ",
       "snippet": {
         "publishedAt": "2026-11-18T00:01:12Z",
@@ -2453,15 +2595,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1740",
-        "likeCount": "17",
+        "viewCount": "1801",
+        "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BbgIZzFjghANoBr7F439KwmtV9w",
+      "etag": "4WrHQS-YDutPRzhUJ-yq9jhyQ3A",
       "id": "qmydYBgBNhk",
       "snippet": {
         "publishedAt": "2026-11-17T20:31:30Z",
@@ -2593,7 +2735,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "977",
+        "viewCount": "979",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -2601,7 +2743,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "moKGCkSqCplg-uMUSJpNTnALS-s",
+      "etag": "URgi2JuVThBKAN5I0tHXIJQ3KIk",
       "id": "KoHRbTIx--s",
       "snippet": {
         "publishedAt": "2026-11-17T11:15:55Z",
@@ -2729,7 +2871,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1245",
+        "viewCount": "1250",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2737,7 +2879,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hL_dK89WTSyfWwy4fJhADE7Xq3s",
+      "etag": "2gg2XjU9dywaK3mQVrD_kdqFZy0",
       "id": "bgzMmPG3Ct4",
       "snippet": {
         "publishedAt": "2026-11-17T00:00:57Z",
@@ -2867,7 +3009,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "849",
+        "viewCount": "845",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2955,7 +3097,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "atik5gcNLJ0Ugi4gng-_oVDf41M",
+      "etag": "vuGztMNEA8XpwMQ5em6Nm5hwkSg",
       "id": "VSZRhee3ugM",
       "snippet": {
         "publishedAt": "2026-11-16T18:01:18Z",
@@ -3085,7 +3227,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "875",
+        "viewCount": "868",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4428,7 +4570,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XtJ8-clMKjuzUJJVqCZfqmSRT9s",
+      "etag": "jCMRVn3MUMqc3hW29J4ZxJ1spIg",
       "id": "cjJZReLe6Sw",
       "snippet": {
         "publishedAt": "2026-11-13T10:18:35Z",
@@ -4556,7 +4698,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1142",
+        "viewCount": "1143",
         "likeCount": "25",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4700,7 +4842,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "M7EuJAQPJbxpnlMbyotQlfDmD0I",
+      "etag": "9R1wL21xymHDpH27v_2rXUYSqEs",
       "id": "JSk4tgTKmCE",
       "snippet": {
         "publishedAt": "2026-11-12T09:42:57Z",
@@ -4830,7 +4972,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "619",
+        "viewCount": "621",
         "likeCount": "44",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -5196,7 +5338,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zNxW4TrpAQSbGANvOEpGCQxmy7c",
+      "etag": "KYcdtT6qSNszDHiMFgKwpJZly8A",
       "id": "ECOlkYYctvY",
       "snippet": {
         "publishedAt": "2026-11-11T02:47:36Z",
@@ -5472,7 +5614,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XNuDQLh7WXSDQeiiNIx8VQGem8g",
+      "etag": "jyCsOJpcMBE7LPpR8DHdcgdf84U",
       "id": "59FRyMvS-rA",
       "snippet": {
         "publishedAt": "2026-11-10T02:16:22Z",
@@ -5609,7 +5751,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "2129",
+        "viewCount": "2131",
         "likeCount": "47",
         "favoriteCount": "0",
         "commentCount": "7"
@@ -8882,7 +9024,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iL6k6di1MtTdR-KoHN2aVN7rrh4",
+      "etag": "IvsDxgjgyztkOapRLXWC3bYGEzo",
       "id": "XuvVqpswLHA",
       "snippet": {
         "publishedAt": "2026-10-30T10:24:51Z",
@@ -9015,7 +9157,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1309",
+        "viewCount": "1310",
         "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -9512,7 +9654,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "29v80vMxJlc2RoJAI0kVKRTl6TE",
+      "etag": "eAwt1u3eIh6NImL5KOUdKubdaZk",
       "id": "M9UPMCXh_Ic",
       "snippet": {
         "publishedAt": "2026-10-28T13:30:01Z",
@@ -9642,7 +9784,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1628",
+        "viewCount": "1630",
         "likeCount": "23",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -9864,7 +10006,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KP_9-0sYqu3QD_WtZeVTw-RS9AA",
+      "etag": "dRbb1fbOU2T9Tgnzl_qq6PqmsbE",
       "id": "ochLvev3w8Q",
       "snippet": {
         "publishedAt": "2026-10-27T10:34:48Z",
@@ -9995,7 +10137,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1322",
+        "viewCount": "1324",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -15096,7 +15238,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NUb1DAr8T2-fW6h74kylwqLgA0A",
+      "etag": "XwGMvuaNmjCOEnRfWnSZK7lFYoU",
       "id": "-HxIVijNAok",
       "snippet": {
         "publishedAt": "2026-10-09T23:00:54Z",
@@ -15224,7 +15366,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "3594",
+        "viewCount": "3601",
         "likeCount": "31",
         "favoriteCount": "0",
         "commentCount": "13"
@@ -17507,7 +17649,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bU371FzzzC2DJk2BGf9mPwlvS3c",
+      "etag": "mqY7ABCmmZL7z_byT-6CvQkprog",
       "id": "z1SYpfddV_Q",
       "snippet": {
         "publishedAt": "2026-10-04T13:22:09Z",
@@ -17633,7 +17775,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1264",
+        "viewCount": "1265",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "10"
@@ -26784,7 +26926,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DGUYgVBQ1NSpk-GRtCamAFsY3Yc",
+      "etag": "I55dKECwxvqTxIQzu7Ut5_Cqpk0",
       "id": "a5q3pG1Wovs",
       "snippet": {
         "publishedAt": "2026-09-14T16:56:01Z",
@@ -26914,7 +27056,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "4470",
+        "viewCount": "4471",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -33159,144 +33301,6 @@
         "favoriteCount": "0",
         "commentCount": "2"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "at79j4-iyketXU9P3iWyWxpDlTs",
-      "id": "_XxjZorxJI4",
-      "snippet": {
-        "publishedAt": "2026-09-01T10:50:24Z",
-        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
-        "title": "How Time Flies... ⌛",
-        "description": "[Background Song] - \"Childhood - daniel\" By, @dreamable.. / https://youtu.be/xiqROqbwmNk?list=RDxiqROqbwmNk\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #subup #sub #subscribe #share #comment #like #follow #remix #remixes #remixed #edits #edit #music #clip #clips #sad #deep #nostalgia #nostalgic #childhood #memory #memories #2016 #time",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_XxjZorxJI4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_XxjZorxJI4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_XxjZorxJI4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_XxjZorxJI4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_XxjZorxJI4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Duffball16",
-        "tags": [
-          "#duffball16",
-          "duffinians",
-          "duffball16",
-          "#duffinians",
-          "youtube",
-          "#youtube",
-          "yt",
-          "#yt",
-          "fyp",
-          "#fyp",
-          "#duffy",
-          "duffy",
-          "duff",
-          "#duff",
-          "duffball",
-          "#duffball",
-          "recommended",
-          "#recommended",
-          "trend",
-          "#trend",
-          "#trending",
-          "trending",
-          "entertainment",
-          "#entertainment",
-          "#short",
-          "short",
-          "shorts",
-          "#shorts",
-          "#reel",
-          "reel",
-          "reels",
-          "#reels",
-          "#filter",
-          "filter",
-          "#filters",
-          "filters",
-          "fy",
-          "#fy",
-          "#edits",
-          "edits",
-          "edit",
-          "#edit",
-          "#meme",
-          "meme",
-          "memes",
-          "#memes",
-          "new",
-          "#new",
-          "deep",
-          "#deep",
-          "sad",
-          "#sad",
-          "#nostalgia",
-          "nostalgia",
-          "#nostalgic",
-          "nostalgic",
-          "#childhood",
-          "childhood",
-          "#memories",
-          "memories",
-          "memory",
-          "#memory",
-          "#2016",
-          "2016",
-          "time",
-          "#time"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "How Time Flies... ⌛",
-          "description": "[Background Song] - \"Childhood - daniel\" By, @dreamable.. / https://youtu.be/xiqROqbwmNk?list=RDxiqROqbwmNk\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #subup #sub #subscribe #share #comment #like #follow #remix #remixes #remixed #edits #edit #music #clip #clips #sad #deep #nostalgia #nostalgic #childhood #memory #memories #2016 #time"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "965",
-        "likeCount": "13",
-        "favoriteCount": "0",
-        "commentCount": "3"
-      }
     }
   ],
   "playlists": [
@@ -35594,25 +35598,25 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:29.889Z"
+      "updatedAt": "2026-11-19T22:09:48.311Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:29.889Z"
+      "updatedAt": "2026-11-19T22:09:48.311Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:29.889Z"
+      "updatedAt": "2026-11-19T22:09:48.311Z"
     },
     "playlists": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:29.889Z"
+      "updatedAt": "2026-11-19T22:09:48.311Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T13:55:29.889Z",
-    "evaluatedAt": "2026-11-19T13:55:32.829Z"
+    "observedAt": "2026-11-19T22:09:48.311Z",
+    "evaluatedAt": "2026-11-19T22:09:52.422Z"
   }
 }

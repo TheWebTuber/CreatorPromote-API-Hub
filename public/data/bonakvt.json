@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-19T13:55:29.042Z",
+  "updatedAt": "2026-11-19T22:09:47.298Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -287,7 +287,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XJGPNi5zxsRpNbNGDTnto7_m-Xk",
+      "etag": "dw2FAQEcTxp8tlzpIApoWMW1iH0",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -348,7 +348,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "938",
+        "viewCount": "931",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1010,7 +1010,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
-      "views": "938",
+      "views": "931",
       "live": false,
       "wasLive": false
     },
@@ -1260,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-19T13:55:29.042Z",
-    "expiresAt": "2026-11-19T14:40:29.042Z",
+    "checkedAt": "2026-11-19T22:09:47.298Z",
+    "expiresAt": "2026-11-19T22:54:47.298Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1568,7 +1568,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XJGPNi5zxsRpNbNGDTnto7_m-Xk",
+      "etag": "dw2FAQEcTxp8tlzpIApoWMW1iH0",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -1629,7 +1629,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "938",
+        "viewCount": "931",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3328,7 +3328,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JrIsyOf5eae2ZNVNTKNbfqR62o8",
+      "etag": "zMT4tS58iSGny4-T7jiMf9PWdmU",
       "id": "5vnFUHeBcZQ",
       "snippet": {
         "publishedAt": "2026-10-11T13:54:39Z",
@@ -3374,7 +3374,8 @@
         "localized": {
           "title": "POV your right to move is revoked #vtuber #leagueoflegends  #shorts",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT20S",
@@ -8563,21 +8564,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:29.042Z"
+      "updatedAt": "2026-11-19T22:09:47.298Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:29.042Z"
+      "updatedAt": "2026-11-19T22:09:47.298Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:29.042Z"
+      "updatedAt": "2026-11-19T22:09:47.298Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T13:55:29.042Z",
-    "evaluatedAt": "2026-11-19T13:55:29.879Z"
+    "observedAt": "2026-11-19T22:09:47.298Z",
+    "evaluatedAt": "2026-11-19T22:09:48.297Z"
   }
 }

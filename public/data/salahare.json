@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-19T13:55:34.887Z",
+  "updatedAt": "2026-11-19T22:09:54.308Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-19T13:55:34.887Z",
-    "expiresAt": "2026-11-19T14:40:34.887Z",
+    "checkedAt": "2026-11-19T22:09:54.308Z",
+    "expiresAt": "2026-11-19T22:54:54.308Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -4691,7 +4691,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1yF4gDBue_lrmQk0my7byBA2ypY",
+      "etag": "_amGvdpDFa9QyEBTce_o7P6235I",
       "id": "WSjbykySjuo",
       "snippet": {
         "publishedAt": "2016-11-23T12:08:54Z",
@@ -4759,12 +4759,6 @@
         "definition": "sd",
         "caption": "false",
         "licensedContent": false,
-        "regionRestriction": {
-          "blocked": [
-            "BY",
-            "RU"
-          ]
-        },
         "contentRating": {},
         "projection": "rectangular"
       },
@@ -6438,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:34.887Z"
+      "updatedAt": "2026-11-19T22:09:54.308Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:34.887Z"
+      "updatedAt": "2026-11-19T22:09:54.308Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T13:55:34.887Z"
+      "updatedAt": "2026-11-19T22:09:54.308Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T13:55:34.887Z",
-    "evaluatedAt": "2026-11-19T13:55:35.644Z"
+    "observedAt": "2026-11-19T22:09:54.308Z",
+    "evaluatedAt": "2026-11-19T22:09:55.138Z"
   }
 }

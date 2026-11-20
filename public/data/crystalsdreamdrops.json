@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "crystalsdreamdrops",
   "label": "Crystalsdreamdrops",
-  "updatedAt": "2026-11-19T22:09:53.884Z",
+  "updatedAt": "2026-11-20T03:14:39.151Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -219,7 +219,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gObn112BfAuoRohj_RKN51XmuMM",
+      "etag": "BsbIt6mHLO5qDFgqDnlmFJLFiTA",
       "id": "ekFw3AuivVU",
       "snippet": {
         "publishedAt": "2026-06-28T07:38:43Z",
@@ -679,7 +679,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gObn112BfAuoRohj_RKN51XmuMM",
+      "etag": "BsbIt6mHLO5qDFgqDnlmFJLFiTA",
       "id": "ekFw3AuivVU",
       "snippet": {
         "publishedAt": "2026-06-28T07:38:43Z",
@@ -1295,8 +1295,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-19T22:09:53.884Z",
-    "expiresAt": "2026-11-19T22:54:53.884Z",
+    "checkedAt": "2026-11-20T03:14:39.151Z",
+    "expiresAt": "2026-11-20T03:59:39.151Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1543,7 +1543,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gObn112BfAuoRohj_RKN51XmuMM",
+      "etag": "BsbIt6mHLO5qDFgqDnlmFJLFiTA",
       "id": "ekFw3AuivVU",
       "snippet": {
         "publishedAt": "2026-06-28T07:38:43Z",
@@ -3211,21 +3211,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:53.884Z"
+      "updatedAt": "2026-11-20T03:14:39.151Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:53.884Z"
+      "updatedAt": "2026-11-20T03:14:39.151Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:53.884Z"
+      "updatedAt": "2026-11-20T03:14:39.151Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T22:09:53.884Z",
-    "evaluatedAt": "2026-11-19T22:09:54.306Z"
+    "observedAt": "2026-11-20T03:14:39.151Z",
+    "evaluatedAt": "2026-11-20T03:14:39.578Z"
   }
 }

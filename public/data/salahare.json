@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-19T22:09:54.308Z",
+  "updatedAt": "2026-11-20T03:14:39.580Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -426,7 +426,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GqdqE6m9OfmS-GM1C_n4ULdA3No",
+      "etag": "S3z9qGsNoL0zouv2F9aySq9Ovig",
       "id": "_d-LYjT2mio",
       "snippet": {
         "publishedAt": "2025-11-28T06:39:23Z",
@@ -984,7 +984,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GqdqE6m9OfmS-GM1C_n4ULdA3No",
+      "etag": "S3z9qGsNoL0zouv2F9aySq9Ovig",
       "id": "_d-LYjT2mio",
       "snippet": {
         "publishedAt": "2025-11-28T06:39:23Z",
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-19T22:09:54.308Z",
-    "expiresAt": "2026-11-19T22:54:54.308Z",
+    "checkedAt": "2026-11-20T03:14:39.580Z",
+    "expiresAt": "2026-11-20T03:59:39.580Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1959,7 +1959,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GqdqE6m9OfmS-GM1C_n4ULdA3No",
+      "etag": "S3z9qGsNoL0zouv2F9aySq9Ovig",
       "id": "_d-LYjT2mio",
       "snippet": {
         "publishedAt": "2025-11-28T06:39:23Z",
@@ -4691,7 +4691,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_amGvdpDFa9QyEBTce_o7P6235I",
+      "etag": "NG7-ct2SO4qf0bInsRc9X7A032I",
       "id": "WSjbykySjuo",
       "snippet": {
         "publishedAt": "2016-11-23T12:08:54Z",
@@ -5661,7 +5661,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9fms9rbERhhc7Ft5zbpqZjmc5k8",
+      "etag": "apDp67cR53qpozdJ0K0AgF4xovk",
       "id": "XQRZybhpEKk",
       "snippet": {
         "publishedAt": "2012-07-27T23:16:12Z",
@@ -5824,7 +5824,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "j6VhFvn2Yu1AdETWkNgCEN159Lw",
+      "etag": "IbdQrdMjTLyaCRC5NZ5IVtxgmd4",
       "id": "zyRJKF81E_c",
       "snippet": {
         "publishedAt": "2012-06-19T11:16:36Z",
@@ -6432,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:54.308Z"
+      "updatedAt": "2026-11-20T03:14:39.580Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:54.308Z"
+      "updatedAt": "2026-11-20T03:14:39.580Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:54.308Z"
+      "updatedAt": "2026-11-20T03:14:39.580Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T22:09:54.308Z",
-    "evaluatedAt": "2026-11-19T22:09:55.138Z"
+    "observedAt": "2026-11-20T03:14:39.580Z",
+    "evaluatedAt": "2026-11-20T03:14:40.282Z"
   }
 }

@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "portalmasterofgames",
   "label": "Portal Master Of Games",
-  "updatedAt": "2026-11-19T22:09:52.432Z",
+  "updatedAt": "2026-11-20T03:14:38.087Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1339,8 +1339,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-19T22:09:52.432Z",
-    "expiresAt": "2026-11-19T22:54:52.432Z",
+    "checkedAt": "2026-11-20T03:14:38.087Z",
+    "expiresAt": "2026-11-20T03:59:38.087Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -2067,7 +2067,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "T3qdAK9zdqNEGP_jO28QgJnIxqg",
+      "etag": "VPszE3506sm3drbJ54iDmRohfw0",
       "id": "9cC0y5hW84Q",
       "snippet": {
         "publishedAt": "2026-10-04T13:45:46Z",
@@ -2134,7 +2134,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "139",
+        "viewCount": "140",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3728,7 +3728,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kbfblcTTRERnr6sapn1ZzbCak30",
+      "etag": "lqYWPFG6XICL1kDY7SgJlxPNa64",
       "id": "szdwjiaIPqI",
       "snippet": {
         "publishedAt": "2026-06-08T23:19:11Z",
@@ -3790,7 +3790,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "2085",
+        "viewCount": "2086",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3798,7 +3798,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yIUkpdhte1fCAf8Ngo-3tWLf5GI",
+      "etag": "gudK08H5qSJm3NORabCGYRXlhN0",
       "id": "il0spixHanY",
       "snippet": {
         "publishedAt": "2026-06-08T22:53:15Z",
@@ -3860,7 +3860,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "398",
+        "viewCount": "394",
         "likeCount": "10",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8833,21 +8833,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:52.432Z"
+      "updatedAt": "2026-11-20T03:14:38.087Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:52.432Z"
+      "updatedAt": "2026-11-20T03:14:38.087Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:52.432Z"
+      "updatedAt": "2026-11-20T03:14:38.087Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T22:09:52.432Z",
-    "evaluatedAt": "2026-11-19T22:09:53.445Z"
+    "observedAt": "2026-11-20T03:14:38.087Z",
+    "evaluatedAt": "2026-11-20T03:14:38.777Z"
   }
 }

@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "daddydepresso",
   "label": "Daddy Depresso",
-  "updatedAt": "2026-11-19T22:09:45.896Z",
+  "updatedAt": "2026-11-20T03:14:33.233Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -957,8 +957,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-19T22:09:45.896Z",
-    "expiresAt": "2026-11-19T22:54:45.896Z",
+    "checkedAt": "2026-11-20T03:14:33.233Z",
+    "expiresAt": "2026-11-20T03:59:33.233Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -2629,7 +2629,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yPc41yifF6jtEr4z9f7Ktwn-6jg",
+      "etag": "PyzwPjNWc3F6NW9ey1D9nqnv1Js",
       "id": "t3W-TwvURqE",
       "snippet": {
         "publishedAt": "2026-06-14T14:38:22Z",
@@ -3739,7 +3739,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "M6TMOu9ASkeP2cVjUW1rPEM6BiE",
+      "etag": "1hifC2_sHwevuB_HCGjH--BF9J0",
       "id": "rQLd-MonfQw",
       "snippet": {
         "publishedAt": "2026-03-29T13:42:36Z",
@@ -4519,7 +4519,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rhxNz_Ntqx6DmR7OsG5mry4vVfw",
+      "etag": "H-9JHUgLZGLzp2DrhjATsm8O3Eo",
       "id": "Z0ue4Nl3O9A",
       "snippet": {
         "publishedAt": "2026-02-13T19:09:36Z",
@@ -4595,7 +4595,7 @@
   "collabSources": {
     "PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:45.896Z",
+      "updatedAt": "2026-11-20T03:14:33.233Z",
       "items": [
         {
           "id": "FRVmoksciRg",
@@ -4619,7 +4619,7 @@
     },
     "PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:45.896Z",
+      "updatedAt": "2026-11-20T03:14:33.233Z",
       "items": [
         {
           "id": "Q7gZ-ubMTSA",
@@ -5471,7 +5471,7 @@
     },
     "PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:45.896Z",
+      "updatedAt": "2026-11-20T03:14:33.233Z",
       "items": [
         {
           "id": "TqJk7cQ72e0",
@@ -5750,33 +5750,33 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:45.896Z"
+      "updatedAt": "2026-11-20T03:14:33.233Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:45.896Z"
+      "updatedAt": "2026-11-20T03:14:33.233Z"
     },
     "collab:PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:45.896Z"
+      "updatedAt": "2026-11-20T03:14:33.233Z"
     },
     "collab:PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:45.896Z"
+      "updatedAt": "2026-11-20T03:14:33.233Z"
     },
     "collab:PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:45.896Z"
+      "updatedAt": "2026-11-20T03:14:33.233Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:45.896Z"
+      "updatedAt": "2026-11-20T03:14:33.233Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T22:09:45.896Z",
-    "evaluatedAt": "2026-11-19T22:09:47.295Z"
+    "observedAt": "2026-11-20T03:14:33.233Z",
+    "evaluatedAt": "2026-11-20T03:14:34.671Z"
   }
 }

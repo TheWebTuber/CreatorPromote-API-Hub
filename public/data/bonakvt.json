@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-19T22:09:47.298Z",
+  "updatedAt": "2026-11-20T03:14:34.674Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -139,7 +139,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "X4R5YxBcMkJW7YQ0w5qq5lR2IVs",
+      "etag": "B4fgaCSZcatumRm4-WR7hMRiZoA",
       "id": "jRW7YQHJyLA",
       "snippet": {
         "publishedAt": "2026-11-18T00:23:21Z",
@@ -180,8 +180,7 @@
         "localized": {
           "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H45M57S",
@@ -287,7 +286,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dw2FAQEcTxp8tlzpIApoWMW1iH0",
+      "etag": "CD8gW05pite9zDvg4lMRR5GAXwI",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -348,7 +347,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "931",
+        "viewCount": "930",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -505,7 +504,7 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "X4R5YxBcMkJW7YQ0w5qq5lR2IVs",
+      "etag": "B4fgaCSZcatumRm4-WR7hMRiZoA",
       "id": "jRW7YQHJyLA",
       "snippet": {
         "publishedAt": "2026-11-18T00:23:21Z",
@@ -546,8 +545,7 @@
         "localized": {
           "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H45M57S",
@@ -1010,7 +1008,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
-      "views": "931",
+      "views": "930",
       "live": false,
       "wasLive": false
     },
@@ -1260,8 +1258,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-19T22:09:47.298Z",
-    "expiresAt": "2026-11-19T22:54:47.298Z",
+    "checkedAt": "2026-11-20T03:14:34.674Z",
+    "expiresAt": "2026-11-20T03:59:34.674Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1420,7 +1418,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "X4R5YxBcMkJW7YQ0w5qq5lR2IVs",
+      "etag": "B4fgaCSZcatumRm4-WR7hMRiZoA",
       "id": "jRW7YQHJyLA",
       "snippet": {
         "publishedAt": "2026-11-18T00:23:21Z",
@@ -1461,8 +1459,7 @@
         "localized": {
           "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H45M57S",
@@ -1568,7 +1565,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dw2FAQEcTxp8tlzpIApoWMW1iH0",
+      "etag": "CD8gW05pite9zDvg4lMRR5GAXwI",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -1629,7 +1626,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "931",
+        "viewCount": "930",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8148,7 +8145,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SxZ6BWyWb8vkn6176WMOBkEijX0",
+      "etag": "N245iOOVx_zuiJBgMGxXxke3wEE",
       "id": "_phZ784WEec",
       "snippet": {
         "publishedAt": "2026-07-14T09:12:59Z",
@@ -8564,21 +8561,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:47.298Z"
+      "updatedAt": "2026-11-20T03:14:34.674Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:47.298Z"
+      "updatedAt": "2026-11-20T03:14:34.674Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-19T22:09:47.298Z"
+      "updatedAt": "2026-11-20T03:14:34.674Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-19T22:09:47.298Z",
-    "evaluatedAt": "2026-11-19T22:09:48.297Z"
+    "observedAt": "2026-11-20T03:14:34.674Z",
+    "evaluatedAt": "2026-11-20T03:14:35.486Z"
   }
 }

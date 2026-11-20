@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-20T11:44:48.934Z",
+  "updatedAt": "2026-11-20T19:16:30.642Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -61,7 +61,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "qwoZXYjBufDbN8wMJooBHR4soKo",
+      "etag": "wZx_8Ki2mGHQSK_Qlshn2U1pt4w",
       "id": "Jzh2Ks24aNc",
       "snippet": {
         "publishedAt": "2026-11-20T07:28:50Z",
@@ -119,7 +119,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "9",
+        "viewCount": "10",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -274,7 +274,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DDglYO5m1V-IIR_NJVdSPCTlCWs",
+      "etag": "AWas_shJVySIWIUoe1-9XNnz0m4",
       "id": "7fypDnSjs28",
       "snippet": {
         "publishedAt": "2026-11-19T05:43:08Z",
@@ -332,7 +332,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "712",
+        "viewCount": "709",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -582,7 +582,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qwoZXYjBufDbN8wMJooBHR4soKo",
+      "etag": "wZx_8Ki2mGHQSK_Qlshn2U1pt4w",
       "id": "Jzh2Ks24aNc",
       "snippet": {
         "publishedAt": "2026-11-20T07:28:50Z",
@@ -640,7 +640,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "9",
+        "viewCount": "10",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -653,7 +653,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DDglYO5m1V-IIR_NJVdSPCTlCWs",
+      "etag": "AWas_shJVySIWIUoe1-9XNnz0m4",
       "id": "7fypDnSjs28",
       "snippet": {
         "publishedAt": "2026-11-19T05:43:08Z",
@@ -711,7 +711,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "712",
+        "viewCount": "709",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -972,7 +972,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
-      "views": "9",
+      "views": "10",
       "live": false,
       "wasLive": true
     },
@@ -1023,7 +1023,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
-      "views": "712",
+      "views": "709",
       "live": false,
       "wasLive": true
     },
@@ -1093,7 +1093,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
-      "views": "9",
+      "views": "10",
       "live": false,
       "wasLive": true
     },
@@ -1110,7 +1110,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
-      "views": "712",
+      "views": "709",
       "live": false,
       "wasLive": true
     },
@@ -1197,7 +1197,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
-      "views": "9",
+      "views": "10",
       "live": false,
       "wasLive": true
     },
@@ -1214,7 +1214,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
-      "views": "712",
+      "views": "709",
       "live": false,
       "wasLive": true
     },
@@ -1273,8 +1273,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-20T11:44:48.934Z",
-    "expiresAt": "2026-11-20T12:29:48.934Z",
+    "checkedAt": "2026-11-20T19:16:30.642Z",
+    "expiresAt": "2026-11-20T20:01:30.642Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1285,7 +1285,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "qwoZXYjBufDbN8wMJooBHR4soKo",
+      "etag": "wZx_8Ki2mGHQSK_Qlshn2U1pt4w",
       "id": "Jzh2Ks24aNc",
       "snippet": {
         "publishedAt": "2026-11-20T07:28:50Z",
@@ -1343,7 +1343,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "9",
+        "viewCount": "10",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1498,7 +1498,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DDglYO5m1V-IIR_NJVdSPCTlCWs",
+      "etag": "AWas_shJVySIWIUoe1-9XNnz0m4",
       "id": "7fypDnSjs28",
       "snippet": {
         "publishedAt": "2026-11-19T05:43:08Z",
@@ -1556,7 +1556,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "712",
+        "viewCount": "709",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2787,7 +2787,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vBJEKCpdwC6rR4KqMmax0mB04eM",
+      "etag": "j7pzFjobUQ0G_YU6_AF8d5lOops",
       "id": "NRiAKKrYjh0",
       "snippet": {
         "publishedAt": "2026-11-04T22:23:55Z",
@@ -2864,7 +2864,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "71",
+        "viewCount": "72",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7461,7 +7461,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5viMZVQlNbW6kr25-c5oSe9OFaI",
+      "etag": "nnPlX-bBbLuWJjsaV2N4Q6OQu8Y",
       "id": "t3ccZ987Oo8",
       "snippet": {
         "publishedAt": "2026-09-16T16:17:02Z",
@@ -7527,7 +7527,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "453",
+        "viewCount": "455",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7849,7 +7849,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GW9LST_mJtpsGKcwIT-WkuFZXOM",
+      "etag": "N6kQnPVOWNwnbgDb8UTDpyGflJw",
       "id": "yLPowhqtwF0",
       "snippet": {
         "publishedAt": "2026-09-08T16:54:41Z",
@@ -7916,7 +7916,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "58",
+        "viewCount": "60",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -15903,7 +15903,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Nb_ouXONX1kxXRr2ux0JkMUdlIY",
+      "etag": "OsMo6K2gCOxrbzdjSSg_t1AL7Oo",
       "id": "WrPDdHEnXLg",
       "snippet": {
         "publishedAt": "2026-03-12T05:02:07Z",
@@ -15988,7 +15988,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1470",
+        "viewCount": "1474",
         "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -39486,21 +39486,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T11:44:48.934Z"
+      "updatedAt": "2026-11-20T19:16:30.642Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T11:44:48.934Z"
+      "updatedAt": "2026-11-20T19:16:30.642Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T11:44:48.934Z"
+      "updatedAt": "2026-11-20T19:16:30.642Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-20T11:44:48.934Z",
-    "evaluatedAt": "2026-11-20T11:44:52.273Z"
+    "observedAt": "2026-11-20T19:16:30.642Z",
+    "evaluatedAt": "2026-11-20T19:16:34.966Z"
   }
 }

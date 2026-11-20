@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-20T03:14:27.240Z",
+  "updatedAt": "2026-11-20T11:44:46.311Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "hHfYIrs5KCiy41ZX9tuh4pOVUZw",
+    "etag": "SKK5XZ-e_JNe8qFyH5edp59v_7I",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -42,10 +42,10 @@
       }
     },
     "statistics": {
-      "viewCount": "1213576",
+      "viewCount": "1214504",
       "subscriberCount": "733",
       "hiddenSubscriberCount": false,
-      "videoCount": "3035"
+      "videoCount": "3038"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,217 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "Ew2zH2EFWCGj94RYCgWN1LkXIGk",
+      "etag": "N_CazCv9qqvhsNJAExUJxRhmn9A",
+      "id": "3hftChStS6w",
+      "snippet": {
+        "publishedAt": "2026-11-20T11:14:49Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHY DO I KEEP GETTING INJURED!?! | (FC27 PLAYER CAREER EPISODE 8)",
+        "description": "What's good everyone, it's your boy thedocrot, and WHY DO I KEEP GETTING INJURED!?!\n\nI actually don't understand it!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WHY DO I KEEP GETTING INJURED!?! | (FC27 PLAYER CAREER EPISODE 8)",
+          "description": "What's good everyone, it's your boy thedocrot, and WHY DO I KEEP GETTING INJURED!?!\n\nI actually don't understand it!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "o8dQBfwb3GEpeMKD3fdCNeS9nuA",
+      "id": "wWzn4Jk2iKg",
+      "snippet": {
+        "publishedAt": "2026-11-20T10:17:59Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "THAT WAS A LOCK IN MOMENT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+        "description": "And it was needed!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THAT WAS A LOCK IN MOMENT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+          "description": "And it was needed!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UUbiSQ8oarFtgDJuPhbi2v178Fo",
+      "id": "tUWe9lWSARQ",
+      "snippet": {
+        "publishedAt": "2026-11-20T10:14:49Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "THE ZOMBIE SCARED ME!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+        "description": "They were just chilling there!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THE ZOMBIE SCARED ME!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+          "description": "They were just chilling there!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "24",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ChZuso67Mcp4T9Cyqyq2lnnUloc",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -137,8 +347,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
-        "likeCount": "4",
+        "viewCount": "38",
+        "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
       },
@@ -151,7 +361,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LfT0qHub_qxWJwKBSfyhNMQpQqs",
+      "etag": "nJoZRK-MUGmruEzBY-qV-N9X2kA",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -213,7 +423,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "18",
+        "viewCount": "22",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -221,7 +431,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "g74QL3C3O6MzFCd3eUeKZUUO1RY",
+      "etag": "iQcwVHJhurVu73t_exUQoaDkX_Q",
       "id": "YZOQWsawfrw",
       "snippet": {
         "publishedAt": "2026-11-19T10:08:50Z",
@@ -283,7 +493,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "73",
+        "viewCount": "84",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -291,7 +501,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "anlTN_GzBvlk7TKCJ57h7muNIRw",
+      "etag": "ZbN6-wTkQJCihBzWiPTl2EPYpI4",
       "id": "-MKoAGVpILc",
       "snippet": {
         "publishedAt": "2026-11-19T10:06:03Z",
@@ -353,7 +563,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "185",
+        "viewCount": "214",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -361,7 +571,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KaEX0y7beI6mSxX7zje182TcHhM",
+      "etag": "SIvDlMW3ZKFkh0CkXGZOHQ0_enQ",
       "id": "2LkM5ExOr18",
       "snippet": {
         "publishedAt": "2026-11-18T22:53:53Z",
@@ -437,7 +647,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "75",
+        "viewCount": "76",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -521,7 +731,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8M_ZOil0h3avQfklKQFGi1fzLY0",
+      "etag": "ztpWiySldTv9j8_1JI1nnGnNogs",
       "id": "mwnD-4PlF1o",
       "snippet": {
         "publishedAt": "2026-11-18T10:13:18Z",
@@ -583,7 +793,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "277",
+        "viewCount": "286",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -591,7 +801,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "c86i7hoGJLSs1lGKHJCOr7iz4Fg",
+      "etag": "wrPxGTcTQrjqtWegiVFUU83bvtA",
       "id": "1dvi9ql_Ndo",
       "snippet": {
         "publishedAt": "2026-11-18T10:10:22Z",
@@ -653,8 +863,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "616",
-        "likeCount": "7",
+        "viewCount": "814",
+        "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -890,7 +1100,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MOFNQT08u-PSCSk-w7iliH-M9dA",
+      "etag": "L23vl4AETP93PHiFC8bEC3Fj5tg",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -965,7 +1175,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "103",
+        "viewCount": "105",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -979,7 +1189,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4c8qcZ9Bdre23_Lxy_ZJx4qMgj8",
+      "etag": "oXDByNV_cdltWi2ltdyKhy4jJdY",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -1055,7 +1265,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "102",
+        "viewCount": "103",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1752,7 +1962,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jku8BK-nnB5_BROaiVEtOpbmQkw",
+      "etag": "p3JX4Cv21sknjDEuSNL5Ae4Hcoc",
       "id": "5KooI0w2I70",
       "snippet": {
         "publishedAt": "2026-11-14T00:07:06Z",
@@ -1828,7 +2038,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "60",
+        "viewCount": "61",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1842,7 +2052,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "r1LgXy3xsH7rjVJRzWkBY1K4GG0",
+      "etag": "2VbEH2FEP96N1Nm5rSYIPCf6wRs",
       "id": "eXCJqh1EggI",
       "snippet": {
         "publishedAt": "2026-11-13T10:13:33Z",
@@ -1883,8 +2093,7 @@
         "localized": {
           "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
           "description": "I was and still am fuming!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT32S",
@@ -2734,7 +2943,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Ou-d-WJ2A1q1i57YDxeWfoXU6i8",
+      "etag": "n7YVe_LS4-1GUztBOFQL1ZwaJJM",
       "id": "u6cOFmZ6PD8",
       "snippet": {
         "publishedAt": "2026-11-10T10:05:57Z",
@@ -2775,8 +2984,7 @@
         "localized": {
           "title": "IT WAS NOT IN OUR WAY!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #reel",
           "description": "I could smell it!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT21S",
@@ -4376,239 +4584,12 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "eqiJR35RiLMq4giBNv234OajZDo",
-      "id": "o4bgooy4cns",
-      "snippet": {
-        "publishedAt": "2026-11-04T10:01:42Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "MY FIRST LIGHTS OUT CHASE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
-        "description": "It was something...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/o4bgooy4cns/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/o4bgooy4cns/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/o4bgooy4cns/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/o4bgooy4cns/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/o4bgooy4cns/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "MY FIRST LIGHTS OUT CHASE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
-          "description": "It was something..."
-        }
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "80",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jZsoVP2TBU2M_r690QQd37lJ3Xw",
-      "id": "Sw7yP8zi3NA",
-      "snippet": {
-        "publishedAt": "2026-11-04T01:21:50Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "TIME TO CHILL ON WWE 2K26!?! | WWE 2K26",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Sw7yP8zi3NA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Sw7yP8zi3NA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Sw7yP8zi3NA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Sw7yP8zi3NA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Sw7yP8zi3NA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#PS5Live",
-          "#WRESTLING",
-          "#WWE",
-          "#WWE2K26",
-          "PlayStation 5",
-          "Sony Interactive Entertainment",
-          "WWE 2K26"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "TIME TO CHILL ON WWE 2K26!?! | WWE 2K26",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT2H7M29S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "111",
-        "likeCount": "5",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-03T20:00:39Z",
-        "actualEndTime": "2026-11-03T22:08:05Z",
-        "scheduledStartTime": "2026-11-03T20:00:25Z",
-        "scheduledEndTime": "2026-11-03T22:22:32Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "vacuseg5Ru-Ni8OdyTvpi8sZTEo",
-      "id": "ltpSdp8LRQk",
-      "snippet": {
-        "publishedAt": "2026-11-03T09:50:26Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "IT STOPPED MY RUN!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-        "description": "But why?",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ltpSdp8LRQk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ltpSdp8LRQk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ltpSdp8LRQk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ltpSdp8LRQk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ltpSdp8LRQk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "IT STOPPED MY RUN!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-          "description": "But why?"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT14S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "1087",
-        "likeCount": "6",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "Ew2zH2EFWCGj94RYCgWN1LkXIGk",
+      "etag": "ChZuso67Mcp4T9Cyqyq2lnnUloc",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -4684,8 +4665,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
-        "likeCount": "4",
+        "viewCount": "38",
+        "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
       },
@@ -4698,7 +4679,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KaEX0y7beI6mSxX7zje182TcHhM",
+      "etag": "SIvDlMW3ZKFkh0CkXGZOHQ0_enQ",
       "id": "2LkM5ExOr18",
       "snippet": {
         "publishedAt": "2026-11-18T22:53:53Z",
@@ -4774,7 +4755,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "75",
+        "viewCount": "76",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4877,7 +4858,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MOFNQT08u-PSCSk-w7iliH-M9dA",
+      "etag": "L23vl4AETP93PHiFC8bEC3Fj5tg",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -4952,7 +4933,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "103",
+        "viewCount": "105",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4966,7 +4947,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4c8qcZ9Bdre23_Lxy_ZJx4qMgj8",
+      "etag": "oXDByNV_cdltWi2ltdyKhy4jJdY",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -5042,7 +5023,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "102",
+        "viewCount": "103",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5149,6 +5130,57 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "3hftChStS6w",
+      "title": "WHY DO I KEEP GETTING INJURED!?! | (FC27 PLAYER CAREER EPISODE 8)",
+      "label": "YouTube",
+      "publishedAt": "2026-11-20T11:14:49Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT21M30S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/3hftChStS6w/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3hftChStS6w",
+      "views": "1",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "wWzn4Jk2iKg",
+      "title": "THAT WAS A LOCK IN MOMENT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+      "label": "YouTube",
+      "publishedAt": "2026-11-20T10:17:59Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT29S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/wWzn4Jk2iKg/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wWzn4Jk2iKg",
+      "views": "2",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "tUWe9lWSARQ",
+      "title": "THE ZOMBIE SCARED ME!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+      "label": "YouTube",
+      "publishedAt": "2026-11-20T10:14:49Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT21S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/tUWe9lWSARQ/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tUWe9lWSARQ",
+      "views": "24",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "OIOwZ3X2hkc",
       "title": "ADEPTING IS PRETTY FUN!?! | Dead By Daylight",
       "label": "YouTube",
@@ -5161,7 +5193,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "36",
+      "views": "38",
       "live": false,
       "wasLive": true
     },
@@ -5178,7 +5210,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/niX2Ed_LY5Q/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=niX2Ed_LY5Q",
-      "views": "18",
+      "views": "22",
       "live": false,
       "wasLive": false
     },
@@ -5195,7 +5227,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/YZOQWsawfrw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=YZOQWsawfrw",
-      "views": "73",
+      "views": "84",
       "live": false,
       "wasLive": false
     },
@@ -5212,7 +5244,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/-MKoAGVpILc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=-MKoAGVpILc",
-      "views": "185",
+      "views": "214",
       "live": false,
       "wasLive": false
     },
@@ -5229,7 +5261,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "75",
+      "views": "76",
       "live": false,
       "wasLive": true
     },
@@ -5263,7 +5295,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/mwnD-4PlF1o/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mwnD-4PlF1o",
-      "views": "277",
+      "views": "286",
       "live": false,
       "wasLive": false
     },
@@ -5280,7 +5312,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/1dvi9ql_Ndo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1dvi9ql_Ndo",
-      "views": "616",
+      "views": "814",
       "live": false,
       "wasLive": false
     },
@@ -5348,7 +5380,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "103",
+      "views": "105",
       "live": false,
       "wasLive": true
     },
@@ -5365,7 +5397,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "102",
+      "views": "103",
       "live": false,
       "wasLive": true
     },
@@ -5535,7 +5567,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/5KooI0w2I70/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=5KooI0w2I70",
-      "views": "60",
+      "views": "61",
       "live": false,
       "wasLive": true
     },
@@ -6116,57 +6148,6 @@
       "views": "1036",
       "live": false,
       "wasLive": false
-    },
-    {
-      "id": "o4bgooy4cns",
-      "title": "MY FIRST LIGHTS OUT CHASE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
-      "label": "YouTube",
-      "publishedAt": "2026-11-04T10:01:42Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT40S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/o4bgooy4cns/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=o4bgooy4cns",
-      "views": "80",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "Sw7yP8zi3NA",
-      "title": "TIME TO CHILL ON WWE 2K26!?! | WWE 2K26",
-      "label": "YouTube",
-      "publishedAt": "2026-11-04T01:21:50Z",
-      "startedAt": "2026-11-03T20:00:39Z",
-      "endedAt": "2026-11-03T22:08:05Z",
-      "scheduledAt": "2026-11-03T20:00:25Z",
-      "duration": "PT2H7M29S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/Sw7yP8zi3NA/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Sw7yP8zi3NA",
-      "views": "111",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "ltpSdp8LRQk",
-      "title": "IT STOPPED MY RUN!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
-      "label": "YouTube",
-      "publishedAt": "2026-11-03T09:50:26Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT14S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/ltpSdp8LRQk/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ltpSdp8LRQk",
-      "views": "1087",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
@@ -6183,7 +6164,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "36",
+      "views": "38",
       "live": false,
       "wasLive": true
     },
@@ -6200,7 +6181,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "75",
+      "views": "76",
       "live": false,
       "wasLive": true
     },
@@ -6234,7 +6215,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "103",
+      "views": "105",
       "live": false,
       "wasLive": true
     },
@@ -6251,7 +6232,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "102",
+      "views": "103",
       "live": false,
       "wasLive": true
     },
@@ -6287,7 +6268,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "36",
+      "views": "38",
       "live": false,
       "wasLive": true
     },
@@ -6304,7 +6285,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "75",
+      "views": "76",
       "live": false,
       "wasLive": true
     },
@@ -6338,7 +6319,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "103",
+      "views": "105",
       "live": false,
       "wasLive": true
     },
@@ -6355,7 +6336,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "102",
+      "views": "103",
       "live": false,
       "wasLive": true
     },
@@ -6380,8 +6361,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-20T03:14:27.240Z",
-    "expiresAt": "2026-11-20T03:59:27.240Z",
+    "checkedAt": "2026-11-20T11:44:46.311Z",
+    "expiresAt": "2026-11-20T12:29:46.311Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6392,7 +6373,217 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "Ew2zH2EFWCGj94RYCgWN1LkXIGk",
+      "etag": "N_CazCv9qqvhsNJAExUJxRhmn9A",
+      "id": "3hftChStS6w",
+      "snippet": {
+        "publishedAt": "2026-11-20T11:14:49Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHY DO I KEEP GETTING INJURED!?! | (FC27 PLAYER CAREER EPISODE 8)",
+        "description": "What's good everyone, it's your boy thedocrot, and WHY DO I KEEP GETTING INJURED!?!\n\nI actually don't understand it!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3hftChStS6w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WHY DO I KEEP GETTING INJURED!?! | (FC27 PLAYER CAREER EPISODE 8)",
+          "description": "What's good everyone, it's your boy thedocrot, and WHY DO I KEEP GETTING INJURED!?!\n\nI actually don't understand it!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "o8dQBfwb3GEpeMKD3fdCNeS9nuA",
+      "id": "wWzn4Jk2iKg",
+      "snippet": {
+        "publishedAt": "2026-11-20T10:17:59Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "THAT WAS A LOCK IN MOMENT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+        "description": "And it was needed!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wWzn4Jk2iKg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THAT WAS A LOCK IN MOMENT!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+          "description": "And it was needed!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UUbiSQ8oarFtgDJuPhbi2v178Fo",
+      "id": "tUWe9lWSARQ",
+      "snippet": {
+        "publishedAt": "2026-11-20T10:14:49Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "THE ZOMBIE SCARED ME!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+        "description": "They were just chilling there!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tUWe9lWSARQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THE ZOMBIE SCARED ME!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short",
+          "description": "They were just chilling there!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "24",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ChZuso67Mcp4T9Cyqyq2lnnUloc",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -6468,8 +6659,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
-        "likeCount": "4",
+        "viewCount": "38",
+        "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
       },
@@ -6482,7 +6673,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LfT0qHub_qxWJwKBSfyhNMQpQqs",
+      "etag": "nJoZRK-MUGmruEzBY-qV-N9X2kA",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -6544,7 +6735,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "18",
+        "viewCount": "22",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -6552,7 +6743,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "g74QL3C3O6MzFCd3eUeKZUUO1RY",
+      "etag": "iQcwVHJhurVu73t_exUQoaDkX_Q",
       "id": "YZOQWsawfrw",
       "snippet": {
         "publishedAt": "2026-11-19T10:08:50Z",
@@ -6614,7 +6805,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "73",
+        "viewCount": "84",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6622,7 +6813,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "anlTN_GzBvlk7TKCJ57h7muNIRw",
+      "etag": "ZbN6-wTkQJCihBzWiPTl2EPYpI4",
       "id": "-MKoAGVpILc",
       "snippet": {
         "publishedAt": "2026-11-19T10:06:03Z",
@@ -6684,7 +6875,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "185",
+        "viewCount": "214",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -6692,7 +6883,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KaEX0y7beI6mSxX7zje182TcHhM",
+      "etag": "SIvDlMW3ZKFkh0CkXGZOHQ0_enQ",
       "id": "2LkM5ExOr18",
       "snippet": {
         "publishedAt": "2026-11-18T22:53:53Z",
@@ -6768,7 +6959,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "75",
+        "viewCount": "76",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6852,7 +7043,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8M_ZOil0h3avQfklKQFGi1fzLY0",
+      "etag": "ztpWiySldTv9j8_1JI1nnGnNogs",
       "id": "mwnD-4PlF1o",
       "snippet": {
         "publishedAt": "2026-11-18T10:13:18Z",
@@ -6914,7 +7105,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "277",
+        "viewCount": "286",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6922,7 +7113,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "c86i7hoGJLSs1lGKHJCOr7iz4Fg",
+      "etag": "wrPxGTcTQrjqtWegiVFUU83bvtA",
       "id": "1dvi9ql_Ndo",
       "snippet": {
         "publishedAt": "2026-11-18T10:10:22Z",
@@ -6984,8 +7175,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "616",
-        "likeCount": "7",
+        "viewCount": "814",
+        "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -7221,7 +7412,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MOFNQT08u-PSCSk-w7iliH-M9dA",
+      "etag": "L23vl4AETP93PHiFC8bEC3Fj5tg",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -7296,7 +7487,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "103",
+        "viewCount": "105",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7310,7 +7501,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4c8qcZ9Bdre23_Lxy_ZJx4qMgj8",
+      "etag": "oXDByNV_cdltWi2ltdyKhy4jJdY",
       "id": "S4e6-yav3Y4",
       "snippet": {
         "publishedAt": "2026-11-16T20:33:38Z",
@@ -7386,7 +7577,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "102",
+        "viewCount": "103",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8083,7 +8274,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jku8BK-nnB5_BROaiVEtOpbmQkw",
+      "etag": "p3JX4Cv21sknjDEuSNL5Ae4Hcoc",
       "id": "5KooI0w2I70",
       "snippet": {
         "publishedAt": "2026-11-14T00:07:06Z",
@@ -8159,7 +8350,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "60",
+        "viewCount": "61",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8173,7 +8364,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "r1LgXy3xsH7rjVJRzWkBY1K4GG0",
+      "etag": "2VbEH2FEP96N1Nm5rSYIPCf6wRs",
       "id": "eXCJqh1EggI",
       "snippet": {
         "publishedAt": "2026-11-13T10:13:33Z",
@@ -8214,8 +8405,7 @@
         "localized": {
           "title": "THIS EVO LIED TO ME!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #short",
           "description": "I was and still am fuming!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT32S",
@@ -9065,7 +9255,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Ou-d-WJ2A1q1i57YDxeWfoXU6i8",
+      "etag": "n7YVe_LS4-1GUztBOFQL1ZwaJJM",
       "id": "u6cOFmZ6PD8",
       "snippet": {
         "publishedAt": "2026-11-10T10:05:57Z",
@@ -9106,8 +9296,7 @@
         "localized": {
           "title": "IT WAS NOT IN OUR WAY!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #reel",
           "description": "I could smell it!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT21S",
@@ -17538,234 +17727,6 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "4i6QoGHMwX0jSBMTRZ8k5ZXEZfw",
-      "id": "zYJpNUbsnyQ",
-      "snippet": {
-        "publishedAt": "2026-10-09T21:37:09Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "THE TOMES HAVE A TIMER!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zYJpNUbsnyQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zYJpNUbsnyQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zYJpNUbsnyQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zYJpNUbsnyQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zYJpNUbsnyQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "THE TOMES HAVE A TIMER!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT5H9M23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "298",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-09T16:14:34Z",
-        "actualEndTime": "2026-10-09T21:24:03Z",
-        "scheduledStartTime": "2026-10-09T16:14:21Z",
-        "scheduledEndTime": "2026-10-09T18:16:28Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "41DdsUo-3fExvKwhEC-s492gtbI",
-      "id": "nJN4W_vAVac",
-      "snippet": {
-        "publishedAt": "2026-10-09T10:25:22Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "OUR FIRST RIVALRY!?! | (FC27 PLAYER CAREER EPISODE 2)",
-        "description": "What's good everyone, it's your boy thedocrot, and we have OUR FIRST RIVALRY!?!\n\nCan we compete with them?\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nJN4W_vAVac/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nJN4W_vAVac/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nJN4W_vAVac/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nJN4W_vAVac/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nJN4W_vAVac/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "OUR FIRST RIVALRY!?! | (FC27 PLAYER CAREER EPISODE 2)",
-          "description": "What's good everyone, it's your boy thedocrot, and we have OUR FIRST RIVALRY!?!\n\nCan we compete with them?\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT22M13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "101",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2Fj-Ea5b6OvYINat8awI7O4YrQ4",
-      "id": "7u03jdEkrmk",
-      "snippet": {
-        "publishedAt": "2026-10-09T09:12:52Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "THAT WAS A ZESTY ROLL!?! #wwe #wwe2k26 #foryou #gaming #shorts #reels #entertainment #short #reel",
-        "description": "Ayo El Grande...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7u03jdEkrmk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7u03jdEkrmk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7u03jdEkrmk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7u03jdEkrmk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7u03jdEkrmk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "THAT WAS A ZESTY ROLL!?! #wwe #wwe2k26 #foryou #gaming #shorts #reels #entertainment #short #reel",
-          "description": "Ayo El Grande..."
-        }
-      },
-      "contentDetails": {
-        "duration": "PT23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "294",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "playlists": [],
@@ -17774,21 +17735,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T03:14:27.240Z"
+      "updatedAt": "2026-11-20T11:44:46.311Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T03:14:27.240Z"
+      "updatedAt": "2026-11-20T11:44:46.311Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T03:14:27.240Z"
+      "updatedAt": "2026-11-20T11:44:46.311Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-20T03:14:27.240Z",
-    "evaluatedAt": "2026-11-20T03:14:29.898Z"
+    "observedAt": "2026-11-20T11:44:46.311Z",
+    "evaluatedAt": "2026-11-20T11:44:48.922Z"
   }
 }

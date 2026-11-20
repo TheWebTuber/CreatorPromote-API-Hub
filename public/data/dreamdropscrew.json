@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-20T03:14:29.911Z",
+  "updatedAt": "2026-11-20T11:44:48.934Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "LKdRIAhDRB9RqeuUIdiD-Yxu7Jg",
+    "etag": "I7oxFloiSeVDR0y2xyaB4I6qkQ4",
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
     "snippet": {
       "title": "Dream Drops Crew",
@@ -42,10 +42,10 @@
       }
     },
     "statistics": {
-      "viewCount": "99319",
+      "viewCount": "100085",
       "subscriberCount": "506",
       "hiddenSubscriberCount": false,
-      "videoCount": "873"
+      "videoCount": "875"
     },
     "brandingSettings": {
       "channel": {
@@ -61,98 +61,26 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "t4n62t9OgGWRx_iuAedQ0eb_3tY",
-      "id": "2qhuEEZcXMA",
-      "snippet": {
-        "publishedAt": "2026-11-20T02:17:34Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/default.jpg?v=6affadbf",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg?v=6affadbf",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/hqdefault.jpg?v=6affadbf",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gambling",
-          "with friends",
-          "indie",
-          "games"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "live",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
-          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "P0D",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "526",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-20T02:17:49Z",
-        "scheduledStartTime": "2026-11-20T02:17:34Z",
-        "concurrentViewers": "3",
-        "activeLiveChatId": "Cg0KCzJxaHVFRVpjWE1BKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILMnFodUVFWmNYTUE"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "aBy3iDKHGhfJOAmzl3a98KI1EJo",
+      "etag": "qwoZXYjBufDbN8wMJooBHR4soKo",
       "id": "Jzh2Ks24aNc",
       "snippet": {
-        "publishedAt": "2026-11-20T02:17:23Z",
+        "publishedAt": "2026-11-20T07:28:50Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Gambling our souls to the slots Gods while gambling with your friends",
         "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/default.jpg?v=6affadb4",
+            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg?v=6affadb4",
+            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/hqdefault.jpg?v=6affadb4",
+            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
@@ -165,7 +93,7 @@
           "game"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-US",
         "localized": {
           "title": "Gambling our souls to the slots Gods while gambling with your friends",
@@ -174,16 +102,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT2H50M4S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -191,21 +119,91 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "2",
-        "likeCount": "0",
+        "viewCount": "9",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-20T02:17:48Z",
-        "scheduledStartTime": "2026-11-20T02:17:23Z",
-        "concurrentViewers": "1",
-        "activeLiveChatId": "Cg0KC0p6aDJLczI0YU5jKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILSnpoMktzMjRhTmM"
+        "actualEndTime": "2026-11-20T05:07:48Z",
+        "scheduledStartTime": "2026-11-20T02:17:23Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NKsge43PdDiMjASmCWaecJr2-8M",
+      "etag": "AyvSR4LV_StojW5HBTzIZc1wUs0",
+      "id": "2qhuEEZcXMA",
+      "snippet": {
+        "publishedAt": "2026-11-20T07:04:15Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gambling",
+          "with friends",
+          "indie",
+          "games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H50M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "672",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-20T02:17:49Z",
+        "actualEndTime": "2026-11-20T05:07:49Z",
+        "scheduledStartTime": "2026-11-20T02:17:34Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Vpp6qux1fqgpBFZozJnNWH9CNhk",
       "id": "VK8om5pkadI",
       "snippet": {
         "publishedAt": "2026-11-19T05:45:16Z",
@@ -263,7 +261,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "32",
+        "viewCount": "37",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -276,7 +274,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7UY3-I3u4z0gbhkecWOCcuYQZno",
+      "etag": "DDglYO5m1V-IIR_NJVdSPCTlCWs",
       "id": "7fypDnSjs28",
       "snippet": {
         "publishedAt": "2026-11-19T05:43:08Z",
@@ -334,7 +332,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "711",
+        "viewCount": "712",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -513,7 +511,149 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "7UY3-I3u4z0gbhkecWOCcuYQZno",
+      "etag": "AyvSR4LV_StojW5HBTzIZc1wUs0",
+      "id": "2qhuEEZcXMA",
+      "snippet": {
+        "publishedAt": "2026-11-20T07:04:15Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gambling",
+          "with friends",
+          "indie",
+          "games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H50M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "672",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-20T02:17:49Z",
+        "actualEndTime": "2026-11-20T05:07:49Z",
+        "scheduledStartTime": "2026-11-20T02:17:34Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qwoZXYjBufDbN8wMJooBHR4soKo",
+      "id": "Jzh2Ks24aNc",
+      "snippet": {
+        "publishedAt": "2026-11-20T07:28:50Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Gambling our souls to the slots Gods while gambling with your friends",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "Gambling",
+          "with friends",
+          "indie",
+          "game"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Gambling our souls to the slots Gods while gambling with your friends",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H50M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-20T02:17:48Z",
+        "actualEndTime": "2026-11-20T05:07:48Z",
+        "scheduledStartTime": "2026-11-20T02:17:23Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DDglYO5m1V-IIR_NJVdSPCTlCWs",
       "id": "7fypDnSjs28",
       "snippet": {
         "publishedAt": "2026-11-19T05:43:08Z",
@@ -571,7 +711,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "711",
+        "viewCount": "712",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -584,7 +724,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NKsge43PdDiMjASmCWaecJr2-8M",
+      "etag": "Vpp6qux1fqgpBFZozJnNWH9CNhk",
       "id": "VK8om5pkadI",
       "snippet": {
         "publishedAt": "2026-11-19T05:45:16Z",
@@ -642,7 +782,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "32",
+        "viewCount": "37",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -744,7 +884,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ps68cLC8HFsw9OGGBkWdzuc9Th4",
+      "etag": "pQw8bd0i__xFJGQ6PAyuaYjAEic",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -805,7 +945,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "69",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -814,280 +954,43 @@
         "actualStartTime": "2026-11-17T02:11:51Z",
         "actualEndTime": "2026-11-17T04:38:15Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "cln9FpYJDTbujjkOLO-SxiklYrQ",
-      "id": "5qfMc-EK3p4",
-      "snippet": {
-        "publishedAt": "2026-11-13T18:31:15Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Feeling cozy in a new dress - Dressmaker",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5qfMc-EK3p4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5qfMc-EK3p4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5qfMc-EK3p4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5qfMc-EK3p4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "Dressmaker",
-          "cozy",
-          "fashion"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Feeling cozy in a new dress - Dressmaker",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H17M13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "29",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-13T02:03:52Z",
-        "actualEndTime": "2026-11-13T04:25:18Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "nxGT15mdHfGrbA7J1pj85r1lDk0",
-      "id": "7p1l4-YNuFQ",
-      "snippet": {
-        "publishedAt": "2026-11-11T18:31:34Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Money! Money!! Money!!! - Raccoin",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/7p1l4-YNuFQ/fhddefault.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "Nintendo",
-          "Switch",
-          "Raccoin"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Money! Money!! Money!!! - Raccoin",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H56M55S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "54",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-11T02:02:15Z",
-        "actualEndTime": "2026-11-11T05:02:13Z"
-      }
     }
   ],
-  "live": {
-    "kind": "youtube#video",
-    "etag": "t4n62t9OgGWRx_iuAedQ0eb_3tY",
-    "id": "2qhuEEZcXMA",
-    "snippet": {
-      "publishedAt": "2026-11-20T02:17:34Z",
-      "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-      "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
-      "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/default.jpg?v=6affadbf",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg?v=6affadbf",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/hqdefault.jpg?v=6affadbf",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Dream Drops Crew",
-      "tags": [
-        "gambling",
-        "with friends",
-        "indie",
-        "games"
-      ],
-      "categoryId": "20",
-      "liveBroadcastContent": "live",
-      "defaultLanguage": "en-US",
-      "localized": {
-        "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-      },
-      "defaultAudioLanguage": "en-US"
-    },
-    "contentDetails": {
-      "duration": "P0D",
-      "dimension": "2d",
-      "definition": "sd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "status": {
-      "uploadStatus": "uploaded",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    },
-    "statistics": {
-      "viewCount": "526",
-      "likeCount": "1",
-      "favoriteCount": "0",
-      "commentCount": "0"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2026-11-20T02:17:49Z",
-      "scheduledStartTime": "2026-11-20T02:17:34Z",
-      "concurrentViewers": "3",
-      "activeLiveChatId": "Cg0KCzJxaHVFRVpjWE1BKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILMnFodUVFWmNYTUE"
-    }
-  },
-  "liveChecked": true,
+  "live": null,
+  "liveChecked": false,
   "latestVideos": [
-    {
-      "id": "2qhuEEZcXMA",
-      "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
-      "label": "YouTube",
-      "publishedAt": "2026-11-20T02:17:34Z",
-      "startedAt": "2026-11-20T02:17:49Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-20T02:17:34Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg?v=6affadbf",
-      "url": "https://www.youtube.com/watch?v=2qhuEEZcXMA",
-      "views": "526",
-      "live": true,
-      "wasLive": true
-    },
     {
       "id": "Jzh2Ks24aNc",
       "title": "Gambling our souls to the slots Gods while gambling with your friends",
       "label": "YouTube",
-      "publishedAt": "2026-11-20T02:17:23Z",
+      "publishedAt": "2026-11-20T07:28:50Z",
       "startedAt": "2026-11-20T02:17:48Z",
-      "endedAt": null,
+      "endedAt": "2026-11-20T05:07:48Z",
       "scheduledAt": "2026-11-20T02:17:23Z",
-      "duration": "P0D",
+      "duration": "PT2H50M4S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg?v=6affadb4",
+      "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
-      "views": "2",
-      "live": true,
+      "views": "9",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "2qhuEEZcXMA",
+      "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
+      "label": "YouTube",
+      "publishedAt": "2026-11-20T07:04:15Z",
+      "startedAt": "2026-11-20T02:17:49Z",
+      "endedAt": "2026-11-20T05:07:49Z",
+      "scheduledAt": "2026-11-20T02:17:34Z",
+      "duration": "PT2H50M2S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2qhuEEZcXMA",
+      "views": "672",
+      "live": false,
       "wasLive": true
     },
     {
@@ -1103,7 +1006,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
-      "views": "32",
+      "views": "37",
       "live": false,
       "wasLive": true
     },
@@ -1120,7 +1023,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
-      "views": "711",
+      "views": "712",
       "live": false,
       "wasLive": true
     },
@@ -1164,34 +1067,34 @@
       "id": "2qhuEEZcXMA",
       "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
       "label": "Livestream",
-      "publishedAt": "2026-11-20T02:17:34Z",
+      "publishedAt": "2026-11-20T07:04:15Z",
       "startedAt": "2026-11-20T02:17:49Z",
-      "endedAt": null,
+      "endedAt": "2026-11-20T05:07:49Z",
       "scheduledAt": "2026-11-20T02:17:34Z",
-      "duration": "P0D",
+      "duration": "PT2H50M2S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg?v=6affadbf",
+      "thumbnail": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2qhuEEZcXMA",
-      "views": "526",
-      "live": true,
+      "views": "672",
+      "live": false,
       "wasLive": true
     },
     {
       "id": "Jzh2Ks24aNc",
       "title": "Gambling our souls to the slots Gods while gambling with your friends",
       "label": "Livestream",
-      "publishedAt": "2026-11-20T02:17:23Z",
+      "publishedAt": "2026-11-20T07:28:50Z",
       "startedAt": "2026-11-20T02:17:48Z",
-      "endedAt": null,
+      "endedAt": "2026-11-20T05:07:48Z",
       "scheduledAt": "2026-11-20T02:17:23Z",
-      "duration": "P0D",
+      "duration": "PT2H50M4S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg?v=6affadb4",
+      "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
-      "views": "2",
-      "live": true,
+      "views": "9",
+      "live": false,
       "wasLive": true
     },
     {
@@ -1207,7 +1110,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
-      "views": "711",
+      "views": "712",
       "live": false,
       "wasLive": true
     },
@@ -1224,7 +1127,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
-      "views": "32",
+      "views": "37",
       "live": false,
       "wasLive": true
     },
@@ -1258,13 +1161,47 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "67",
+      "views": "69",
       "live": false,
       "wasLive": true
     }
   ],
   "latestReplays": [
     {
+      "id": "2qhuEEZcXMA",
+      "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
+      "label": "Replay",
+      "publishedAt": "2026-11-20T07:04:15Z",
+      "startedAt": "2026-11-20T02:17:49Z",
+      "endedAt": "2026-11-20T05:07:49Z",
+      "scheduledAt": "2026-11-20T02:17:34Z",
+      "duration": "PT2H50M2S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2qhuEEZcXMA",
+      "views": "672",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "Jzh2Ks24aNc",
+      "title": "Gambling our souls to the slots Gods while gambling with your friends",
+      "label": "Replay",
+      "publishedAt": "2026-11-20T07:28:50Z",
+      "startedAt": "2026-11-20T02:17:48Z",
+      "endedAt": "2026-11-20T05:07:48Z",
+      "scheduledAt": "2026-11-20T02:17:23Z",
+      "duration": "PT2H50M4S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
+      "views": "9",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "7fypDnSjs28",
       "title": "Making up for lost time on Dressmaker with JD (Portrait)",
       "label": "Replay",
@@ -1277,7 +1214,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/7fypDnSjs28/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7fypDnSjs28",
-      "views": "711",
+      "views": "712",
       "live": false,
       "wasLive": true
     },
@@ -1294,7 +1231,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
-      "views": "32",
+      "views": "37",
       "live": false,
       "wasLive": true
     },
@@ -1328,66 +1265,16 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qJvKHIvR29U/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qJvKHIvR29U",
-      "views": "67",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "5qfMc-EK3p4",
-      "title": "Feeling cozy in a new dress - Dressmaker",
-      "label": "Replay",
-      "publishedAt": "2026-11-13T18:31:15Z",
-      "startedAt": "2026-11-13T02:03:52Z",
-      "endedAt": "2026-11-13T04:25:18Z",
-      "scheduledAt": null,
-      "duration": "PT2H17M13S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/5qfMc-EK3p4/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5qfMc-EK3p4",
-      "views": "29",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "7p1l4-YNuFQ",
-      "title": "Money! Money!! Money!!! - Raccoin",
-      "label": "Replay",
-      "publishedAt": "2026-11-11T18:31:34Z",
-      "startedAt": "2026-11-11T02:02:15Z",
-      "endedAt": "2026-11-11T05:02:13Z",
-      "scheduledAt": null,
-      "duration": "PT2H56M55S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/7p1l4-YNuFQ/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7p1l4-YNuFQ",
-      "views": "54",
+      "views": "69",
       "live": false,
       "wasLive": true
     }
   ],
   "liveStatus": {
-    "status": "live",
-    "video": {
-      "id": "2qhuEEZcXMA",
-      "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
-      "label": "Live now",
-      "publishedAt": "2026-11-20T02:17:34Z",
-      "startedAt": "2026-11-20T02:17:49Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-20T02:17:34Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg?v=6affadbf",
-      "url": "https://www.youtube.com/watch?v=2qhuEEZcXMA",
-      "views": "526",
-      "live": true,
-      "wasLive": true
-    },
-    "checkedAt": "2026-11-20T03:14:29.911Z",
-    "expiresAt": "2026-11-20T03:59:29.911Z",
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-20T11:44:48.934Z",
+    "expiresAt": "2026-11-20T12:29:48.934Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1398,98 +1285,26 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "t4n62t9OgGWRx_iuAedQ0eb_3tY",
-      "id": "2qhuEEZcXMA",
-      "snippet": {
-        "publishedAt": "2026-11-20T02:17:34Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/default.jpg?v=6affadbf",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg?v=6affadbf",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/hqdefault.jpg?v=6affadbf",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gambling",
-          "with friends",
-          "indie",
-          "games"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "live",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
-          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "P0D",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "526",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-20T02:17:49Z",
-        "scheduledStartTime": "2026-11-20T02:17:34Z",
-        "concurrentViewers": "3",
-        "activeLiveChatId": "Cg0KCzJxaHVFRVpjWE1BKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILMnFodUVFWmNYTUE"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "aBy3iDKHGhfJOAmzl3a98KI1EJo",
+      "etag": "qwoZXYjBufDbN8wMJooBHR4soKo",
       "id": "Jzh2Ks24aNc",
       "snippet": {
-        "publishedAt": "2026-11-20T02:17:23Z",
+        "publishedAt": "2026-11-20T07:28:50Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Gambling our souls to the slots Gods while gambling with your friends",
         "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/default.jpg?v=6affadb4",
+            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg?v=6affadb4",
+            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/hqdefault.jpg?v=6affadb4",
+            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
@@ -1502,7 +1317,7 @@
           "game"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-US",
         "localized": {
           "title": "Gambling our souls to the slots Gods while gambling with your friends",
@@ -1511,16 +1326,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT2H50M4S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -1528,21 +1343,91 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "2",
-        "likeCount": "0",
+        "viewCount": "9",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-20T02:17:48Z",
-        "scheduledStartTime": "2026-11-20T02:17:23Z",
-        "concurrentViewers": "1",
-        "activeLiveChatId": "Cg0KC0p6aDJLczI0YU5jKicKGFVDdUs2dUpYZ0dsSmQ0VExOalR3dGx1QRILSnpoMktzMjRhTmM"
+        "actualEndTime": "2026-11-20T05:07:48Z",
+        "scheduledStartTime": "2026-11-20T02:17:23Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NKsge43PdDiMjASmCWaecJr2-8M",
+      "etag": "AyvSR4LV_StojW5HBTzIZc1wUs0",
+      "id": "2qhuEEZcXMA",
+      "snippet": {
+        "publishedAt": "2026-11-20T07:04:15Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2qhuEEZcXMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gambling",
+          "with friends",
+          "indie",
+          "games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Gambling our souls to the slots Gods while gambling with your friends (Portrait)",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H50M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "672",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-20T02:17:49Z",
+        "actualEndTime": "2026-11-20T05:07:49Z",
+        "scheduledStartTime": "2026-11-20T02:17:34Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Vpp6qux1fqgpBFZozJnNWH9CNhk",
       "id": "VK8om5pkadI",
       "snippet": {
         "publishedAt": "2026-11-19T05:45:16Z",
@@ -1600,7 +1485,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "32",
+        "viewCount": "37",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1613,7 +1498,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7UY3-I3u4z0gbhkecWOCcuYQZno",
+      "etag": "DDglYO5m1V-IIR_NJVdSPCTlCWs",
       "id": "7fypDnSjs28",
       "snippet": {
         "publishedAt": "2026-11-19T05:43:08Z",
@@ -1671,7 +1556,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "711",
+        "viewCount": "712",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1936,7 +1821,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ps68cLC8HFsw9OGGBkWdzuc9Th4",
+      "etag": "pQw8bd0i__xFJGQ6PAyuaYjAEic",
       "id": "qJvKHIvR29U",
       "snippet": {
         "publishedAt": "2026-11-17T19:01:48Z",
@@ -1997,7 +1882,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "69",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2162,7 +2047,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nxGT15mdHfGrbA7J1pj85r1lDk0",
+      "etag": "RNzH0PFquZaIgKcH8wxCXoqsMK4",
       "id": "7p1l4-YNuFQ",
       "snippet": {
         "publishedAt": "2026-11-11T18:31:34Z",
@@ -2238,7 +2123,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "54",
+        "viewCount": "56",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3140,7 +3025,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "90BM-_FzyJqYiLRyQv4xxYFIt4w",
+      "etag": "n8uEtXgv4yzcVyj0SGGe1aTvSi4",
       "id": "xz-754QxOC4",
       "snippet": {
         "publishedAt": "2026-10-31T05:06:47Z",
@@ -3204,7 +3089,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "58",
+        "viewCount": "59",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3442,7 +3327,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4fzdbBQPzANrkb345vxFNftSi4E",
+      "etag": "rxVq4uqpQCwUDIF61OzM1-RvVrk",
       "id": "1XK8fCjpYyg",
       "snippet": {
         "publishedAt": "2026-10-29T05:15:59Z",
@@ -3506,7 +3391,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "480",
+        "viewCount": "484",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -16018,7 +15903,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Yry0jWus2zHinetHF2oiSNYB280",
+      "etag": "Nb_ouXONX1kxXRr2ux0JkMUdlIY",
       "id": "WrPDdHEnXLg",
       "snippet": {
         "publishedAt": "2026-03-12T05:02:07Z",
@@ -16103,7 +15988,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1468",
+        "viewCount": "1470",
         "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -26150,7 +26035,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "C5yfaI2UM33LCN_8CyZg19wScTc",
+      "etag": "G_6-8jjkuMIC-ozRqVfVieCuB3o",
       "id": "AuUt55Om6Ls",
       "snippet": {
         "publishedAt": "2025-08-10T08:09:52Z",
@@ -26211,7 +26096,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1185",
+        "viewCount": "1186",
         "likeCount": "17",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -39601,21 +39486,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T03:14:29.911Z"
+      "updatedAt": "2026-11-20T11:44:48.934Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T03:14:29.911Z"
+      "updatedAt": "2026-11-20T11:44:48.934Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T03:14:29.911Z"
+      "updatedAt": "2026-11-20T11:44:48.934Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-20T03:14:29.911Z",
-    "evaluatedAt": "2026-11-20T03:14:33.224Z"
+    "observedAt": "2026-11-20T11:44:48.934Z",
+    "evaluatedAt": "2026-11-20T11:44:52.273Z"
   }
 }

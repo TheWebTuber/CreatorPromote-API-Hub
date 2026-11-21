@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-21T16:13:40.181Z",
+  "updatedAt": "2026-11-21T21:40:13.266Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -429,7 +429,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GIG4789uHQquzg3sNuuwXbmZ7Ew",
+      "etag": "e6p07C4IcIJzwKxH0D40apgl88U",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -475,8 +475,7 @@
         "localized": {
           "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT21S",
@@ -1260,8 +1259,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T16:13:40.181Z",
-    "expiresAt": "2026-11-21T16:58:40.181Z",
+    "checkedAt": "2026-11-21T21:40:13.266Z",
+    "expiresAt": "2026-11-21T22:25:13.266Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1709,7 +1708,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GIG4789uHQquzg3sNuuwXbmZ7Ew",
+      "etag": "e6p07C4IcIJzwKxH0D40apgl88U",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -1755,8 +1754,7 @@
         "localized": {
           "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT21S",
@@ -6703,7 +6701,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zXKnCM1Rsx1xoL91zdVWP0dvSeM",
+      "etag": "7M-CP7S6cf5rErXrb0g1mMJpIYA",
       "id": "T-vAoLf0btY",
       "snippet": {
         "publishedAt": "2026-08-17T14:13:07Z",
@@ -8569,21 +8567,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:40.181Z"
+      "updatedAt": "2026-11-21T21:40:13.266Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:40.181Z"
+      "updatedAt": "2026-11-21T21:40:13.266Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:40.181Z"
+      "updatedAt": "2026-11-21T21:40:13.266Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T16:13:40.181Z",
-    "evaluatedAt": "2026-11-21T16:13:41.315Z"
+    "observedAt": "2026-11-21T21:40:13.266Z",
+    "evaluatedAt": "2026-11-21T21:40:13.908Z"
   }
 }

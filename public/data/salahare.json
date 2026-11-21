@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-21T16:13:46.200Z",
+  "updatedAt": "2026-11-21T21:40:17.947Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T16:13:46.200Z",
-    "expiresAt": "2026-11-21T16:58:46.200Z",
+    "checkedAt": "2026-11-21T21:40:17.947Z",
+    "expiresAt": "2026-11-21T22:25:17.947Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -2434,7 +2434,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "szCueQ9IhH1kMyM15o7zgBKAppk",
+      "etag": "WhbRn6nPKkcX3Y2jIPHONI2XYUs",
       "id": "4kzCXePReWc",
       "snippet": {
         "publishedAt": "2024-11-29T05:47:25Z",
@@ -2711,7 +2711,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mZYht3PD8f2ttE8xwskMNytjjRg",
+      "etag": "HDY8VY9lKOYGDcsALwQHDJm4GuU",
       "id": "HFrjDRnNLKM",
       "snippet": {
         "publishedAt": "2024-06-30T05:57:46Z",
@@ -3290,7 +3290,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "99XkYNtRFQu0YAh6mrzkzbIOHcE",
+      "etag": "NAiDhizh6WKKfYwf34LiHKyhfZU",
       "id": "CwRablUOlnA",
       "snippet": {
         "publishedAt": "2024-02-09T06:13:16Z",
@@ -4224,7 +4224,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "K3mQFNUSJG0n26Y_-VcOtXkU0Hc",
+      "etag": "Esc_cv1Ur0ommV5n3MjWUPwroNs",
       "id": "NvSB9GASv0U",
       "snippet": {
         "publishedAt": "2024-01-07T02:36:18Z",
@@ -4610,7 +4610,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gN4I7ojXJn2ihrocZ_975JRo7i0",
+      "etag": "_JT9BQUYCStC9ft6Wu_WesQdpuc",
       "id": "HVREU5cg8aQ",
       "snippet": {
         "publishedAt": "2018-10-03T14:38:17Z",
@@ -5016,7 +5016,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1s6XisJqOWvjjNNCldYaLKdxjtc",
+      "etag": "eLzraLgCMfqFyH-cXA9BRaRDvgw",
       "id": "D0re9cyjp_w",
       "snippet": {
         "publishedAt": "2016-02-26T22:00:57Z",
@@ -6132,7 +6132,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Zpb2u1fJB0rRwe1dwQumoY0SQ1w",
+      "etag": "dTGBwDAgm89cvi-oT5mE3e8sOp0",
       "id": "7m9rKVrw7CI",
       "snippet": {
         "publishedAt": "2011-01-25T05:47:57Z",
@@ -6205,7 +6205,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_Ni7d4cagSy8c-iFY72mdkTpWuY",
+      "etag": "UDgAOgjPazTJyvzp9JXCZj4XihY",
       "id": "sOT-MldmX-U",
       "snippet": {
         "publishedAt": "2009-10-06T07:16:13Z",
@@ -6432,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:46.200Z"
+      "updatedAt": "2026-11-21T21:40:17.947Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:46.200Z"
+      "updatedAt": "2026-11-21T21:40:17.947Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:46.200Z"
+      "updatedAt": "2026-11-21T21:40:17.947Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T16:13:46.200Z",
-    "evaluatedAt": "2026-11-21T16:13:46.950Z"
+    "observedAt": "2026-11-21T21:40:17.947Z",
+    "evaluatedAt": "2026-11-21T21:40:18.612Z"
   }
 }

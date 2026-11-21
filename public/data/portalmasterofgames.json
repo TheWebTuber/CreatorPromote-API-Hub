@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "portalmasterofgames",
   "label": "Portal Master Of Games",
-  "updatedAt": "2026-11-21T16:13:44.074Z",
+  "updatedAt": "2026-11-21T21:40:16.313Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "bb1OXo5mH5H3SirZWo7YrCG-JYM",
+    "etag": "aUYAgy-5HmW3R_XY0RZlISHjrb0",
     "id": "UCdOJvhjojFe3Z0yKeGEIERA",
     "snippet": {
       "title": "Portal Master Of Games",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "79535",
+      "viewCount": "79553",
       "subscriberCount": "280",
       "hiddenSubscriberCount": false,
       "videoCount": "397"
@@ -1339,8 +1339,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T16:13:44.074Z",
-    "expiresAt": "2026-11-21T16:58:44.074Z",
+    "checkedAt": "2026-11-21T21:40:16.313Z",
+    "expiresAt": "2026-11-21T22:25:16.313Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -3363,7 +3363,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kKXG-DBdJwUV8dUZBgAWjQRmv9k",
+      "etag": "dQi7kDUldfM75-aCfbKdG40hFsQ",
       "id": "QGqsubpQXQQ",
       "snippet": {
         "publishedAt": "2026-06-27T15:24:50Z",
@@ -4293,7 +4293,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lAoDGYvNZEEeqdZ_DWDiUsPqipk",
+      "etag": "D1xqH7-Lo45lzPajESUGCB4ME6Q",
       "id": "7_h0GwKemd8",
       "snippet": {
         "publishedAt": "2026-05-05T07:46:17Z",
@@ -5618,7 +5618,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tBB0RtswQIo8KIsR0fj5mv2wZc8",
+      "etag": "npnx-vIzF87rgz1XomOipw1DwdQ",
       "id": "75wFXqvfP4w",
       "snippet": {
         "publishedAt": "2026-03-21T12:39:55Z",
@@ -5768,7 +5768,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "RvBX-T5d-npbAAkaduTSNrYstww",
+      "etag": "pipeHBllNch75jklL3sW9d1nlYc",
       "id": "K0yU3qvOeCg",
       "snippet": {
         "publishedAt": "2026-03-13T19:39:22Z",
@@ -5843,7 +5843,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qrE8JIUE_72WCM68GKV1IgTpIyw",
+      "etag": "OEdmIoM0w8gmf_j2o6MgusbFRyA",
       "id": "0T3Re91QTBg",
       "snippet": {
         "publishedAt": "2026-03-08T17:57:05Z",
@@ -7488,7 +7488,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kE1YsF3cb_N-r3Ysub-8RWjXZzY",
+      "etag": "gi2ish6XCZR-yFOIIZQwem8xhxU",
       "id": "T3sRAEhe7d4",
       "snippet": {
         "publishedAt": "2026-01-22T13:16:58Z",
@@ -8378,7 +8378,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "epgB_jn2Ld7UHdsF8HhWfQSeP3s",
+      "etag": "jqcKzlcx192ckdsETd2NLu-f18c",
       "id": "9vWo2Qfq4NM",
       "snippet": {
         "publishedAt": "2025-12-19T19:41:54Z",
@@ -8833,21 +8833,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:44.074Z"
+      "updatedAt": "2026-11-21T21:40:16.313Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:44.074Z"
+      "updatedAt": "2026-11-21T21:40:16.313Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:44.074Z"
+      "updatedAt": "2026-11-21T21:40:16.313Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T16:13:44.074Z",
-    "evaluatedAt": "2026-11-21T16:13:45.166Z"
+    "observedAt": "2026-11-21T21:40:16.313Z",
+    "evaluatedAt": "2026-11-21T21:40:17.169Z"
   }
 }

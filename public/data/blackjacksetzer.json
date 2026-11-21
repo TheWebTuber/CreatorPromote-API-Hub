@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "blackjacksetzer",
   "label": "Blackjacksetzer",
-  "updatedAt": "2026-11-21T16:13:45.169Z",
+  "updatedAt": "2026-11-21T21:40:17.171Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -343,7 +343,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "y-nWyMsAhzpugEXWZDogBkD52Uo",
+      "etag": "oIf1bIlpag5rnxC5dzbXR9BBOPQ",
       "id": "0pQj-kKXxwE",
       "snippet": {
         "publishedAt": "2026-07-02T17:14:05Z",
@@ -770,7 +770,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "y-nWyMsAhzpugEXWZDogBkD52Uo",
+      "etag": "oIf1bIlpag5rnxC5dzbXR9BBOPQ",
       "id": "0pQj-kKXxwE",
       "snippet": {
         "publishedAt": "2026-07-02T17:14:05Z",
@@ -1226,8 +1226,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T16:13:45.169Z",
-    "expiresAt": "2026-11-21T16:58:45.169Z",
+    "checkedAt": "2026-11-21T21:40:17.171Z",
+    "expiresAt": "2026-11-21T22:25:17.171Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1523,7 +1523,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "y-nWyMsAhzpugEXWZDogBkD52Uo",
+      "etag": "oIf1bIlpag5rnxC5dzbXR9BBOPQ",
       "id": "0pQj-kKXxwE",
       "snippet": {
         "publishedAt": "2026-07-02T17:14:05Z",
@@ -1943,7 +1943,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LCYbDd7aEEmr4Il1gHydu3E0b8g",
+      "etag": "t5DxnGnrBUQUautLVRdyc4DWGu4",
       "id": "sUews2RAEUo",
       "snippet": {
         "publishedAt": "2026-03-01T14:47:43Z",
@@ -2013,7 +2013,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fzw5IyCKLbgfoEh-GmusHn8xQ-E",
+      "etag": "dhgOn_4IoVCKCS8ZhIh2N5xDQGE",
       "id": "FM13CzFaj8k",
       "snippet": {
         "publishedAt": "2026-02-22T04:27:48Z",
@@ -2083,7 +2083,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "CaGAOWiPde_Opk2GWSrHv24xWEw",
+      "etag": "W4R8YnlJYil0MxfCU2Y6191JCT4",
       "id": "fJLrjfB5Ur8",
       "snippet": {
         "publishedAt": "2026-02-19T08:39:52Z",
@@ -2573,7 +2573,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "L2G3USm7rPbIJtA2xjK5bF8VgZw",
+      "etag": "Pkwo_5tVYwFbWk31uvA2SZtJVzo",
       "id": "-AkNTMo94Ko",
       "snippet": {
         "publishedAt": "2026-01-25T02:32:48Z",
@@ -2774,7 +2774,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FLy26NLIsgNDniJ_7jo4QvN-KE4",
+      "etag": "sn4nz_II_JvPyBNatyfp5eCwBMs",
       "id": "FuxQLDe30QE",
       "snippet": {
         "publishedAt": "2026-01-16T18:30:36Z",
@@ -3415,21 +3415,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:45.169Z"
+      "updatedAt": "2026-11-21T21:40:17.171Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:45.169Z"
+      "updatedAt": "2026-11-21T21:40:17.171Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T16:13:45.169Z"
+      "updatedAt": "2026-11-21T21:40:17.171Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T16:13:45.169Z",
-    "evaluatedAt": "2026-11-21T16:13:45.750Z"
+    "observedAt": "2026-11-21T21:40:17.171Z",
+    "evaluatedAt": "2026-11-21T21:40:17.628Z"
   }
 }

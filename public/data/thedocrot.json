@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-20T19:16:29.084Z",
+  "updatedAt": "2026-11-21T00:50:44.071Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -61,7 +61,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "rXj0uB1eb7BY9koRJnbbG4rlGbE",
+      "etag": "0Tg0z6UD6mYa7hJSLdoPhGokXo0",
       "id": "OnZMuz_IfzU",
       "snippet": {
         "publishedAt": "2026-11-20T17:13:36Z",
@@ -111,7 +111,7 @@
           "Sony Interactive Entertainment"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
@@ -120,9 +120,9 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT5H3M14S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -137,22 +137,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "20",
-        "likeCount": "4",
+        "viewCount": "85",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-20T17:13:48Z",
+        "actualEndTime": "2026-11-20T22:17:04Z",
         "scheduledStartTime": "2026-11-20T17:13:35Z",
-        "scheduledEndTime": "2026-11-20T19:35:43Z",
-        "concurrentViewers": "6",
-        "activeLiveChatId": "Cg0KC09uWk11el9JZnpVKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILT25aTXV6X0lmelU"
+        "scheduledEndTime": "2026-11-20T21:15:43Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "n8n5yFIVde3R3zHvCTnfHyn1Wkc",
+      "etag": "mS76vOsOqbEmyV87s08Fxpgco74",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -214,7 +213,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "8",
+        "viewCount": "25",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -222,7 +221,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zh5jGyQitn7gIBByxksBZtdfoUc",
+      "etag": "w29MaSUe7ALXcrL7WJG0B2lvykU",
       "id": "wWzn4Jk2iKg",
       "snippet": {
         "publishedAt": "2026-11-20T10:17:59Z",
@@ -284,15 +283,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "437",
-        "likeCount": "5",
+        "viewCount": "497",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5eEgpaA2cWEUah4_5LMBRF-ftsk",
+      "etag": "mJ4sWD_KGoGI0QM93qdeqwONKNk",
       "id": "tUWe9lWSARQ",
       "snippet": {
         "publishedAt": "2026-11-20T10:14:49Z",
@@ -354,7 +353,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "509",
+        "viewCount": "542",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -362,7 +361,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7nMB9zaOUTGq9jhYVUizU1ukzXk",
+      "etag": "tr5Tl_EwVd-TYulY-rOcL0Ec_GI",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -438,7 +437,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "39",
+        "viewCount": "41",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -452,7 +451,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6lt-mfgaQtnfsfyriqYR1cXpUrM",
+      "etag": "dIKjTihQk9_96OcnGQkSXdDVeR4",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -514,7 +513,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "23",
+        "viewCount": "24",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -522,7 +521,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vQztwns3LcTF4fG2ph0gB8OVt2U",
+      "etag": "TMVdjXZoNG7xZA9Jy50E-m3qK9E",
       "id": "YZOQWsawfrw",
       "snippet": {
         "publishedAt": "2026-11-19T10:08:50Z",
@@ -584,7 +583,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "100",
+        "viewCount": "132",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -592,7 +591,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "IXIVg8u1OggNa-cu7gSTbf8jYJo",
+      "etag": "PpMu-dCKlv52wEBc3FKPTkGFs2E",
       "id": "-MKoAGVpILc",
       "snippet": {
         "publishedAt": "2026-11-19T10:06:03Z",
@@ -654,7 +653,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "228",
+        "viewCount": "239",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -662,7 +661,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SIvDlMW3ZKFkh0CkXGZOHQ0_enQ",
+      "etag": "J0WWv_dl8DSbCQpkehbWeP6_EG8",
       "id": "2LkM5ExOr18",
       "snippet": {
         "publishedAt": "2026-11-18T22:53:53Z",
@@ -738,7 +737,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "76",
+        "viewCount": "77",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -962,7 +961,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Csunfia9hZrcItJGZgSxDnMh3Fo",
+      "etag": "W6BcFxYB-UY9otMu_43eK53pwQs",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -1037,7 +1036,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "91",
+        "viewCount": "93",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1051,7 +1050,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xvjB6RcqZovxpPRZV--WTjBBCe8",
+      "etag": "TD0AHW-WTuTROy5nCswWwc4N9_o",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -1113,7 +1112,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "109",
+        "viewCount": "107",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1191,7 +1190,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yYXOhBhArmgBSG7VRRqAAN6y6U0",
+      "etag": "CixdBAC-QtpJG2g3j1Dg4m9hh1o",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -1266,7 +1265,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "110",
+        "viewCount": "113",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1736,7 +1735,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1-Sj_TphQu_oQCHvKdRIw2IKsOg",
+      "etag": "Hd81HIF9eF14etHE-nOgXvIDmM0",
       "id": "72iPeZbnt5A",
       "snippet": {
         "publishedAt": "2026-11-14T22:16:58Z",
@@ -1811,7 +1810,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "93",
+        "viewCount": "94",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2281,7 +2280,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SsQpnHe4HqmNz97Nl5dHr8bJLhI",
+      "etag": "YpJX7XQQAbl8UMr6pc99WE_muvw",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -2342,7 +2341,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "274",
+        "viewCount": "275",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -4611,7 +4610,97 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "7nMB9zaOUTGq9jhYVUizU1ukzXk",
+      "etag": "0Tg0z6UD6mYa7hJSLdoPhGokXo0",
+      "id": "OnZMuz_IfzU",
+      "snippet": {
+        "publishedAt": "2026-11-20T17:13:36Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/default.jpg?v=6b007fd9",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg?v=6b007fd9",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/hqdefault.jpg?v=6b007fd9",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/sddefault.jpg?v=6b007fd9",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/maxresdefault.jpg?v=6b007fd9",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT5H3M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "85",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-20T17:13:48Z",
+        "actualEndTime": "2026-11-20T22:17:04Z",
+        "scheduledStartTime": "2026-11-20T17:13:35Z",
+        "scheduledEndTime": "2026-11-20T21:15:43Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tr5Tl_EwVd-TYulY-rOcL0Ec_GI",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -4687,7 +4776,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "39",
+        "viewCount": "41",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4701,7 +4790,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SIvDlMW3ZKFkh0CkXGZOHQ0_enQ",
+      "etag": "J0WWv_dl8DSbCQpkehbWeP6_EG8",
       "id": "2LkM5ExOr18",
       "snippet": {
         "publishedAt": "2026-11-18T22:53:53Z",
@@ -4777,7 +4866,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "76",
+        "viewCount": "77",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4791,7 +4880,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Csunfia9hZrcItJGZgSxDnMh3Fo",
+      "etag": "W6BcFxYB-UY9otMu_43eK53pwQs",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -4866,7 +4955,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "91",
+        "viewCount": "93",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4880,7 +4969,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yYXOhBhArmgBSG7VRRqAAN6y6U0",
+      "etag": "CixdBAC-QtpJG2g3j1Dg4m9hh1o",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -4955,7 +5044,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "110",
+        "viewCount": "113",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5056,190 +5145,10 @@
         "scheduledStartTime": "2026-11-16T17:00:28Z",
         "scheduledEndTime": "2026-11-16T19:02:35Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Qw_00ujzBkL5E0TtfH1chDX-1lk",
-      "id": "ZSq8KMLbsG8",
-      "snippet": {
-        "publishedAt": "2026-11-15T23:14:20Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZSq8KMLbsG8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT5H10M9S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "184",
-        "likeCount": "6",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-15T17:30:51Z",
-        "actualEndTime": "2026-11-15T22:40:59Z",
-        "scheduledStartTime": "2026-11-15T17:30:37Z",
-        "scheduledEndTime": "2026-11-15T22:52:45Z"
-      }
     }
   ],
-  "live": {
-    "kind": "youtube#video",
-    "etag": "rXj0uB1eb7BY9koRJnbbG4rlGbE",
-    "id": "OnZMuz_IfzU",
-    "snippet": {
-      "publishedAt": "2026-11-20T17:13:36Z",
-      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-      "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
-      "description": "GOOD VIBES!!! :)",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/default.jpg?v=6b007fd9",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg?v=6b007fd9",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/hqdefault.jpg?v=6b007fd9",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/sddefault.jpg?v=6b007fd9",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/maxresdefault.jpg?v=6b007fd9",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "the docrot",
-      "tags": [
-        "#DBD",
-        "#DEADBYDAYLIGHT",
-        "#ENTERTAINMENT",
-        "#FORYOU",
-        "#FUNNY",
-        "#GAMING",
-        "#HORROR",
-        "#PS5Live",
-        "#SCARY",
-        "Dead by Daylight",
-        "PlayStation 5",
-        "Sony Interactive Entertainment"
-      ],
-      "categoryId": "20",
-      "liveBroadcastContent": "live",
-      "defaultLanguage": "en-GB",
-      "localized": {
-        "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)"
-      },
-      "defaultAudioLanguage": "en-GB"
-    },
-    "contentDetails": {
-      "duration": "P0D",
-      "dimension": "2d",
-      "definition": "sd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "status": {
-      "uploadStatus": "uploaded",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    },
-    "statistics": {
-      "viewCount": "20",
-      "likeCount": "4",
-      "favoriteCount": "0",
-      "commentCount": "0"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2026-11-20T17:13:48Z",
-      "scheduledStartTime": "2026-11-20T17:13:35Z",
-      "scheduledEndTime": "2026-11-20T19:35:43Z",
-      "concurrentViewers": "6",
-      "activeLiveChatId": "Cg0KC09uWk11el9JZnpVKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILT25aTXV6X0lmelU"
-    }
-  },
-  "liveChecked": true,
+  "live": null,
+  "liveChecked": false,
   "latestVideos": [
     {
       "id": "OnZMuz_IfzU",
@@ -5247,15 +5156,15 @@
       "label": "YouTube",
       "publishedAt": "2026-11-20T17:13:36Z",
       "startedAt": "2026-11-20T17:13:48Z",
-      "endedAt": null,
+      "endedAt": "2026-11-20T22:17:04Z",
       "scheduledAt": "2026-11-20T17:13:35Z",
-      "duration": "P0D",
+      "duration": "PT5H3M14S",
       "embeddable": true,
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg?v=6b007fd9",
       "url": "https://www.youtube.com/watch?v=OnZMuz_IfzU",
-      "views": "20",
-      "live": true,
+      "views": "85",
+      "live": false,
       "wasLive": true
     },
     {
@@ -5271,7 +5180,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3hftChStS6w/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3hftChStS6w",
-      "views": "8",
+      "views": "25",
       "live": false,
       "wasLive": false
     },
@@ -5288,7 +5197,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/wWzn4Jk2iKg/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wWzn4Jk2iKg",
-      "views": "437",
+      "views": "497",
       "live": false,
       "wasLive": false
     },
@@ -5305,7 +5214,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/tUWe9lWSARQ/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tUWe9lWSARQ",
-      "views": "509",
+      "views": "542",
       "live": false,
       "wasLive": false
     },
@@ -5322,7 +5231,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "39",
+      "views": "41",
       "live": false,
       "wasLive": true
     },
@@ -5339,7 +5248,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/niX2Ed_LY5Q/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=niX2Ed_LY5Q",
-      "views": "23",
+      "views": "24",
       "live": false,
       "wasLive": false
     },
@@ -5356,7 +5265,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/YZOQWsawfrw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=YZOQWsawfrw",
-      "views": "100",
+      "views": "132",
       "live": false,
       "wasLive": false
     },
@@ -5373,7 +5282,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/-MKoAGVpILc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=-MKoAGVpILc",
-      "views": "228",
+      "views": "239",
       "live": false,
       "wasLive": false
     },
@@ -5390,7 +5299,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "76",
+      "views": "77",
       "live": false,
       "wasLive": true
     },
@@ -5458,7 +5367,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "91",
+      "views": "93",
       "live": false,
       "wasLive": true
     },
@@ -5475,7 +5384,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/_iwQGw2yV5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_iwQGw2yV5A",
-      "views": "109",
+      "views": "107",
       "live": false,
       "wasLive": false
     },
@@ -5509,7 +5418,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "110",
+      "views": "113",
       "live": false,
       "wasLive": true
     },
@@ -5628,7 +5537,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/72iPeZbnt5A/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=72iPeZbnt5A",
-      "views": "93",
+      "views": "94",
       "live": false,
       "wasLive": true
     },
@@ -5747,7 +5656,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/hDOVncLxJUE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hDOVncLxJUE",
-      "views": "274",
+      "views": "275",
       "live": false,
       "wasLive": false
     },
@@ -6269,15 +6178,15 @@
       "label": "Livestream",
       "publishedAt": "2026-11-20T17:13:36Z",
       "startedAt": "2026-11-20T17:13:48Z",
-      "endedAt": null,
+      "endedAt": "2026-11-20T22:17:04Z",
       "scheduledAt": "2026-11-20T17:13:35Z",
-      "duration": "P0D",
+      "duration": "PT5H3M14S",
       "embeddable": true,
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg?v=6b007fd9",
       "url": "https://www.youtube.com/watch?v=OnZMuz_IfzU",
-      "views": "20",
-      "live": true,
+      "views": "85",
+      "live": false,
       "wasLive": true
     },
     {
@@ -6293,7 +6202,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "39",
+      "views": "41",
       "live": false,
       "wasLive": true
     },
@@ -6310,7 +6219,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "76",
+      "views": "77",
       "live": false,
       "wasLive": true
     },
@@ -6327,7 +6236,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "91",
+      "views": "93",
       "live": false,
       "wasLive": true
     },
@@ -6344,7 +6253,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "110",
+      "views": "113",
       "live": false,
       "wasLive": true
     },
@@ -6368,6 +6277,23 @@
   ],
   "latestReplays": [
     {
+      "id": "OnZMuz_IfzU",
+      "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
+      "label": "Replay",
+      "publishedAt": "2026-11-20T17:13:36Z",
+      "startedAt": "2026-11-20T17:13:48Z",
+      "endedAt": "2026-11-20T22:17:04Z",
+      "scheduledAt": "2026-11-20T17:13:35Z",
+      "duration": "PT5H3M14S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg?v=6b007fd9",
+      "url": "https://www.youtube.com/watch?v=OnZMuz_IfzU",
+      "views": "85",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "OIOwZ3X2hkc",
       "title": "ADEPTING IS PRETTY FUN!?! | Dead By Daylight",
       "label": "Replay",
@@ -6380,7 +6306,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "39",
+      "views": "41",
       "live": false,
       "wasLive": true
     },
@@ -6397,7 +6323,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "76",
+      "views": "77",
       "live": false,
       "wasLive": true
     },
@@ -6414,7 +6340,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "91",
+      "views": "93",
       "live": false,
       "wasLive": true
     },
@@ -6431,7 +6357,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "110",
+      "views": "113",
       "live": false,
       "wasLive": true
     },
@@ -6451,46 +6377,13 @@
       "views": "105",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "ZSq8KMLbsG8",
-      "title": "TRYING TO ADEPT EVERY SURVIVOR!?! | Dead By Daylight",
-      "label": "Replay",
-      "publishedAt": "2026-11-15T23:14:20Z",
-      "startedAt": "2026-11-15T17:30:51Z",
-      "endedAt": "2026-11-15T22:40:59Z",
-      "scheduledAt": "2026-11-15T17:30:37Z",
-      "duration": "PT5H10M9S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/ZSq8KMLbsG8/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZSq8KMLbsG8",
-      "views": "184",
-      "live": false,
-      "wasLive": true
     }
   ],
   "liveStatus": {
-    "status": "live",
-    "video": {
-      "id": "OnZMuz_IfzU",
-      "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
-      "label": "Live now",
-      "publishedAt": "2026-11-20T17:13:36Z",
-      "startedAt": "2026-11-20T17:13:48Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-20T17:13:35Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg?v=6b007fd9",
-      "url": "https://www.youtube.com/watch?v=OnZMuz_IfzU",
-      "views": "20",
-      "live": true,
-      "wasLive": true
-    },
-    "checkedAt": "2026-11-20T19:16:29.084Z",
-    "expiresAt": "2026-11-20T20:01:29.084Z",
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-21T00:50:44.071Z",
+    "expiresAt": "2026-11-21T01:35:44.071Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6501,7 +6394,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "rXj0uB1eb7BY9koRJnbbG4rlGbE",
+      "etag": "0Tg0z6UD6mYa7hJSLdoPhGokXo0",
       "id": "OnZMuz_IfzU",
       "snippet": {
         "publishedAt": "2026-11-20T17:13:36Z",
@@ -6551,7 +6444,7 @@
           "Sony Interactive Entertainment"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
@@ -6560,9 +6453,9 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT5H3M14S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -6577,22 +6470,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "20",
-        "likeCount": "4",
+        "viewCount": "85",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-20T17:13:48Z",
+        "actualEndTime": "2026-11-20T22:17:04Z",
         "scheduledStartTime": "2026-11-20T17:13:35Z",
-        "scheduledEndTime": "2026-11-20T19:35:43Z",
-        "concurrentViewers": "6",
-        "activeLiveChatId": "Cg0KC09uWk11el9JZnpVKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILT25aTXV6X0lmelU"
+        "scheduledEndTime": "2026-11-20T21:15:43Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "n8n5yFIVde3R3zHvCTnfHyn1Wkc",
+      "etag": "mS76vOsOqbEmyV87s08Fxpgco74",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -6654,7 +6546,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "8",
+        "viewCount": "25",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6662,7 +6554,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zh5jGyQitn7gIBByxksBZtdfoUc",
+      "etag": "w29MaSUe7ALXcrL7WJG0B2lvykU",
       "id": "wWzn4Jk2iKg",
       "snippet": {
         "publishedAt": "2026-11-20T10:17:59Z",
@@ -6724,15 +6616,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "437",
-        "likeCount": "5",
+        "viewCount": "497",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5eEgpaA2cWEUah4_5LMBRF-ftsk",
+      "etag": "mJ4sWD_KGoGI0QM93qdeqwONKNk",
       "id": "tUWe9lWSARQ",
       "snippet": {
         "publishedAt": "2026-11-20T10:14:49Z",
@@ -6794,7 +6686,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "509",
+        "viewCount": "542",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6802,7 +6694,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "7nMB9zaOUTGq9jhYVUizU1ukzXk",
+      "etag": "tr5Tl_EwVd-TYulY-rOcL0Ec_GI",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -6878,7 +6770,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "39",
+        "viewCount": "41",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6892,7 +6784,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6lt-mfgaQtnfsfyriqYR1cXpUrM",
+      "etag": "dIKjTihQk9_96OcnGQkSXdDVeR4",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -6954,7 +6846,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "23",
+        "viewCount": "24",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -6962,7 +6854,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vQztwns3LcTF4fG2ph0gB8OVt2U",
+      "etag": "TMVdjXZoNG7xZA9Jy50E-m3qK9E",
       "id": "YZOQWsawfrw",
       "snippet": {
         "publishedAt": "2026-11-19T10:08:50Z",
@@ -7024,7 +6916,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "100",
+        "viewCount": "132",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7032,7 +6924,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "IXIVg8u1OggNa-cu7gSTbf8jYJo",
+      "etag": "PpMu-dCKlv52wEBc3FKPTkGFs2E",
       "id": "-MKoAGVpILc",
       "snippet": {
         "publishedAt": "2026-11-19T10:06:03Z",
@@ -7094,7 +6986,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "228",
+        "viewCount": "239",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -7102,7 +6994,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SIvDlMW3ZKFkh0CkXGZOHQ0_enQ",
+      "etag": "J0WWv_dl8DSbCQpkehbWeP6_EG8",
       "id": "2LkM5ExOr18",
       "snippet": {
         "publishedAt": "2026-11-18T22:53:53Z",
@@ -7178,7 +7070,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "76",
+        "viewCount": "77",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7402,7 +7294,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Csunfia9hZrcItJGZgSxDnMh3Fo",
+      "etag": "W6BcFxYB-UY9otMu_43eK53pwQs",
       "id": "Jg96wuh6Gks",
       "snippet": {
         "publishedAt": "2026-11-17T22:40:31Z",
@@ -7477,7 +7369,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "91",
+        "viewCount": "93",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7491,7 +7383,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xvjB6RcqZovxpPRZV--WTjBBCe8",
+      "etag": "TD0AHW-WTuTROy5nCswWwc4N9_o",
       "id": "_iwQGw2yV5A",
       "snippet": {
         "publishedAt": "2026-11-17T09:53:21Z",
@@ -7553,7 +7445,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "109",
+        "viewCount": "107",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7631,7 +7523,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yYXOhBhArmgBSG7VRRqAAN6y6U0",
+      "etag": "CixdBAC-QtpJG2g3j1Dg4m9hh1o",
       "id": "rtHQCknsutM",
       "snippet": {
         "publishedAt": "2026-11-16T22:23:58Z",
@@ -7706,7 +7598,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "110",
+        "viewCount": "113",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8176,7 +8068,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1-Sj_TphQu_oQCHvKdRIw2IKsOg",
+      "etag": "Hd81HIF9eF14etHE-nOgXvIDmM0",
       "id": "72iPeZbnt5A",
       "snippet": {
         "publishedAt": "2026-11-14T22:16:58Z",
@@ -8251,7 +8143,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "93",
+        "viewCount": "94",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8721,7 +8613,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SsQpnHe4HqmNz97Nl5dHr8bJLhI",
+      "etag": "YpJX7XQQAbl8UMr6pc99WE_muvw",
       "id": "hDOVncLxJUE",
       "snippet": {
         "publishedAt": "2026-11-13T09:00:21Z",
@@ -8782,7 +8674,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "274",
+        "viewCount": "275",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -17885,21 +17777,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T19:16:29.084Z"
+      "updatedAt": "2026-11-21T00:50:44.071Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T19:16:29.084Z"
+      "updatedAt": "2026-11-21T00:50:44.071Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T19:16:29.084Z"
+      "updatedAt": "2026-11-21T00:50:44.071Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-20T19:16:29.084Z",
-    "evaluatedAt": "2026-11-20T19:16:30.630Z"
+    "observedAt": "2026-11-21T00:50:44.071Z",
+    "evaluatedAt": "2026-11-21T00:50:46.060Z"
   }
 }

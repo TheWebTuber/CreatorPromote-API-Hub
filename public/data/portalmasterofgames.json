@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "portalmasterofgames",
   "label": "Portal Master Of Games",
-  "updatedAt": "2026-11-20T19:16:40.745Z",
+  "updatedAt": "2026-11-21T00:50:59.934Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1339,8 +1339,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-20T19:16:40.745Z",
-    "expiresAt": "2026-11-20T20:01:40.745Z",
+    "checkedAt": "2026-11-21T00:50:59.934Z",
+    "expiresAt": "2026-11-21T01:35:59.934Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -3143,7 +3143,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_-9bp1E1qy99adod2cOGArtOkCY",
+      "etag": "OuYy2d186CjJV4U--1DV7kCVcC0",
       "id": "9mBEpp-vI4o",
       "snippet": {
         "publishedAt": "2026-08-06T13:07:28Z",
@@ -3205,7 +3205,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1848",
+        "viewCount": "1850",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8833,21 +8833,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T19:16:40.745Z"
+      "updatedAt": "2026-11-21T00:50:59.934Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T19:16:40.745Z"
+      "updatedAt": "2026-11-21T00:50:59.934Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-20T19:16:40.745Z"
+      "updatedAt": "2026-11-21T00:50:59.934Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-20T19:16:40.745Z",
-    "evaluatedAt": "2026-11-20T19:16:41.501Z"
+    "observedAt": "2026-11-21T00:50:59.934Z",
+    "evaluatedAt": "2026-11-21T00:51:01.055Z"
   }
 }

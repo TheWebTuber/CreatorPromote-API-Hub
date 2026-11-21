@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-21T08:17:14.532Z",
+  "updatedAt": "2026-11-21T16:13:40.181Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "zgHJ3y4fZsvBiFwgROjJUF2DKs0",
+    "etag": "kYVrKJTTA5wiNvTpx9ZkR0nZiKA",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,10 +43,10 @@
       }
     },
     "statistics": {
-      "viewCount": "66533",
+      "viewCount": "66537",
       "subscriberCount": "100",
       "hiddenSubscriberCount": false,
-      "videoCount": "206"
+      "videoCount": "207"
     },
     "brandingSettings": {
       "channel": {
@@ -62,6 +62,81 @@
     "url": "https://www.youtube.com/channel/UCKE1MnwHQBM8i7Or5K_zcmA"
   },
   "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "6hX10XFIKrm_nGDb80L6ku_8Ixw",
+      "id": "IzTl3LruiuQ",
+      "snippet": {
+        "publishedAt": "2026-11-21T12:06:13Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "Bronze vtuber crashes out #shorts #vtuber #leagueoflegends #fyp",
+        "description": "dunno why i crashed out i play like horsesh*te",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Bronze vtuber crashes out #shorts #vtuber #leagueoflegends #fyp",
+          "description": "dunno why i crashed out i play like horsesh*te"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "58",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "H0zMyTlX8WkKjakYkAvTOyEXejQ",
@@ -211,7 +286,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ajjwmpoiRXPfPR52jIEtD4N_YVs",
+      "etag": "JQhZJBzwJ74P28g2ZKW9AjL3G-g",
       "id": "iwXIeP9x8WM",
       "snippet": {
         "publishedAt": "2026-11-17T14:47:56Z",
@@ -277,7 +352,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1177",
+        "viewCount": "1178",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -425,79 +500,6 @@
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "wkPJnfchErubdLxMn-FdMeFWmGI",
-      "id": "xd36eXXJqu0",
-      "snippet": {
-        "publishedAt": "2026-11-15T05:06:35Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
-        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xd36eXXJqu0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "fnaf",
-          "fivenightsatfreddys2"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
-          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT2H19M43S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "22",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-15T01:20:04Z",
-        "actualEndTime": "2026-11-15T03:39:44Z"
       }
     }
   ],
@@ -945,6 +947,23 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "IzTl3LruiuQ",
+      "title": "Bronze vtuber crashes out #shorts #vtuber #leagueoflegends #fyp",
+      "label": "YouTube",
+      "publishedAt": "2026-11-21T12:06:13Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT34S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/IzTl3LruiuQ/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IzTl3LruiuQ",
+      "views": "58",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "P8cpT20NmI8",
       "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
       "label": "YouTube",
@@ -991,7 +1010,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/iwXIeP9x8WM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=iwXIeP9x8WM",
-      "views": "1177",
+      "views": "1178",
       "live": false,
       "wasLive": false
     },
@@ -1028,23 +1047,6 @@
       "views": "288",
       "live": false,
       "wasLive": false
-    },
-    {
-      "id": "xd36eXXJqu0",
-      "title": "playing crack cocai-i mean league #vtuber #leagueoflegends",
-      "label": "YouTube",
-      "publishedAt": "2026-11-15T05:06:35Z",
-      "startedAt": "2026-11-15T01:20:04Z",
-      "endedAt": "2026-11-15T03:39:44Z",
-      "scheduledAt": null,
-      "duration": "PT2H19M43S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/xd36eXXJqu0/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xd36eXXJqu0",
-      "views": "22",
-      "live": false,
-      "wasLive": true
     }
   ],
   "latestLivestreams": [
@@ -1258,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T08:17:14.532Z",
-    "expiresAt": "2026-11-21T09:02:14.532Z",
+    "checkedAt": "2026-11-21T16:13:40.181Z",
+    "expiresAt": "2026-11-21T16:58:40.181Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1270,7 +1272,82 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "EzHwkyXyU_HTDBlh-CS0ATWH5rg",
+      "etag": "6hX10XFIKrm_nGDb80L6ku_8Ixw",
+      "id": "IzTl3LruiuQ",
+      "snippet": {
+        "publishedAt": "2026-11-21T12:06:13Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "Bronze vtuber crashes out #shorts #vtuber #leagueoflegends #fyp",
+        "description": "dunno why i crashed out i play like horsesh*te",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IzTl3LruiuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Bronze vtuber crashes out #shorts #vtuber #leagueoflegends #fyp",
+          "description": "dunno why i crashed out i play like horsesh*te"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "58",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KEw0llppl5ppPOaKXUW2DxcGJPo",
       "id": "MY-5TLy6y38",
       "snippet": {
         "publishedAt": "2026-11-19T08:30:47Z",
@@ -1311,8 +1388,7 @@
         "localized": {
           "title": "voice chat in league, what could possibly go wrong #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "und"
+        }
       },
       "contentDetails": {
         "duration": "P0D",
@@ -1490,7 +1566,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ajjwmpoiRXPfPR52jIEtD4N_YVs",
+      "etag": "JQhZJBzwJ74P28g2ZKW9AjL3G-g",
       "id": "iwXIeP9x8WM",
       "snippet": {
         "publishedAt": "2026-11-17T14:47:56Z",
@@ -1556,7 +1632,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1177",
+        "viewCount": "1178",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7504,7 +7580,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BIYzHezxrPH0qZ8KkWAvWSMiHSs",
+      "etag": "zoo0KVA9RMBDiWRztYjm41FMBac",
       "id": "asf-Tk49Ioc",
       "snippet": {
         "publishedAt": "2026-07-20T18:51:48Z",
@@ -7545,7 +7621,8 @@
         "localized": {
           "title": "100% brain damage top lane gameplay #vtuber #leagueoflegends",
           "description": "fox plays league"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT1H38M5S",
@@ -8484,75 +8561,6 @@
         "actualStartTime": "2026-07-11T09:14:15Z",
         "actualEndTime": "2026-07-11T11:06:42Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Byz_gtyDIaBH_HVewgIcbr3siTY",
-      "id": "Wq3LHpLmEZ4",
-      "snippet": {
-        "publishedAt": "2026-07-11T12:48:54Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "average league crashout #vtuber #leagueoflegends#twitch #clips",
-        "description": "pretty mild imo",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Wq3LHpLmEZ4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Wq3LHpLmEZ4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Wq3LHpLmEZ4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Wq3LHpLmEZ4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Wq3LHpLmEZ4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BonakVT",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "average league crashout #vtuber #leagueoflegends#twitch #clips",
-          "description": "pretty mild imo"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "49",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "playlists": [],
@@ -8561,21 +8569,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T08:17:14.532Z"
+      "updatedAt": "2026-11-21T16:13:40.181Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T08:17:14.532Z"
+      "updatedAt": "2026-11-21T16:13:40.181Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T08:17:14.532Z"
+      "updatedAt": "2026-11-21T16:13:40.181Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T08:17:14.532Z",
-    "evaluatedAt": "2026-11-21T08:17:15.381Z"
+    "observedAt": "2026-11-21T16:13:40.181Z",
+    "evaluatedAt": "2026-11-21T16:13:41.315Z"
   }
 }

@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "portalmasterofgames",
   "label": "Portal Master Of Games",
-  "updatedAt": "2026-11-21T08:17:18.456Z",
+  "updatedAt": "2026-11-21T16:13:44.074Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1339,8 +1339,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T08:17:18.456Z",
-    "expiresAt": "2026-11-21T09:02:18.456Z",
+    "checkedAt": "2026-11-21T16:13:44.074Z",
+    "expiresAt": "2026-11-21T16:58:44.074Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -2067,7 +2067,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XILS82k3Vm7Xm53dRZDQQ6OWjtY",
+      "etag": "H_rjEWYzCwB9IKuJ0fB8eiyz7Uo",
       "id": "9cC0y5hW84Q",
       "snippet": {
         "publishedAt": "2026-10-04T13:45:46Z",
@@ -2134,7 +2134,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "142",
+        "viewCount": "143",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -3143,7 +3143,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qiew_ivr5KlpaeO29DCXkd0VapI",
+      "etag": "avu3QqqRVS7T5XxY3bqU5R2OZSo",
       "id": "9mBEpp-vI4o",
       "snippet": {
         "publishedAt": "2026-08-06T13:07:28Z",
@@ -3205,7 +3205,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1851",
+        "viewCount": "1852",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4008,7 +4008,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "aDdosbCbC7bbLfBJ_v4TxZzH0hc",
+      "etag": "pf8xcYqLbC5uAvtlahm3COs8ULU",
       "id": "yy_iiyxNCeo",
       "snippet": {
         "publishedAt": "2026-05-30T03:18:18Z",
@@ -4060,7 +4060,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "65",
+        "viewCount": "66",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -4368,7 +4368,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EcPIfrO8QtMDL1knfjSzjOSF0yI",
+      "etag": "aaudLC56evVqlVJwBZYy75ELMAw",
       "id": "8Smo0RuvLso",
       "snippet": {
         "publishedAt": "2026-05-04T22:17:46Z",
@@ -4430,7 +4430,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "91",
+        "viewCount": "93",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8833,21 +8833,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T08:17:18.456Z"
+      "updatedAt": "2026-11-21T16:13:44.074Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T08:17:18.456Z"
+      "updatedAt": "2026-11-21T16:13:44.074Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T08:17:18.456Z"
+      "updatedAt": "2026-11-21T16:13:44.074Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T08:17:18.456Z",
-    "evaluatedAt": "2026-11-21T08:17:19.133Z"
+    "observedAt": "2026-11-21T16:13:44.074Z",
+    "evaluatedAt": "2026-11-21T16:13:45.166Z"
   }
 }

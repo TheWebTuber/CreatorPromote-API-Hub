@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-21T00:51:02.017Z",
+  "updatedAt": "2026-11-21T08:17:19.956Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T00:51:02.017Z",
-    "expiresAt": "2026-11-21T01:36:02.017Z",
+    "checkedAt": "2026-11-21T08:17:19.956Z",
+    "expiresAt": "2026-11-21T09:02:19.956Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -2248,7 +2248,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dW6CRUnT9kUL8SbSadKYNNagqkc",
+      "etag": "zxhuj7HOQquCYh1HYb7taNvYtkM",
       "id": "BYDnTowjVC4",
       "snippet": {
         "publishedAt": "2025-11-06T05:27:04Z",
@@ -2528,7 +2528,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "voh56QZBq7Kz5xF558kRJRO1Ly4",
+      "etag": "nGkeLS8yavHCOW5tOK58tICv0sE",
       "id": "whMTeqdoids",
       "snippet": {
         "publishedAt": "2024-11-29T02:15:02Z",
@@ -2617,7 +2617,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "a0zxoMCl4W7utiQOD7jG_CNnYuk",
+      "etag": "1am-T62RxKZuMj8Mm6yTWjAwjoU",
       "id": "lwTQc20xcGI",
       "snippet": {
         "publishedAt": "2024-07-20T04:30:08Z",
@@ -3061,7 +3061,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hVwU2op_QzsR97LYZ7akr1I-DGs",
+      "etag": "hBMD1C-fL7Q36_qowTgcPiZikvU",
       "id": "BugcPETDn20",
       "snippet": {
         "publishedAt": "2024-03-29T02:01:57Z",
@@ -3839,7 +3839,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YEweX1AU4FrR5usnlmOWc0iCqrU",
+      "etag": "OS_pSuu5MLLZPSJzL2vCduh0YOw",
       "id": "g4h4vJB3nsU",
       "snippet": {
         "publishedAt": "2024-01-11T07:33:37Z",
@@ -3993,7 +3993,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DztGksZD5gOYSSIz8MvR3-R7hk8",
+      "etag": "GVlzLD_YIxRS-funqJwl5mOUEi8",
       "id": "8e4bAu0-uSc",
       "snippet": {
         "publishedAt": "2024-01-07T05:45:03Z",
@@ -5176,7 +5176,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "erjidyGjULAYbC_d3AaMSFAzzMQ",
+      "etag": "omDO_3p8VyZyRIZ75xWcP1HEfC4",
       "id": "_wCWyfRx1fY",
       "snippet": {
         "publishedAt": "2014-08-20T20:48:01Z",
@@ -5262,7 +5262,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vE094O4f1h60uHRxLGAEO9N0KQU",
+      "etag": "E4uJRdKMweMVWEDUgwG7WzejnaA",
       "id": "Yxd9SnG4378",
       "snippet": {
         "publishedAt": "2013-06-29T10:10:23Z",
@@ -5341,7 +5341,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "aObAJU96_nqFI6BVmJDp607farw",
+      "etag": "VN2Eg-YOrsHnM15E7luMdm0A00Q",
       "id": "dZNHomI5QBY",
       "snippet": {
         "publishedAt": "2013-06-28T08:13:14Z",
@@ -5590,7 +5590,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kJ0P3l3AX5R8h5BwMR07npyWIKU",
+      "etag": "FaZOcHtO_rRJNj9KfYULiDMK6oY",
       "id": "D66bMYseftA",
       "snippet": {
         "publishedAt": "2012-08-07T05:41:16Z",
@@ -5903,7 +5903,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9K_ctzOcxDL_Y5JXknY0_jviyqU",
+      "etag": "dGKASFn2987BVE5Weg0p-xPJIE4",
       "id": "dv52mKIa40Q",
       "snippet": {
         "publishedAt": "2012-06-17T05:54:21Z",
@@ -6345,7 +6345,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "psTMYRynkJQfEOVlogOFmeT21DE",
+      "etag": "kfh0uWIAXYaHVQ86UlHqpA-iRJw",
       "id": "1SemfrLdKSw",
       "snippet": {
         "publishedAt": "2009-09-07T20:18:09Z",
@@ -6432,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:51:02.017Z"
+      "updatedAt": "2026-11-21T08:17:19.956Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:51:02.017Z"
+      "updatedAt": "2026-11-21T08:17:19.956Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:51:02.017Z"
+      "updatedAt": "2026-11-21T08:17:19.956Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T00:51:02.017Z",
-    "evaluatedAt": "2026-11-21T00:51:02.861Z"
+    "observedAt": "2026-11-21T08:17:19.956Z",
+    "evaluatedAt": "2026-11-21T08:17:20.627Z"
   }
 }

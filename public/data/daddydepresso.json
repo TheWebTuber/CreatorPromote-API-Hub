@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "daddydepresso",
   "label": "Daddy Depresso",
-  "updatedAt": "2026-11-21T00:50:54.940Z",
+  "updatedAt": "2026-11-21T08:17:13.225Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -957,12 +957,48 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T00:50:54.940Z",
-    "expiresAt": "2026-11-21T01:35:54.940Z",
+    "checkedAt": "2026-11-21T08:17:13.225Z",
+    "expiresAt": "2026-11-21T09:02:13.225Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
   "collabs": [
+    {
+      "id": "JbUP0EUS3UI",
+      "title": "Dappers and Droppers",
+      "label": "Player adventures II",
+      "publishedAt": "2026-11-21T05:27:00Z",
+      "startedAt": "2026-11-21T02:06:54Z",
+      "endedAt": "2026-11-21T04:54:44Z",
+      "scheduledAt": "2026-11-21T02:06:24Z",
+      "duration": "PT2H48M",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/JbUP0EUS3UI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JbUP0EUS3UI",
+      "views": "15",
+      "live": false,
+      "wasLive": true,
+      "featured": false
+    },
+    {
+      "id": "yvwBdRjpZiY",
+      "title": "Dappers and Droppers (Portrait)",
+      "label": "Player adventures II",
+      "publishedAt": "2026-11-21T05:17:55Z",
+      "startedAt": "2026-11-21T02:06:54Z",
+      "endedAt": "2026-11-21T04:54:46Z",
+      "scheduledAt": "2026-11-21T02:06:35Z",
+      "duration": "PT2H47M59S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/yvwBdRjpZiY/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yvwBdRjpZiY",
+      "views": "345",
+      "live": false,
+      "wasLive": true,
+      "featured": false
+    },
     {
       "id": "M7-bJdEWJfM",
       "title": "Incaged Horrors: The storm over Thet-Annath Ep 41 (Portrait)",
@@ -995,42 +1031,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xz-754QxOC4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xz-754QxOC4",
       "views": "59",
-      "live": false,
-      "wasLive": true,
-      "featured": false
-    },
-    {
-      "id": "VuZMQhzXWRU",
-      "title": "Dhampa: Chapter 10, A Night to Die For  (Season finale) VTM (Portrait)",
-      "label": "GM adventures",
-      "publishedAt": "2026-10-21T05:33:10Z",
-      "startedAt": "2026-10-21T00:17:51Z",
-      "endedAt": "2026-10-21T04:23:31Z",
-      "scheduledAt": "2026-10-21T00:17:35Z",
-      "duration": "PT3H46M26S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/VuZMQhzXWRU/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VuZMQhzXWRU",
-      "views": "122",
-      "live": false,
-      "wasLive": true,
-      "featured": false
-    },
-    {
-      "id": "cDYHtk5OzKU",
-      "title": "Dhampa: Chapter 10, A Night to Die For  (Season finale) VTM",
-      "label": "GM adventures",
-      "publishedAt": "2026-10-21T04:54:32Z",
-      "startedAt": "2026-10-21T00:17:49Z",
-      "endedAt": "2026-10-21T04:23:30Z",
-      "scheduledAt": "2026-10-21T00:17:25Z",
-      "duration": "PT3H46M24S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/cDYHtk5OzKU/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cDYHtk5OzKU",
-      "views": "155",
       "live": false,
       "wasLive": true,
       "featured": false
@@ -1574,7 +1574,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DA9wKexoy_lZxv7Hx9icz0MwRiA",
+      "etag": "AZdzNGZ7XluCukR3JO71LOmYDZI",
       "id": "aMCepcXvdI0",
       "snippet": {
         "publishedAt": "2026-06-28T12:38:22Z",
@@ -1726,7 +1726,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "f4nQNaSv_Sev7ssB7k_j2APbDyA",
+      "etag": "PbWojRxbR52aB5AuYGCaD0GMPuw",
       "id": "8hYw5iFgN5Q",
       "snippet": {
         "publishedAt": "2026-06-25T06:31:01Z",
@@ -2179,7 +2179,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0P3vjd9JvXGr1a5zfH8YCHFI21c",
+      "etag": "6mZQc1qu-t4_DK4KVKZV2gB-Psk",
       "id": "X4gqN-f5DFM",
       "snippet": {
         "publishedAt": "2026-06-18T19:24:14Z",
@@ -3313,7 +3313,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VnbC_VGKXi6fnIszaXynpYd-6EA",
+      "etag": "pz7y_75kOUiY3FWyNRTB1j0fAXM",
       "id": "wTqtEsiDrlc",
       "snippet": {
         "publishedAt": "2026-05-10T15:38:20Z",
@@ -3460,7 +3460,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SLwg7rLJPfOGqzVL839f010MHwY",
+      "etag": "lQjy6t56fFoAw0g0pKaw5OQ00TE",
       "id": "j1nsMQ7nXR4",
       "snippet": {
         "publishedAt": "2026-04-16T18:24:36Z",
@@ -3886,7 +3886,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0gjVE_dDDjFnvNEsrKWcXoGhU7E",
+      "etag": "P6n0Byqjbz3ljHED4FQmJJL0zWI",
       "id": "8LhHYTabYMI",
       "snippet": {
         "publishedAt": "2026-03-22T12:41:41Z",
@@ -4595,7 +4595,7 @@
   "collabSources": {
     "PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:54.940Z",
+      "updatedAt": "2026-11-21T08:17:13.225Z",
       "items": [
         {
           "id": "FRVmoksciRg",
@@ -4619,7 +4619,7 @@
     },
     "PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:54.940Z",
+      "updatedAt": "2026-11-21T08:17:13.225Z",
       "items": [
         {
           "id": "Q7gZ-ubMTSA",
@@ -5466,12 +5466,48 @@
           "live": false,
           "wasLive": true,
           "featured": false
+        },
+        {
+          "id": "JbUP0EUS3UI",
+          "title": "Dappers and Droppers",
+          "label": "Player adventures II",
+          "publishedAt": "2026-11-21T05:27:00Z",
+          "startedAt": "2026-11-21T02:06:54Z",
+          "endedAt": "2026-11-21T04:54:44Z",
+          "scheduledAt": "2026-11-21T02:06:24Z",
+          "duration": "PT2H48M",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/JbUP0EUS3UI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=JbUP0EUS3UI",
+          "views": "15",
+          "live": false,
+          "wasLive": true,
+          "featured": false
+        },
+        {
+          "id": "yvwBdRjpZiY",
+          "title": "Dappers and Droppers (Portrait)",
+          "label": "Player adventures II",
+          "publishedAt": "2026-11-21T05:17:55Z",
+          "startedAt": "2026-11-21T02:06:54Z",
+          "endedAt": "2026-11-21T04:54:46Z",
+          "scheduledAt": "2026-11-21T02:06:35Z",
+          "duration": "PT2H47M59S",
+          "embeddable": true,
+          "upcoming": false,
+          "thumbnail": "https://i.ytimg.com/vi/yvwBdRjpZiY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=yvwBdRjpZiY",
+          "views": "345",
+          "live": false,
+          "wasLive": true,
+          "featured": false
         }
       ]
     },
     "PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:54.940Z",
+      "updatedAt": "2026-11-21T08:17:13.225Z",
       "items": [
         {
           "id": "TqJk7cQ72e0",
@@ -5750,33 +5786,33 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:54.940Z"
+      "updatedAt": "2026-11-21T08:17:13.225Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:54.940Z"
+      "updatedAt": "2026-11-21T08:17:13.225Z"
     },
     "collab:PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:54.940Z"
+      "updatedAt": "2026-11-21T08:17:13.225Z"
     },
     "collab:PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:54.940Z"
+      "updatedAt": "2026-11-21T08:17:13.225Z"
     },
     "collab:PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:54.940Z"
+      "updatedAt": "2026-11-21T08:17:13.225Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:54.940Z"
+      "updatedAt": "2026-11-21T08:17:13.225Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T00:50:54.940Z",
-    "evaluatedAt": "2026-11-21T00:50:56.361Z"
+    "observedAt": "2026-11-21T08:17:13.225Z",
+    "evaluatedAt": "2026-11-21T08:17:14.530Z"
   }
 }

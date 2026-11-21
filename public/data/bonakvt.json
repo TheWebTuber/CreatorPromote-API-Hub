@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-21T00:50:56.364Z",
+  "updatedAt": "2026-11-21T08:17:14.532Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -64,7 +64,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "VpYel3_lfnsE2nWHasGLeu3nuSU",
+      "etag": "H0zMyTlX8WkKjakYkAvTOyEXejQ",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
@@ -110,8 +110,7 @@
         "localized": {
           "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT31S",
@@ -286,7 +285,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "J54r3x0lgHgLDOTjckwIB477HEU",
+      "etag": "M9pJ_S4s6kWy_NLdgGbOY18t_hI",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -1259,8 +1258,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T00:50:56.364Z",
-    "expiresAt": "2026-11-21T01:35:56.364Z",
+    "checkedAt": "2026-11-21T08:17:14.532Z",
+    "expiresAt": "2026-11-21T09:02:14.532Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1344,7 +1343,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VpYel3_lfnsE2nWHasGLeu3nuSU",
+      "etag": "H0zMyTlX8WkKjakYkAvTOyEXejQ",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
@@ -1390,8 +1389,7 @@
         "localized": {
           "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT31S",
@@ -1566,7 +1564,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "J54r3x0lgHgLDOTjckwIB477HEU",
+      "etag": "M9pJ_S4s6kWy_NLdgGbOY18t_hI",
       "id": "ql_zVxDG9rw",
       "snippet": {
         "publishedAt": "2026-11-16T15:22:20Z",
@@ -4576,7 +4574,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-2RI9C8FXO_wGy4H6cuZ7f0ZJVM",
+      "etag": "8kWMhK6EmeoNiaGUzcKYW9Mbnic",
       "id": "sd16XXskLNE",
       "snippet": {
         "publishedAt": "2026-09-15T05:02:54Z",
@@ -5608,7 +5606,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1s9sCd7qf2HrRo2ZDobeOsvpvVQ",
+      "etag": "ApsbxpfGzANH9rUng7jNglVbGF4",
       "id": "IhKWrGn5Eto",
       "snippet": {
         "publishedAt": "2026-09-01T15:14:02Z",
@@ -6703,7 +6701,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mqa_P96xGVsPXzUE-5mwhs8uoP8",
+      "etag": "QiYRjtQmpwIxYFkB8u2zBCEGeNk",
       "id": "4npzTV2bOeA",
       "snippet": {
         "publishedAt": "2026-08-03T13:03:05Z",
@@ -7863,7 +7861,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZrsI0J0dZAIEq_Q3TmvrW6QTphE",
+      "etag": "bx-M7InEkeaG4Kb2VmjBRfdTArE",
       "id": "Cb9VWKnPnxI",
       "snippet": {
         "publishedAt": "2026-07-14T21:26:40Z",
@@ -8563,21 +8561,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:56.364Z"
+      "updatedAt": "2026-11-21T08:17:14.532Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:56.364Z"
+      "updatedAt": "2026-11-21T08:17:14.532Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T00:50:56.364Z"
+      "updatedAt": "2026-11-21T08:17:14.532Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T00:50:56.364Z",
-    "evaluatedAt": "2026-11-21T00:50:57.399Z"
+    "observedAt": "2026-11-21T08:17:14.532Z",
+    "evaluatedAt": "2026-11-21T08:17:15.381Z"
   }
 }

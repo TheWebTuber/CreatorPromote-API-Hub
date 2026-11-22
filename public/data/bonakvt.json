@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-22T17:09:34.567Z",
+  "updatedAt": "2026-11-22T22:28:25.817Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -64,7 +64,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "zB1rgoGdoX1PDNOUfP5rUKjmVUY",
+      "etag": "ok2BYAlQQWcyHAcpAx2NrJbdaRo",
       "id": "3NmDr6lSf2c",
       "snippet": {
         "publishedAt": "2026-11-22T13:59:33Z",
@@ -131,7 +131,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "613",
+        "viewCount": "1144",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -139,7 +139,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cyp0nXge0vmBalWGH4R0_b9J7iA",
+      "etag": "_eAMZPtri-22DXHsqja2JmSBmmA",
       "id": "XerLKBeDOYE",
       "snippet": {
         "publishedAt": "2026-11-22T07:44:29Z",
@@ -206,7 +206,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "55",
+        "viewCount": "45",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -214,7 +214,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6hX10XFIKrm_nGDb80L6ku_8Ixw",
+      "etag": "rt1VTo_fMwUyF4nfPqFPX1o7pJw",
       "id": "IzTl3LruiuQ",
       "snippet": {
         "publishedAt": "2026-11-21T12:06:13Z",
@@ -281,7 +281,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "58",
+        "viewCount": "57",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -965,7 +965,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3NmDr6lSf2c/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3NmDr6lSf2c",
-      "views": "613",
+      "views": "1144",
       "live": false,
       "wasLive": false
     },
@@ -982,7 +982,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/XerLKBeDOYE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=XerLKBeDOYE",
-      "views": "55",
+      "views": "45",
       "live": false,
       "wasLive": false
     },
@@ -999,7 +999,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/IzTl3LruiuQ/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=IzTl3LruiuQ",
-      "views": "58",
+      "views": "57",
       "live": false,
       "wasLive": false
     },
@@ -1266,8 +1266,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-22T17:09:34.567Z",
-    "expiresAt": "2026-11-22T17:54:34.567Z",
+    "checkedAt": "2026-11-22T22:28:25.817Z",
+    "expiresAt": "2026-11-22T23:13:25.817Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1278,7 +1278,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "zB1rgoGdoX1PDNOUfP5rUKjmVUY",
+      "etag": "ok2BYAlQQWcyHAcpAx2NrJbdaRo",
       "id": "3NmDr6lSf2c",
       "snippet": {
         "publishedAt": "2026-11-22T13:59:33Z",
@@ -1345,7 +1345,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "613",
+        "viewCount": "1144",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1353,7 +1353,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "cyp0nXge0vmBalWGH4R0_b9J7iA",
+      "etag": "_eAMZPtri-22DXHsqja2JmSBmmA",
       "id": "XerLKBeDOYE",
       "snippet": {
         "publishedAt": "2026-11-22T07:44:29Z",
@@ -1420,7 +1420,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "55",
+        "viewCount": "45",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1428,7 +1428,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6hX10XFIKrm_nGDb80L6ku_8Ixw",
+      "etag": "rt1VTo_fMwUyF4nfPqFPX1o7pJw",
       "id": "IzTl3LruiuQ",
       "snippet": {
         "publishedAt": "2026-11-21T12:06:13Z",
@@ -1495,7 +1495,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "58",
+        "viewCount": "57",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6269,7 +6269,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LMr6_3bEWTQ9A7_QSQ3UbX9swwU",
+      "etag": "tKuP6oQdIeqN84I-9t4Pp-ehIXg",
       "id": "s27TMpJnL08",
       "snippet": {
         "publishedAt": "2026-08-27T01:03:56Z",
@@ -6310,7 +6310,8 @@
         "localized": {
           "title": "reacting to random shit cuz im too tired to play league #vtuber #reaction",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT42M23S",
@@ -8578,21 +8579,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T17:09:34.567Z"
+      "updatedAt": "2026-11-22T22:28:25.817Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T17:09:34.567Z"
+      "updatedAt": "2026-11-22T22:28:25.817Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T17:09:34.567Z"
+      "updatedAt": "2026-11-22T22:28:25.817Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-22T17:09:34.567Z",
-    "evaluatedAt": "2026-11-22T17:09:35.655Z"
+    "observedAt": "2026-11-22T22:28:25.817Z",
+    "evaluatedAt": "2026-11-22T22:28:26.886Z"
   }
 }

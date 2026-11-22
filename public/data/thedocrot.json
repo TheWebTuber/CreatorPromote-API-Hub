@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-22T17:09:27.280Z",
+  "updatedAt": "2026-11-22T22:28:18.522Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "4fR5D09wRu_7ktSj-MlPM3IqnTs",
+    "etag": "CbF6rLfKLK-sc2FhXI0KtmG3ufU",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -42,7 +42,7 @@
       }
     },
     "statistics": {
-      "viewCount": "1214981",
+      "viewCount": "1216534",
       "subscriberCount": "734",
       "hiddenSubscriberCount": false,
       "videoCount": "3044"
@@ -61,7 +61,98 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "wTTEZ6U_p8M1AS0qlwBSlipeMEU",
+      "etag": "H56JmEaQ2eDqeiJ9Gefz9KQo_xo",
+      "id": "qusqoeafpig",
+      "snippet": {
+        "publishedAt": "2026-11-22T17:30:06Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/default.jpg?v=6b0326c7",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/mqdefault.jpg?v=6b0326c7",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/hqdefault.jpg?v=6b0326c7",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/sddefault.jpg?v=6b0326c7",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/maxresdefault.jpg?v=6b0326c7",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "live",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "36",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-22T17:30:18Z",
+        "scheduledStartTime": "2026-11-22T17:30:04Z",
+        "scheduledEndTime": "2026-11-22T22:32:12Z",
+        "concurrentViewers": "2",
+        "activeLiveChatId": "Cg0KC3F1c3FvZWFmcGlnKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILcXVzcW9lYWZwaWc"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "g4MFnD8Vw4B7stcymw4L0A6dGTM",
       "id": "cipkwqAlXwU",
       "snippet": {
         "publishedAt": "2026-11-22T10:12:51Z",
@@ -123,7 +214,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "33",
+        "viewCount": "40",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -131,7 +222,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jMYgN1P__ALcRd86DOCEtEcHCAY",
+      "etag": "Ec_1EKWQ27rlKGXh21xdQIFYSv4",
       "id": "zSlwU2I0Kpc",
       "snippet": {
         "publishedAt": "2026-11-22T10:09:00Z",
@@ -193,7 +284,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "11",
+        "viewCount": "13",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -201,7 +292,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hl61MGcUu3Ez8ra_Z8LEEAKaLOk",
+      "etag": "T-EdJNhZNR2vXzpLNYL4wqt7gVg",
       "id": "UQwlBiLApTI",
       "snippet": {
         "publishedAt": "2026-11-21T22:28:34Z",
@@ -276,7 +367,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "71",
+        "viewCount": "73",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -290,7 +381,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HzgIUXzE9FxUsZ_0Nw0lUePLGkk",
+      "etag": "ZLA5Xgobquv-cO6uSs_Ism7Wrx0",
       "id": "bUDP5fNf5gs",
       "snippet": {
         "publishedAt": "2026-11-21T10:17:39Z",
@@ -352,7 +443,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "566",
+        "viewCount": "587",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -360,7 +451,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vIwrV2kYwoQMLlui7Z6I9i6R64w",
+      "etag": "DhtNB8rpaWQNGSJo9GV7I-46opQ",
       "id": "DH4aMnXXsGc",
       "snippet": {
         "publishedAt": "2026-11-21T10:14:45Z",
@@ -422,7 +513,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "89",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -520,7 +611,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "W5wxd_hLxE_Fx2v02GcHXxo98RU",
+      "etag": "1gN5meGbuos1FXXAZPqJCz6tJZk",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -582,7 +673,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "135",
+        "viewCount": "142",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -730,7 +821,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HQW2ftc-0oYFQEyZupTb_o3GfmM",
+      "etag": "SHV187D9Oj0psBjY7xXqkfi2yzs",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -806,7 +897,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "46",
+        "viewCount": "47",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -820,7 +911,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Cu-h5DJIypFFO31iSfjb4--E8LM",
+      "etag": "rFbKxpWZnK7OZWpNKN6VPUb0Rtc",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -881,7 +972,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "46",
+        "viewCount": "47",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -4511,102 +4602,12 @@
         "favoriteCount": "0",
         "commentCount": "1"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "4ZeXl9sDbA3rUL4UG7FF9deWDPE",
-      "id": "7-IAbi6SfBU",
-      "snippet": {
-        "publishedAt": "2026-11-06T06:40:04Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "HAS THIS GAME CHANGED ALREADY!?! | Halloween: The Game",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7-IAbi6SfBU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7-IAbi6SfBU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7-IAbi6SfBU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7-IAbi6SfBU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7-IAbi6SfBU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HALLOWEEN",
-          "#HALLOWEENTHEGAME",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Halloween: The Game",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "HAS THIS GAME CHANGED ALREADY!?! | Halloween: The Game",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT1H53M18S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "85",
-        "likeCount": "5",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-05T16:30:17Z",
-        "actualEndTime": "2026-11-05T18:23:32Z",
-        "scheduledStartTime": "2026-11-05T16:30:01Z",
-        "scheduledEndTime": "2026-11-05T18:32:10Z"
-      }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "hl61MGcUu3Ez8ra_Z8LEEAKaLOk",
+      "etag": "T-EdJNhZNR2vXzpLNYL4wqt7gVg",
       "id": "UQwlBiLApTI",
       "snippet": {
         "publishedAt": "2026-11-21T22:28:34Z",
@@ -4681,7 +4682,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "71",
+        "viewCount": "73",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4785,7 +4786,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HQW2ftc-0oYFQEyZupTb_o3GfmM",
+      "etag": "SHV187D9Oj0psBjY7xXqkfi2yzs",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -4861,7 +4862,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "46",
+        "viewCount": "47",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5142,9 +5143,116 @@
       }
     }
   ],
-  "live": null,
-  "liveChecked": false,
+  "live": {
+    "kind": "youtube#video",
+    "etag": "H56JmEaQ2eDqeiJ9Gefz9KQo_xo",
+    "id": "qusqoeafpig",
+    "snippet": {
+      "publishedAt": "2026-11-22T17:30:06Z",
+      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+      "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
+      "description": "GOOD VIBES!!! :)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qusqoeafpig/default.jpg?v=6b0326c7",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qusqoeafpig/mqdefault.jpg?v=6b0326c7",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qusqoeafpig/hqdefault.jpg?v=6b0326c7",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qusqoeafpig/sddefault.jpg?v=6b0326c7",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qusqoeafpig/maxresdefault.jpg?v=6b0326c7",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "the docrot",
+      "tags": [
+        "#DBD",
+        "#DEADBYDAYLIGHT",
+        "#ENTERTAINMENT",
+        "#FORYOU",
+        "#FUNNY",
+        "#GAMING",
+        "#HORROR",
+        "#PS5Live",
+        "#SCARY",
+        "Dead by Daylight",
+        "PlayStation 5",
+        "Sony Interactive Entertainment"
+      ],
+      "categoryId": "20",
+      "liveBroadcastContent": "live",
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)"
+      },
+      "defaultAudioLanguage": "en-GB"
+    },
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "uploaded",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "36",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2026-11-22T17:30:18Z",
+      "scheduledStartTime": "2026-11-22T17:30:04Z",
+      "scheduledEndTime": "2026-11-22T22:32:12Z",
+      "concurrentViewers": "2",
+      "activeLiveChatId": "Cg0KC3F1c3FvZWFmcGlnKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILcXVzcW9lYWZwaWc"
+    }
+  },
+  "liveChecked": true,
   "latestVideos": [
+    {
+      "id": "qusqoeafpig",
+      "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
+      "label": "YouTube",
+      "publishedAt": "2026-11-22T17:30:06Z",
+      "startedAt": "2026-11-22T17:30:18Z",
+      "endedAt": null,
+      "scheduledAt": "2026-11-22T17:30:04Z",
+      "duration": "P0D",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/qusqoeafpig/mqdefault.jpg?v=6b0326c7",
+      "url": "https://www.youtube.com/watch?v=qusqoeafpig",
+      "views": "36",
+      "live": true,
+      "wasLive": true
+    },
     {
       "id": "cipkwqAlXwU",
       "title": "SOME GOOD DEFENDING...-ISH!?! #fc27 #foryou #gaming #shorts #reels #football #soccer #entertainment",
@@ -5158,7 +5266,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/cipkwqAlXwU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=cipkwqAlXwU",
-      "views": "33",
+      "views": "40",
       "live": false,
       "wasLive": false
     },
@@ -5175,7 +5283,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/zSlwU2I0Kpc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=zSlwU2I0Kpc",
-      "views": "11",
+      "views": "13",
       "live": false,
       "wasLive": false
     },
@@ -5192,7 +5300,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
-      "views": "71",
+      "views": "73",
       "live": false,
       "wasLive": true
     },
@@ -5209,7 +5317,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/bUDP5fNf5gs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bUDP5fNf5gs",
-      "views": "566",
+      "views": "587",
       "live": false,
       "wasLive": false
     },
@@ -5226,7 +5334,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/DH4aMnXXsGc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DH4aMnXXsGc",
-      "views": "67",
+      "views": "89",
       "live": false,
       "wasLive": false
     },
@@ -5260,7 +5368,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3hftChStS6w/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3hftChStS6w",
-      "views": "135",
+      "views": "142",
       "live": false,
       "wasLive": false
     },
@@ -5311,7 +5419,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "46",
+      "views": "47",
       "live": false,
       "wasLive": true
     },
@@ -5328,7 +5436,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/niX2Ed_LY5Q/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=niX2Ed_LY5Q",
-      "views": "46",
+      "views": "47",
       "live": false,
       "wasLive": false
     },
@@ -6147,26 +6255,26 @@
       "views": "71",
       "live": false,
       "wasLive": false
-    },
-    {
-      "id": "7-IAbi6SfBU",
-      "title": "HAS THIS GAME CHANGED ALREADY!?! | Halloween: The Game",
-      "label": "YouTube",
-      "publishedAt": "2026-11-06T06:40:04Z",
-      "startedAt": "2026-11-05T16:30:17Z",
-      "endedAt": "2026-11-05T18:23:32Z",
-      "scheduledAt": "2026-11-05T16:30:01Z",
-      "duration": "PT1H53M18S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/7-IAbi6SfBU/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7-IAbi6SfBU",
-      "views": "85",
-      "live": false,
-      "wasLive": true
     }
   ],
   "latestLivestreams": [
+    {
+      "id": "qusqoeafpig",
+      "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
+      "label": "Livestream",
+      "publishedAt": "2026-11-22T17:30:06Z",
+      "startedAt": "2026-11-22T17:30:18Z",
+      "endedAt": null,
+      "scheduledAt": "2026-11-22T17:30:04Z",
+      "duration": "P0D",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/qusqoeafpig/mqdefault.jpg?v=6b0326c7",
+      "url": "https://www.youtube.com/watch?v=qusqoeafpig",
+      "views": "36",
+      "live": true,
+      "wasLive": true
+    },
     {
       "id": "UQwlBiLApTI",
       "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
@@ -6180,7 +6288,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
-      "views": "71",
+      "views": "73",
       "live": false,
       "wasLive": true
     },
@@ -6214,7 +6322,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "46",
+      "views": "47",
       "live": false,
       "wasLive": true
     },
@@ -6251,23 +6359,6 @@
       "views": "96",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "rtHQCknsutM",
-      "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | eFootball",
-      "label": "Livestream",
-      "publishedAt": "2026-11-16T22:23:58Z",
-      "startedAt": "2026-11-16T19:11:22Z",
-      "endedAt": "2026-11-16T22:08:13Z",
-      "scheduledAt": "2026-11-16T19:11:09Z",
-      "duration": "PT2H56M53S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/rtHQCknsutM/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rtHQCknsutM",
-      "views": "114",
-      "live": false,
-      "wasLive": true
     }
   ],
   "latestReplays": [
@@ -6284,7 +6375,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
-      "views": "71",
+      "views": "73",
       "live": false,
       "wasLive": true
     },
@@ -6318,7 +6409,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "46",
+      "views": "47",
       "live": false,
       "wasLive": true
     },
@@ -6375,10 +6466,26 @@
     }
   ],
   "liveStatus": {
-    "status": "unknown",
-    "video": null,
-    "checkedAt": "2026-11-22T17:09:27.280Z",
-    "expiresAt": "2026-11-22T17:54:27.280Z",
+    "status": "live",
+    "video": {
+      "id": "qusqoeafpig",
+      "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
+      "label": "Live now",
+      "publishedAt": "2026-11-22T17:30:06Z",
+      "startedAt": "2026-11-22T17:30:18Z",
+      "endedAt": null,
+      "scheduledAt": "2026-11-22T17:30:04Z",
+      "duration": "P0D",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/qusqoeafpig/mqdefault.jpg?v=6b0326c7",
+      "url": "https://www.youtube.com/watch?v=qusqoeafpig",
+      "views": "36",
+      "live": true,
+      "wasLive": true
+    },
+    "checkedAt": "2026-11-22T22:28:18.522Z",
+    "expiresAt": "2026-11-22T23:13:18.522Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6389,7 +6496,98 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "wTTEZ6U_p8M1AS0qlwBSlipeMEU",
+      "etag": "H56JmEaQ2eDqeiJ9Gefz9KQo_xo",
+      "id": "qusqoeafpig",
+      "snippet": {
+        "publishedAt": "2026-11-22T17:30:06Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/default.jpg?v=6b0326c7",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/mqdefault.jpg?v=6b0326c7",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/hqdefault.jpg?v=6b0326c7",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/sddefault.jpg?v=6b0326c7",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qusqoeafpig/maxresdefault.jpg?v=6b0326c7",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "live",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "36",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-22T17:30:18Z",
+        "scheduledStartTime": "2026-11-22T17:30:04Z",
+        "scheduledEndTime": "2026-11-22T22:32:12Z",
+        "concurrentViewers": "2",
+        "activeLiveChatId": "Cg0KC3F1c3FvZWFmcGlnKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILcXVzcW9lYWZwaWc"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "g4MFnD8Vw4B7stcymw4L0A6dGTM",
       "id": "cipkwqAlXwU",
       "snippet": {
         "publishedAt": "2026-11-22T10:12:51Z",
@@ -6451,7 +6649,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "33",
+        "viewCount": "40",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -6459,7 +6657,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jMYgN1P__ALcRd86DOCEtEcHCAY",
+      "etag": "Ec_1EKWQ27rlKGXh21xdQIFYSv4",
       "id": "zSlwU2I0Kpc",
       "snippet": {
         "publishedAt": "2026-11-22T10:09:00Z",
@@ -6521,7 +6719,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "11",
+        "viewCount": "13",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6529,7 +6727,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hl61MGcUu3Ez8ra_Z8LEEAKaLOk",
+      "etag": "T-EdJNhZNR2vXzpLNYL4wqt7gVg",
       "id": "UQwlBiLApTI",
       "snippet": {
         "publishedAt": "2026-11-21T22:28:34Z",
@@ -6604,7 +6802,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "71",
+        "viewCount": "73",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6618,7 +6816,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HzgIUXzE9FxUsZ_0Nw0lUePLGkk",
+      "etag": "ZLA5Xgobquv-cO6uSs_Ism7Wrx0",
       "id": "bUDP5fNf5gs",
       "snippet": {
         "publishedAt": "2026-11-21T10:17:39Z",
@@ -6680,7 +6878,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "566",
+        "viewCount": "587",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6688,7 +6886,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vIwrV2kYwoQMLlui7Z6I9i6R64w",
+      "etag": "DhtNB8rpaWQNGSJo9GV7I-46opQ",
       "id": "DH4aMnXXsGc",
       "snippet": {
         "publishedAt": "2026-11-21T10:14:45Z",
@@ -6750,7 +6948,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "89",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -6848,7 +7046,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "W5wxd_hLxE_Fx2v02GcHXxo98RU",
+      "etag": "1gN5meGbuos1FXXAZPqJCz6tJZk",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -6910,7 +7108,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "135",
+        "viewCount": "142",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -7058,7 +7256,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HQW2ftc-0oYFQEyZupTb_o3GfmM",
+      "etag": "SHV187D9Oj0psBjY7xXqkfi2yzs",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -7134,7 +7332,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "46",
+        "viewCount": "47",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7148,7 +7346,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Cu-h5DJIypFFO31iSfjb4--E8LM",
+      "etag": "rFbKxpWZnK7OZWpNKN6VPUb0Rtc",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -7209,7 +7407,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "46",
+        "viewCount": "47",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -17676,75 +17874,6 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UoLo0RJEco0uIWrYpy0wkh3cWgs",
-      "id": "-mQBSHbGS20",
-      "snippet": {
-        "publishedAt": "2026-10-12T09:05:22Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "I DESERVED BETTER!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
-        "description": "Who was it!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-mQBSHbGS20/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-mQBSHbGS20/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-mQBSHbGS20/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-mQBSHbGS20/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-mQBSHbGS20/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I DESERVED BETTER!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
-          "description": "Who was it!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT52S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "134",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "playlists": [],
@@ -17753,21 +17882,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T17:09:27.280Z"
+      "updatedAt": "2026-11-22T22:28:18.522Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T17:09:27.280Z"
+      "updatedAt": "2026-11-22T22:28:18.522Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T17:09:27.280Z"
+      "updatedAt": "2026-11-22T22:28:18.522Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-22T17:09:27.280Z",
-    "evaluatedAt": "2026-11-22T17:09:30.088Z"
+    "observedAt": "2026-11-22T22:28:18.522Z",
+    "evaluatedAt": "2026-11-22T22:28:21.030Z"
   }
 }

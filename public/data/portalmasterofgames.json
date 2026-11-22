@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "portalmasterofgames",
   "label": "Portal Master Of Games",
-  "updatedAt": "2026-11-22T17:09:38.576Z",
+  "updatedAt": "2026-11-22T22:28:29.541Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -224,7 +224,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kHYvywjYdGJtg3ooWNggr9wR2jU",
+      "etag": "Bqgn-9f_PruvpkT0JQuYa1jA4yU",
       "id": "Dmn4zac3nrU",
       "snippet": {
         "publishedAt": "2026-10-24T11:37:35Z",
@@ -291,7 +291,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "38",
+        "viewCount": "39",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -704,7 +704,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kHYvywjYdGJtg3ooWNggr9wR2jU",
+      "etag": "Bqgn-9f_PruvpkT0JQuYa1jA4yU",
       "id": "Dmn4zac3nrU",
       "snippet": {
         "publishedAt": "2026-10-24T11:37:35Z",
@@ -771,7 +771,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "38",
+        "viewCount": "39",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1072,7 +1072,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Dmn4zac3nrU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Dmn4zac3nrU",
-      "views": "38",
+      "views": "39",
       "live": false,
       "wasLive": true
     },
@@ -1176,7 +1176,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Dmn4zac3nrU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Dmn4zac3nrU",
-      "views": "38",
+      "views": "39",
       "live": false,
       "wasLive": true
     },
@@ -1280,7 +1280,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Dmn4zac3nrU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Dmn4zac3nrU",
-      "views": "38",
+      "views": "39",
       "live": false,
       "wasLive": true
     },
@@ -1339,8 +1339,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-22T17:09:38.576Z",
-    "expiresAt": "2026-11-22T17:54:38.576Z",
+    "checkedAt": "2026-11-22T22:28:29.541Z",
+    "expiresAt": "2026-11-22T23:13:29.541Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1510,7 +1510,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kHYvywjYdGJtg3ooWNggr9wR2jU",
+      "etag": "Bqgn-9f_PruvpkT0JQuYa1jA4yU",
       "id": "Dmn4zac3nrU",
       "snippet": {
         "publishedAt": "2026-10-24T11:37:35Z",
@@ -1577,7 +1577,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "38",
+        "viewCount": "39",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2147,7 +2147,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "U9l32wHtuiUagSIhXNQWf_Wf8ss",
+      "etag": "yx-NP92k0cpmIHxu6WgWhC09fyw",
       "id": "Z_f1LrmqaEA",
       "snippet": {
         "publishedAt": "2026-10-04T10:40:48Z",
@@ -3213,7 +3213,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_ismRYd1oFGJ-oHh8U8cAO86AVM",
+      "etag": "8RyKFeo0kGNxzkuTuel2Zp2TChE",
       "id": "c-jfgUv7du4",
       "snippet": {
         "publishedAt": "2026-08-06T08:34:53Z",
@@ -8833,21 +8833,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T17:09:38.576Z"
+      "updatedAt": "2026-11-22T22:28:29.541Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T17:09:38.576Z"
+      "updatedAt": "2026-11-22T22:28:29.541Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T17:09:38.576Z"
+      "updatedAt": "2026-11-22T22:28:29.541Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-22T17:09:38.576Z",
-    "evaluatedAt": "2026-11-22T17:09:39.437Z"
+    "observedAt": "2026-11-22T22:28:29.541Z",
+    "evaluatedAt": "2026-11-22T22:28:30.509Z"
   }
 }

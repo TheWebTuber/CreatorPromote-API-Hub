@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "daddydepresso",
   "label": "Daddy Depresso",
-  "updatedAt": "2026-11-22T08:51:17.446Z",
+  "updatedAt": "2026-11-22T17:09:33.598Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -957,8 +957,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-22T08:51:17.446Z",
-    "expiresAt": "2026-11-22T09:36:17.446Z",
+    "checkedAt": "2026-11-22T17:09:33.598Z",
+    "expiresAt": "2026-11-22T17:54:33.598Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -976,7 +976,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/JbUP0EUS3UI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=JbUP0EUS3UI",
-      "views": "22",
+      "views": "24",
       "live": false,
       "wasLive": true,
       "featured": false
@@ -994,7 +994,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/yvwBdRjpZiY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=yvwBdRjpZiY",
-      "views": "340",
+      "views": "341",
       "live": false,
       "wasLive": true,
       "featured": false
@@ -4595,7 +4595,7 @@
   "collabSources": {
     "PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:17.446Z",
+      "updatedAt": "2026-11-22T17:09:33.598Z",
       "items": [
         {
           "id": "FRVmoksciRg",
@@ -4619,7 +4619,7 @@
     },
     "PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:17.446Z",
+      "updatedAt": "2026-11-22T17:09:33.598Z",
       "items": [
         {
           "id": "Q7gZ-ubMTSA",
@@ -5480,7 +5480,7 @@
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/JbUP0EUS3UI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JbUP0EUS3UI",
-          "views": "22",
+          "views": "24",
           "live": false,
           "wasLive": true,
           "featured": false
@@ -5498,7 +5498,7 @@
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/yvwBdRjpZiY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=yvwBdRjpZiY",
-          "views": "340",
+          "views": "341",
           "live": false,
           "wasLive": true,
           "featured": false
@@ -5507,7 +5507,7 @@
     },
     "PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:17.446Z",
+      "updatedAt": "2026-11-22T17:09:33.598Z",
       "items": [
         {
           "id": "TqJk7cQ72e0",
@@ -5786,33 +5786,33 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:17.446Z"
+      "updatedAt": "2026-11-22T17:09:33.598Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:17.446Z"
+      "updatedAt": "2026-11-22T17:09:33.598Z"
     },
     "collab:PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:17.446Z"
+      "updatedAt": "2026-11-22T17:09:33.598Z"
     },
     "collab:PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:17.446Z"
+      "updatedAt": "2026-11-22T17:09:33.598Z"
     },
     "collab:PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:17.446Z"
+      "updatedAt": "2026-11-22T17:09:33.598Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:17.446Z"
+      "updatedAt": "2026-11-22T17:09:33.598Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-22T08:51:17.446Z",
-    "evaluatedAt": "2026-11-22T08:51:18.880Z"
+    "observedAt": "2026-11-22T17:09:33.598Z",
+    "evaluatedAt": "2026-11-22T17:09:34.565Z"
   }
 }

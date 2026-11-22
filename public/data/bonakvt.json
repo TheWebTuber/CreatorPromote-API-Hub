@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-22T08:51:18.882Z",
+  "updatedAt": "2026-11-22T17:09:34.567Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "QEPNAR6G2nAZ2xVKxGD01VH6v7w",
+    "etag": "ZaEMrQPt7E6E0PUbZIMD_3P1Yc4",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,10 +43,10 @@
       }
     },
     "statistics": {
-      "viewCount": "66538",
+      "viewCount": "66539",
       "subscriberCount": "100",
       "hiddenSubscriberCount": false,
-      "videoCount": "208"
+      "videoCount": "209"
     },
     "brandingSettings": {
       "channel": {
@@ -62,6 +62,81 @@
     "url": "https://www.youtube.com/channel/UCKE1MnwHQBM8i7Or5K_zcmA"
   },
   "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "zB1rgoGdoX1PDNOUfP5rUKjmVUY",
+      "id": "3NmDr6lSf2c",
+      "snippet": {
+        "publishedAt": "2026-11-22T13:59:33Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "my first game with voice chat..  #vtuber #leagueoflegends #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "my first game with voice chat..  #vtuber #leagueoflegends #fyp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "613",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "cyp0nXge0vmBalWGH4R0_b9J7iA",
@@ -429,75 +504,6 @@
       "statistics": {
         "viewCount": "1178",
         "likeCount": "3",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "M9pJ_S4s6kWy_NLdgGbOY18t_hI",
-      "id": "ql_zVxDG9rw",
-      "snippet": {
-        "publishedAt": "2026-11-16T15:22:20Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "shortsAspectRatio": {
-            "url": "https://i.ytimg.com/vi/ql_zVxDG9rw/sardefault.jpg",
-            "width": 128,
-            "height": 228
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "leagueoflegends",
-          "twitch"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "926",
-        "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -947,6 +953,23 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "3NmDr6lSf2c",
+      "title": "my first game with voice chat..  #vtuber #leagueoflegends #fyp",
+      "label": "YouTube",
+      "publishedAt": "2026-11-22T13:59:33Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT27S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/3NmDr6lSf2c/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3NmDr6lSf2c",
+      "views": "613",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "XerLKBeDOYE",
       "title": "I'm too addicted to league to play gta  #vtuber #leagueoflegends #gta6 #shorts #fyp",
       "label": "YouTube",
@@ -1028,23 +1051,6 @@
       "thumbnail": "https://i.ytimg.com/vi/iwXIeP9x8WM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=iwXIeP9x8WM",
       "views": "1178",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "ql_zVxDG9rw",
-      "title": "the nail flip of doom # #vtuber #leagueoflegends #fyp shorts",
-      "label": "YouTube",
-      "publishedAt": "2026-11-16T15:22:20Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT39S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
-      "views": "926",
       "live": false,
       "wasLive": false
     }
@@ -1260,8 +1266,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-22T08:51:18.882Z",
-    "expiresAt": "2026-11-22T09:36:18.882Z",
+    "checkedAt": "2026-11-22T17:09:34.567Z",
+    "expiresAt": "2026-11-22T17:54:34.567Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1270,6 +1276,81 @@
   "scannedUploadCount": 100,
   "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed.",
   "catalog": [
+    {
+      "kind": "youtube#video",
+      "etag": "zB1rgoGdoX1PDNOUfP5rUKjmVUY",
+      "id": "3NmDr6lSf2c",
+      "snippet": {
+        "publishedAt": "2026-11-22T13:59:33Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "my first game with voice chat..  #vtuber #leagueoflegends #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3NmDr6lSf2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "my first game with voice chat..  #vtuber #leagueoflegends #fyp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "613",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "cyp0nXge0vmBalWGH4R0_b9J7iA",
@@ -3917,7 +3998,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "F9RnBi24L7F-7PxAyMruwOlxTI8",
+      "etag": "p3CoDro9YNuSIRDXgco0SXbvsP0",
       "id": "kevKviMjKuc",
       "snippet": {
         "publishedAt": "2026-10-01T11:24:36Z",
@@ -8489,79 +8570,6 @@
         "favoriteCount": "0",
         "commentCount": "2"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "W4EEzF3s7Q5KEKHkb0AZZjFOPls",
-      "id": "rT1ncTdLW5w",
-      "snippet": {
-        "publishedAt": "2026-07-12T07:53:37Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "100% totally master gameplay #vtuber#leagueoflegends",
-        "description": "fox plays league",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rT1ncTdLW5w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rT1ncTdLW5w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rT1ncTdLW5w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rT1ncTdLW5w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "fnaf",
-          "fivenightsatfreddys2"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "100% totally master gameplay #vtuber#leagueoflegends",
-          "description": "fox plays league"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT2H27M11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "11",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-07-12T05:18:28Z",
-        "actualEndTime": "2026-07-12T07:45:39Z"
-      }
     }
   ],
   "playlists": [],
@@ -8570,21 +8578,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:18.882Z"
+      "updatedAt": "2026-11-22T17:09:34.567Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:18.882Z"
+      "updatedAt": "2026-11-22T17:09:34.567Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T08:51:18.882Z"
+      "updatedAt": "2026-11-22T17:09:34.567Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-22T08:51:18.882Z",
-    "evaluatedAt": "2026-11-22T08:51:19.723Z"
+    "observedAt": "2026-11-22T17:09:34.567Z",
+    "evaluatedAt": "2026-11-22T17:09:35.655Z"
   }
 }

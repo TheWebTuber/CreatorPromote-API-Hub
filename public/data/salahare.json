@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-21T21:40:17.947Z",
+  "updatedAt": "2026-11-22T01:35:57.321Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "10OrxRlVugSYqiOyZzz1z3eZMDo",
+    "etag": "L-obl2Vjk65i-RQKo40rL20NZX4",
     "id": "UCW2g_zIWdsZkbsFc0AUR-ag",
     "snippet": {
       "title": "Salahare - Dream Drops Crew Vtuber",
@@ -44,7 +44,7 @@
     },
     "statistics": {
       "viewCount": "29225",
-      "subscriberCount": "182",
+      "subscriberCount": "181",
       "hiddenSubscriberCount": false,
       "videoCount": "59"
     },
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T21:40:17.947Z",
-    "expiresAt": "2026-11-21T22:25:17.947Z",
+    "checkedAt": "2026-11-22T01:35:57.321Z",
+    "expiresAt": "2026-11-22T02:20:57.321Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -2155,7 +2155,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rLQ6aDVbmpghpsbT8M9r1iQnw3k",
+      "etag": "CCgVY1kte4ePUFbvkRmYP-XR9FE",
       "id": "HAPBe0dvT6o",
       "snippet": {
         "publishedAt": "2025-11-07T04:38:54Z",
@@ -2899,7 +2899,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "K7EH5lrnh2Yg4mtl97INqSpmTAc",
+      "etag": "tQ-ksOuaKyJXEZzIaPBYe3qW0nI",
       "id": "TNp3lNyZABQ",
       "snippet": {
         "publishedAt": "2024-06-19T16:47:35Z",
@@ -3606,7 +3606,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FyRE7UVZ0BUbXXg1V-YdLPo1GCA",
+      "etag": "bEVza6qRJaDBdQNy25KNzOMDBqA",
       "id": "RoJG3CB-FHI",
       "snippet": {
         "publishedAt": "2024-01-19T22:08:02Z",
@@ -4070,7 +4070,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0-qJdyEHJxExOQmmKmOGo2L2Hac",
+      "etag": "155qfl3SN6Qz-m-tXq6ubR4z_bQ",
       "id": "MPyqADzJO50",
       "snippet": {
         "publishedAt": "2024-01-07T02:51:32Z",
@@ -4374,7 +4374,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "UIhvsBwP-4BTrSoaj8rdPG1payQ",
+      "etag": "sDRu3Nmr84-wgIfMD-N8UBgdn0s",
       "id": "OiygMko4Yrc",
       "snippet": {
         "publishedAt": "2023-07-23T02:11:42Z",
@@ -4859,7 +4859,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ppecqFJn6y6tRLRHNTOJwja0P2U",
+      "etag": "KiZi5eh9HE03MKrogtS9MB82QQA",
       "id": "jGYN5OiTCeA",
       "snippet": {
         "publishedAt": "2016-03-29T07:14:28Z",
@@ -5752,7 +5752,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "y1E1rk4Qqrd5c5nWw4RZ0EAF1VU",
+      "etag": "6pXqOb0we4ot2x3fg_Lja1lKQtg",
       "id": "42OgjFRDFak",
       "snippet": {
         "publishedAt": "2012-07-24T01:37:49Z",
@@ -6432,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:17.947Z"
+      "updatedAt": "2026-11-22T01:35:57.321Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:17.947Z"
+      "updatedAt": "2026-11-22T01:35:57.321Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:17.947Z"
+      "updatedAt": "2026-11-22T01:35:57.321Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T21:40:17.947Z",
-    "evaluatedAt": "2026-11-21T21:40:18.612Z"
+    "observedAt": "2026-11-22T01:35:57.321Z",
+    "evaluatedAt": "2026-11-22T01:35:58.221Z"
   }
 }

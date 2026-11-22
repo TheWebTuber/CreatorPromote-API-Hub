@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "crystalsdreamdrops",
   "label": "Crystalsdreamdrops",
-  "updatedAt": "2026-11-21T21:40:17.630Z",
+  "updatedAt": "2026-11-22T01:35:56.804Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "kt3j5xsFlHPQIQ1OYM1wcG9x1AI",
+    "etag": "0IUfYNrwkkCElS46nwRx8y0kgsc",
     "id": "UCtaRwYXdPWmrXhwirPL3oKw",
     "snippet": {
       "title": "Crystal’s Dream Drops",
@@ -44,7 +44,7 @@
     },
     "statistics": {
       "viewCount": "3335",
-      "subscriberCount": "29",
+      "subscriberCount": "28",
       "hiddenSubscriberCount": false,
       "videoCount": "25"
     },
@@ -1295,8 +1295,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T21:40:17.630Z",
-    "expiresAt": "2026-11-21T22:25:17.630Z",
+    "checkedAt": "2026-11-22T01:35:56.804Z",
+    "expiresAt": "2026-11-22T02:20:56.804Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -2924,7 +2924,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "RTJOsePipoQfhrh8CGLqWMOzlUs",
+      "etag": "Q8j2dZqV96RDPv2QIauVnP0y1Aw",
       "id": "QY_FGh7jaaI",
       "snippet": {
         "publishedAt": "2024-08-12T19:01:17Z",
@@ -3211,21 +3211,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:17.630Z"
+      "updatedAt": "2026-11-22T01:35:56.804Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:17.630Z"
+      "updatedAt": "2026-11-22T01:35:56.804Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:17.630Z"
+      "updatedAt": "2026-11-22T01:35:56.804Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T21:40:17.630Z",
-    "evaluatedAt": "2026-11-21T21:40:17.946Z"
+    "observedAt": "2026-11-22T01:35:56.804Z",
+    "evaluatedAt": "2026-11-22T01:35:57.319Z"
   }
 }

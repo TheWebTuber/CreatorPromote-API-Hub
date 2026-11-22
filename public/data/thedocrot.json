@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-21T21:40:06.693Z",
+  "updatedAt": "2026-11-22T01:35:43.453Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "043abWixjmw1a3HBd29pAGS9iR8",
+    "etag": "ib-JiZHwZfL6_MQlkN6vMbxqsT8",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -45,7 +45,7 @@
       "viewCount": "1214967",
       "subscriberCount": "734",
       "hiddenSubscriberCount": false,
-      "videoCount": "3041"
+      "videoCount": "3042"
     },
     "brandingSettings": {
       "channel": {
@@ -61,36 +61,36 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "Z1cRB5LNK_zPFj_z9a9a8BqYoiU",
+      "etag": "1X8k4odWasdqoDomTxtcy_aLow0",
       "id": "UQwlBiLApTI",
       "snippet": {
-        "publishedAt": "2026-11-21T19:01:10Z",
+        "publishedAt": "2026-11-21T22:28:34Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/default.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/hqdefault.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/sddefault.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/maxresdefault.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -110,7 +110,7 @@
           "eFootball™"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
@@ -119,16 +119,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT3H11M24S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -136,22 +136,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "26",
+        "viewCount": "67",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-21T19:01:23Z",
+        "actualEndTime": "2026-11-21T22:13:02Z",
         "scheduledStartTime": "2026-11-21T19:01:09Z",
-        "scheduledEndTime": "2026-11-21T21:43:17Z",
-        "concurrentViewers": "4",
-        "activeLiveChatId": "Cg0KC1VRd2xCaUxBcFRJKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILVVF3bEJpTEFwVEk"
+        "scheduledEndTime": "2026-11-21T22:03:17Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fizyCnDt3zUFMBEQUzy95HOw5Ng",
+      "etag": "5N3TDOo_YdIj_lqjai4r-EA3S-8",
       "id": "bUDP5fNf5gs",
       "snippet": {
         "publishedAt": "2026-11-21T10:17:39Z",
@@ -213,15 +212,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "435",
-        "likeCount": "4",
+        "viewCount": "509",
+        "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "it2IdWmtO7HZGWfMK-h7GcKP_Qs",
+      "etag": "YX3MQryME4YUBX2qkpZgkhMCaEI",
       "id": "DH4aMnXXsGc",
       "snippet": {
         "publishedAt": "2026-11-21T10:14:45Z",
@@ -283,7 +282,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "45",
+        "viewCount": "48",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -291,7 +290,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KtigtR4UwCzQLA-jIqdQo9ugmx0",
+      "etag": "B_k9WvcNYZIBvI3DLxsprv8icqU",
       "id": "OnZMuz_IfzU",
       "snippet": {
         "publishedAt": "2026-11-21T00:50:50Z",
@@ -367,7 +366,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "95",
+        "viewCount": "100",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -381,7 +380,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KX2Ac56urMQmCBcznCtYNUV3-10",
+      "etag": "adGN_E2HYeNIue76J8if62ktWiM",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -443,7 +442,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "106",
+        "viewCount": "114",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -451,7 +450,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MAjjNCjXOd36--lf5kdGJlToLIA",
+      "etag": "_NH5y4xtzY__Iqj2DTDqx4aKnjY",
       "id": "wWzn4Jk2iKg",
       "snippet": {
         "publishedAt": "2026-11-20T10:17:59Z",
@@ -513,7 +512,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "606",
+        "viewCount": "618",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -521,7 +520,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "OSbjL-DKcD8b32xn3lPAtuFYQQg",
+      "etag": "l1SOFmuJTaoYohUhiAKXg0biSvo",
       "id": "tUWe9lWSARQ",
       "snippet": {
         "publishedAt": "2026-11-20T10:14:49Z",
@@ -583,7 +582,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "643",
+        "viewCount": "652",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -591,7 +590,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vGol_ddeKP1pGv4dvav8SnAmOj8",
+      "etag": "k09yOVfjkPCMwAitEnuW-9Gh7F0",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -667,7 +666,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "42",
+        "viewCount": "44",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -681,7 +680,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kBwzLBGL-84GQuG_5hE8u0BBYvg",
+      "etag": "A_NKRf2vLAfSsLpds9LUDr3KTKg",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -722,8 +721,7 @@
         "localized": {
           "title": "MY HARDEST WWE FIGHT IN HISTORY!?! | WWE2K26",
           "description": "What is good my people, it's your boy thedocrot and this time we are back with a WWE2K26 video!\n\nThis time it is a fight on my faction which took me FOREVER to win! \n\nAs you will be able to tell the quality isn't great as it was clipped from a stream but it felt like a moment that was worthy of its own video!\n\nLet me know if you want to see more WWE2K26 content, I have been trying to stream it once a week recently but if you would like to see any other content on it then comment down below!\n\nFor now though it has been your boy thedocrot, I hope you have an amazing day or an amazing evening and I shall see you all in the next one!\n\nLove and Peace my people!\n\n\n\n\n\n\n\n\n\n#wwe #wwe2k26 #wrestling #stephanievaquer #funny #wwefan #wrestler #wrestlinggame"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT21M4S",
@@ -743,7 +741,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "32",
+        "viewCount": "36",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -751,7 +749,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6u4VE_Gi0v57xT4nN9XOEmQSCTc",
+      "etag": "Z_lTKnSJdcF-JkYHokNZWbQJ1Qo",
       "id": "YZOQWsawfrw",
       "snippet": {
         "publishedAt": "2026-11-19T10:08:50Z",
@@ -792,8 +790,7 @@
         "localized": {
           "title": "WHY DO THEY GET THE LUCK!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
           "description": "Anybody else feel like this?"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT39S",
@@ -821,7 +818,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jHwgpsDKkq_4wC70-bCViuQrTkE",
+      "etag": "LUhwPljPW1m1k6UZHn2lTVN2gMU",
       "id": "-MKoAGVpILc",
       "snippet": {
         "publishedAt": "2026-11-19T10:06:03Z",
@@ -862,8 +859,7 @@
         "localized": {
           "title": "BUT NOT THAT BAD!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
           "description": "You can't feel too bad!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT22S",
@@ -981,7 +977,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QCpwa3XRsHQwGNsVCnaTFY2QnJU",
+      "etag": "MkX7Jcws_ftV4_vZ-8hskojUvhs",
       "id": "8ec7wR5ao2c",
       "snippet": {
         "publishedAt": "2026-11-18T10:35:00Z",
@@ -1022,8 +1018,7 @@
         "localized": {
           "title": "HALLOWEEN IS OVER!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
           "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT12M51S",
@@ -1051,7 +1046,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ztpWiySldTv9j8_1JI1nnGnNogs",
+      "etag": "hdD8-zMI3S_TxE5bTIzESinTceU",
       "id": "mwnD-4PlF1o",
       "snippet": {
         "publishedAt": "2026-11-18T10:13:18Z",
@@ -1092,8 +1087,7 @@
         "localized": {
           "title": "NO WAY THAT ALMOST WORKED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
           "description": "It was very close!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT23S",
@@ -1348,7 +1342,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0lb5evl1N4Z5PpVgnj_2GPsotNU",
+      "etag": "1ICdDFrTwytAK9ctZhHYjudg89o",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -1389,8 +1383,7 @@
         "localized": {
           "title": "STICK DRIFT MADE ME ESCAPE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
           "description": "It wasn't me!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT39S",
@@ -4611,7 +4604,96 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "KtigtR4UwCzQLA-jIqdQo9ugmx0",
+      "etag": "1X8k4odWasdqoDomTxtcy_aLow0",
+      "id": "UQwlBiLApTI",
+      "snippet": {
+        "publishedAt": "2026-11-21T22:28:34Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#EFOOTBALL",
+          "#ENTERTAINMENT",
+          "#FOOTBALL",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#SOCCER",
+          "PlayStation 5",
+          "Sony Interactive Entertainment",
+          "eFootball™"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT3H11M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "67",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-21T19:01:23Z",
+        "actualEndTime": "2026-11-21T22:13:02Z",
+        "scheduledStartTime": "2026-11-21T19:01:09Z",
+        "scheduledEndTime": "2026-11-21T22:03:17Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "B_k9WvcNYZIBvI3DLxsprv8icqU",
       "id": "OnZMuz_IfzU",
       "snippet": {
         "publishedAt": "2026-11-21T00:50:50Z",
@@ -4687,7 +4769,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "95",
+        "viewCount": "100",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4701,7 +4783,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vGol_ddeKP1pGv4dvav8SnAmOj8",
+      "etag": "k09yOVfjkPCMwAitEnuW-9Gh7F0",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -4777,7 +4859,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "42",
+        "viewCount": "44",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5056,205 +5138,26 @@
         "scheduledStartTime": "2026-11-16T19:11:09Z",
         "scheduledEndTime": "2026-11-16T22:13:16Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "aQY_vS8aLkf6vHY5LcPUMlxlxfs",
-      "id": "S4e6-yav3Y4",
-      "snippet": {
-        "publishedAt": "2026-11-16T20:33:38Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/S4e6-yav3Y4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#ENTERTAINMENT",
-          "#FC",
-          "#FC27",
-          "#FOOTBALL",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#PS5Live",
-          "#SOCCER",
-          "EA SPORTS FC 27",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT2H6M54S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "105",
-        "likeCount": "3",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-16T17:00:44Z",
-        "actualEndTime": "2026-11-16T19:07:43Z",
-        "scheduledStartTime": "2026-11-16T17:00:28Z",
-        "scheduledEndTime": "2026-11-16T19:02:35Z"
-      }
     }
   ],
-  "live": {
-    "kind": "youtube#video",
-    "etag": "Z1cRB5LNK_zPFj_z9a9a8BqYoiU",
-    "id": "UQwlBiLApTI",
-    "snippet": {
-      "publishedAt": "2026-11-21T19:01:10Z",
-      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-      "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
-      "description": "GOOD VIBES!!! :)",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UQwlBiLApTI/default.jpg?v=6b01ea91",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg?v=6b01ea91",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UQwlBiLApTI/hqdefault.jpg?v=6b01ea91",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/UQwlBiLApTI/sddefault.jpg?v=6b01ea91",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/UQwlBiLApTI/maxresdefault.jpg?v=6b01ea91",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "the docrot",
-      "tags": [
-        "#EFOOTBALL",
-        "#ENTERTAINMENT",
-        "#FOOTBALL",
-        "#FORYOU",
-        "#FUNNY",
-        "#GAMING",
-        "#PS5Live",
-        "#SOCCER",
-        "PlayStation 5",
-        "Sony Interactive Entertainment",
-        "eFootball™"
-      ],
-      "categoryId": "20",
-      "liveBroadcastContent": "live",
-      "defaultLanguage": "en-GB",
-      "localized": {
-        "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
-        "description": "GOOD VIBES!!! :)"
-      },
-      "defaultAudioLanguage": "en-GB"
-    },
-    "contentDetails": {
-      "duration": "P0D",
-      "dimension": "2d",
-      "definition": "sd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "status": {
-      "uploadStatus": "uploaded",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    },
-    "statistics": {
-      "viewCount": "26",
-      "likeCount": "1",
-      "favoriteCount": "0",
-      "commentCount": "0"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2026-11-21T19:01:23Z",
-      "scheduledStartTime": "2026-11-21T19:01:09Z",
-      "scheduledEndTime": "2026-11-21T21:43:17Z",
-      "concurrentViewers": "4",
-      "activeLiveChatId": "Cg0KC1VRd2xCaUxBcFRJKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILVVF3bEJpTEFwVEk"
-    }
-  },
-  "liveChecked": true,
+  "live": null,
+  "liveChecked": false,
   "latestVideos": [
     {
       "id": "UQwlBiLApTI",
       "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
       "label": "YouTube",
-      "publishedAt": "2026-11-21T19:01:10Z",
+      "publishedAt": "2026-11-21T22:28:34Z",
       "startedAt": "2026-11-21T19:01:23Z",
-      "endedAt": null,
+      "endedAt": "2026-11-21T22:13:02Z",
       "scheduledAt": "2026-11-21T19:01:09Z",
-      "duration": "P0D",
+      "duration": "PT3H11M24S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg?v=6b01ea91",
+      "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
-      "views": "26",
-      "live": true,
+      "views": "67",
+      "live": false,
       "wasLive": true
     },
     {
@@ -5270,7 +5173,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/bUDP5fNf5gs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bUDP5fNf5gs",
-      "views": "435",
+      "views": "509",
       "live": false,
       "wasLive": false
     },
@@ -5287,7 +5190,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/DH4aMnXXsGc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DH4aMnXXsGc",
-      "views": "45",
+      "views": "48",
       "live": false,
       "wasLive": false
     },
@@ -5304,7 +5207,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OnZMuz_IfzU",
-      "views": "95",
+      "views": "100",
       "live": false,
       "wasLive": true
     },
@@ -5321,7 +5224,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3hftChStS6w/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3hftChStS6w",
-      "views": "106",
+      "views": "114",
       "live": false,
       "wasLive": false
     },
@@ -5338,7 +5241,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/wWzn4Jk2iKg/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wWzn4Jk2iKg",
-      "views": "606",
+      "views": "618",
       "live": false,
       "wasLive": false
     },
@@ -5355,7 +5258,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/tUWe9lWSARQ/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tUWe9lWSARQ",
-      "views": "643",
+      "views": "652",
       "live": false,
       "wasLive": false
     },
@@ -5372,7 +5275,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "42",
+      "views": "44",
       "live": false,
       "wasLive": true
     },
@@ -5389,7 +5292,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/niX2Ed_LY5Q/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=niX2Ed_LY5Q",
-      "views": "32",
+      "views": "36",
       "live": false,
       "wasLive": false
     },
@@ -6266,17 +6169,17 @@
       "id": "UQwlBiLApTI",
       "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
       "label": "Livestream",
-      "publishedAt": "2026-11-21T19:01:10Z",
+      "publishedAt": "2026-11-21T22:28:34Z",
       "startedAt": "2026-11-21T19:01:23Z",
-      "endedAt": null,
+      "endedAt": "2026-11-21T22:13:02Z",
       "scheduledAt": "2026-11-21T19:01:09Z",
-      "duration": "P0D",
+      "duration": "PT3H11M24S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg?v=6b01ea91",
+      "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
-      "views": "26",
-      "live": true,
+      "views": "67",
+      "live": false,
       "wasLive": true
     },
     {
@@ -6292,7 +6195,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OnZMuz_IfzU",
-      "views": "95",
+      "views": "100",
       "live": false,
       "wasLive": true
     },
@@ -6309,7 +6212,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "42",
+      "views": "44",
       "live": false,
       "wasLive": true
     },
@@ -6367,6 +6270,23 @@
   ],
   "latestReplays": [
     {
+      "id": "UQwlBiLApTI",
+      "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
+      "label": "Replay",
+      "publishedAt": "2026-11-21T22:28:34Z",
+      "startedAt": "2026-11-21T19:01:23Z",
+      "endedAt": "2026-11-21T22:13:02Z",
+      "scheduledAt": "2026-11-21T19:01:09Z",
+      "duration": "PT3H11M24S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
+      "views": "67",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "OnZMuz_IfzU",
       "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
       "label": "Replay",
@@ -6379,7 +6299,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OnZMuz_IfzU",
-      "views": "95",
+      "views": "100",
       "live": false,
       "wasLive": true
     },
@@ -6396,7 +6316,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/OIOwZ3X2hkc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OIOwZ3X2hkc",
-      "views": "42",
+      "views": "44",
       "live": false,
       "wasLive": true
     },
@@ -6450,46 +6370,13 @@
       "views": "114",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "S4e6-yav3Y4",
-      "title": "WHICH FOOTBALL GAME DO YOU PREFER!?! | FC27",
-      "label": "Replay",
-      "publishedAt": "2026-11-16T20:33:38Z",
-      "startedAt": "2026-11-16T17:00:44Z",
-      "endedAt": "2026-11-16T19:07:43Z",
-      "scheduledAt": "2026-11-16T17:00:28Z",
-      "duration": "PT2H6M54S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/S4e6-yav3Y4/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=S4e6-yav3Y4",
-      "views": "105",
-      "live": false,
-      "wasLive": true
     }
   ],
   "liveStatus": {
-    "status": "live",
-    "video": {
-      "id": "UQwlBiLApTI",
-      "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
-      "label": "Live now",
-      "publishedAt": "2026-11-21T19:01:10Z",
-      "startedAt": "2026-11-21T19:01:23Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-21T19:01:09Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg?v=6b01ea91",
-      "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
-      "views": "26",
-      "live": true,
-      "wasLive": true
-    },
-    "checkedAt": "2026-11-21T21:40:06.693Z",
-    "expiresAt": "2026-11-21T22:25:06.693Z",
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-22T01:35:43.453Z",
+    "expiresAt": "2026-11-22T02:20:43.453Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6500,36 +6387,36 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "Z1cRB5LNK_zPFj_z9a9a8BqYoiU",
+      "etag": "1X8k4odWasdqoDomTxtcy_aLow0",
       "id": "UQwlBiLApTI",
       "snippet": {
-        "publishedAt": "2026-11-21T19:01:10Z",
+        "publishedAt": "2026-11-21T22:28:34Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/default.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/hqdefault.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/sddefault.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/maxresdefault.jpg?v=6b01ea91",
+            "url": "https://i.ytimg.com/vi/UQwlBiLApTI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -6549,7 +6436,7 @@
           "eFootball™"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "ENJOYING SOME MORE EFOOTBALL!?! | eFootball",
@@ -6558,16 +6445,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT3H11M24S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -6575,22 +6462,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "26",
+        "viewCount": "67",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-21T19:01:23Z",
+        "actualEndTime": "2026-11-21T22:13:02Z",
         "scheduledStartTime": "2026-11-21T19:01:09Z",
-        "scheduledEndTime": "2026-11-21T21:43:17Z",
-        "concurrentViewers": "4",
-        "activeLiveChatId": "Cg0KC1VRd2xCaUxBcFRJKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILVVF3bEJpTEFwVEk"
+        "scheduledEndTime": "2026-11-21T22:03:17Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fizyCnDt3zUFMBEQUzy95HOw5Ng",
+      "etag": "5N3TDOo_YdIj_lqjai4r-EA3S-8",
       "id": "bUDP5fNf5gs",
       "snippet": {
         "publishedAt": "2026-11-21T10:17:39Z",
@@ -6652,15 +6538,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "435",
-        "likeCount": "4",
+        "viewCount": "509",
+        "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "it2IdWmtO7HZGWfMK-h7GcKP_Qs",
+      "etag": "YX3MQryME4YUBX2qkpZgkhMCaEI",
       "id": "DH4aMnXXsGc",
       "snippet": {
         "publishedAt": "2026-11-21T10:14:45Z",
@@ -6722,7 +6608,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "45",
+        "viewCount": "48",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -6730,7 +6616,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KtigtR4UwCzQLA-jIqdQo9ugmx0",
+      "etag": "B_k9WvcNYZIBvI3DLxsprv8icqU",
       "id": "OnZMuz_IfzU",
       "snippet": {
         "publishedAt": "2026-11-21T00:50:50Z",
@@ -6806,7 +6692,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "95",
+        "viewCount": "100",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6820,7 +6706,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KX2Ac56urMQmCBcznCtYNUV3-10",
+      "etag": "adGN_E2HYeNIue76J8if62ktWiM",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -6882,7 +6768,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "106",
+        "viewCount": "114",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -6890,7 +6776,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MAjjNCjXOd36--lf5kdGJlToLIA",
+      "etag": "_NH5y4xtzY__Iqj2DTDqx4aKnjY",
       "id": "wWzn4Jk2iKg",
       "snippet": {
         "publishedAt": "2026-11-20T10:17:59Z",
@@ -6952,7 +6838,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "606",
+        "viewCount": "618",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -6960,7 +6846,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "OSbjL-DKcD8b32xn3lPAtuFYQQg",
+      "etag": "l1SOFmuJTaoYohUhiAKXg0biSvo",
       "id": "tUWe9lWSARQ",
       "snippet": {
         "publishedAt": "2026-11-20T10:14:49Z",
@@ -7022,7 +6908,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "643",
+        "viewCount": "652",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7030,7 +6916,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vGol_ddeKP1pGv4dvav8SnAmOj8",
+      "etag": "k09yOVfjkPCMwAitEnuW-9Gh7F0",
       "id": "OIOwZ3X2hkc",
       "snippet": {
         "publishedAt": "2026-11-19T22:27:26Z",
@@ -7106,7 +6992,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "42",
+        "viewCount": "44",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7120,7 +7006,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kBwzLBGL-84GQuG_5hE8u0BBYvg",
+      "etag": "A_NKRf2vLAfSsLpds9LUDr3KTKg",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -7161,8 +7047,7 @@
         "localized": {
           "title": "MY HARDEST WWE FIGHT IN HISTORY!?! | WWE2K26",
           "description": "What is good my people, it's your boy thedocrot and this time we are back with a WWE2K26 video!\n\nThis time it is a fight on my faction which took me FOREVER to win! \n\nAs you will be able to tell the quality isn't great as it was clipped from a stream but it felt like a moment that was worthy of its own video!\n\nLet me know if you want to see more WWE2K26 content, I have been trying to stream it once a week recently but if you would like to see any other content on it then comment down below!\n\nFor now though it has been your boy thedocrot, I hope you have an amazing day or an amazing evening and I shall see you all in the next one!\n\nLove and Peace my people!\n\n\n\n\n\n\n\n\n\n#wwe #wwe2k26 #wrestling #stephanievaquer #funny #wwefan #wrestler #wrestlinggame"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT21M4S",
@@ -7182,7 +7067,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "32",
+        "viewCount": "36",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -7190,7 +7075,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6u4VE_Gi0v57xT4nN9XOEmQSCTc",
+      "etag": "Z_lTKnSJdcF-JkYHokNZWbQJ1Qo",
       "id": "YZOQWsawfrw",
       "snippet": {
         "publishedAt": "2026-11-19T10:08:50Z",
@@ -7231,8 +7116,7 @@
         "localized": {
           "title": "WHY DO THEY GET THE LUCK!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
           "description": "Anybody else feel like this?"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT39S",
@@ -7260,7 +7144,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jHwgpsDKkq_4wC70-bCViuQrTkE",
+      "etag": "LUhwPljPW1m1k6UZHn2lTVN2gMU",
       "id": "-MKoAGVpILc",
       "snippet": {
         "publishedAt": "2026-11-19T10:06:03Z",
@@ -7301,8 +7185,7 @@
         "localized": {
           "title": "BUT NOT THAT BAD!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
           "description": "You can't feel too bad!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT22S",
@@ -7420,7 +7303,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QCpwa3XRsHQwGNsVCnaTFY2QnJU",
+      "etag": "MkX7Jcws_ftV4_vZ-8hskojUvhs",
       "id": "8ec7wR5ao2c",
       "snippet": {
         "publishedAt": "2026-11-18T10:35:00Z",
@@ -7461,8 +7344,7 @@
         "localized": {
           "title": "HALLOWEEN IS OVER!?! | (DEAD BY DAYLIGHT STREAM HIGHLIGHTS)",
           "description": "Alright my people, Welcome to some more STREAM HIGHLIGHTS!!!\n\nAs usual, I choose a stream that I feel I can get highlights from and turn them into a video! \n\nThis gives people a chance to see the best parts of streams, if they are unable to watch the whole thing.\n\nEqually, as you may have noticed, I use the individual clips from stream highlights in my shorts. This again gives a chance for people to see what my streams can be like.\n\nLet me know if you enjoyed or if there are any streams in particular that you want to see highlights from!\n\nAnyways I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n#dbd #deadbydaylight #foryou #gaming #entertainment #horror #scary #funny #funnymoments #livestream #highlights"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT12M51S",
@@ -7490,7 +7372,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ztpWiySldTv9j8_1JI1nnGnNogs",
+      "etag": "hdD8-zMI3S_TxE5bTIzESinTceU",
       "id": "mwnD-4PlF1o",
       "snippet": {
         "publishedAt": "2026-11-18T10:13:18Z",
@@ -7531,8 +7413,7 @@
         "localized": {
           "title": "NO WAY THAT ALMOST WORKED!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
           "description": "It was very close!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT23S",
@@ -7787,7 +7668,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0lb5evl1N4Z5PpVgnj_2GPsotNU",
+      "etag": "1ICdDFrTwytAK9ctZhHYjudg89o",
       "id": "soKh-xuZRZ4",
       "snippet": {
         "publishedAt": "2026-11-17T09:48:05Z",
@@ -7828,8 +7709,7 @@
         "localized": {
           "title": "STICK DRIFT MADE ME ESCAPE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight",
           "description": "It wasn't me!"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT39S",
@@ -15379,7 +15259,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MRTM-yH-9MQUEWza9GPSdrFl2Ck",
+      "etag": "ssMTXQXmMJmRjKcJNU10OaAvmUg",
       "id": "Hlbuk41jt6c",
       "snippet": {
         "publishedAt": "2026-10-20T22:29:54Z",
@@ -15468,7 +15348,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "uppe4wbztZIndAB4tp151kqdMNQ",
+      "etag": "yONR0Dm5UCLSGL2ANutYf2nLQco",
       "id": "eOvNo94Ea7Y",
       "snippet": {
         "publishedAt": "2026-10-20T09:23:40Z",
@@ -15537,7 +15417,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "v58aeBp81X8JjF0fXMohuftVwtk",
+      "etag": "uVxcA0KWg3Lv-owzuWat23PSy4I",
       "id": "euRxOG0jt0E",
       "snippet": {
         "publishedAt": "2026-10-20T09:21:00Z",
@@ -17887,21 +17767,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:06.693Z"
+      "updatedAt": "2026-11-22T01:35:43.453Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:06.693Z"
+      "updatedAt": "2026-11-22T01:35:43.453Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:06.693Z"
+      "updatedAt": "2026-11-22T01:35:43.453Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T21:40:06.693Z",
-    "evaluatedAt": "2026-11-21T21:40:08.699Z"
+    "observedAt": "2026-11-22T01:35:43.453Z",
+    "evaluatedAt": "2026-11-22T01:35:45.747Z"
   }
 }

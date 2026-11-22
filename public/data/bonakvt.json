@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-21T21:40:13.266Z",
+  "updatedAt": "2026-11-22T01:35:51.442Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -870,7 +870,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SVDhNwzMW9ejnO9N7yNBBjexCDU",
+      "etag": "ymJaPuDpYAU33ZT0aQaKV0wduBY",
       "id": "9Y71X8ioFdY",
       "snippet": {
         "publishedAt": "2026-10-22T12:52:18Z",
@@ -1259,8 +1259,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-21T21:40:13.266Z",
-    "expiresAt": "2026-11-21T22:25:13.266Z",
+    "checkedAt": "2026-11-22T01:35:51.442Z",
+    "expiresAt": "2026-11-22T02:20:51.442Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -3031,7 +3031,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SVDhNwzMW9ejnO9N7yNBBjexCDU",
+      "etag": "ymJaPuDpYAU33ZT0aQaKV0wduBY",
       "id": "9Y71X8ioFdY",
       "snippet": {
         "publishedAt": "2026-10-22T12:52:18Z",
@@ -3104,7 +3104,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qSV--kWGn0hsdRYwZno_43EvS-8",
+      "etag": "WpCkqnGBHCYlvooPJcpMLJnuLI8",
       "id": "lP6nCqLR9wQ",
       "snippet": {
         "publishedAt": "2026-10-21T14:08:56Z",
@@ -3399,7 +3399,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5ijQTOM3I_X8auaQMuy_WfGp0EQ",
+      "etag": "w3hewKM80vLu0rIGx__tK3JvgYw",
       "id": "5vnFUHeBcZQ",
       "snippet": {
         "publishedAt": "2026-10-11T13:54:39Z",
@@ -3445,8 +3445,7 @@
         "localized": {
           "title": "POV your right to move is revoked #vtuber #leagueoflegends  #shorts",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT20S",
@@ -7362,7 +7361,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_zaG5-A8admQlRLaEn4fnJfq0mo",
+      "etag": "xVk5enm8Yl-JXxNYFZ0Pzuhxsys",
       "id": "HtgsBW4JJEg",
       "snippet": {
         "publishedAt": "2026-07-24T12:29:22Z",
@@ -8567,21 +8566,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:13.266Z"
+      "updatedAt": "2026-11-22T01:35:51.442Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:13.266Z"
+      "updatedAt": "2026-11-22T01:35:51.442Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-21T21:40:13.266Z"
+      "updatedAt": "2026-11-22T01:35:51.442Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-21T21:40:13.266Z",
-    "evaluatedAt": "2026-11-21T21:40:13.908Z"
+    "observedAt": "2026-11-22T01:35:51.442Z",
+    "evaluatedAt": "2026-11-22T01:35:52.520Z"
   }
 }

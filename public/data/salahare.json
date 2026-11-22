@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-22T01:35:57.321Z",
+  "updatedAt": "2026-11-22T08:51:24.386Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -158,7 +158,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QF03yfl2nfphA_7VUgXhJoinnPI",
+      "etag": "j6OQ_PYMnYOospRvVrpRHqLrEQA",
       "id": "H-AiygXlRhc",
       "snippet": {
         "publishedAt": "2026-07-01T04:28:05Z",
@@ -716,7 +716,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QF03yfl2nfphA_7VUgXhJoinnPI",
+      "etag": "j6OQ_PYMnYOospRvVrpRHqLrEQA",
       "id": "H-AiygXlRhc",
       "snippet": {
         "publishedAt": "2026-07-01T04:28:05Z",
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-22T01:35:57.321Z",
-    "expiresAt": "2026-11-22T02:20:57.321Z",
+    "checkedAt": "2026-11-22T08:51:24.386Z",
+    "expiresAt": "2026-11-22T09:36:24.386Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1691,7 +1691,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QF03yfl2nfphA_7VUgXhJoinnPI",
+      "etag": "j6OQ_PYMnYOospRvVrpRHqLrEQA",
       "id": "H-AiygXlRhc",
       "snippet": {
         "publishedAt": "2026-07-01T04:28:05Z",
@@ -6432,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T01:35:57.321Z"
+      "updatedAt": "2026-11-22T08:51:24.386Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T01:35:57.321Z"
+      "updatedAt": "2026-11-22T08:51:24.386Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T01:35:57.321Z"
+      "updatedAt": "2026-11-22T08:51:24.386Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-22T01:35:57.321Z",
-    "evaluatedAt": "2026-11-22T01:35:58.221Z"
+    "observedAt": "2026-11-22T08:51:24.386Z",
+    "evaluatedAt": "2026-11-22T08:51:25.021Z"
   }
 }

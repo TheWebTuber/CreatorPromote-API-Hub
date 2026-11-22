@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-22T01:35:51.442Z",
+  "updatedAt": "2026-11-22T08:51:18.882Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "kYVrKJTTA5wiNvTpx9ZkR0nZiKA",
+    "etag": "QEPNAR6G2nAZ2xVKxGD01VH6v7w",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,10 +43,10 @@
       }
     },
     "statistics": {
-      "viewCount": "66537",
+      "viewCount": "66538",
       "subscriberCount": "100",
       "hiddenSubscriberCount": false,
-      "videoCount": "207"
+      "videoCount": "208"
     },
     "brandingSettings": {
       "channel": {
@@ -62,6 +62,81 @@
     "url": "https://www.youtube.com/channel/UCKE1MnwHQBM8i7Or5K_zcmA"
   },
   "uploads": [
+    {
+      "kind": "youtube#video",
+      "etag": "cyp0nXge0vmBalWGH4R0_b9J7iA",
+      "id": "XerLKBeDOYE",
+      "snippet": {
+        "publishedAt": "2026-11-22T07:44:29Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "I'm too addicted to league to play gta  #vtuber #leagueoflegends #gta6 #shorts #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I'm too addicted to league to play gta  #vtuber #leagueoflegends #gta6 #shorts #fyp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "55",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "6hX10XFIKrm_nGDb80L6ku_8Ixw",
@@ -423,80 +498,6 @@
       "statistics": {
         "viewCount": "926",
         "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "e6p07C4IcIJzwKxH0D40apgl88U",
-      "id": "vV4pgjr_fPo",
-      "snippet": {
-        "publishedAt": "2026-11-15T13:45:53Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "leagueoflegends",
-          "twitch"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "288",
-        "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -946,6 +947,23 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "XerLKBeDOYE",
+      "title": "I'm too addicted to league to play gta  #vtuber #leagueoflegends #gta6 #shorts #fyp",
+      "label": "YouTube",
+      "publishedAt": "2026-11-22T07:44:29Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT11S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/XerLKBeDOYE/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XerLKBeDOYE",
+      "views": "55",
+      "live": false,
+      "wasLive": false
+    },
+    {
       "id": "IzTl3LruiuQ",
       "title": "Bronze vtuber crashes out #shorts #vtuber #leagueoflegends #fyp",
       "label": "YouTube",
@@ -1027,23 +1045,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ql_zVxDG9rw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ql_zVxDG9rw",
       "views": "926",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "vV4pgjr_fPo",
-      "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
-      "label": "YouTube",
-      "publishedAt": "2026-11-15T13:45:53Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT21S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vV4pgjr_fPo",
-      "views": "288",
       "live": false,
       "wasLive": false
     }
@@ -1259,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-22T01:35:51.442Z",
-    "expiresAt": "2026-11-22T02:20:51.442Z",
+    "checkedAt": "2026-11-22T08:51:18.882Z",
+    "expiresAt": "2026-11-22T09:36:18.882Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1269,6 +1270,81 @@
   "scannedUploadCount": 100,
   "scanNote": "Only recent public uploads are scanned; some past/live broadcasts may not be indexed.",
   "catalog": [
+    {
+      "kind": "youtube#video",
+      "etag": "cyp0nXge0vmBalWGH4R0_b9J7iA",
+      "id": "XerLKBeDOYE",
+      "snippet": {
+        "publishedAt": "2026-11-22T07:44:29Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "I'm too addicted to league to play gta  #vtuber #leagueoflegends #gta6 #shorts #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XerLKBeDOYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "leagueoflegends",
+          "twitch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I'm too addicted to league to play gta  #vtuber #leagueoflegends #gta6 #shorts #fyp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "55",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
     {
       "kind": "youtube#video",
       "etag": "6hX10XFIKrm_nGDb80L6ku_8Ixw",
@@ -3841,7 +3917,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Weib1KR2rOAlCHa6TAZkA3mTWUs",
+      "etag": "F9RnBi24L7F-7PxAyMruwOlxTI8",
       "id": "kevKviMjKuc",
       "snippet": {
         "publishedAt": "2026-10-01T11:24:36Z",
@@ -3887,7 +3963,8 @@
         "localized": {
           "title": "I swear I'm not this dumb irl  #vtuber #shiftatmidnight  #vtuberclips #envtuber #clips #shorts",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT33S",
@@ -8485,79 +8562,6 @@
         "actualStartTime": "2026-07-12T05:18:28Z",
         "actualEndTime": "2026-07-12T07:45:39Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "c3ckhMU4QA0VzykEXDdeMQop74s",
-      "id": "MsnV2jCW9ZU",
-      "snippet": {
-        "publishedAt": "2026-07-11T23:18:12Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "I\"M ALIVEE - playing league after being kicked in the balls by a sore throat #vtuber#leagueoflegends",
-        "description": "fox plays league",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MsnV2jCW9ZU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MsnV2jCW9ZU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MsnV2jCW9ZU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MsnV2jCW9ZU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "fnaf",
-          "fivenightsatfreddys2"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I\"M ALIVEE - playing league after being kicked in the balls by a sore throat #vtuber#leagueoflegends",
-          "description": "fox plays league"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1H52M26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "11",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-07-11T09:14:15Z",
-        "actualEndTime": "2026-07-11T11:06:42Z"
-      }
     }
   ],
   "playlists": [],
@@ -8566,21 +8570,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T01:35:51.442Z"
+      "updatedAt": "2026-11-22T08:51:18.882Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T01:35:51.442Z"
+      "updatedAt": "2026-11-22T08:51:18.882Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T01:35:51.442Z"
+      "updatedAt": "2026-11-22T08:51:18.882Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-22T01:35:51.442Z",
-    "evaluatedAt": "2026-11-22T01:35:52.520Z"
+    "observedAt": "2026-11-22T08:51:18.882Z",
+    "evaluatedAt": "2026-11-22T08:51:19.723Z"
   }
 }

@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "blackjacksetzer",
   "label": "Blackjacksetzer",
-  "updatedAt": "2026-11-22T01:35:56.271Z",
+  "updatedAt": "2026-11-22T08:51:23.566Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1226,8 +1226,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-22T01:35:56.271Z",
-    "expiresAt": "2026-11-22T02:20:56.271Z",
+    "checkedAt": "2026-11-22T08:51:23.566Z",
+    "expiresAt": "2026-11-22T09:36:23.566Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -3415,21 +3415,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T01:35:56.271Z"
+      "updatedAt": "2026-11-22T08:51:23.566Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T01:35:56.271Z"
+      "updatedAt": "2026-11-22T08:51:23.566Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-22T01:35:56.271Z"
+      "updatedAt": "2026-11-22T08:51:23.566Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-22T01:35:56.271Z",
-    "evaluatedAt": "2026-11-22T01:35:56.802Z"
+    "observedAt": "2026-11-22T08:51:23.566Z",
+    "evaluatedAt": "2026-11-22T08:51:24.035Z"
   }
 }

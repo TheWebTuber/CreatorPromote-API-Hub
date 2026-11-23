@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "portalmasterofgames",
   "label": "Portal Master Of Games",
-  "updatedAt": "2026-11-23T03:08:57.666Z",
+  "updatedAt": "2026-11-23T12:38:17.917Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "ZE5t5x3ZvqwOgQdCcDxFeRH7cG8",
+    "etag": "JLBPgpLI_3g4-UhhQrSBPsmKHlo",
     "id": "UCdOJvhjojFe3Z0yKeGEIERA",
     "snippet": {
       "title": "Portal Master Of Games",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "79558",
+      "viewCount": "79568",
       "subscriberCount": "280",
       "hiddenSubscriberCount": false,
       "videoCount": "397"
@@ -1339,8 +1339,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-23T03:08:57.666Z",
-    "expiresAt": "2026-11-23T03:53:57.666Z",
+    "checkedAt": "2026-11-23T12:38:17.917Z",
+    "expiresAt": "2026-11-23T13:23:17.917Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -2610,7 +2610,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Yb3y8yICl3UJI0h_P2EDjBjyQIM",
+      "etag": "33uDGxxyhNw0u8qvtq9qsDcIrQk",
       "id": "5XuXir2VAZw",
       "snippet": {
         "publishedAt": "2026-09-27T21:51:36Z",
@@ -2677,7 +2677,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "999",
+        "viewCount": "1000",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8833,21 +8833,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-23T03:08:57.666Z"
+      "updatedAt": "2026-11-23T12:38:17.917Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-23T03:08:57.666Z"
+      "updatedAt": "2026-11-23T12:38:17.917Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-23T03:08:57.666Z"
+      "updatedAt": "2026-11-23T12:38:17.917Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-23T03:08:57.666Z",
-    "evaluatedAt": "2026-11-23T03:08:58.553Z"
+    "observedAt": "2026-11-23T12:38:17.917Z",
+    "evaluatedAt": "2026-11-23T12:38:18.920Z"
   }
 }

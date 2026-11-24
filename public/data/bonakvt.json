@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-24T10:26:31.037Z",
+  "updatedAt": "2026-11-24T20:53:41.899Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "JarHEP4qUID18fu-pYBrViKcsWE",
+    "etag": "LyacYs7deyrLT56nfUFYNVY0Jnk",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "67693",
+      "viewCount": "67761",
       "subscriberCount": "100",
       "hiddenSubscriberCount": false,
       "videoCount": "206"
@@ -139,7 +139,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "H0zMyTlX8WkKjakYkAvTOyEXejQ",
+      "etag": "s2CptQoE6P51wZe7pOZjfe2LT7g",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
@@ -185,7 +185,8 @@
         "localized": {
           "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT31S",
@@ -429,7 +430,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "e6p07C4IcIJzwKxH0D40apgl88U",
+      "etag": "96tHjo_idUJq6Xl_fKoR23SP_Qo",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -495,7 +496,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "288",
+        "viewCount": "289",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1043,7 +1044,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vV4pgjr_fPo",
-      "views": "288",
+      "views": "289",
       "live": false,
       "wasLive": false
     }
@@ -1259,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-24T10:26:31.037Z",
-    "expiresAt": "2026-11-24T11:11:31.037Z",
+    "checkedAt": "2026-11-24T20:53:41.899Z",
+    "expiresAt": "2026-11-24T21:38:41.899Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1418,7 +1419,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "H0zMyTlX8WkKjakYkAvTOyEXejQ",
+      "etag": "s2CptQoE6P51wZe7pOZjfe2LT7g",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
@@ -1464,7 +1465,8 @@
         "localized": {
           "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT31S",
@@ -1708,7 +1710,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "e6p07C4IcIJzwKxH0D40apgl88U",
+      "etag": "96tHjo_idUJq6Xl_fKoR23SP_Qo",
       "id": "vV4pgjr_fPo",
       "snippet": {
         "publishedAt": "2026-11-15T13:45:53Z",
@@ -1774,7 +1776,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "288",
+        "viewCount": "289",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8570,21 +8572,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T10:26:31.037Z"
+      "updatedAt": "2026-11-24T20:53:41.899Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T10:26:31.037Z"
+      "updatedAt": "2026-11-24T20:53:41.899Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T10:26:31.037Z"
+      "updatedAt": "2026-11-24T20:53:41.899Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-24T10:26:31.037Z",
-    "evaluatedAt": "2026-11-24T10:26:31.811Z"
+    "observedAt": "2026-11-24T20:53:41.899Z",
+    "evaluatedAt": "2026-11-24T20:53:42.709Z"
   }
 }

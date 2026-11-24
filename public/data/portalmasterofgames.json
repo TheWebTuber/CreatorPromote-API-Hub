@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "portalmasterofgames",
   "label": "Portal Master Of Games",
-  "updatedAt": "2026-11-24T00:23:52.959Z",
+  "updatedAt": "2026-11-24T10:26:34.484Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "eWpeSQJJjM0dwpEelfAnk0iYvd8",
+    "etag": "SlvZfcH1uka8Gfo2Sj1FP86tInE",
     "id": "UCdOJvhjojFe3Z0yKeGEIERA",
     "snippet": {
       "title": "Portal Master Of Games",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "79574",
+      "viewCount": "79575",
       "subscriberCount": "280",
       "hiddenSubscriberCount": false,
       "videoCount": "397"
@@ -1339,8 +1339,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-24T00:23:52.959Z",
-    "expiresAt": "2026-11-24T01:08:52.959Z",
+    "checkedAt": "2026-11-24T10:26:34.484Z",
+    "expiresAt": "2026-11-24T11:11:34.484Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6363,7 +6363,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SMA1MmPgpi992qxOFX6o8iXx2tU",
+      "etag": "5yDV3Z3KMMCVUlSnTM1ZAnkGHPw",
       "id": "JSac69-chOY",
       "snippet": {
         "publishedAt": "2026-02-27T15:36:55Z",
@@ -8833,21 +8833,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T00:23:52.959Z"
+      "updatedAt": "2026-11-24T10:26:34.484Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T00:23:52.959Z"
+      "updatedAt": "2026-11-24T10:26:34.484Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T00:23:52.959Z"
+      "updatedAt": "2026-11-24T10:26:34.484Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-24T00:23:52.959Z",
-    "evaluatedAt": "2026-11-24T00:23:53.861Z"
+    "observedAt": "2026-11-24T10:26:34.484Z",
+    "evaluatedAt": "2026-11-24T10:26:35.507Z"
   }
 }

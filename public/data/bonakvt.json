@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-24T00:23:48.973Z",
+  "updatedAt": "2026-11-24T10:26:31.037Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "JU7xZADlXutQ3aREuwn_fCr-SFc",
+    "etag": "JarHEP4qUID18fu-pYBrViKcsWE",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,10 +43,10 @@
       }
     },
     "statistics": {
-      "viewCount": "66598",
+      "viewCount": "67693",
       "subscriberCount": "100",
       "hiddenSubscriberCount": false,
-      "videoCount": "207"
+      "videoCount": "206"
     },
     "brandingSettings": {
       "channel": {
@@ -64,7 +64,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "RjaAjCAIYofkajbr1wa7FbBrmgI",
+      "etag": "L7D8YCnuOqgxOQ3EBVMMygjD8mE",
       "id": "3NmDr6lSf2c",
       "snippet": {
         "publishedAt": "2026-11-22T13:59:33Z",
@@ -131,7 +131,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1150",
+        "viewCount": "1216",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -958,7 +958,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3NmDr6lSf2c/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3NmDr6lSf2c",
-      "views": "1150",
+      "views": "1216",
       "live": false,
       "wasLive": false
     },
@@ -1259,8 +1259,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-24T00:23:48.973Z",
-    "expiresAt": "2026-11-24T01:08:48.973Z",
+    "checkedAt": "2026-11-24T10:26:31.037Z",
+    "expiresAt": "2026-11-24T11:11:31.037Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1271,7 +1271,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "RjaAjCAIYofkajbr1wa7FbBrmgI",
+      "etag": "L7D8YCnuOqgxOQ3EBVMMygjD8mE",
       "id": "3NmDr6lSf2c",
       "snippet": {
         "publishedAt": "2026-11-22T13:59:33Z",
@@ -1338,7 +1338,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1150",
+        "viewCount": "1216",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6049,7 +6049,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2LlOqv7OOheAFk5P36wexAR0JMU",
+      "etag": "NjOU68eCP_KEOi8uJeoWQyPxVVc",
       "id": "T_F1vK07qoQ",
       "snippet": {
         "publishedAt": "2026-08-29T12:16:25Z",
@@ -6105,7 +6105,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "149",
+        "viewCount": "150",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7581,7 +7581,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zoo0KVA9RMBDiWRztYjm41FMBac",
+      "etag": "8aQzfiSFqAA-p-mnlHKdxRpWbRI",
       "id": "asf-Tk49Ioc",
       "snippet": {
         "publishedAt": "2026-07-20T18:51:48Z",
@@ -7622,8 +7622,7 @@
         "localized": {
           "title": "100% brain damage top lane gameplay #vtuber #leagueoflegends",
           "description": "fox plays league"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H38M5S",
@@ -8571,21 +8570,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T00:23:48.973Z"
+      "updatedAt": "2026-11-24T10:26:31.037Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T00:23:48.973Z"
+      "updatedAt": "2026-11-24T10:26:31.037Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T00:23:48.973Z"
+      "updatedAt": "2026-11-24T10:26:31.037Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-24T00:23:48.973Z",
-    "evaluatedAt": "2026-11-24T00:23:50.127Z"
+    "observedAt": "2026-11-24T10:26:31.037Z",
+    "evaluatedAt": "2026-11-24T10:26:31.811Z"
   }
 }

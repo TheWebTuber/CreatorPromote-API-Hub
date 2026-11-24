@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-24T00:23:43.173Z",
+  "updatedAt": "2026-11-24T10:26:26.992Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "O8PBaf0DBoHgsgk3Qwo-xQ1vvuM",
+    "etag": "OTy7vLFJnYpcms4ONQKXl1tCOCY",
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
     "snippet": {
       "title": "Dream Drops Crew",
@@ -42,7 +42,7 @@
       }
     },
     "statistics": {
-      "viewCount": "101202",
+      "viewCount": "101204",
       "subscriberCount": "507",
       "hiddenSubscriberCount": false,
       "videoCount": "875"
@@ -226,7 +226,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KyMsox1aCq2eTKMEkIQm15CRUKg",
+      "etag": "WpEQcwsnc6LsFWfC0dg_yQDWsFA",
       "id": "Jzh2Ks24aNc",
       "snippet": {
         "publishedAt": "2026-11-20T07:28:50Z",
@@ -284,7 +284,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "31",
+        "viewCount": "32",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -368,7 +368,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Bb6o3bK6d0YXx-K0aXU8aFO0gT0",
+      "etag": "sksF-JHNRdkiZwb20aJT_QxwyWU",
       "id": "VK8om5pkadI",
       "snippet": {
         "publishedAt": "2026-11-19T05:45:16Z",
@@ -426,7 +426,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "45",
+        "viewCount": "46",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -748,7 +748,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KyMsox1aCq2eTKMEkIQm15CRUKg",
+      "etag": "WpEQcwsnc6LsFWfC0dg_yQDWsFA",
       "id": "Jzh2Ks24aNc",
       "snippet": {
         "publishedAt": "2026-11-20T07:28:50Z",
@@ -806,7 +806,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "31",
+        "viewCount": "32",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -890,7 +890,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Bb6o3bK6d0YXx-K0aXU8aFO0gT0",
+      "etag": "sksF-JHNRdkiZwb20aJT_QxwyWU",
       "id": "VK8om5pkadI",
       "snippet": {
         "publishedAt": "2026-11-19T05:45:16Z",
@@ -948,7 +948,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "45",
+        "viewCount": "46",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -1010,7 +1010,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
-      "views": "31",
+      "views": "32",
       "live": false,
       "wasLive": true
     },
@@ -1044,7 +1044,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
-      "views": "45",
+      "views": "46",
       "live": false,
       "wasLive": true
     },
@@ -1131,7 +1131,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
-      "views": "31",
+      "views": "32",
       "live": false,
       "wasLive": true
     },
@@ -1165,7 +1165,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
-      "views": "45",
+      "views": "46",
       "live": false,
       "wasLive": true
     }
@@ -1235,7 +1235,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
-      "views": "31",
+      "views": "32",
       "live": false,
       "wasLive": true
     },
@@ -1269,7 +1269,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/VK8om5pkadI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VK8om5pkadI",
-      "views": "45",
+      "views": "46",
       "live": false,
       "wasLive": true
     }
@@ -1277,8 +1277,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-24T00:23:43.173Z",
-    "expiresAt": "2026-11-24T01:08:43.173Z",
+    "checkedAt": "2026-11-24T10:26:26.992Z",
+    "expiresAt": "2026-11-24T11:11:26.992Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1454,7 +1454,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KyMsox1aCq2eTKMEkIQm15CRUKg",
+      "etag": "WpEQcwsnc6LsFWfC0dg_yQDWsFA",
       "id": "Jzh2Ks24aNc",
       "snippet": {
         "publishedAt": "2026-11-20T07:28:50Z",
@@ -1512,7 +1512,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "31",
+        "viewCount": "32",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1596,7 +1596,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Bb6o3bK6d0YXx-K0aXU8aFO0gT0",
+      "etag": "sksF-JHNRdkiZwb20aJT_QxwyWU",
       "id": "VK8om5pkadI",
       "snippet": {
         "publishedAt": "2026-11-19T05:45:16Z",
@@ -1654,7 +1654,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "45",
+        "viewCount": "46",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -16072,7 +16072,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9cAx-xU6a8xf8yHaU88AIMKLCYk",
+      "etag": "BXpBbMcu7L_IaeklKo8Clc_TyLI",
       "id": "WrPDdHEnXLg",
       "snippet": {
         "publishedAt": "2026-03-12T05:02:07Z",
@@ -16157,7 +16157,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1484",
+        "viewCount": "1486",
         "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -23077,7 +23077,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VKnx4ULDlcy47Tcn_L7JR4RTd3Q",
+      "etag": "tcG3olBlgZGrhty_uEHcVxA6S-o",
       "id": "Q7gZ-ubMTSA",
       "snippet": {
         "publishedAt": "2025-10-12T04:17:20Z",
@@ -23139,8 +23139,7 @@
         "localized": {
           "title": "Welcome to The Storm over Thet-Annath",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H10M1S",
@@ -23261,7 +23260,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8YnulhaApUlRGztI6aCQsh6N15w",
+      "etag": "9K9bULX-K_tWyh77OvkDfROxkCg",
       "id": "ji3jc4sy95I",
       "snippet": {
         "publishedAt": "2025-10-09T04:06:56Z",
@@ -23318,8 +23317,7 @@
         "localized": {
           "title": "We're with more Cookie Run!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H59M16S",
@@ -23351,7 +23349,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "evp3gVPMqhHbQgoaXAJ_-0mW6JY",
+      "etag": "5IGdZEtR6AP5YWA9WWkf0tIVLO0",
       "id": "xnnwAmRQ29I",
       "snippet": {
         "publishedAt": "2025-10-08T03:44:37Z",
@@ -23408,8 +23406,7 @@
         "localized": {
           "title": "We are back and with free Sketches!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H25M29S",
@@ -23531,7 +23528,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BUEYgyUdaZbeyyBJXIV61U5GPYI",
+      "etag": "1aeE8soNovCUpSh-XH6xi8nY8b4",
       "id": "RcSOtytryaM",
       "snippet": {
         "publishedAt": "2025-09-25T04:18:29Z",
@@ -23588,8 +23585,7 @@
         "localized": {
           "title": "The Silence is strong with this one.",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H45M48S",
@@ -23621,7 +23617,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0U_J-0pqp_iy5FKRT_LruetYOVE",
+      "etag": "K0eH7607x2VzJXI9zvCV8CH_IyQ",
       "id": "RAas1EdzbEQ",
       "snippet": {
         "publishedAt": "2025-09-05T03:56:04Z",
@@ -23673,8 +23669,7 @@
         "localized": {
           "title": "Just a simple cat game",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H29M31S",
@@ -23795,7 +23790,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "b0MNdhx8Olc2W9osh_ODERzsOm8",
+      "etag": "2Kx2ICk-SH7g-rI3wh4LUM-Tx3M",
       "id": "Ol-1wsGDebE",
       "snippet": {
         "publishedAt": "2025-09-03T04:25:05Z",
@@ -23851,8 +23846,7 @@
         "localized": {
           "title": "Nunca vamos a terminar este juego",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H11M18S",
@@ -23883,7 +23877,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EE9HPYDA__-tgFtt8e0Xwl7rRic",
+      "etag": "HX4eoucccOSxASeYphMRYqxNrNg",
       "id": "0i4LqQQVmYA",
       "snippet": {
         "publishedAt": "2025-08-29T04:05:34Z",
@@ -23957,8 +23951,7 @@
         "localized": {
           "title": "Is this the Colosseum arc? DnD",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H50M56S",
@@ -24421,7 +24414,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JIMgxKlEGZyz7EmcXsq-w0Uya68",
+      "etag": "P3jFlPsouNMh7zRhWEmh6TCSG9I",
       "id": "K3UzvEQPzpw",
       "snippet": {
         "publishedAt": "2025-08-26T15:12:22Z",
@@ -24495,8 +24488,7 @@
         "localized": {
           "title": "New Cookie Run Kingdom event reaction and a whole lot of Tower",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H51M55S",
@@ -24797,7 +24789,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NudM9lzHnDm_H3ZR0ztnW5g10W4",
+      "etag": "ubzUXevfypqYhGYcBAwzzbpEYYs",
       "id": "n12imWxCIdM",
       "snippet": {
         "publishedAt": "2025-08-21T04:04:20Z",
@@ -24866,8 +24858,7 @@
         "localized": {
           "title": "It's  a meh Sims 4 stream",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H11M16S",
@@ -25161,7 +25152,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4kueyJLut8mriyJmS8LLFRs75vg",
+      "etag": "C4qXTmBOhW-j_rKQCBxSq0SpU8E",
       "id": "cHsWLgzR66o",
       "snippet": {
         "publishedAt": "2025-08-19T16:51:28Z",
@@ -25234,8 +25225,7 @@
         "localized": {
           "title": "Why is this tower so hard?! pt 2",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H52M50S",
@@ -25267,7 +25257,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SpIXfwSepOQez4A6Dno9XkOz-50",
+      "etag": "pz4Jg242eZiTpcCsawqU3q4by-Y",
       "id": "wdSnEMEJo_8",
       "snippet": {
         "publishedAt": "2025-08-19T14:46:11Z",
@@ -25340,8 +25330,7 @@
         "localized": {
           "title": "Why is this tower so hard?!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H24M54S",
@@ -25373,7 +25362,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rpmFfHZl_2npJOEROZ0vZK78sI4",
+      "etag": "9tjwfd5pfwlk5Lrcg7JWsR4uCvk",
       "id": "N0_o1fFWkks",
       "snippet": {
         "publishedAt": "2025-08-16T04:10:33Z",
@@ -25441,8 +25430,7 @@
         "localized": {
           "title": "We're on our way to the Peak!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H59M4S",
@@ -25977,7 +25965,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "UanSJr8Ve6o_cqbvW6vhP6mcB58",
+      "etag": "6lLCQ33P8CKqHPlV6jxojEXr9u0",
       "id": "mnq_27QnHDY",
       "snippet": {
         "publishedAt": "2025-08-13T14:56:12Z",
@@ -26068,8 +26056,7 @@
         "localized": {
           "title": "¿Es este el final?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H42M42S",
@@ -26101,7 +26088,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ozZCdyZgFnhrBv-ajyY9F2gt4BQ",
+      "etag": "iRAaQXedHTEyyxnOF0aAGfjzDVM",
       "id": "dcFDcnyg7FE",
       "snippet": {
         "publishedAt": "2025-08-12T04:03:58Z",
@@ -26187,8 +26174,7 @@
         "localized": {
           "title": "Surprise Roblox stream! I'll see what I'll play",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H44M36S",
@@ -26220,7 +26206,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9g6CtnDoxIVsLr66fbNsyQQ03yY",
+      "etag": "i5WrqsUyIcu1fzEKk-cpJfhfd7k",
       "id": "AuUt55Om6Ls",
       "snippet": {
         "publishedAt": "2025-08-10T08:09:52Z",
@@ -26261,8 +26247,7 @@
         "localized": {
           "title": "Playing #cookieruntowerofadventures  pt 1 (maybe) #gaming #cookierun #cookierunkingdom #vtuber",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT58S",
@@ -26290,7 +26275,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "UB7WwG-_tFwpUH28X-GWEDqo3JA",
+      "etag": "QIQbGP8f6vim_IkH-Xn0t9Yazbo",
       "id": "WsdRksxHOzg",
       "snippet": {
         "publishedAt": "2025-08-09T04:24:41Z",
@@ -26376,8 +26361,7 @@
         "localized": {
           "title": "Scary Sushi 2, 99 nights at the forest, and more!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H10M",
@@ -26409,7 +26393,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZA4tJXpIW7qjHXY7-ABY6TxM7JU",
+      "etag": "bQ7oXr6PWN3GpmCOFu5-pciRwRI",
       "id": "2zqbGGYYLu0",
       "snippet": {
         "publishedAt": "2025-08-08T04:02:31Z",
@@ -26500,8 +26484,7 @@
         "localized": {
           "title": "Three paths, will they converge or diverge forever DnD",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H51M42S",
@@ -26533,7 +26516,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lBLCdKKtxNmsvMcmSJRzEpLZRvg",
+      "etag": "k9MGruY1WRn7jLSYBx5SbiN7U-w",
       "id": "utDFAm7nUoo",
       "snippet": {
         "publishedAt": "2025-08-07T04:09:40Z",
@@ -26614,8 +26597,7 @@
         "localized": {
           "title": "Fighting Kittens in the forest in Wild Woods",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H20M10S",
@@ -26647,7 +26629,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "w_uzYJEORZQgoKuU2wVNof5FMnA",
+      "etag": "PXBkt9IUkGJuEum4OaQqvduDm1k",
       "id": "pBTfMvSGJ3E",
       "snippet": {
         "publishedAt": "2025-08-06T04:03:57Z",
@@ -26738,8 +26720,7 @@
         "localized": {
           "title": "¿Dónde estamos en Resident Evil otra vez?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H51M54S",
@@ -26771,7 +26752,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zhl-bEOkJ7xgjNLXRsTTMCY4yxY",
+      "etag": "zwEh8eSWKKsRrNlKNtC6qmd_NC4",
       "id": "Mqk6Yv1oSwQ",
       "snippet": {
         "publishedAt": "2025-08-05T04:15:11Z",
@@ -26860,8 +26841,7 @@
         "localized": {
           "title": "4th Floor  here we go!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H4M16S",
@@ -26893,7 +26873,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YUjf7KimpvEjQVLnmw95-rc_FyA",
+      "etag": "MjB7hmY1XxC6Z6psI4ZWO8BVFhg",
       "id": "c_1AEXW13YA",
       "snippet": {
         "publishedAt": "2025-08-02T04:29:14Z",
@@ -26982,8 +26962,7 @@
         "localized": {
           "title": "Dandy's world, grow a garden, Forsaken, and more!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H11M3S",
@@ -27015,7 +26994,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bg1VDOAscT6YEMZiGuueqNfjBlw",
+      "etag": "e8EIqkAAN3vTyifACXob8XRXkU8",
       "id": "n7TyNjT8TKo",
       "snippet": {
         "publishedAt": "2025-08-01T04:11:30Z",
@@ -27104,8 +27083,7 @@
         "localized": {
           "title": "Our first adventure begins!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H59M35S",
@@ -27137,7 +27115,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "j5fVJ2RTAhn2fncMTv3NEBYJw28",
+      "etag": "cIqe72gng8HWGD6yTUu0DZCsgUw",
       "id": "DZxPTwOOqBY",
       "snippet": {
         "publishedAt": "2025-07-31T18:26:03Z",
@@ -27226,8 +27204,7 @@
         "localized": {
           "title": "2nd floor in the Tower here we come! But first we set sail in Kingdom! pt 2",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H46M29S",
@@ -27259,7 +27236,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "f0e4ceBv-xrZ4dwAlt-Wmcqlre8",
+      "etag": "l-8I5neT3_krDX5GhmV12q1yG6s",
       "id": "eGbzphi8wYk",
       "snippet": {
         "publishedAt": "2025-07-31T14:57:19Z",
@@ -27348,8 +27325,7 @@
         "localized": {
           "title": "2nd floor in the Tower here we come! But first we set sail in Kingdom!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H5M14S",
@@ -27381,7 +27357,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4D2MHctKPng5hZBS28Urz5ma3bw",
+      "etag": "e4ReAmpqxRxg4D4Qumm5kpO8H7s",
       "id": "2QibFvA2vFE",
       "snippet": {
         "publishedAt": "2025-07-30T16:08:15Z",
@@ -27475,8 +27451,7 @@
         "localized": {
           "title": "Nadar en el pantano con caimanes",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H33M12S",
@@ -27508,7 +27483,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VIx9EMPcero_58jC4KjBgf2mvis",
+      "etag": "kYvF6FbhfNrJR2vEZYx1sgAGQj4",
       "id": "OPb0kHpDrmM",
       "snippet": {
         "publishedAt": "2025-07-29T16:27:14Z",
@@ -27597,8 +27572,7 @@
         "localized": {
           "title": "Short KH stream",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H11M44S",
@@ -27630,7 +27604,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6A9wPA_Zb423SLbP1Nf0UeP_Zr8",
+      "etag": "_e3cIbGLsYVJbKgDWmWRVI78T58",
       "id": "5z2Z1UK7lfg",
       "snippet": {
         "publishedAt": "2025-07-29T15:05:05Z",
@@ -27719,8 +27693,7 @@
         "localized": {
           "title": "Ganondorf is going down!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H43M51S",
@@ -27752,7 +27725,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_I3TgIzJN_zejuougrrAE0qEeCw",
+      "etag": "23jelH8BkDA_4V-7BViDRGLQjHg",
       "id": "9Xe0Ipkmazg",
       "snippet": {
         "publishedAt": "2025-07-26T04:10:21Z",
@@ -27841,8 +27814,7 @@
         "localized": {
           "title": "So many games!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H58M42S",
@@ -27874,7 +27846,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Ae92z11Ks6586GybFf53FEQqIjo",
+      "etag": "KkOLV3qGXU7B_8n_KQHv_olIZ6Q",
       "id": "EcnWs3JnCog",
       "snippet": {
         "publishedAt": "2025-07-25T04:10:03Z",
@@ -27963,8 +27935,7 @@
         "localized": {
           "title": "More mutations not so skilled players",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H56M20S",
@@ -28364,7 +28335,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "enzeJ1YD2gobYsX6CWFyyNa3Co0",
+      "etag": "hXN1e_ac8LGUOvTqx9DeD4s4PLc",
       "id": "zGcsQHzmpn0",
       "snippet": {
         "publishedAt": "2025-07-22T03:14:15Z",
@@ -28453,8 +28424,7 @@
         "localized": {
           "title": "Lets finish this Terra!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H6M13S",
@@ -28486,7 +28456,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YoSncCXQA79SPJIyuMsL5fYCEhc",
+      "etag": "P8fQr6FeghH653jEtmxJu9ki-VM",
       "id": "tUIhmFW0KG4",
       "snippet": {
         "publishedAt": "2025-07-19T17:50:16Z",
@@ -28570,8 +28540,7 @@
         "localized": {
           "title": "Minecraft and Chill",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H59M48S",
@@ -28845,7 +28814,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "pj877uaEf3o3sKZojGmWk2W4e2k",
+      "etag": "g7X_aPYzbL_jMtLc03FItKheSgE",
       "id": "bhxdHPSQrAk",
       "snippet": {
         "publishedAt": "2025-07-18T15:16:42Z",
@@ -28939,8 +28908,7 @@
         "localized": {
           "title": "¿Es este EL virus?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H54M34S",
@@ -29087,7 +29055,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "T3qS0kRV-lI89jF-iEueSlWDZsI",
+      "etag": "wNljZf9jJ__wbtt3SBEzei3YVbE",
       "id": "-C4OZLd4xdo",
       "snippet": {
         "publishedAt": "2025-07-17T15:29:38Z",
@@ -29180,8 +29148,7 @@
         "localized": {
           "title": "New Cookie game to try! But first we do pulls from kingdom",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H57M28S",
@@ -29338,7 +29305,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DwIaJylXw4nbCnAX77YRTP5KVp0",
+      "etag": "ZXxvGVwZ3ZW6nRBLd3poh6woe5c",
       "id": "Gc0Jogupknk",
       "snippet": {
         "publishedAt": "2025-07-15T15:10:59Z",
@@ -29426,8 +29393,7 @@
         "localized": {
           "title": "Uhhh.....fighting Terra's dad? pt 2",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H16M42S",
@@ -29819,7 +29785,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rZMlOZ8kDDMpSN8xv8cGgdaATt8",
+      "etag": "pM-6E-17YDgakYKdCgQkbbYjfAs",
       "id": "CMdeZmyK90Y",
       "snippet": {
         "publishedAt": "2025-07-12T03:08:20Z",
@@ -29907,8 +29873,7 @@
         "localized": {
           "title": "How many Roblox games can we play today?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H41S",
@@ -29940,7 +29905,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "uTTJrgkLYDoj2L4i8ZX0SSApsMI",
+      "etag": "J6pWRYwAiVe8YYwfENpOb_0AD-c",
       "id": "Fc3HbqzxkSo",
       "snippet": {
         "publishedAt": "2025-07-11T04:11:11Z",
@@ -30028,8 +29993,7 @@
         "localized": {
           "title": "Are we going into the Shadow temple?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H56M7S",
@@ -30061,7 +30025,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "f0IapunVCQH2qQJusIMArHH4dG8",
+      "etag": "JDas7gn38Yd4ribky1mJvZbVbSM",
       "id": "LjdbW_aw4uI",
       "snippet": {
         "publishedAt": "2025-07-10T13:33:03Z",
@@ -30149,8 +30113,7 @@
         "localized": {
           "title": "This time for sure, we reach Burning Spice!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT26M12S",
@@ -30182,7 +30145,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "j9vnM-kLzLMO_sCSSRFHg9HZiTk",
+      "etag": "eTEfqIbtv-s0TB8yBAP02bbsdt4",
       "id": "73UVviiIW6A",
       "snippet": {
         "publishedAt": "2025-07-10T04:15:34Z",
@@ -30270,8 +30233,7 @@
         "localized": {
           "title": "This time for sure, we reach Burning Spice! pt 2",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H38M58S",
@@ -30303,7 +30265,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kOjW9bCVrDsrnaJ0TdI3XaavetU",
+      "etag": "UqXwTFSXe-siFFjca79TnEoyhfw",
       "id": "kWWv3fGJ8kI",
       "snippet": {
         "publishedAt": "2025-07-09T01:33:00Z",
@@ -30396,8 +30358,7 @@
         "localized": {
           "title": "Running around in circles around the Crystal tower",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT11M48S",
@@ -30429,7 +30390,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9ACc4VN083h6joiJdWrZHdfMWys",
+      "etag": "PKvD8Hqz9iNEAWIW3vH2GI7xq74",
       "id": "cUL-aBYeCYg",
       "snippet": {
         "publishedAt": "2025-07-08T16:19:05Z",
@@ -30517,8 +30478,7 @@
         "localized": {
           "title": "Back to Minecraft",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H24S",
@@ -30670,7 +30630,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4BVTF4pzplMTfNDFtwGSE0L4swM",
+      "etag": "-Mpe6qOg6qgEroTZ9-3WJDz9kCk",
       "id": "9m6X7MKNsrs",
       "snippet": {
         "publishedAt": "2025-06-28T05:07:52Z",
@@ -30758,8 +30718,7 @@
         "localized": {
           "title": "It's Roblox Friday!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H57M2S",
@@ -30791,7 +30750,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "daHvJtKxXVanyUXNL55UCgOINvg",
+      "etag": "hkQ8JGVAsRY-DVfQl7iq71rTnOU",
       "id": "LNK79_0rJdo",
       "snippet": {
         "publishedAt": "2025-06-27T05:07:47Z",
@@ -30879,8 +30838,7 @@
         "localized": {
           "title": "Once I get the Iron boots it's all over the water temple!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H56M8S",
@@ -30912,7 +30870,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XzO4EQZ3T2FwPuUiSb1t-2fJ0Ew",
+      "etag": "i8lvLA8Brbm7SbzVh265cZmx9WI",
       "id": "WPFlOrBp1f4",
       "snippet": {
         "publishedAt": "2025-06-26T15:01:32Z",
@@ -31000,8 +30958,7 @@
         "localized": {
           "title": "We're \"burning\" some spice!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H41M58S",
@@ -31033,7 +30990,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HertLsoVl2_cm8n4BYm_PAv7ly4",
+      "etag": "Fh_jI0NkGf5EB6swnouZJyhN3X8",
       "id": "c3VUQIg5R6o",
       "snippet": {
         "publishedAt": "2025-06-24T04:08:23Z",
@@ -31121,8 +31078,7 @@
         "localized": {
           "title": "I mean Terra's not the sharpest tool in the shed",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H57M53S",
@@ -31154,7 +31110,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ykNi0R7vXYBcT2KJ5SOhuJzNSzg",
+      "etag": "wRfoEazjPFPjYjx60Y2W5dd9BU8",
       "id": "dKE-vnMrHrQ",
       "snippet": {
         "publishedAt": "2025-06-21T05:33:34Z",
@@ -31242,8 +31198,7 @@
         "localized": {
           "title": "Are you the Goose or a Duck?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H5M46S",
@@ -31395,7 +31350,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QqoiDUwbKO7I4m4YbePmyyj8m7k",
+      "etag": "bbpSu3RYOg1NfoxJtrD_wOPcUSQ",
       "id": "S0ny2_zLa80",
       "snippet": {
         "publishedAt": "2025-06-20T17:21:52Z",
@@ -31483,8 +31438,7 @@
         "localized": {
           "title": "Where did we leave off?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H27M22S",
@@ -31636,7 +31590,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vye-vzWXK83Ud3eIZXp_zPEwfCc",
+      "etag": "gaOs8JDXxiBaHNHeIF3mZFWXB80",
       "id": "yc44h3rA5es",
       "snippet": {
         "publishedAt": "2025-06-19T06:06:28Z",
@@ -31724,8 +31678,7 @@
         "localized": {
           "title": "It's time to explore and \"Ancient\" realm!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT4H50M59S",
@@ -31757,7 +31710,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "10qFVpdBQ4hwUR6al_eB_4tn9as",
+      "etag": "wln_Y25E9Rk5LOKV3gNwq4S2Z6I",
       "id": "4C2kYvGVMns",
       "snippet": {
         "publishedAt": "2025-06-18T04:12:24Z",
@@ -31850,8 +31803,7 @@
         "localized": {
           "title": "Another day another circle!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H54S",
@@ -32003,7 +31955,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BNLHh5lJ4j2yIwMZNq_FxkCqLU4",
+      "etag": "B1cESO0SjexSFRWEg9Nn1Qna9wE",
       "id": "v7HwO50UKMc",
       "snippet": {
         "publishedAt": "2025-06-14T05:20:39Z",
@@ -32091,8 +32043,7 @@
         "localized": {
           "title": "Playing some Roblox",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT4H7M58S",
@@ -32729,7 +32680,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tHe3u3AlIX6lmWDamM9SgHRVGwg",
+      "etag": "liMSYF_jlAw2WESAYkuPfkSz2UU",
       "id": "NEwgfDd0E0k",
       "snippet": {
         "publishedAt": "2025-06-06T04:30:55Z",
@@ -32817,8 +32768,7 @@
         "localized": {
           "title": "Don, Don do...Dodongo",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H50M54S",
@@ -32970,7 +32920,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XSexdcWiqt4e7J6AHubmC525OpQ",
+      "etag": "HqwYo2Xz0ho7x3kdLIKLikeLEY0",
       "id": "MKjiykKonXg",
       "snippet": {
         "publishedAt": "2025-06-04T03:59:40Z",
@@ -33058,8 +33008,7 @@
         "localized": {
           "title": "Joining a Minecraft server",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H45M52S",
@@ -33091,7 +33040,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rLYub8FKt6emLjWA_pPHMspYjg0",
+      "etag": "cs5QdU46EYaDWUDv6g9p_Uv9HNY",
       "id": "GeQ7eL9CJAs",
       "snippet": {
         "publishedAt": "2025-06-03T15:08:15Z",
@@ -33179,8 +33128,7 @@
         "localized": {
           "title": "Summer's almost over it's time to go back to the past!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H51M19S",
@@ -33212,7 +33160,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lc_OlA2qco2zy7D6hAs8ltpzvJI",
+      "etag": "3A8o3f5HOmrjY4n_QTDL7iCU62g",
       "id": "RyIcwIuX02o",
       "snippet": {
         "publishedAt": "2025-05-23T15:11:11Z",
@@ -33300,8 +33248,7 @@
         "localized": {
           "title": "I totally didn't lose the last save.....",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H28M53S",
@@ -33333,7 +33280,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wZAZY-eqpzK3MZn1RV065h8CEQM",
+      "etag": "gwPOsRBUCA4sxTOAyMPlquORPq0",
       "id": "Pv8y4aKK_zQ",
       "snippet": {
         "publishedAt": "2025-05-22T17:14:39Z",
@@ -33421,8 +33368,7 @@
         "localized": {
           "title": "Playing Roblox with a GOAT",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H53M13S",
@@ -33454,7 +33400,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gaFtAAiyfsNpaFBVVoGdfmijmQg",
+      "etag": "ke6DLl_vNHZZ5UMGeyKuGQiI0_c",
       "id": "ZKgidKJVh4o",
       "snippet": {
         "publishedAt": "2025-05-22T15:08:08Z",
@@ -33547,8 +33493,7 @@
         "localized": {
           "title": "Well that happened",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H51M12S",
@@ -33580,7 +33525,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "z-ydT3MXbGoavB1wD8tPazZbCQ4",
+      "etag": "tGlM5Ci7ui_a8uO9Z6YYZXQP6NE",
       "id": "K0gs5NOMEtg",
       "snippet": {
         "publishedAt": "2025-05-21T03:44:00Z",
@@ -33673,8 +33618,7 @@
         "localized": {
           "title": "A bit of story a bit of gambling",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H30M35S",
@@ -33706,7 +33650,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sGCzQN1l5owG72GXPXlswbFiWQY",
+      "etag": "MsLWcRR-ZSg2bFY6qiVgtWvKdq0",
       "id": "mDu835j3I0s",
       "snippet": {
         "publishedAt": "2025-05-20T05:31:36Z",
@@ -33794,8 +33738,7 @@
         "localized": {
           "title": "We might have a need for some Apathy today",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT4H17M26S",
@@ -33947,7 +33890,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YVfip9nH3THIuUjauN47aa5XAmE",
+      "etag": "C6kj8lvAnYM26J0Yofs5FDKuavw",
       "id": "NzMnlf91q4g",
       "snippet": {
         "publishedAt": "2025-05-16T15:08:41Z",
@@ -34035,8 +33978,7 @@
         "localized": {
           "title": "Telling the princess to \"excuse me\" pt",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H14M45S",
@@ -34068,7 +34010,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "24YpBLAkSgh8FYG7JU4qg5sBL5w",
+      "etag": "qQGITc7K6HBTshF7MgS5rXgp8l0",
       "id": "OZxZfWqWniY",
       "snippet": {
         "publishedAt": "2025-05-16T13:51:19Z",
@@ -34156,8 +34098,7 @@
         "localized": {
           "title": "Telling the princess to \"excuse me\"",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT42M6S",
@@ -34189,7 +34130,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hinjl75xgTuUXcP3gIhBURuWd8M",
+      "etag": "S7U0dxLfGYy8iFv2tecNARleds4",
       "id": "CCPlnwXSS7s",
       "snippet": {
         "publishedAt": "2025-05-15T17:13:52Z",
@@ -34277,8 +34218,7 @@
         "localized": {
           "title": "Drawing stuff!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H53M11S",
@@ -34310,7 +34250,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-0J75jU8ahQzn2tDQJjVbZEr6HA",
+      "etag": "qnDCo7OcWqZ3YpS6I26N9sKMo9U",
       "id": "sTQuO-y4FU4",
       "snippet": {
         "publishedAt": "2025-05-15T15:10:25Z",
@@ -34403,8 +34343,7 @@
         "localized": {
           "title": "Still trying to prove Albedo's innocence",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H52M42S",
@@ -34556,7 +34495,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iJZYosFIbPRRyfqshGl37r-zT9o",
+      "etag": "32qfrEgJs9qJn6HMBTjqYTe3lsU",
       "id": "pjdKZpgOUHk",
       "snippet": {
         "publishedAt": "2025-05-14T15:06:52Z",
@@ -34644,8 +34583,7 @@
         "localized": {
           "title": "This time I'll make it to the Nether",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H54M42S",
@@ -34677,7 +34615,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "EDOnWBT1K8LY58a4TodEj3cbvQg",
+      "etag": "S-XLErkHUsXf9o34xuxa0IS-YUE",
       "id": "_GljGFRdlqQ",
       "snippet": {
         "publishedAt": "2025-05-13T04:35:58Z",
@@ -34765,8 +34703,7 @@
         "localized": {
           "title": "Going back to check on Dark Cacao",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H16M59S",
@@ -35038,7 +34975,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "t7wOIETzbVakupQPUELlGxERNds",
+      "etag": "Aqgc0JyeJxUHbI0RNv59IVorSc4",
       "id": "14rhvAM9-7M",
       "snippet": {
         "publishedAt": "2025-05-08T15:09:34Z",
@@ -35131,8 +35068,7 @@
         "localized": {
           "title": "Returning to Genshin!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H55M51S",
@@ -35164,7 +35100,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WQsdGeExJXxLRENFigKmCF67Z7Q",
+      "etag": "zQC0pL_HBEzdhMnb5TclWi-4JIk",
       "id": "mck8ixftxDI",
       "snippet": {
         "publishedAt": "2025-05-08T05:31:50Z",
@@ -35252,8 +35188,7 @@
         "localized": {
           "title": "Will we get to finish Hollyberries chapter today? We'll find out together!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H18M27S",
@@ -35285,7 +35220,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tSdusqHvG8eFDAN8SyDfE7MI5bs",
+      "etag": "TZkSl91tTsCBQOU8v_NtEJVE9IU",
       "id": "AO5cAQZ0JJw",
       "snippet": {
         "publishedAt": "2025-05-07T16:25:04Z",
@@ -35373,8 +35308,7 @@
         "localized": {
           "title": "Building PV's course and you know there's also Hollyberry's story 2",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT54M46S",
@@ -35406,7 +35340,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "p6hQffnBOiZOvdPl0ErfxgtNs6I",
+      "etag": "DReSwoyCUbJ5M0eCFnuIV5VA8TM",
       "id": "Ls1jIIONm0E",
       "snippet": {
         "publishedAt": "2025-05-07T15:30:34Z",
@@ -35494,8 +35428,7 @@
         "localized": {
           "title": "Building PV's course and you know there's also Hollyberry's story",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H50M22S",
@@ -35652,7 +35585,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fz0I-xekjwRZyMchB_Kz9rOyJCY",
+      "etag": "WzpKhaMIy026ntm5HTNakPGv8e4",
       "id": "0lYLo62iYgU",
       "snippet": {
         "publishedAt": "2025-05-03T04:50:45Z",
@@ -35693,8 +35626,7 @@
         "localized": {
           "title": "Only 2 can win in the DC course",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2M29S",
@@ -35722,7 +35654,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XigEkRdH4s-RVvHIKPwGPF0jdbQ",
+      "etag": "kGJ-K0t4epr4MaY6UOvFOU73lAg",
       "id": "3ugvJdzVkDU",
       "snippet": {
         "publishedAt": "2025-05-02T22:25:26Z",
@@ -35763,8 +35695,7 @@
         "localized": {
           "title": "Four Cookies straight race! White Lily Course",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2M50S",
@@ -35912,7 +35843,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "t_Al1N5t7UrBo6e_L3nKLsqsdNk",
+      "etag": "T6MzNWIWyBF_SQFqJcJwKfOMie0",
       "id": "Mu5WAqV_2TU",
       "snippet": {
         "publishedAt": "2025-05-01T04:01:24Z",
@@ -36000,8 +35931,7 @@
         "localized": {
           "title": "You only get 3 side stories and then a race",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H24M44S",
@@ -36033,7 +35963,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Mfy8aTyNujbWaCMnwTvD9Pj74aM",
+      "etag": "MUP2dH8i_DAuK6lMvgtSenH1tE8",
       "id": "UQHFans-z4o",
       "snippet": {
         "publishedAt": "2025-04-30T04:46:54Z",
@@ -36126,8 +36056,7 @@
         "localized": {
           "title": "It's all in the air!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H10M31S",
@@ -36159,7 +36088,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JsUrhe5MrdMg4h5s6077Ulx6XdQ",
+      "etag": "iQRyr8wDWquhwgTjljSZXExcHFM",
       "id": "VWy-Hx7oFhY",
       "snippet": {
         "publishedAt": "2025-04-29T04:14:13Z",
@@ -36247,8 +36176,7 @@
         "localized": {
           "title": "This is the end! of KH 2?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H48M11S",
@@ -36280,7 +36208,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9Ms1alyHZSktHJ7_P1PXhzxOxoU",
+      "etag": "h3SbcHU8fFjuXWo5roEsaYfj7N0",
       "id": "9KL5yG1CmqM",
       "snippet": {
         "publishedAt": "2025-04-25T04:10:56Z",
@@ -36368,8 +36296,7 @@
         "localized": {
           "title": "Creating a new tavern in Ale and Tale",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H48M17S",
@@ -36521,7 +36448,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4yBFZRR0KpLwdixo2YKlmcS-GNM",
+      "etag": "9M_UG_ZeYODXalXeu9FJP46VQ3k",
       "id": "SI8Aa9Hmlb0",
       "snippet": {
         "publishedAt": "2025-04-23T04:13:40Z",
@@ -36614,8 +36541,7 @@
         "localized": {
           "title": "Red mage and Samurai",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H53M50S",
@@ -36647,7 +36573,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "NaUrrYQEMzuZk29yJEyLtCPL-_0",
+      "etag": "NapcOSYa3fhTud-CPxuTfJYAyng",
       "id": "oZOxZVRlLYE",
       "snippet": {
         "publishedAt": "2025-04-22T04:15:06Z",
@@ -36735,8 +36661,7 @@
         "localized": {
           "title": "2nd to last KH2 stream unless....",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H52M33S",
@@ -36768,7 +36693,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ScGYPmx1orL-8Ule_tcwPrtBMdk",
+      "etag": "I72ziBfdj5B_bMcO48lqY_wUk80",
       "id": "YpZYnmtOQdY",
       "snippet": {
         "publishedAt": "2025-04-17T04:20:54Z",
@@ -36856,8 +36781,7 @@
         "localized": {
           "title": "Uh fire and then some berries?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H5M11S",
@@ -36889,7 +36813,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sLVDbfDjVXJdAWXaP3N81rETn8o",
+      "etag": "GajHIYCBBwxXW7MWompASv3GBWM",
       "id": "_g5DFHwUVB8",
       "snippet": {
         "publishedAt": "2025-04-16T04:18:05Z",
@@ -36982,8 +36906,7 @@
         "localized": {
           "title": "Finding the best class!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H10M25S",
@@ -37015,7 +36938,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ytMEeHaDwwK_5t2TkgmlAm-18gI",
+      "etag": "9BSwW233umiN-HhzCKky91ukNBg",
       "id": "6IVklP9FF-0",
       "snippet": {
         "publishedAt": "2025-04-15T04:27:43Z",
@@ -37103,8 +37026,7 @@
         "localized": {
           "title": "What world is this again?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H20M29S",
@@ -37136,7 +37058,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FAwKhipArdySKzsxmhwxQ5JZwS4",
+      "etag": "jmxi_8KXHFZjNIqGQgXO3CgXY5c",
       "id": "cQgtuSJvRSk",
       "snippet": {
         "publishedAt": "2025-04-11T04:54:09Z",
@@ -37224,8 +37146,7 @@
         "localized": {
           "title": "It's not a phase, Mom! pt 4 because we couldn't finish the job!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H43M11S",
@@ -37257,7 +37178,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6O9Q_SUp5VYIEaOS4UrUNpFJReM",
+      "etag": "n8pAz-9_uq0zDERBNeqXMB78u_0",
       "id": "NZKI8JR7p-U",
       "snippet": {
         "publishedAt": "2025-04-10T15:43:03Z",
@@ -37345,8 +37266,7 @@
         "localized": {
           "title": "It's not a phase, Mom! pt 3",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT19M54S",
@@ -37378,7 +37298,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GBy83yGRHgFjI1NE02wuGeDI_6M",
+      "etag": "AE-F51qN-B2pADQ6CvO8hClg_ko",
       "id": "T4MJRjj8YME",
       "snippet": {
         "publishedAt": "2025-04-10T15:22:27Z",
@@ -37466,8 +37386,7 @@
         "localized": {
           "title": "It's not a phase, Mom! pt 2",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT25M33S",
@@ -37499,7 +37418,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BjA94deicXXFMJXpXq_ESlau4Vk",
+      "etag": "Z2gcxc3TBoPWdbJh1YYKLIKgFZs",
       "id": "qCgbmzoPuC8",
       "snippet": {
         "publishedAt": "2025-04-10T15:03:31Z",
@@ -37587,8 +37506,7 @@
         "localized": {
           "title": "It's not a phase, Mom!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H27M13S",
@@ -37620,7 +37538,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wZR6dADESns9sid9fXIfxPhML9g",
+      "etag": "sHeDwWkjbX0rMSsMMDd_a9iCaYY",
       "id": "sh-hy_LdvvU",
       "snippet": {
         "publishedAt": "2025-04-09T04:12:55Z",
@@ -37713,8 +37631,7 @@
         "localized": {
           "title": "Leveling up white mage and failing to hold still",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H57M52S",
@@ -37746,7 +37663,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FtxuYF6ATTuC5vqqcCQsl-RrGiQ",
+      "etag": "iZs08PTs7FMhwbKqV5ICQPKkvK0",
       "id": "bDGMBWQZkpg",
       "snippet": {
         "publishedAt": "2025-04-08T04:11:34Z",
@@ -37834,8 +37751,7 @@
         "localized": {
           "title": "Going for round 2",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H47M48S",
@@ -37992,7 +37908,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ILFpha2jr3LtLzIA_18kPEYAwwA",
+      "etag": "7pgRI7CvLCf07VGGsMIgQ1wBg2I",
       "id": "JULtr-vDIV8",
       "snippet": {
         "publishedAt": "2025-04-03T07:39:39Z",
@@ -38075,8 +37991,7 @@
         "localized": {
           "title": "Surprise afternoon stream with ENA",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H27M33S",
@@ -38108,7 +38023,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "z0D6zb9s0mblr0X1e0MvIRexKfs",
+      "etag": "dpNyLh_Q3oFu3oBPLI0XbVwdLX8",
       "id": "25Y3rZql3Pg",
       "snippet": {
         "publishedAt": "2025-04-03T04:27:14Z",
@@ -38196,8 +38111,7 @@
         "localized": {
           "title": "Awaking White Lily",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H17M54S",
@@ -38229,7 +38143,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "4_Jq5wGPjdjcEmF6nhxZHsVGXGc",
+      "etag": "JAXvpcwqlF1C-2a-unVoNBwaIOA",
       "id": "sDhg3OgyH6Y",
       "snippet": {
         "publishedAt": "2025-04-02T04:21:28Z",
@@ -38322,8 +38236,7 @@
         "localized": {
           "title": "It's Tuesday",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H57M11S",
@@ -38355,7 +38268,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MBYGMv_kdgZBS4ly-eo5zW8ZaTs",
+      "etag": "jINuLmu0Y-l-RfmiKtkQ0qcIn5g",
       "id": "ot-a1RxmX_Y",
       "snippet": {
         "publishedAt": "2025-04-01T04:27:20Z",
@@ -38443,8 +38356,7 @@
         "localized": {
           "title": "I don't think I'm ready for this!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H19M57S",
@@ -38476,7 +38388,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "bIZrZha3jO71vjrdEvmXwjh1Yoo",
+      "etag": "qEaRuLfyCF8HfWLksvvTr1g3JNE",
       "id": "S_b9RLrbVA8",
       "snippet": {
         "publishedAt": "2025-03-28T04:16:02Z",
@@ -38564,8 +38476,7 @@
         "localized": {
           "title": "Shroomies?",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H58M4S",
@@ -38597,7 +38508,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JfC1Nyd89V1sj--NZcsjOPH0Kec",
+      "etag": "Qfzoznnf7bBazbu7_P4UCjkfa3A",
       "id": "SubvnNssDSM",
       "snippet": {
         "publishedAt": "2025-03-27T03:58:05Z",
@@ -38685,8 +38596,7 @@
         "localized": {
           "title": "WE are once again entering Roblox",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H46M58S",
@@ -38718,7 +38628,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YGf71xIR0bDbVHDBEcrX8cmv-pU",
+      "etag": "RcE-iDzs5gORItD2Q6njEaB7qmU",
       "id": "fKRNtPNbOhg",
       "snippet": {
         "publishedAt": "2025-03-26T04:07:36Z",
@@ -38806,8 +38716,7 @@
         "localized": {
           "title": "It's a me!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H58M29S",
@@ -39074,7 +38983,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "OFXmHD7N9kj7_8ixafb4UVlHzZk",
+      "etag": "_cd7i1XOaKt0MdKqxuqpbmjf5Fg",
       "id": "dGqz2sC2tMs",
       "snippet": {
         "publishedAt": "2025-03-20T04:39:54Z",
@@ -39162,8 +39071,7 @@
         "localized": {
           "title": "What do you mean we still haven't found the crown?!",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT3H23M7S",
@@ -39195,7 +39103,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "f4NXfYh8FterbH3wH6_rj8qHkLw",
+      "etag": "4f1ju8-S9BQeIOVA2FsMwKwvVs4",
       "id": "1kt6rjl447s",
       "snippet": {
         "publishedAt": "2025-03-19T04:14:37Z",
@@ -39288,8 +39196,7 @@
         "localized": {
           "title": "Getting through ff14",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H35M22S",
@@ -39321,7 +39228,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3sApXHRhCdQ1JvP1DVH5P8Po9Pk",
+      "etag": "swRqwP3e5vSRfU-PQGft9gtK9IE",
       "id": "xxBh3euXFZQ",
       "snippet": {
         "publishedAt": "2025-03-15T04:29:15Z",
@@ -39357,8 +39264,7 @@
         "localized": {
           "title": "More and more cookie run [Twitch VOD 13.03.25]",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H36M43S",
@@ -39386,7 +39292,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "e9-KXwhtxhTL0WNEWSavDJwUws8",
+      "etag": "Br8GzOBYADLSwz8vIjiZrO0vD_8",
       "id": "Ba-sRr_L3wM",
       "snippet": {
         "publishedAt": "2025-03-12T04:09:33Z",
@@ -39474,8 +39380,7 @@
         "localized": {
           "title": "Still chasing after the crown",
           "description": "Crystal’s Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nTwitch Channel:\nhttps://www.twitch.tv/dreamdropsdrifters\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\nFollow us on Tiktok\n@DreamDropsCrew"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H44M5S",
@@ -39512,21 +39417,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T00:23:43.173Z"
+      "updatedAt": "2026-11-24T10:26:26.992Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T00:23:43.173Z"
+      "updatedAt": "2026-11-24T10:26:26.992Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T00:23:43.173Z"
+      "updatedAt": "2026-11-24T10:26:26.992Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-24T00:23:43.173Z",
-    "evaluatedAt": "2026-11-24T00:23:47.419Z"
+    "observedAt": "2026-11-24T10:26:26.992Z",
+    "evaluatedAt": "2026-11-24T10:26:29.997Z"
   }
 }

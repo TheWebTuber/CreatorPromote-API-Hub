@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-25T04:11:08.396Z",
+  "updatedAt": "2026-11-25T14:21:45.714Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "LyacYs7deyrLT56nfUFYNVY0Jnk",
+    "etag": "Sx3p7EHdyD_1Mpwl9Zlyc1tBNwc",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,10 +43,10 @@
       }
     },
     "statistics": {
-      "viewCount": "67761",
+      "viewCount": "67762",
       "subscriberCount": "100",
       "hiddenSubscriberCount": false,
-      "videoCount": "206"
+      "videoCount": "207"
     },
     "brandingSettings": {
       "channel": {
@@ -64,7 +64,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "L7D8YCnuOqgxOQ3EBVMMygjD8mE",
+      "etag": "qmIUi29DoQ3MYucfpKAKu1t2beY",
       "id": "3NmDr6lSf2c",
       "snippet": {
         "publishedAt": "2026-11-22T13:59:33Z",
@@ -131,7 +131,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1216",
+        "viewCount": "1219",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -959,7 +959,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3NmDr6lSf2c/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3NmDr6lSf2c",
-      "views": "1216",
+      "views": "1219",
       "live": false,
       "wasLive": false
     },
@@ -1260,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-25T04:11:08.396Z",
-    "expiresAt": "2026-11-25T04:56:08.396Z",
+    "checkedAt": "2026-11-25T14:21:45.714Z",
+    "expiresAt": "2026-11-25T15:06:45.714Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1272,7 +1272,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "L7D8YCnuOqgxOQ3EBVMMygjD8mE",
+      "etag": "qmIUi29DoQ3MYucfpKAKu1t2beY",
       "id": "3NmDr6lSf2c",
       "snippet": {
         "publishedAt": "2026-11-22T13:59:33Z",
@@ -1339,7 +1339,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1216",
+        "viewCount": "1219",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2959,7 +2959,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "aU1ezC20T3nFGAWSdD_GOS6SfZ4",
+      "etag": "Lnb7EvBB1wkeDab22NB6f1cqqvE",
       "id": "b6HouKHBGAw",
       "snippet": {
         "publishedAt": "2026-10-23T06:13:10Z",
@@ -3844,7 +3844,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "p3CoDro9YNuSIRDXgco0SXbvsP0",
+      "etag": "Alk4W8nYjpCsOOdFeGXN9xae5OY",
       "id": "kevKviMjKuc",
       "snippet": {
         "publishedAt": "2026-10-01T11:24:36Z",
@@ -3890,8 +3890,7 @@
         "localized": {
           "title": "I swear I'm not this dumb irl  #vtuber #shiftatmidnight  #vtuberclips #envtuber #clips #shorts",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT33S",
@@ -5832,7 +5831,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "RSM98JNCKxBesyAJX_7IWaMv8zU",
+      "etag": "EoQlY7jtqzyTz3sYoKJnImw-NNM",
       "id": "cVDG6sSBFnA",
       "snippet": {
         "publishedAt": "2026-08-31T20:26:45Z",
@@ -5873,8 +5872,7 @@
         "localized": {
           "title": "behold my subpar yasuo gameplay #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H34M2S",
@@ -6118,7 +6116,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tKuP6oQdIeqN84I-9t4Pp-ehIXg",
+      "etag": "J7p0GiCcbyAKBAsYYxfRJM0CMrE",
       "id": "s27TMpJnL08",
       "snippet": {
         "publishedAt": "2026-08-27T01:03:56Z",
@@ -6159,8 +6157,7 @@
         "localized": {
           "title": "reacting to random shit cuz im too tired to play league #vtuber #reaction",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT42M23S",
@@ -6857,7 +6854,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-BS-ScOveI5dan9k3yA5hj7WHr4",
+      "etag": "jU4AJ6cI-ZFpWRDTg5522JMGuwI",
       "id": "BczlzeFG-sI",
       "snippet": {
         "publishedAt": "2026-08-02T11:22:06Z",
@@ -6898,8 +6895,7 @@
         "localized": {
           "title": "behold my subpar yasuo gameplay #vtuber #leagueoflegends",
           "description": "fox plays league"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H14M52S",
@@ -7872,7 +7868,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YVROFfDSqbsK8OHWevJIzt26S48",
+      "etag": "cEyAZcp9EHPR8_wXQ-91AgiU1l0",
       "id": "gTETNW7R4I8",
       "snippet": {
         "publishedAt": "2026-07-16T06:38:10Z",
@@ -7913,8 +7909,7 @@
         "localized": {
           "title": "praying I don't get paraplegics on my team(and to not be the paraplegic) #vtuber #leagueoflegends",
           "description": "fox plays league"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H22M14S",
@@ -8577,21 +8572,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T04:11:08.396Z"
+      "updatedAt": "2026-11-25T14:21:45.714Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T04:11:08.396Z"
+      "updatedAt": "2026-11-25T14:21:45.714Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T04:11:08.396Z"
+      "updatedAt": "2026-11-25T14:21:45.714Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-25T04:11:08.396Z",
-    "evaluatedAt": "2026-11-25T04:11:09.320Z"
+    "observedAt": "2026-11-25T14:21:45.714Z",
+    "evaluatedAt": "2026-11-25T14:21:46.778Z"
   }
 }

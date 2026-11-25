@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "crystalsdreamdrops",
   "label": "Crystalsdreamdrops",
-  "updatedAt": "2026-11-25T14:21:52.631Z",
+  "updatedAt": "2026-11-25T23:20:19.402Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "0IUfYNrwkkCElS46nwRx8y0kgsc",
+    "etag": "I5kbDh2PQvVRoIjZ5xALCcB8X6I",
     "id": "UCtaRwYXdPWmrXhwirPL3oKw",
     "snippet": {
       "title": "Crystal’s Dream Drops",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "3335",
+      "viewCount": "3339",
       "subscriberCount": "28",
       "hiddenSubscriberCount": false,
       "videoCount": "25"
@@ -1295,8 +1295,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-25T14:21:52.631Z",
-    "expiresAt": "2026-11-25T15:06:52.631Z",
+    "checkedAt": "2026-11-25T23:20:19.402Z",
+    "expiresAt": "2026-11-26T00:05:19.402Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -3211,21 +3211,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:52.631Z"
+      "updatedAt": "2026-11-25T23:20:19.402Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:52.631Z"
+      "updatedAt": "2026-11-25T23:20:19.402Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:52.631Z"
+      "updatedAt": "2026-11-25T23:20:19.402Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-25T14:21:52.631Z",
-    "evaluatedAt": "2026-11-25T14:21:53.045Z"
+    "observedAt": "2026-11-25T23:20:19.402Z",
+    "evaluatedAt": "2026-11-25T23:20:19.861Z"
   }
 }

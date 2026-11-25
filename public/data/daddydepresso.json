@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "daddydepresso",
   "label": "Daddy Depresso",
-  "updatedAt": "2026-11-25T14:21:44.335Z",
+  "updatedAt": "2026-11-25T23:20:11.613Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -957,8 +957,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-25T14:21:44.335Z",
-    "expiresAt": "2026-11-25T15:06:44.335Z",
+    "checkedAt": "2026-11-25T23:20:11.613Z",
+    "expiresAt": "2026-11-26T00:05:11.613Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -4595,7 +4595,7 @@
   "collabSources": {
     "PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:44.335Z",
+      "updatedAt": "2026-11-25T23:20:11.613Z",
       "items": [
         {
           "id": "FRVmoksciRg",
@@ -4610,7 +4610,7 @@
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/FRVmoksciRg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=FRVmoksciRg",
-          "views": "60",
+          "views": "61",
           "live": false,
           "wasLive": true,
           "featured": false
@@ -4619,7 +4619,7 @@
     },
     "PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:44.335Z",
+      "updatedAt": "2026-11-25T23:20:11.613Z",
       "items": [
         {
           "id": "Q7gZ-ubMTSA",
@@ -5138,7 +5138,7 @@
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/pUG2KIS8VbU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=pUG2KIS8VbU",
-          "views": "44",
+          "views": "45",
           "live": false,
           "wasLive": true,
           "featured": false
@@ -5174,7 +5174,7 @@
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/35_YZAGZv7s/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=35_YZAGZv7s",
-          "views": "36",
+          "views": "37",
           "live": false,
           "wasLive": true,
           "featured": false
@@ -5507,7 +5507,7 @@
     },
     "PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:44.335Z",
+      "updatedAt": "2026-11-25T23:20:11.613Z",
       "items": [
         {
           "id": "TqJk7cQ72e0",
@@ -5558,7 +5558,7 @@
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/CsG_ctpVym0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=CsG_ctpVym0",
-          "views": "27",
+          "views": "28",
           "live": false,
           "wasLive": true,
           "featured": false
@@ -5576,7 +5576,7 @@
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/HA5siJh9ngA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=HA5siJh9ngA",
-          "views": "28",
+          "views": "30",
           "live": false,
           "wasLive": true,
           "featured": false
@@ -5786,33 +5786,33 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:44.335Z"
+      "updatedAt": "2026-11-25T23:20:11.613Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:44.335Z"
+      "updatedAt": "2026-11-25T23:20:11.613Z"
     },
     "collab:PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:44.335Z"
+      "updatedAt": "2026-11-25T23:20:11.613Z"
     },
     "collab:PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:44.335Z"
+      "updatedAt": "2026-11-25T23:20:11.613Z"
     },
     "collab:PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:44.335Z"
+      "updatedAt": "2026-11-25T23:20:11.613Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:44.335Z"
+      "updatedAt": "2026-11-25T23:20:11.613Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-25T14:21:44.335Z",
-    "evaluatedAt": "2026-11-25T14:21:45.712Z"
+    "observedAt": "2026-11-25T23:20:11.613Z",
+    "evaluatedAt": "2026-11-25T23:20:13.117Z"
   }
 }

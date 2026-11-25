@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-25T14:21:41.022Z",
+  "updatedAt": "2026-11-25T23:20:07.033Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "x250qnyJ_XHY2c0Nn4k0yn2x8y4",
+    "etag": "B5zXQLtraAibkqSeVvmhOguPyoU",
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
     "snippet": {
       "title": "Dream Drops Crew",
@@ -42,10 +42,10 @@
       }
     },
     "statistics": {
-      "viewCount": "101224",
+      "viewCount": "101950",
       "subscriberCount": "507",
       "hiddenSubscriberCount": false,
-      "videoCount": "877"
+      "videoCount": "879"
     },
     "brandingSettings": {
       "channel": {
@@ -61,96 +61,26 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "csyD5OjecPrqLk5Wov4jgcWhGEw",
-      "id": "hRGCl76_Xbg",
-      "snippet": {
-        "publishedAt": "2026-11-25T02:07:24Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Once again we sew in Dressmaker (Portrait)",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/default.jpg?v=6b0642dd",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg?v=6b0642dd",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/hqdefault.jpg?v=6b0642dd",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "Dressmaker",
-          "indie",
-          "game"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Once again we sew in Dressmaker (Portrait)",
-          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT1H56M30S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "700",
-        "likeCount": "5",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-25T02:07:39Z",
-        "actualEndTime": "2026-11-25T04:04:09Z",
-        "scheduledStartTime": "2026-11-25T02:07:24Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Lxvte6U9FPMFHQ1itMIiM8ZNVZ4",
+      "etag": "APxZK7M6gY42bwAX81_OdtNBQCs",
       "id": "s8sv-gXvNc0",
       "snippet": {
-        "publishedAt": "2026-11-25T02:07:16Z",
+        "publishedAt": "2026-11-25T18:09:09Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Once again we sew in Dressmaker",
         "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/default.jpg?v=6b0642d5",
+            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg?v=6b0642d5",
+            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/hqdefault.jpg?v=6b0642d5",
+            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
@@ -172,16 +102,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT1H56M31S",
+        "duration": "PT1H56M36S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -189,7 +119,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "15",
+        "viewCount": "24",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -198,6 +128,76 @@
         "actualStartTime": "2026-11-25T02:07:38Z",
         "actualEndTime": "2026-11-25T04:04:10Z",
         "scheduledStartTime": "2026-11-25T02:07:16Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YoLGauc-rrh5TX0ASc6L7_oZuTg",
+      "id": "hRGCl76_Xbg",
+      "snippet": {
+        "publishedAt": "2026-11-25T17:48:25Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Once again we sew in Dressmaker (Portrait)",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "Dressmaker",
+          "indie",
+          "game"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Once again we sew in Dressmaker (Portrait)",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H56M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "700",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-25T02:07:39Z",
+        "actualEndTime": "2026-11-25T04:04:09Z",
+        "scheduledStartTime": "2026-11-25T02:07:24Z"
       }
     },
     {
@@ -511,26 +511,26 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "csyD5OjecPrqLk5Wov4jgcWhGEw",
+      "etag": "YoLGauc-rrh5TX0ASc6L7_oZuTg",
       "id": "hRGCl76_Xbg",
       "snippet": {
-        "publishedAt": "2026-11-25T02:07:24Z",
+        "publishedAt": "2026-11-25T17:48:25Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Once again we sew in Dressmaker (Portrait)",
         "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/default.jpg?v=6b0642dd",
+            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg?v=6b0642dd",
+            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/hqdefault.jpg?v=6b0642dd",
+            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
@@ -551,16 +551,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT1H56M30S",
+        "duration": "PT1H56M39S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -581,26 +581,26 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Lxvte6U9FPMFHQ1itMIiM8ZNVZ4",
+      "etag": "APxZK7M6gY42bwAX81_OdtNBQCs",
       "id": "s8sv-gXvNc0",
       "snippet": {
-        "publishedAt": "2026-11-25T02:07:16Z",
+        "publishedAt": "2026-11-25T18:09:09Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Once again we sew in Dressmaker",
         "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/default.jpg?v=6b0642d5",
+            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg?v=6b0642d5",
+            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/hqdefault.jpg?v=6b0642d5",
+            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
@@ -622,16 +622,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT1H56M31S",
+        "duration": "PT1H56M36S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -639,7 +639,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "15",
+        "viewCount": "24",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -962,36 +962,36 @@
   "liveChecked": false,
   "latestVideos": [
     {
-      "id": "hRGCl76_Xbg",
-      "title": "Once again we sew in Dressmaker (Portrait)",
+      "id": "s8sv-gXvNc0",
+      "title": "Once again we sew in Dressmaker",
       "label": "YouTube",
-      "publishedAt": "2026-11-25T02:07:24Z",
-      "startedAt": "2026-11-25T02:07:39Z",
-      "endedAt": "2026-11-25T04:04:09Z",
-      "scheduledAt": "2026-11-25T02:07:24Z",
-      "duration": "PT1H56M30S",
+      "publishedAt": "2026-11-25T18:09:09Z",
+      "startedAt": "2026-11-25T02:07:38Z",
+      "endedAt": "2026-11-25T04:04:10Z",
+      "scheduledAt": "2026-11-25T02:07:16Z",
+      "duration": "PT1H56M36S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg?v=6b0642dd",
-      "url": "https://www.youtube.com/watch?v=hRGCl76_Xbg",
-      "views": "700",
+      "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
+      "views": "24",
       "live": false,
       "wasLive": true
     },
     {
-      "id": "s8sv-gXvNc0",
-      "title": "Once again we sew in Dressmaker",
+      "id": "hRGCl76_Xbg",
+      "title": "Once again we sew in Dressmaker (Portrait)",
       "label": "YouTube",
-      "publishedAt": "2026-11-25T02:07:16Z",
-      "startedAt": "2026-11-25T02:07:38Z",
-      "endedAt": "2026-11-25T04:04:10Z",
-      "scheduledAt": "2026-11-25T02:07:16Z",
-      "duration": "PT1H56M31S",
+      "publishedAt": "2026-11-25T17:48:25Z",
+      "startedAt": "2026-11-25T02:07:39Z",
+      "endedAt": "2026-11-25T04:04:09Z",
+      "scheduledAt": "2026-11-25T02:07:24Z",
+      "duration": "PT1H56M39S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg?v=6b0642d5",
-      "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
-      "views": "15",
+      "thumbnail": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hRGCl76_Xbg",
+      "views": "700",
       "live": false,
       "wasLive": true
     },
@@ -1069,14 +1069,14 @@
       "id": "hRGCl76_Xbg",
       "title": "Once again we sew in Dressmaker (Portrait)",
       "label": "Livestream",
-      "publishedAt": "2026-11-25T02:07:24Z",
+      "publishedAt": "2026-11-25T17:48:25Z",
       "startedAt": "2026-11-25T02:07:39Z",
       "endedAt": "2026-11-25T04:04:09Z",
       "scheduledAt": "2026-11-25T02:07:24Z",
-      "duration": "PT1H56M30S",
+      "duration": "PT1H56M39S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg?v=6b0642dd",
+      "thumbnail": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hRGCl76_Xbg",
       "views": "700",
       "live": false,
@@ -1086,16 +1086,16 @@
       "id": "s8sv-gXvNc0",
       "title": "Once again we sew in Dressmaker",
       "label": "Livestream",
-      "publishedAt": "2026-11-25T02:07:16Z",
+      "publishedAt": "2026-11-25T18:09:09Z",
       "startedAt": "2026-11-25T02:07:38Z",
       "endedAt": "2026-11-25T04:04:10Z",
       "scheduledAt": "2026-11-25T02:07:16Z",
-      "duration": "PT1H56M31S",
+      "duration": "PT1H56M36S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg?v=6b0642d5",
+      "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
-      "views": "15",
+      "views": "24",
       "live": false,
       "wasLive": true
     },
@@ -1173,14 +1173,14 @@
       "id": "hRGCl76_Xbg",
       "title": "Once again we sew in Dressmaker (Portrait)",
       "label": "Replay",
-      "publishedAt": "2026-11-25T02:07:24Z",
+      "publishedAt": "2026-11-25T17:48:25Z",
       "startedAt": "2026-11-25T02:07:39Z",
       "endedAt": "2026-11-25T04:04:09Z",
       "scheduledAt": "2026-11-25T02:07:24Z",
-      "duration": "PT1H56M30S",
+      "duration": "PT1H56M39S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg?v=6b0642dd",
+      "thumbnail": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hRGCl76_Xbg",
       "views": "700",
       "live": false,
@@ -1190,16 +1190,16 @@
       "id": "s8sv-gXvNc0",
       "title": "Once again we sew in Dressmaker",
       "label": "Replay",
-      "publishedAt": "2026-11-25T02:07:16Z",
+      "publishedAt": "2026-11-25T18:09:09Z",
       "startedAt": "2026-11-25T02:07:38Z",
       "endedAt": "2026-11-25T04:04:10Z",
       "scheduledAt": "2026-11-25T02:07:16Z",
-      "duration": "PT1H56M31S",
+      "duration": "PT1H56M36S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg?v=6b0642d5",
+      "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
-      "views": "15",
+      "views": "24",
       "live": false,
       "wasLive": true
     },
@@ -1275,8 +1275,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-25T14:21:41.022Z",
-    "expiresAt": "2026-11-25T15:06:41.022Z",
+    "checkedAt": "2026-11-25T23:20:07.033Z",
+    "expiresAt": "2026-11-26T00:05:07.033Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1287,96 +1287,26 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "csyD5OjecPrqLk5Wov4jgcWhGEw",
-      "id": "hRGCl76_Xbg",
-      "snippet": {
-        "publishedAt": "2026-11-25T02:07:24Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Once again we sew in Dressmaker (Portrait)",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/default.jpg?v=6b0642dd",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg?v=6b0642dd",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/hqdefault.jpg?v=6b0642dd",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "Dressmaker",
-          "indie",
-          "game"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Once again we sew in Dressmaker (Portrait)",
-          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT1H56M30S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "700",
-        "likeCount": "5",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-25T02:07:39Z",
-        "actualEndTime": "2026-11-25T04:04:09Z",
-        "scheduledStartTime": "2026-11-25T02:07:24Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Lxvte6U9FPMFHQ1itMIiM8ZNVZ4",
+      "etag": "APxZK7M6gY42bwAX81_OdtNBQCs",
       "id": "s8sv-gXvNc0",
       "snippet": {
-        "publishedAt": "2026-11-25T02:07:16Z",
+        "publishedAt": "2026-11-25T18:09:09Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Once again we sew in Dressmaker",
         "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/default.jpg?v=6b0642d5",
+            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg?v=6b0642d5",
+            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/hqdefault.jpg?v=6b0642d5",
+            "url": "https://i.ytimg.com/vi/s8sv-gXvNc0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
@@ -1398,16 +1328,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT1H56M31S",
+        "duration": "PT1H56M36S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -1415,7 +1345,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "15",
+        "viewCount": "24",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1424,6 +1354,76 @@
         "actualStartTime": "2026-11-25T02:07:38Z",
         "actualEndTime": "2026-11-25T04:04:10Z",
         "scheduledStartTime": "2026-11-25T02:07:16Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YoLGauc-rrh5TX0ASc6L7_oZuTg",
+      "id": "hRGCl76_Xbg",
+      "snippet": {
+        "publishedAt": "2026-11-25T17:48:25Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Once again we sew in Dressmaker (Portrait)",
+        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hRGCl76_Xbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "Dressmaker",
+          "indie",
+          "game"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Once again we sew in Dressmaker (Portrait)",
+          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H56M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "700",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-25T02:07:39Z",
+        "actualEndTime": "2026-11-25T04:04:09Z",
+        "scheduledStartTime": "2026-11-25T02:07:24Z"
       }
     },
     {
@@ -1806,7 +1806,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SGlIZznbjad3ZcRMG0QBWiqJHyQ",
+      "etag": "b-RokXsVHZR43mPDeI_yT4MKjZg",
       "id": "7fypDnSjs28",
       "snippet": {
         "publishedAt": "2026-11-19T05:43:08Z",
@@ -1864,7 +1864,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "712",
+        "viewCount": "713",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2355,7 +2355,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HUEPTwnE5SLZm3rYlyOyXRy5w8o",
+      "etag": "eqxgnf0yjNVRBvrGLO_QxHp7jc0",
       "id": "7p1l4-YNuFQ",
       "snippet": {
         "publishedAt": "2026-11-11T18:31:34Z",
@@ -2431,7 +2431,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "69",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4817,7 +4817,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "pNCBS8kVRxCEGN-3KEfqPIDHnxk",
+      "etag": "_4vpqIPKE2LKTDCP7CedtTcjP1M",
       "id": "-q5UE7EMCZk",
       "snippet": {
         "publishedAt": "2026-10-15T04:26:58Z",
@@ -4875,7 +4875,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "29",
+        "viewCount": "30",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5575,7 +5575,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KATeBbd8_ylhK42gTK0IDQsI_Fw",
+      "etag": "UaCRIwDJURcUoVaPFC0_u3pbo-w",
       "id": "Zey_1ynPmcs",
       "snippet": {
         "publishedAt": "2026-10-07T04:29:52Z",
@@ -6832,7 +6832,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "USNNoTiw2l8rJAG8pDwRQ5cPfks",
+      "etag": "8e2x9ycCZ-lebPrcDWBvqC1Vukg",
       "id": "8uYQXroVY2Q",
       "snippet": {
         "publishedAt": "2026-09-25T04:20:10Z",
@@ -8728,7 +8728,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8sk_-SOINVTpYH4619rgZIR1QFU",
+      "etag": "nwvKyXDvvaJTeLlEGqF6WvBGCX0",
       "id": "dLIF6ydFoho",
       "snippet": {
         "publishedAt": "2026-09-01T17:22:14Z",
@@ -8793,7 +8793,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "16",
+        "viewCount": "17",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8880,7 +8880,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZDfRXmrf4dTzv8FcGi0820CJX2U",
+      "etag": "iTL1uZ9EZCfUHjYvpPIDeIUATxg",
       "id": "3Qy8q69ey9w",
       "snippet": {
         "publishedAt": "2026-08-28T04:07:03Z",
@@ -8943,7 +8943,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "29",
+        "viewCount": "30",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8955,7 +8955,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "A6MtPeLwAy0Uk3NuljreddaOLRM",
+      "etag": "q5fR8Khf-Hip9e0j4ONzenrNSBc",
       "id": "KTSwyKtAVXY",
       "snippet": {
         "publishedAt": "2026-08-27T05:30:41Z",
@@ -9287,7 +9287,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "y7V3k_R_40L43yIvOf9sf2-Crsc",
+      "etag": "aqkEuSG72uzKSyDo7qTv_-M1nG0",
       "id": "Zs0gboyhB70",
       "snippet": {
         "publishedAt": "2026-08-21T04:23:01Z",
@@ -9347,7 +9347,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "104",
+        "viewCount": "106",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -9359,7 +9359,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sIvVlMtU0XpQLABOAp2jqxmEZuU",
+      "etag": "cpwmk41keHLL7QVxLj7WjQnmfI8",
       "id": "JjXlcUQDcNY",
       "snippet": {
         "publishedAt": "2026-08-20T04:51:09Z",
@@ -9424,7 +9424,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "25",
+        "viewCount": "26",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -9687,7 +9687,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "D6ZEcQHtRGBk76Q1I2YDArfBsqs",
+      "etag": "JWPl6IZZKyIO_qud5p1xK7YF0Yg",
       "id": "hV2CUtLIg2s",
       "snippet": {
         "publishedAt": "2026-08-14T04:12:31Z",
@@ -9748,7 +9748,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "18",
+        "viewCount": "19",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -9760,7 +9760,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SZFzQ-QM2R1cq0LqcB_8gxhVnIk",
+      "etag": "-1nmEVauKuFti381Hajk3tUOThs",
       "id": "tK6LEGqoqog",
       "snippet": {
         "publishedAt": "2026-08-13T04:18:36Z",
@@ -9837,7 +9837,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "19",
+        "viewCount": "20",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -9849,7 +9849,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "LeNYeAHUI8WtekHQrk4NxA9p35A",
+      "etag": "fByJ7eouiBdl-edFDQhBoAgvR-g",
       "id": "HA5siJh9ngA",
       "snippet": {
         "publishedAt": "2026-08-12T04:28:11Z",
@@ -9918,7 +9918,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "28",
+        "viewCount": "30",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -9930,7 +9930,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6EOkhmKOeNCoOMAvir4Y85CN-QU",
+      "etag": "0ZHjuGsHZH2i2AO32x6SBIgmgDM",
       "id": "1AhAP6cc3Yw",
       "snippet": {
         "publishedAt": "2026-08-11T04:15:05Z",
@@ -10007,7 +10007,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "21",
+        "viewCount": "22",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -10019,7 +10019,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "A-FnGuSBtHniRAu6cSmacXa9yt0",
+      "etag": "MvHfC6GwoqDNXXQQZlaMb8s5pc4",
       "id": "O7hvCRv5Q9w",
       "snippet": {
         "publishedAt": "2026-08-08T17:01:22Z",
@@ -10085,7 +10085,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "17",
+        "viewCount": "18",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -10097,7 +10097,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Qum-W-uhhDVW2iuBwRYx-BYsAEY",
+      "etag": "Bw_L5HAIQRckgvtWlPA7V_vgTFw",
       "id": "gQYygMy9fAU",
       "snippet": {
         "publishedAt": "2026-08-07T04:20:18Z",
@@ -10166,7 +10166,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "30",
+        "viewCount": "31",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -10257,7 +10257,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Hxt0A1EK-rGgk6zmL-MoS_5LWxY",
+      "etag": "Sw4wtmUbzuhjIxm6h4HzAXvY6Pg",
       "id": "CsG_ctpVym0",
       "snippet": {
         "publishedAt": "2026-08-05T04:21:31Z",
@@ -10331,7 +10331,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "27",
+        "viewCount": "28",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -10506,7 +10506,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AAfNLCSgtyFvAe-N1s7m7U0RYJA",
+      "etag": "nyxvx8QnEGxPvPhneANh-TlypmY",
       "id": "W56DA921nEc",
       "snippet": {
         "publishedAt": "2026-08-04T04:28:59Z",
@@ -10576,7 +10576,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "17",
+        "viewCount": "18",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -10588,7 +10588,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "jygl79Ro8BQpW6Z44d4B03f7vq8",
+      "etag": "woqkx9r7Wd2b8O2atbn-9_rZ3xw",
       "id": "35_YZAGZv7s",
       "snippet": {
         "publishedAt": "2026-08-01T04:36:26Z",
@@ -10661,7 +10661,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
+        "viewCount": "37",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -10939,7 +10939,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "brx5TF6Lvbb5xFPCZopR02tdxcA",
+      "etag": "aZTwjkMM_HtyTUOPd4TOqQQH0us",
       "id": "Ea6hE12XrlY",
       "snippet": {
         "publishedAt": "2026-07-22T04:40:34Z",
@@ -11012,7 +11012,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "29",
+        "viewCount": "30",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -11024,7 +11024,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "crqDMgcUu54MnyhVPbORbEzz034",
+      "etag": "TguE8US8X-OgTOOPOojXBuMipto",
       "id": "A5eMW5a0VSA",
       "snippet": {
         "publishedAt": "2026-07-18T14:22:45Z",
@@ -11092,7 +11092,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "48",
+        "viewCount": "50",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -11104,7 +11104,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yLDyP-XZ-V3Vi9C3Yf3yaIjGzes",
+      "etag": "axdxpZcIO4yyGqAYSS2WYtFE_PM",
       "id": "ewRYCaLU6Vs",
       "snippet": {
         "publishedAt": "2026-07-17T04:15:11Z",
@@ -11177,7 +11177,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "23",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -11409,7 +11409,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kyBd0e4udekr-K4Ytor7SjMzkM4",
+      "etag": "WwH2mroelk-Cxr9cRzIfFuglMrY",
       "id": "FRVmoksciRg",
       "snippet": {
         "publishedAt": "2026-07-11T05:12:50Z",
@@ -11492,7 +11492,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "60",
+        "viewCount": "61",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -11589,7 +11589,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "pzQehgK6zR0koaPBM-ImXCRiBsI",
+      "etag": "yc0UkSfu2CvWw6tBbuw71qMcI9Q",
       "id": "pUG2KIS8VbU",
       "snippet": {
         "publishedAt": "2026-06-27T04:39:58Z",
@@ -11671,7 +11671,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "44",
+        "viewCount": "45",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "5"
@@ -11683,7 +11683,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3D-z-MPyuprdOB9Amo7fsWSifo0",
+      "etag": "S026J2m5hXxgQpnS0CeGysvNFfY",
       "id": "zjgSF8dvbU0",
       "snippet": {
         "publishedAt": "2026-06-26T04:41:00Z",
@@ -11755,7 +11755,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "155",
+        "viewCount": "156",
         "likeCount": "10",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -11767,7 +11767,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Qh51zI6WpHfSG84E_hXCmtW0u7k",
+      "etag": "VrEdhXyEbggAQ7RK2qMxwObhop8",
       "id": "N7yywHWyxXU",
       "snippet": {
         "publishedAt": "2026-06-24T04:41:13Z",
@@ -11838,7 +11838,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "28",
+        "viewCount": "29",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -11850,7 +11850,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zhT7FIB-JfDSUBBi1ySESO2X7Ko",
+      "etag": "aevV2a_JsbeA5M95Fr6uWWHwwyI",
       "id": "5Tn9nRRaF-4",
       "snippet": {
         "publishedAt": "2026-06-20T07:33:29Z",
@@ -11921,7 +11921,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "31",
+        "viewCount": "32",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -16211,7 +16211,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0YiQEjUq9BxIIZrkpCeZW5Z_f2g",
+      "etag": "XHt5I_Ol71y7TiZmgdbpDTKWFUA",
       "id": "WrPDdHEnXLg",
       "snippet": {
         "publishedAt": "2026-03-12T05:02:07Z",
@@ -16296,7 +16296,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1491",
+        "viewCount": "1492",
         "likeCount": "48",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -39370,21 +39370,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:41.022Z"
+      "updatedAt": "2026-11-25T23:20:07.033Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:41.022Z"
+      "updatedAt": "2026-11-25T23:20:07.033Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:41.022Z"
+      "updatedAt": "2026-11-25T23:20:07.033Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-25T14:21:41.022Z",
-    "evaluatedAt": "2026-11-25T14:21:44.327Z"
+    "observedAt": "2026-11-25T23:20:07.033Z",
+    "evaluatedAt": "2026-11-25T23:20:11.602Z"
   }
 }

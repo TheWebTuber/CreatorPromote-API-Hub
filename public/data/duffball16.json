@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "duffball16",
   "label": "Duffball16",
-  "updatedAt": "2026-11-25T14:21:46.790Z",
+  "updatedAt": "2026-11-25T23:20:14.104Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "uulMp6vjdMbCxjffzqcB1RZqcrY",
+    "etag": "sJeE-vLGy5L_nyAjvvgeQeuAwP4",
     "id": "UC2iwDFfrVjWYFpXahr-o8cA",
     "snippet": {
       "title": "Duffball16",
@@ -43,10 +43,10 @@
       }
     },
     "statistics": {
-      "viewCount": "36898339",
+      "viewCount": "36899212",
       "subscriberCount": "30400",
       "hiddenSubscriberCount": false,
-      "videoCount": "2891"
+      "videoCount": "2892"
     },
     "brandingSettings": {
       "channel": {
@@ -64,7 +64,226 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "c4NNwAN5RYdw4MVT1AJicuso_Nc",
+      "etag": "fKTMYxtScqfMevpkizw77Ur4Ctw",
+      "id": "Q2m7thXfe-M",
+      "snippet": {
+        "publishedAt": "2026-11-25T17:15:07Z",
+        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
+        "title": "ACT 2 (PT. 7) & CHAPTER 2?! (PT. 3) | 🔴 Hollow Knight: Silksong + Grand Theft Auto VI Live Stream 🔴",
+        "description": "Hollow Knight Next Part! [PT. 8] - (Coming 02/12...)\nHollow Knight Last Part! [PT. 6] - https://youtube.com/live/w9SDnluf7XY\n\nGTA VI Next Part! [PT. 4] - (Coming Soon...)\nGTA VI Last Part! [PT. 2] - https://youtube.com/live/7FwxzSI5fqA\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part7 #pt7 #shooter #fps #gtavi #gta6 #gta #grandtheftauto6 #grandtheftautovi #grandtheftauto #adult #realistic #popular #rockstar #rockstargames #funnymoments #funny #comedy #meme #memes #part3 #pt3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/default.jpg?v=6b076378",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/mqdefault.jpg?v=6b076378",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/hqdefault.jpg?v=6b076378",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/sddefault.jpg?v=6b076378",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/maxresdefault.jpg?v=6b076378",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/qhddefault.jpg?v=6b076378",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Duffball16",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "ACT 2 (PT. 7) & CHAPTER 2?! (PT. 3) | 🔴 Hollow Knight: Silksong + Grand Theft Auto VI Live Stream 🔴",
+          "description": "Hollow Knight Next Part! [PT. 8] - (Coming 02/12...)\nHollow Knight Last Part! [PT. 6] - https://youtube.com/live/w9SDnluf7XY\n\nGTA VI Next Part! [PT. 4] - (Coming Soon...)\nGTA VI Last Part! [PT. 2] - https://youtube.com/live/7FwxzSI5fqA\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part7 #pt7 #shooter #fps #gtavi #gta6 #gta #grandtheftauto6 #grandtheftautovi #grandtheftauto #adult #realistic #popular #rockstar #rockstargames #funnymoments #funny #comedy #meme #memes #part3 #pt3"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT5H24M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "71",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-25T17:15:17Z",
+        "actualEndTime": "2026-11-25T22:40:08Z",
+        "scheduledStartTime": "2026-11-25T17:15:07Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QQNwY4rypO3j329Be_Fm6GqcK4Q",
+      "id": "yQB23WFPdrU",
+      "snippet": {
+        "publishedAt": "2026-11-25T16:57:54Z",
+        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
+        "title": "Is It Just Me That Realises This? 🛍️",
+        "description": "WADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #shopping #shops #shop #boys #guys #men",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Duffball16",
+        "tags": [
+          "#duffball16",
+          "duffinians",
+          "duffball16",
+          "#duffinians",
+          "youtube",
+          "#youtube",
+          "yt",
+          "#yt",
+          "fyp",
+          "#fyp",
+          "#duffy",
+          "duffy",
+          "duff",
+          "#duff",
+          "duffball",
+          "#duffball",
+          "recommended",
+          "#recommended",
+          "trend",
+          "#trend",
+          "#trending",
+          "trending",
+          "entertainment",
+          "#entertainment",
+          "#short",
+          "short",
+          "shorts",
+          "#shorts",
+          "#reel",
+          "reel",
+          "reels",
+          "#reels",
+          "#filter",
+          "filter",
+          "#filters",
+          "filters",
+          "viral",
+          "#viral",
+          "#popular",
+          "popular",
+          "#trends",
+          "trends",
+          "#trendy",
+          "trendy",
+          "fy",
+          "#fy",
+          "#new",
+          "new",
+          "#skits",
+          "skits",
+          "skit",
+          "#skit",
+          "irl",
+          "#irl",
+          "music",
+          "#music",
+          "meme",
+          "#meme",
+          "memes",
+          "#relatable",
+          "relatable",
+          "shopping",
+          "#shopping",
+          "guys",
+          "#guys",
+          "boys",
+          "#boys"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Is It Just Me That Realises This? 🛍️",
+          "description": "WADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #shopping #shops #shop #boys #guys #men"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "853",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jyRQxkLbOYtb3RXuOBQBF6M-p9Q",
       "id": "xvKWxuU3HS8",
       "snippet": {
         "publishedAt": "2026-11-25T14:05:53Z",
@@ -131,7 +350,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "26",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -144,7 +363,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "boYu9VJ7OT8LGnwDA1mS-KYJpe4",
+      "etag": "Um5e_m4BItaO4JJkPIdieZY3jX0",
       "id": "bjlRqD8PotM",
       "snippet": {
         "publishedAt": "2026-11-25T08:32:57Z",
@@ -274,7 +493,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "11",
+        "viewCount": "17",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -282,7 +501,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SGt_WY2N1qwOOBysOWuwu1h0MlI",
+      "etag": "sG_ByvMaNIj49JGUbAxomgajmXk",
       "id": "Y1LchON5i8w",
       "snippet": {
         "publishedAt": "2026-11-25T01:04:35Z",
@@ -415,7 +634,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "13",
+        "viewCount": "15",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -423,7 +642,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "x-G9jr9c5HEq2xTkemy1I_jtLo0",
+      "etag": "um4JyIjmmQYwatwApdB80Johg1Q",
       "id": "8bNRDuzZgSU",
       "snippet": {
         "publishedAt": "2026-11-24T21:13:23Z",
@@ -549,300 +768,97 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "348",
-        "likeCount": "5",
+        "viewCount": "385",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EmbwzPB1b3TpLTAn1f6r8fEn6a4",
-      "id": "CF0rh-wDqv8",
-      "snippet": {
-        "publishedAt": "2026-11-24T11:40:22Z",
-        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
-        "title": "TODAY'S PREDICTION IS:",
-        "description": "[Original Video] - \"A Sky Full Of Stars x I Really Want To Stay At Your House\" By, @coldplay & Rosa Walton & @rodantheturd9899 / https://youtu.be/dwui1h7lIvE\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #challenge #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #darkhumor #darkhumour #subup #sub #subscribe #share #comment #like #follow #prediction #predictions #challenges #today",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CF0rh-wDqv8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CF0rh-wDqv8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CF0rh-wDqv8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CF0rh-wDqv8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CF0rh-wDqv8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Duffball16",
-        "tags": [
-          "#duffball16",
-          "duffinians",
-          "duffball16",
-          "#duffinians",
-          "youtube",
-          "#youtube",
-          "yt",
-          "#yt",
-          "fyp",
-          "#fyp",
-          "#duffy",
-          "duffy",
-          "duff",
-          "#duff",
-          "duffball",
-          "#duffball",
-          "recommended",
-          "#recommended",
-          "trend",
-          "#trend",
-          "#trending",
-          "trending",
-          "entertainment",
-          "#entertainment",
-          "#short",
-          "short",
-          "shorts",
-          "#shorts",
-          "#challenge",
-          "challenge",
-          "#reel",
-          "reel",
-          "reels",
-          "#reels",
-          "#filter",
-          "filter",
-          "#filters",
-          "filters",
-          "viral",
-          "#viral",
-          "#popular",
-          "popular",
-          "#trends",
-          "trends",
-          "#trendy",
-          "trendy",
-          "fy",
-          "#fy",
-          "#new",
-          "new",
-          "challenges",
-          "#challenges",
-          "ball",
-          "#ball",
-          "music",
-          "#music",
-          "#song",
-          "song",
-          "songs",
-          "#songs",
-          "today",
-          "#today",
-          "subup",
-          "#subup",
-          "sub",
-          "#sub"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "TODAY'S PREDICTION IS:",
-          "description": "[Original Video] - \"A Sky Full Of Stars x I Really Want To Stay At Your House\" By, @coldplay & Rosa Walton & @rodantheturd9899 / https://youtu.be/dwui1h7lIvE\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #challenge #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #darkhumor #darkhumour #subup #sub #subscribe #share #comment #like #follow #prediction #predictions #challenges #today"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "890",
-        "likeCount": "7",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "XSyIC8XQfD7gC4kaYzR9tHeJr5c",
-      "id": "vMfU4uii6mM",
-      "snippet": {
-        "publishedAt": "2026-11-24T00:19:26Z",
-        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
-        "title": "Chilling And You Sense That Someone Is Spying On You 🔎",
-        "description": "[Background Song] - \"If We Bein Rëal\" By, @yeat / https://youtu.be/1xcvWmN0Pe4\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #sixthsense #spying #spy",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vMfU4uii6mM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vMfU4uii6mM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vMfU4uii6mM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vMfU4uii6mM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vMfU4uii6mM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Duffball16",
-        "tags": [
-          "#duffball16",
-          "duffinians",
-          "duffball16",
-          "#duffinians",
-          "youtube",
-          "#youtube",
-          "yt",
-          "#yt",
-          "fyp",
-          "#fyp",
-          "#duffy",
-          "duffy",
-          "duff",
-          "#duff",
-          "duffball",
-          "#duffball",
-          "recommended",
-          "#recommended",
-          "trend",
-          "#trend",
-          "#trending",
-          "trending",
-          "entertainment",
-          "#entertainment",
-          "#short",
-          "short",
-          "shorts",
-          "#shorts",
-          "#reel",
-          "reel",
-          "reels",
-          "#reels",
-          "#filter",
-          "filter",
-          "#filters",
-          "filters",
-          "viral",
-          "#viral",
-          "#popular",
-          "popular",
-          "#trends",
-          "trends",
-          "#trendy",
-          "trendy",
-          "fy",
-          "#fy",
-          "#new",
-          "new",
-          "#skits",
-          "skits",
-          "skit",
-          "#skit",
-          "irl",
-          "#irl",
-          "music",
-          "#music",
-          "meme",
-          "#meme",
-          "memes",
-          "#relatable",
-          "relatable",
-          "spying",
-          "#spying",
-          "spy",
-          "#spy",
-          "#sixthsense",
-          "sixthsense"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "Chilling And You Sense That Someone Is Spying On You 🔎",
-          "description": "[Background Song] - \"If We Bein Rëal\" By, @yeat / https://youtu.be/1xcvWmN0Pe4\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #sixthsense #spying #spy"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT15S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "regionRestriction": {
-          "blocked": [
-            "BY",
-            "RU"
-          ]
-        },
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "1101",
-        "likeCount": "7",
-        "favoriteCount": "0",
-        "commentCount": "0"
       }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "c4NNwAN5RYdw4MVT1AJicuso_Nc",
+      "etag": "fKTMYxtScqfMevpkizw77Ur4Ctw",
+      "id": "Q2m7thXfe-M",
+      "snippet": {
+        "publishedAt": "2026-11-25T17:15:07Z",
+        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
+        "title": "ACT 2 (PT. 7) & CHAPTER 2?! (PT. 3) | 🔴 Hollow Knight: Silksong + Grand Theft Auto VI Live Stream 🔴",
+        "description": "Hollow Knight Next Part! [PT. 8] - (Coming 02/12...)\nHollow Knight Last Part! [PT. 6] - https://youtube.com/live/w9SDnluf7XY\n\nGTA VI Next Part! [PT. 4] - (Coming Soon...)\nGTA VI Last Part! [PT. 2] - https://youtube.com/live/7FwxzSI5fqA\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part7 #pt7 #shooter #fps #gtavi #gta6 #gta #grandtheftauto6 #grandtheftautovi #grandtheftauto #adult #realistic #popular #rockstar #rockstargames #funnymoments #funny #comedy #meme #memes #part3 #pt3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/default.jpg?v=6b076378",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/mqdefault.jpg?v=6b076378",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/hqdefault.jpg?v=6b076378",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/sddefault.jpg?v=6b076378",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/maxresdefault.jpg?v=6b076378",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/qhddefault.jpg?v=6b076378",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Duffball16",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "ACT 2 (PT. 7) & CHAPTER 2?! (PT. 3) | 🔴 Hollow Knight: Silksong + Grand Theft Auto VI Live Stream 🔴",
+          "description": "Hollow Knight Next Part! [PT. 8] - (Coming 02/12...)\nHollow Knight Last Part! [PT. 6] - https://youtube.com/live/w9SDnluf7XY\n\nGTA VI Next Part! [PT. 4] - (Coming Soon...)\nGTA VI Last Part! [PT. 2] - https://youtube.com/live/7FwxzSI5fqA\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part7 #pt7 #shooter #fps #gtavi #gta6 #gta #grandtheftauto6 #grandtheftautovi #grandtheftauto #adult #realistic #popular #rockstar #rockstargames #funnymoments #funny #comedy #meme #memes #part3 #pt3"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT5H24M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "71",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-25T17:15:17Z",
+        "actualEndTime": "2026-11-25T22:40:08Z",
+        "scheduledStartTime": "2026-11-25T17:15:07Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jyRQxkLbOYtb3RXuOBQBF6M-p9Q",
       "id": "xvKWxuU3HS8",
       "snippet": {
         "publishedAt": "2026-11-25T14:05:53Z",
@@ -909,7 +925,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "26",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -922,13 +938,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_D9eXIYxvzDMm8uXDbmPuFKjSlc",
+      "etag": "9mrYzI6T3Pr_C2f6-Idy3U92hNw",
       "id": "7FwxzSI5fqA",
       "snippet": {
         "publishedAt": "2026-11-22T23:04:52Z",
         "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
         "title": "Meeting LUCIA?! | 🔴 Grand Theft Auto VI Live Stream 🔴",
-        "description": "Next Part! [PT. 3] - https://youtube.com/live/_5I6aNMresQ\nLast Part! [PT. 1] - https://youtube.com/live/_5I6aNMresQ\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #gta6 #grandtheftauto6 #gta #grandtheftauto #gtavi #grandtheftautovi #action #adventure #story #funnymoments #funny #comedy #meme #memes #popular #adult #realistic #rockstargames #rockstar #fps #shooter #walkthrough #part2 #pt2",
+        "description": "Next Part! [PT. 3] - https://youtube.com/live/Q2m7thXfe-M\nLast Part! [PT. 1] - https://youtube.com/live/_5I6aNMresQ\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #gta6 #grandtheftauto6 #gta #grandtheftauto #gtavi #grandtheftautovi #action #adventure #story #funnymoments #funny #comedy #meme #memes #popular #adult #realistic #rockstargames #rockstar #fps #shooter #walkthrough #part2 #pt2",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/7FwxzSI5fqA/default.jpg",
@@ -962,7 +978,7 @@
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "Meeting LUCIA?! | 🔴 Grand Theft Auto VI Live Stream 🔴",
-          "description": "Next Part! [PT. 3] - https://youtube.com/live/_5I6aNMresQ\nLast Part! [PT. 1] - https://youtube.com/live/_5I6aNMresQ\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #gta6 #grandtheftauto6 #gta #grandtheftauto #gtavi #grandtheftautovi #action #adventure #story #funnymoments #funny #comedy #meme #memes #popular #adult #realistic #rockstargames #rockstar #fps #shooter #walkthrough #part2 #pt2"
+          "description": "Next Part! [PT. 3] - https://youtube.com/live/Q2m7thXfe-M\nLast Part! [PT. 1] - https://youtube.com/live/_5I6aNMresQ\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #gta6 #grandtheftauto6 #gta #grandtheftauto #gtavi #grandtheftautovi #action #adventure #story #funnymoments #funny #comedy #meme #memes #popular #adult #realistic #rockstargames #rockstar #fps #shooter #walkthrough #part2 #pt2"
         },
         "defaultAudioLanguage": "en-US"
       },
@@ -997,7 +1013,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZelWcI2yPy9AjTgQgBvq6_A6vKw",
+      "etag": "XNBSgt84c5LMQV13_ze-zSsCooQ",
       "id": "_5I6aNMresQ",
       "snippet": {
         "publishedAt": "2026-11-22T00:07:09Z",
@@ -1163,13 +1179,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xodhjwMLlIUr81SGsk5P1xBYiTY",
+      "etag": "xCCPCsnCXh4tVG2MZNJLZTMpYNQ",
       "id": "w9SDnluf7XY",
       "snippet": {
         "publishedAt": "2026-11-18T20:32:05Z",
         "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
         "title": "What's Next? (PT. 6) | 🔴 Hollow Knight: Silksong Live Stream 🔴",
-        "description": "Next Part! [PT. 7] - (Coming 25/11...)\nLast Part! [PT. 5] - https://youtube.com/live/QLhuNm1vSW0\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part6 #pt6",
+        "description": "Next Part! [PT. 7] - https://youtube.com/live/Q2m7thXfe-M\nLast Part! [PT. 5] - https://youtube.com/live/QLhuNm1vSW0\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part6 #pt6",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/w9SDnluf7XY/default.jpg",
@@ -1208,7 +1224,7 @@
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "What's Next? (PT. 6) | 🔴 Hollow Knight: Silksong Live Stream 🔴",
-          "description": "Next Part! [PT. 7] - (Coming 25/11...)\nLast Part! [PT. 5] - https://youtube.com/live/QLhuNm1vSW0\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part6 #pt6"
+          "description": "Next Part! [PT. 7] - https://youtube.com/live/Q2m7thXfe-M\nLast Part! [PT. 5] - https://youtube.com/live/QLhuNm1vSW0\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part6 #pt6"
         },
         "defaultAudioLanguage": "en-US"
       },
@@ -1240,91 +1256,45 @@
         "actualEndTime": "2026-11-18T19:45:29Z",
         "scheduledStartTime": "2026-11-18T17:40:23Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Hh3H6MVgAcjwuPr9wH49VoDAXYw",
-      "id": "Kq154KOatWI",
-      "snippet": {
-        "publishedAt": "2026-11-18T10:59:37Z",
-        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
-        "title": "I BET I CAN BEAT YOU! | 🔴 Rocket League Live Stream 🔴",
-        "description": "WADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #football #soccer #sport #sports #rl #rocketleague #cars #car #action #matches #match #private #customs #custom #join #1v1 #1vs1 #funny #comedy #funnymoments #meme #memes #rank #ranked #comp #competitive #solos #solo",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Kq154KOatWI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Kq154KOatWI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Kq154KOatWI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Kq154KOatWI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Kq154KOatWI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "qhd": {
-            "url": "https://i.ytimg.com/vi/Kq154KOatWI/qhddefault.jpg",
-            "width": 2560,
-            "height": 1440
-          }
-        },
-        "channelTitle": "Duffball16",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "I BET I CAN BEAT YOU! | 🔴 Rocket League Live Stream 🔴",
-          "description": "WADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #football #soccer #sport #sports #rl #rocketleague #cars #car #action #matches #match #private #customs #custom #join #1v1 #1vs1 #funny #comedy #funnymoments #meme #memes #rank #ranked #comp #competitive #solos #solo"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT1H48M23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "61",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-17T20:52:22Z",
-        "actualEndTime": "2026-11-17T22:40:43Z",
-        "scheduledStartTime": "2026-11-17T20:52:11Z"
-      }
     }
   ],
   "live": null,
   "liveChecked": false,
   "latestVideos": [
+    {
+      "id": "Q2m7thXfe-M",
+      "title": "ACT 2 (PT. 7) & CHAPTER 2?! (PT. 3) | 🔴 Hollow Knight: Silksong + Grand Theft Auto VI Live Stream 🔴",
+      "label": "YouTube",
+      "publishedAt": "2026-11-25T17:15:07Z",
+      "startedAt": "2026-11-25T17:15:17Z",
+      "endedAt": "2026-11-25T22:40:08Z",
+      "scheduledAt": "2026-11-25T17:15:07Z",
+      "duration": "PT5H24M49S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Q2m7thXfe-M/mqdefault.jpg?v=6b076378",
+      "url": "https://www.youtube.com/watch?v=Q2m7thXfe-M",
+      "views": "71",
+      "live": false,
+      "wasLive": true
+    },
+    {
+      "id": "yQB23WFPdrU",
+      "title": "Is It Just Me That Realises This? 🛍️",
+      "label": "YouTube",
+      "publishedAt": "2026-11-25T16:57:54Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT19S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/yQB23WFPdrU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yQB23WFPdrU",
+      "views": "853",
+      "live": false,
+      "wasLive": false
+    },
     {
       "id": "xvKWxuU3HS8",
       "title": "It's Almost Over... | 🔴 Fortnite Battle Royale Live Stream 🔴",
@@ -1338,7 +1308,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/xvKWxuU3HS8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xvKWxuU3HS8",
-      "views": "22",
+      "views": "26",
       "live": false,
       "wasLive": true
     },
@@ -1355,7 +1325,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/bjlRqD8PotM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bjlRqD8PotM",
-      "views": "11",
+      "views": "17",
       "live": false,
       "wasLive": false
     },
@@ -1372,7 +1342,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Y1LchON5i8w/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Y1LchON5i8w",
-      "views": "13",
+      "views": "15",
       "live": false,
       "wasLive": false
     },
@@ -1389,47 +1359,30 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/8bNRDuzZgSU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=8bNRDuzZgSU",
-      "views": "348",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "CF0rh-wDqv8",
-      "title": "TODAY'S PREDICTION IS:",
-      "label": "YouTube",
-      "publishedAt": "2026-11-24T11:40:22Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT16S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/CF0rh-wDqv8/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CF0rh-wDqv8",
-      "views": "890",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "vMfU4uii6mM",
-      "title": "Chilling And You Sense That Someone Is Spying On You 🔎",
-      "label": "YouTube",
-      "publishedAt": "2026-11-24T00:19:26Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT15S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/vMfU4uii6mM/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vMfU4uii6mM",
-      "views": "1101",
+      "views": "385",
       "live": false,
       "wasLive": false
     }
   ],
   "latestLivestreams": [
     {
+      "id": "Q2m7thXfe-M",
+      "title": "ACT 2 (PT. 7) & CHAPTER 2?! (PT. 3) | 🔴 Hollow Knight: Silksong + Grand Theft Auto VI Live Stream 🔴",
+      "label": "Livestream",
+      "publishedAt": "2026-11-25T17:15:07Z",
+      "startedAt": "2026-11-25T17:15:17Z",
+      "endedAt": "2026-11-25T22:40:08Z",
+      "scheduledAt": "2026-11-25T17:15:07Z",
+      "duration": "PT5H24M49S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Q2m7thXfe-M/mqdefault.jpg?v=6b076378",
+      "url": "https://www.youtube.com/watch?v=Q2m7thXfe-M",
+      "views": "71",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "xvKWxuU3HS8",
       "title": "It's Almost Over... | 🔴 Fortnite Battle Royale Live Stream 🔴",
       "label": "Livestream",
@@ -1442,7 +1395,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/xvKWxuU3HS8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xvKWxuU3HS8",
-      "views": "22",
+      "views": "26",
       "live": false,
       "wasLive": true
     },
@@ -1511,29 +1464,29 @@
       "thumbnail": "https://i.ytimg.com/vi/w9SDnluf7XY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=w9SDnluf7XY",
       "views": "66",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "Kq154KOatWI",
-      "title": "I BET I CAN BEAT YOU! | 🔴 Rocket League Live Stream 🔴",
-      "label": "Livestream",
-      "publishedAt": "2026-11-18T10:59:37Z",
-      "startedAt": "2026-11-17T20:52:22Z",
-      "endedAt": "2026-11-17T22:40:43Z",
-      "scheduledAt": "2026-11-17T20:52:11Z",
-      "duration": "PT1H48M23S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/Kq154KOatWI/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Kq154KOatWI",
-      "views": "61",
       "live": false,
       "wasLive": true
     }
   ],
   "latestReplays": [
     {
+      "id": "Q2m7thXfe-M",
+      "title": "ACT 2 (PT. 7) & CHAPTER 2?! (PT. 3) | 🔴 Hollow Knight: Silksong + Grand Theft Auto VI Live Stream 🔴",
+      "label": "Replay",
+      "publishedAt": "2026-11-25T17:15:07Z",
+      "startedAt": "2026-11-25T17:15:17Z",
+      "endedAt": "2026-11-25T22:40:08Z",
+      "scheduledAt": "2026-11-25T17:15:07Z",
+      "duration": "PT5H24M49S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/Q2m7thXfe-M/mqdefault.jpg?v=6b076378",
+      "url": "https://www.youtube.com/watch?v=Q2m7thXfe-M",
+      "views": "71",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "xvKWxuU3HS8",
       "title": "It's Almost Over... | 🔴 Fortnite Battle Royale Live Stream 🔴",
       "label": "Replay",
@@ -1546,7 +1499,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/xvKWxuU3HS8/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xvKWxuU3HS8",
-      "views": "22",
+      "views": "26",
       "live": false,
       "wasLive": true
     },
@@ -1615,23 +1568,6 @@
       "thumbnail": "https://i.ytimg.com/vi/w9SDnluf7XY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=w9SDnluf7XY",
       "views": "66",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "Kq154KOatWI",
-      "title": "I BET I CAN BEAT YOU! | 🔴 Rocket League Live Stream 🔴",
-      "label": "Replay",
-      "publishedAt": "2026-11-18T10:59:37Z",
-      "startedAt": "2026-11-17T20:52:22Z",
-      "endedAt": "2026-11-17T22:40:43Z",
-      "scheduledAt": "2026-11-17T20:52:11Z",
-      "duration": "PT1H48M23S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/Kq154KOatWI/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Kq154KOatWI",
-      "views": "61",
       "live": false,
       "wasLive": true
     }
@@ -1639,8 +1575,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-25T14:21:46.790Z",
-    "expiresAt": "2026-11-25T15:06:46.790Z",
+    "checkedAt": "2026-11-25T23:20:14.104Z",
+    "expiresAt": "2026-11-26T00:05:14.104Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1651,7 +1587,226 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "c4NNwAN5RYdw4MVT1AJicuso_Nc",
+      "etag": "fKTMYxtScqfMevpkizw77Ur4Ctw",
+      "id": "Q2m7thXfe-M",
+      "snippet": {
+        "publishedAt": "2026-11-25T17:15:07Z",
+        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
+        "title": "ACT 2 (PT. 7) & CHAPTER 2?! (PT. 3) | 🔴 Hollow Knight: Silksong + Grand Theft Auto VI Live Stream 🔴",
+        "description": "Hollow Knight Next Part! [PT. 8] - (Coming 02/12...)\nHollow Knight Last Part! [PT. 6] - https://youtube.com/live/w9SDnluf7XY\n\nGTA VI Next Part! [PT. 4] - (Coming Soon...)\nGTA VI Last Part! [PT. 2] - https://youtube.com/live/7FwxzSI5fqA\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part7 #pt7 #shooter #fps #gtavi #gta6 #gta #grandtheftauto6 #grandtheftautovi #grandtheftauto #adult #realistic #popular #rockstar #rockstargames #funnymoments #funny #comedy #meme #memes #part3 #pt3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/default.jpg?v=6b076378",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/mqdefault.jpg?v=6b076378",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/hqdefault.jpg?v=6b076378",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/sddefault.jpg?v=6b076378",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/maxresdefault.jpg?v=6b076378",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/Q2m7thXfe-M/qhddefault.jpg?v=6b076378",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Duffball16",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "ACT 2 (PT. 7) & CHAPTER 2?! (PT. 3) | 🔴 Hollow Knight: Silksong + Grand Theft Auto VI Live Stream 🔴",
+          "description": "Hollow Knight Next Part! [PT. 8] - (Coming 02/12...)\nHollow Knight Last Part! [PT. 6] - https://youtube.com/live/w9SDnluf7XY\n\nGTA VI Next Part! [PT. 4] - (Coming Soon...)\nGTA VI Last Part! [PT. 2] - https://youtube.com/live/7FwxzSI5fqA\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part7 #pt7 #shooter #fps #gtavi #gta6 #gta #grandtheftauto6 #grandtheftautovi #grandtheftauto #adult #realistic #popular #rockstar #rockstargames #funnymoments #funny #comedy #meme #memes #part3 #pt3"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT5H24M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "71",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-25T17:15:17Z",
+        "actualEndTime": "2026-11-25T22:40:08Z",
+        "scheduledStartTime": "2026-11-25T17:15:07Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QQNwY4rypO3j329Be_Fm6GqcK4Q",
+      "id": "yQB23WFPdrU",
+      "snippet": {
+        "publishedAt": "2026-11-25T16:57:54Z",
+        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
+        "title": "Is It Just Me That Realises This? 🛍️",
+        "description": "WADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #shopping #shops #shop #boys #guys #men",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yQB23WFPdrU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Duffball16",
+        "tags": [
+          "#duffball16",
+          "duffinians",
+          "duffball16",
+          "#duffinians",
+          "youtube",
+          "#youtube",
+          "yt",
+          "#yt",
+          "fyp",
+          "#fyp",
+          "#duffy",
+          "duffy",
+          "duff",
+          "#duff",
+          "duffball",
+          "#duffball",
+          "recommended",
+          "#recommended",
+          "trend",
+          "#trend",
+          "#trending",
+          "trending",
+          "entertainment",
+          "#entertainment",
+          "#short",
+          "short",
+          "shorts",
+          "#shorts",
+          "#reel",
+          "reel",
+          "reels",
+          "#reels",
+          "#filter",
+          "filter",
+          "#filters",
+          "filters",
+          "viral",
+          "#viral",
+          "#popular",
+          "popular",
+          "#trends",
+          "trends",
+          "#trendy",
+          "trendy",
+          "fy",
+          "#fy",
+          "#new",
+          "new",
+          "#skits",
+          "skits",
+          "skit",
+          "#skit",
+          "irl",
+          "#irl",
+          "music",
+          "#music",
+          "meme",
+          "#meme",
+          "memes",
+          "#relatable",
+          "relatable",
+          "shopping",
+          "#shopping",
+          "guys",
+          "#guys",
+          "boys",
+          "#boys"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Is It Just Me That Realises This? 🛍️",
+          "description": "WADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #pov #irl #subup #sub #subscribe #share #comment #like #follow #skits #skit #remix #remixes #remixed #darkhumour #darkhumor #relatable #music #shopping #shops #shop #boys #guys #men"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "853",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jyRQxkLbOYtb3RXuOBQBF6M-p9Q",
       "id": "xvKWxuU3HS8",
       "snippet": {
         "publishedAt": "2026-11-25T14:05:53Z",
@@ -1718,7 +1873,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "26",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1731,7 +1886,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "boYu9VJ7OT8LGnwDA1mS-KYJpe4",
+      "etag": "Um5e_m4BItaO4JJkPIdieZY3jX0",
       "id": "bjlRqD8PotM",
       "snippet": {
         "publishedAt": "2026-11-25T08:32:57Z",
@@ -1861,7 +2016,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "11",
+        "viewCount": "17",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1869,7 +2024,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SGt_WY2N1qwOOBysOWuwu1h0MlI",
+      "etag": "sG_ByvMaNIj49JGUbAxomgajmXk",
       "id": "Y1LchON5i8w",
       "snippet": {
         "publishedAt": "2026-11-25T01:04:35Z",
@@ -2002,7 +2157,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "13",
+        "viewCount": "15",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2010,7 +2165,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "x-G9jr9c5HEq2xTkemy1I_jtLo0",
+      "etag": "um4JyIjmmQYwatwApdB80Johg1Q",
       "id": "8bNRDuzZgSU",
       "snippet": {
         "publishedAt": "2026-11-24T21:13:23Z",
@@ -2136,15 +2291,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "348",
-        "likeCount": "5",
+        "viewCount": "385",
+        "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "EmbwzPB1b3TpLTAn1f6r8fEn6a4",
+      "etag": "TpDCScWp34vI0VPVfLPAoNUFKPQ",
       "id": "CF0rh-wDqv8",
       "snippet": {
         "publishedAt": "2026-11-24T11:40:22Z",
@@ -2274,7 +2429,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "890",
+        "viewCount": "887",
         "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -2282,7 +2437,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "XSyIC8XQfD7gC4kaYzR9tHeJr5c",
+      "etag": "NHc99am5-l1JioVABhJIAtKTff8",
       "id": "vMfU4uii6mM",
       "snippet": {
         "publishedAt": "2026-11-24T00:19:26Z",
@@ -2419,7 +2574,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1101",
+        "viewCount": "1105",
         "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2427,7 +2582,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "yluhVx4LbmLQMTPWPzu-yoLhs3k",
+      "etag": "6tMVFNEzJar_2D7Uk3b1ajF12dA",
       "id": "YrbUW8bQjP8",
       "snippet": {
         "publishedAt": "2026-11-23T20:20:16Z",
@@ -2557,7 +2712,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "575",
+        "viewCount": "600",
         "likeCount": "12",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -2565,7 +2720,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "0QHVIUoR0YuautChpy9JSAOnthY",
+      "etag": "9eLs1ZDB30cRin7tCys5ox4y8BA",
       "id": "2RhvcJfmvUo",
       "snippet": {
         "publishedAt": "2026-11-23T11:14:42Z",
@@ -2695,7 +2850,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1334",
+        "viewCount": "1336",
         "likeCount": "18",
         "favoriteCount": "0",
         "commentCount": "1"
@@ -2703,7 +2858,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZOIIY7ufA80s2Y8fE1-gK9QvkZU",
+      "etag": "YGTPErPrKeJnoGUeFNhSfEPy8c8",
       "id": "vfqLe7Su35o",
       "snippet": {
         "publishedAt": "2026-11-23T01:12:03Z",
@@ -2835,7 +2990,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "163",
+        "viewCount": "166",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2843,13 +2998,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_D9eXIYxvzDMm8uXDbmPuFKjSlc",
+      "etag": "9mrYzI6T3Pr_C2f6-Idy3U92hNw",
       "id": "7FwxzSI5fqA",
       "snippet": {
         "publishedAt": "2026-11-22T23:04:52Z",
         "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
         "title": "Meeting LUCIA?! | 🔴 Grand Theft Auto VI Live Stream 🔴",
-        "description": "Next Part! [PT. 3] - https://youtube.com/live/_5I6aNMresQ\nLast Part! [PT. 1] - https://youtube.com/live/_5I6aNMresQ\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #gta6 #grandtheftauto6 #gta #grandtheftauto #gtavi #grandtheftautovi #action #adventure #story #funnymoments #funny #comedy #meme #memes #popular #adult #realistic #rockstargames #rockstar #fps #shooter #walkthrough #part2 #pt2",
+        "description": "Next Part! [PT. 3] - https://youtube.com/live/Q2m7thXfe-M\nLast Part! [PT. 1] - https://youtube.com/live/_5I6aNMresQ\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #gta6 #grandtheftauto6 #gta #grandtheftauto #gtavi #grandtheftautovi #action #adventure #story #funnymoments #funny #comedy #meme #memes #popular #adult #realistic #rockstargames #rockstar #fps #shooter #walkthrough #part2 #pt2",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/7FwxzSI5fqA/default.jpg",
@@ -2883,7 +3038,7 @@
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "Meeting LUCIA?! | 🔴 Grand Theft Auto VI Live Stream 🔴",
-          "description": "Next Part! [PT. 3] - https://youtube.com/live/_5I6aNMresQ\nLast Part! [PT. 1] - https://youtube.com/live/_5I6aNMresQ\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #gta6 #grandtheftauto6 #gta #grandtheftauto #gtavi #grandtheftautovi #action #adventure #story #funnymoments #funny #comedy #meme #memes #popular #adult #realistic #rockstargames #rockstar #fps #shooter #walkthrough #part2 #pt2"
+          "description": "Next Part! [PT. 3] - https://youtube.com/live/Q2m7thXfe-M\nLast Part! [PT. 1] - https://youtube.com/live/_5I6aNMresQ\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #gta6 #grandtheftauto6 #gta #grandtheftauto #gtavi #grandtheftautovi #action #adventure #story #funnymoments #funny #comedy #meme #memes #popular #adult #realistic #rockstargames #rockstar #fps #shooter #walkthrough #part2 #pt2"
         },
         "defaultAudioLanguage": "en-US"
       },
@@ -3056,7 +3211,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PZKtEboeiijzUWqvH0MFWkUfnxE",
+      "etag": "kUtG9S2Sl9QqJlX86XVptg7KzQc",
       "id": "qj5PtStSUT8",
       "snippet": {
         "publishedAt": "2026-11-22T10:05:36Z",
@@ -3189,7 +3344,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "658",
+        "viewCount": "659",
         "likeCount": "29",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -3197,7 +3352,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "VqAE5reQxKXiA_UiGYWJYaKCwZU",
+      "etag": "7FcFdV8d1KJtVul3VxdM8wMjjzg",
       "id": "L9odXakgtWw",
       "snippet": {
         "publishedAt": "2026-11-22T02:31:00Z",
@@ -3333,7 +3488,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1001",
+        "viewCount": "1002",
         "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -3341,7 +3496,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ZelWcI2yPy9AjTgQgBvq6_A6vKw",
+      "etag": "XNBSgt84c5LMQV13_ze-zSsCooQ",
       "id": "_5I6aNMresQ",
       "snippet": {
         "publishedAt": "2026-11-22T00:07:09Z",
@@ -3708,7 +3863,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iOEpNqO8Ao0dJqenPl2AhpHlkgU",
+      "etag": "mJGUS7rCAk6iRIkI-Ds1KWPIlhs",
       "id": "-RfKKX-kxag",
       "snippet": {
         "publishedAt": "2026-11-21T00:03:07Z",
@@ -3838,7 +3993,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "786",
+        "viewCount": "787",
         "likeCount": "8",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4906,13 +5061,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "xodhjwMLlIUr81SGsk5P1xBYiTY",
+      "etag": "xCCPCsnCXh4tVG2MZNJLZTMpYNQ",
       "id": "w9SDnluf7XY",
       "snippet": {
         "publishedAt": "2026-11-18T20:32:05Z",
         "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
         "title": "What's Next? (PT. 6) | 🔴 Hollow Knight: Silksong Live Stream 🔴",
-        "description": "Next Part! [PT. 7] - (Coming 25/11...)\nLast Part! [PT. 5] - https://youtube.com/live/QLhuNm1vSW0\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part6 #pt6",
+        "description": "Next Part! [PT. 7] - https://youtube.com/live/Q2m7thXfe-M\nLast Part! [PT. 5] - https://youtube.com/live/QLhuNm1vSW0\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part6 #pt6",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/w9SDnluf7XY/default.jpg",
@@ -4951,7 +5106,7 @@
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "What's Next? (PT. 6) | 🔴 Hollow Knight: Silksong Live Stream 🔴",
-          "description": "Next Part! [PT. 7] - (Coming 25/11...)\nLast Part! [PT. 5] - https://youtube.com/live/QLhuNm1vSW0\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part6 #pt6"
+          "description": "Next Part! [PT. 7] - https://youtube.com/live/Q2m7thXfe-M\nLast Part! [PT. 5] - https://youtube.com/live/QLhuNm1vSW0\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@jay-duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #viral #popular #trends #trendy #fy #live #stream #livestream #livestreams #livestreaming #streaming #streams #gameplay #gaming #games #videogaming #videogames #videogame #game #action #adventure #story #hollowknight #hollowknightsilksong #silksong #part6 #pt6"
         },
         "defaultAudioLanguage": "en-US"
       },
@@ -10247,7 +10402,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_T2v87dYVrW8ELutgZlPJPrxL_c",
+      "etag": "JtNxzHHfnAVV3Q90WNTdqcT_ca0",
       "id": "yeXgidAVdBk",
       "snippet": {
         "publishedAt": "2026-11-04T00:12:33Z",
@@ -10377,7 +10532,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1356",
+        "viewCount": "1357",
         "likeCount": "19",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -11765,7 +11920,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "68DutsUq_JByUmwZceOVFT9yjPE",
+      "etag": "Tkv6VOvGv5qFeDSOatw-oj2hipY",
       "id": "XuvVqpswLHA",
       "snippet": {
         "publishedAt": "2026-10-30T10:24:51Z",
@@ -11898,7 +12053,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1342",
+        "viewCount": "1343",
         "likeCount": "15",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -12747,7 +12902,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kAYSGkqEJ7Exsw0GZAFqimlntwY",
+      "etag": "DSs_a7VIllLmACXNmoBTnb5Hg5o",
       "id": "ochLvev3w8Q",
       "snippet": {
         "publishedAt": "2026-10-27T10:34:48Z",
@@ -12878,7 +13033,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1332",
+        "viewCount": "1333",
         "likeCount": "14",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -15144,7 +15299,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "b1QVEFVWCOcUl1AQLHEONK7zHVI",
+      "etag": "x2HrBkCaIIiM7RfRezKCr0t8isY",
       "id": "Cd4b25PPNFg",
       "snippet": {
         "publishedAt": "2026-10-19T00:04:20Z",
@@ -15272,7 +15427,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1169",
+        "viewCount": "1170",
         "likeCount": "22",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -16810,7 +16965,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "QYLIzZl-kevjd8sunq-yLfog7CY",
+      "etag": "tCByRz9OZyQKXhZH97eRBcAj70I",
       "id": "8wRzCM5v_Wk",
       "snippet": {
         "publishedAt": "2026-10-13T22:06:55Z",
@@ -17979,7 +18134,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dDRT3B57PGalPYH4K-BSFbeKuVs",
+      "etag": "2lGAYJeY1GgQia5O-gHnDpoYHLI",
       "id": "-HxIVijNAok",
       "snippet": {
         "publishedAt": "2026-10-09T23:00:54Z",
@@ -18107,7 +18262,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "3951",
+        "viewCount": "3970",
         "likeCount": "35",
         "favoriteCount": "0",
         "commentCount": "13"
@@ -20315,7 +20470,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "S5xD3_Tu7hafl_xVrlovplEeqYA",
+      "etag": "zsF-pPX0VJzOxUtjEy6NdsfCrv4",
       "id": "S_p6tJtfD_c",
       "snippet": {
         "publishedAt": "2026-10-04T20:50:07Z",
@@ -25320,7 +25475,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1Zsn4KWzNRfr8msp0Lp5qX_0eRI",
+      "etag": "IMD1YSx_koDIGoe2FMmh-zhwI5Y",
       "id": "4AbhvGrDzns",
       "snippet": {
         "publishedAt": "2026-09-24T11:38:54Z",
@@ -25450,7 +25605,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1071",
+        "viewCount": "1072",
         "likeCount": "13",
         "favoriteCount": "0",
         "commentCount": "3"
@@ -29178,7 +29333,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "UzhwoLYnvCUYEfn2TmbdKTqqDGk",
+      "etag": "cnBlwPqSqni77-x1LTH1dfPnsWM",
       "id": "4L6nGVr3IsE",
       "snippet": {
         "publishedAt": "2026-09-15T22:57:29Z",
@@ -29391,7 +29546,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ROnyFXbKL0TpQy20stUdetnWsg8",
+      "etag": "ZKpVGhx5gkvnKpZno6IKMrMas5w",
       "id": "a2EMUdtL6Mg",
       "snippet": {
         "publishedAt": "2026-09-15T09:23:37Z",
@@ -29523,7 +29678,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "908",
+        "viewCount": "909",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "9"
@@ -33115,278 +33270,6 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "MCl7N6HnLbhLwe1880HN6XWeekk",
-      "id": "-ER0_Bzsg24",
-      "snippet": {
-        "publishedAt": "2026-09-07T11:42:56Z",
-        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
-        "title": "When You Realise There's More Billionaires Than Rocket League SSL Players... 😵‍💫",
-        "description": "[Background Song] - \"I Sung Country Roads But I’m Scottish And It Was 1 AM\" By, @WooWooYay / https://youtu.be/0Xa9Q2U1X2w?list=RD0Xa9Q2U1X2w\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #subup #sub #subscribe #share #comment #like #follow #remix #remixes #remixed #edits #edit #music #clip #clips #skits #skit #funnymoments #funny #comedy #meme #memes #rl #rocketleague #gaming #games #game #videogaming #videogames #videogame #gameplay #ssl #ranks #rank #ranked #comp #competitive #supersoniclegend #supersoniclegends #legends #legend #supersonic #billionaire #billionaires",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-ER0_Bzsg24/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-ER0_Bzsg24/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-ER0_Bzsg24/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-ER0_Bzsg24/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-ER0_Bzsg24/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Duffball16",
-        "tags": [
-          "#duffball16",
-          "duffinians",
-          "duffball16",
-          "#duffinians",
-          "youtube",
-          "#youtube",
-          "yt",
-          "#yt",
-          "fyp",
-          "#fyp",
-          "#duffy",
-          "duffy",
-          "duff",
-          "#duff",
-          "duffball",
-          "#duffball",
-          "recommended",
-          "#recommended",
-          "trend",
-          "#trend",
-          "#trending",
-          "trending",
-          "entertainment",
-          "#entertainment",
-          "#short",
-          "short",
-          "shorts",
-          "#shorts",
-          "#reel",
-          "reel",
-          "reels",
-          "#reels",
-          "#filter",
-          "filter",
-          "#filters",
-          "filters",
-          "fy",
-          "#fy",
-          "#edits",
-          "edits",
-          "edit",
-          "#edit",
-          "#meme",
-          "meme",
-          "memes",
-          "#memes",
-          "new",
-          "#new",
-          "#funny",
-          "funny",
-          "#comedy",
-          "comedy",
-          "#funnymoments",
-          "funnymoments",
-          "#music",
-          "music",
-          "rocketleague",
-          "rl",
-          "#rl",
-          "#rocketleague",
-          "gaming",
-          "#gaming",
-          "videogames",
-          "#videogames"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "When You Realise There's More Billionaires Than Rocket League SSL Players... 😵‍💫",
-          "description": "[Background Song] - \"I Sung Country Roads But I’m Scottish And It Was 1 AM\" By, @WooWooYay / https://youtu.be/0Xa9Q2U1X2w?list=RD0Xa9Q2U1X2w\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #filter #filters #subup #sub #subscribe #share #comment #like #follow #remix #remixes #remixed #edits #edit #music #clip #clips #skits #skit #funnymoments #funny #comedy #meme #memes #rl #rocketleague #gaming #games #game #videogaming #videogames #videogame #gameplay #ssl #ranks #rank #ranked #comp #competitive #supersoniclegend #supersoniclegends #legends #legend #supersonic #billionaire #billionaires"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "918",
-        "likeCount": "8",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2PC0eBl3yco9ODvnTMZT8-jwtSQ",
-      "id": "hytnjtTj_ic",
-      "snippet": {
-        "publishedAt": "2026-09-06T23:24:34Z",
-        "channelId": "UC2iwDFfrVjWYFpXahr-o8cA",
-        "title": "Trying To Get ONLY TOKYO GHOUL CHARACTERS... 😈",
-        "description": "[Background Song] - \"UNRAVEL\" By, @jonathanymusic / https://youtu.be/aVpJGGQHSqc?list=RDaVpJGGQHSqc\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #challenge #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #darkhumor #darkhumour #subup #sub #subscribe #share #comment #like #follow #prediction #predictions #challenges #anime #manga #animes #mangas #characters #character #tokyoghoul",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hytnjtTj_ic/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hytnjtTj_ic/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hytnjtTj_ic/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hytnjtTj_ic/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hytnjtTj_ic/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Duffball16",
-        "tags": [
-          "#duffball16",
-          "duffinians",
-          "duffball16",
-          "#duffinians",
-          "youtube",
-          "#youtube",
-          "yt",
-          "#yt",
-          "fyp",
-          "#fyp",
-          "#duffy",
-          "duffy",
-          "duff",
-          "#duff",
-          "duffball",
-          "#duffball",
-          "recommended",
-          "#recommended",
-          "trend",
-          "#trend",
-          "#trending",
-          "trending",
-          "entertainment",
-          "#entertainment",
-          "#short",
-          "short",
-          "shorts",
-          "#shorts",
-          "#challenge",
-          "challenge",
-          "#reel",
-          "reel",
-          "reels",
-          "#reels",
-          "#filter",
-          "filter",
-          "#filters",
-          "filters",
-          "viral",
-          "#viral",
-          "#popular",
-          "popular",
-          "#trends",
-          "trends",
-          "#trendy",
-          "trendy",
-          "fy",
-          "#fy",
-          "#new",
-          "new",
-          "challenges",
-          "#challenges",
-          "anime",
-          "#anime",
-          "#manga",
-          "manga",
-          "#irl",
-          "irl",
-          "animes",
-          "#animes",
-          "mangas",
-          "#mangas",
-          "tokyoghoul",
-          "#tokyoghoul"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "Trying To Get ONLY TOKYO GHOUL CHARACTERS... 😈",
-          "description": "[Background Song] - \"UNRAVEL\" By, @jonathanymusic / https://youtu.be/aVpJGGQHSqc?list=RDaVpJGGQHSqc\n________________________________________\n\nWADO! ❤️ Curious On What I Do? 😏⬇️\n\nWell... On This Channel, You'll catch me doing a VARIETY OF CONTENT which is done ALMOST EVERYDAY! This Includes: Gaming, Anime, IRL Vids, Funny Skits, Shorts & Content on Music!\n(There's Plenty More That Can Be Found! 👀)\n\nFor Any RECOMMENDATIONS/ETC, Comment on one of my Pieces of Content and/or CHECK THE LINKS BELOW for My CONTACT METHODS! ⬇️\n\nSUBSCRIBE TO JOIN “THE DUFFINIANS!” 😎🐺\n\n⬇️ For My Socials: ⬇️\nMy Music Channel! - https://youtube.com/@Jay-Duff?si=yArwYxafORYAkEbJ\nAnd da Insta! - https://instagram.com/duffball16\nFor TikTok! - https://www.tiktok.com/@yt_duffball16?_t=8hdhNDWNoUi&_r=1\nJoin The Community! (Discord) - https://discord.gg/SqSqpNfBpY\nMy Official Website! - https://duffball16.com/\nEmail for any other queries… - duffball16@gmail.com\n\n⬇️ My Clan’s Channels With Links: ⬇️\nLyNx CLAN - https://youtube.com/channel/UCJHab4EG26hs5VfpQEbddvA\nLyNx VLOGS - https://youtube.com/channel/UCkRScsz2s3g1Fz9EaW1BOkg\n\n⬇️ StreamElements / Memberships / Donate: ⬇️\nStreamElements Donate: https://streamelements.com/duffball16/tip\nBecome A Member: https://www.youtube.com/channel/UC2iwDFfrVjWYFpXahr-o8cA/join\n\n⬇️ Gaming Options / Other: ⬇️\n\"Duffball16's SMP\" - https://duffball16.com/minecraft\n\"The Duffine Tourneys\" - https://duffball16.com/rocketleague\n\n\"Praise Be To God & Love You All...\" ❤️\n________________________________________\n\n[~IGNORE TAGS~]\n#duffball16 #duffball #duffy #duffy16 #duff #duff16 #duffinians #youtube #yt #fyp #recommended #trend #trending #entertainment #new #short #shorts #reel #reels #song #songs #trends #trendy #viral #popular #fy #challenge #filter #filters #funnymoments #funny #comedy #meme #memes #humor #humour #darkhumor #darkhumour #subup #sub #subscribe #share #comment #like #follow #prediction #predictions #challenges #anime #manga #animes #mangas #characters #character #tokyoghoul"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT1M57S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "961",
-        "likeCount": "19",
-        "favoriteCount": "0",
-        "commentCount": "3"
-      }
     }
   ],
   "playlists": [
@@ -33441,7 +33324,7 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "Z-kEtaWarNAs3W8GwoiA0hAyZZM",
+      "etag": "aJdcIbPxv8bpCLpJTBGEcMVITrM",
       "id": "PLcG6ntX1WSzokhesO6QkLQwfmss8lKM2N",
       "snippet": {
         "publishedAt": "2026-06-17T17:59:45.43711Z",
@@ -33485,7 +33368,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 31
+        "itemCount": 32
       }
     },
     {
@@ -35195,7 +35078,7 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "V9BsERLMKUtDHrJW_Pvsvo26mGU",
+      "etag": "WAXNYShTPas-j8GMUUnMSWf4drM",
       "id": "PLcG6ntX1WSzoOitk16BBJOdRtCBYfRMMm",
       "snippet": {
         "publishedAt": "2022-02-19T16:08:48.884053Z",
@@ -35239,7 +35122,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 10
+        "itemCount": 11
       }
     },
     {
@@ -35684,25 +35567,25 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:46.790Z"
+      "updatedAt": "2026-11-25T23:20:14.104Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:46.790Z"
+      "updatedAt": "2026-11-25T23:20:14.104Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:46.790Z"
+      "updatedAt": "2026-11-25T23:20:14.104Z"
     },
     "playlists": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:46.790Z"
+      "updatedAt": "2026-11-25T23:20:14.104Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-25T14:21:46.790Z",
-    "evaluatedAt": "2026-11-25T14:21:50.873Z"
+    "observedAt": "2026-11-25T23:20:14.104Z",
+    "evaluatedAt": "2026-11-25T23:20:17.864Z"
   }
 }

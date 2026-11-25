@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-25T14:21:45.714Z",
+  "updatedAt": "2026-11-25T23:20:13.119Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "Sx3p7EHdyD_1Mpwl9Zlyc1tBNwc",
+    "etag": "K136zg5cKAHa0vQaRAIBnqWOfDw",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "67762",
+      "viewCount": "67766",
       "subscriberCount": "100",
       "hiddenSubscriberCount": false,
       "videoCount": "207"
@@ -1260,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-25T14:21:45.714Z",
-    "expiresAt": "2026-11-25T15:06:45.714Z",
+    "checkedAt": "2026-11-25T23:20:13.119Z",
+    "expiresAt": "2026-11-26T00:05:13.119Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -4429,7 +4429,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "w39ZXlv2gTVqiMLbSX4wEktmuTU",
+      "etag": "nZic2ihgHexSyDBIbl2SIoMo1HQ",
       "id": "F4ll72gCylY",
       "snippet": {
         "publishedAt": "2026-09-18T06:30:07Z",
@@ -4470,7 +4470,8 @@
         "localized": {
           "title": "trying to learn mechanical ball girl cuz yasuo takes too many button presses #vtuber#leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT2H17M11S",
@@ -4798,7 +4799,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "akt2LDal17E5sDvTUKy5wwszErA",
+      "etag": "N9cpMiLBuof2N97jBI-mkUUUDQg",
       "id": "3ZtWSYySJZw",
       "snippet": {
         "publishedAt": "2026-09-14T08:38:38Z",
@@ -4839,7 +4840,8 @@
         "localized": {
           "title": "the ranked grind continues - bottom 500 yasuo tries to escape elo hell #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT2H8M53S",
@@ -5389,7 +5391,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nmH9C4RhVDH0rq2-UhqYMa-lIBc",
+      "etag": "FDw8OLsfgWGeiWU-RJ7dwFWWeuA",
       "id": "V2UYa9hKi7I",
       "snippet": {
         "publishedAt": "2026-09-06T23:01:33Z",
@@ -5430,7 +5432,8 @@
         "localized": {
           "title": "behold my subpar yasuo gameplay #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "und"
       },
       "contentDetails": {
         "duration": "PT1H48M32S",
@@ -6633,7 +6636,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BJvmrewNFlXbTl76RbFW8U_7BcM",
+      "etag": "rYgtX8xx4awACbdQUzdjD_kjI_U",
       "id": "sQ4wVP7oVvI",
       "snippet": {
         "publishedAt": "2026-08-19T01:18:22Z",
@@ -6674,7 +6677,8 @@
         "localized": {
           "title": "Behold my new chibi model while I lose repetitively in league #vtuber #leagueoflegends #newmodel",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT1H30M44S",
@@ -8572,21 +8576,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:45.714Z"
+      "updatedAt": "2026-11-25T23:20:13.119Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:45.714Z"
+      "updatedAt": "2026-11-25T23:20:13.119Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:45.714Z"
+      "updatedAt": "2026-11-25T23:20:13.119Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-25T14:21:45.714Z",
-    "evaluatedAt": "2026-11-25T14:21:46.778Z"
+    "observedAt": "2026-11-25T23:20:13.119Z",
+    "evaluatedAt": "2026-11-25T23:20:14.088Z"
   }
 }

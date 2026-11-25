@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-25T14:21:53.047Z",
+  "updatedAt": "2026-11-25T23:20:19.862Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "L-obl2Vjk65i-RQKo40rL20NZX4",
+    "etag": "kneDLc-bzwOkzC48Nk9uoy3Nsns",
     "id": "UCW2g_zIWdsZkbsFc0AUR-ag",
     "snippet": {
       "title": "Salahare - Dream Drops Crew Vtuber",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "29225",
+      "viewCount": "29226",
       "subscriberCount": "181",
       "hiddenSubscriberCount": false,
       "videoCount": "59"
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-25T14:21:53.047Z",
-    "expiresAt": "2026-11-25T15:06:53.047Z",
+    "checkedAt": "2026-11-25T23:20:19.862Z",
+    "expiresAt": "2026-11-26T00:05:19.862Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -5824,7 +5824,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "IbdQrdMjTLyaCRC5NZ5IVtxgmd4",
+      "etag": "IPmHfs66hHfAJAbKBeOZCCNdEJ0",
       "id": "zyRJKF81E_c",
       "snippet": {
         "publishedAt": "2012-06-19T11:16:36Z",
@@ -5895,7 +5895,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "796",
+        "viewCount": "797",
         "likeCount": "20",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -6432,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:53.047Z"
+      "updatedAt": "2026-11-25T23:20:19.862Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:53.047Z"
+      "updatedAt": "2026-11-25T23:20:19.862Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-25T14:21:53.047Z"
+      "updatedAt": "2026-11-25T23:20:19.862Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-25T14:21:53.047Z",
-    "evaluatedAt": "2026-11-25T14:21:53.887Z"
+    "observedAt": "2026-11-25T23:20:19.862Z",
+    "evaluatedAt": "2026-11-25T23:20:20.801Z"
   }
 }

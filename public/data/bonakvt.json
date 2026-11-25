@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-24T20:53:41.899Z",
+  "updatedAt": "2026-11-25T04:11:08.396Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1260,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-24T20:53:41.899Z",
-    "expiresAt": "2026-11-24T21:38:41.899Z",
+    "checkedAt": "2026-11-25T04:11:08.396Z",
+    "expiresAt": "2026-11-25T04:56:08.396Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -3328,7 +3328,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "3W14G1ebVqro-Qett7HAOnH5_fQ",
+      "etag": "WnRnyPrHikWutfGGrHllwAQqymk",
       "id": "mJ0v3O_PJww",
       "snippet": {
         "publishedAt": "2026-10-13T23:06:11Z",
@@ -3369,7 +3369,8 @@
         "localized": {
           "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT1H9S",
@@ -5019,7 +5020,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zhWTUYX_WBrgDXogY7SDcogTs-A",
+      "etag": "D8sPnqdH0SF4qiF18ORz9B1d64Q",
       "id": "QzWRd5QA9Ho",
       "snippet": {
         "publishedAt": "2026-09-10T05:26:09Z",
@@ -5060,7 +5061,8 @@
         "localized": {
           "title": "the ranked grind continues - bottom 500 yasuo tries to escape elo hell #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "und"
       },
       "contentDetails": {
         "duration": "PT2H49M42S",
@@ -5240,7 +5242,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "O2nAfD8k2I11W2rQJBWi2QhN6GM",
+      "etag": "YOu2L_UVP_p-5hMBKrNgSM-aKwQ",
       "id": "JgmfUC1AnAk",
       "snippet": {
         "publishedAt": "2026-09-08T06:36:26Z",
@@ -5281,7 +5283,8 @@
         "localized": {
           "title": "trying to escape the slums of bronze oce #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT2H35M30S",
@@ -6411,7 +6414,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PAnEtMDjk72GoeOWY4xNAei-T8g",
+      "etag": "DU_JU-U_O0lBwjZ24_fZMSp1i_c",
       "id": "FHzJJiiKqC8",
       "snippet": {
         "publishedAt": "2026-08-22T08:09:26Z",
@@ -6452,7 +6455,8 @@
         "localized": {
           "title": "chilling' in league and deranking :) #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT2H58M20S",
@@ -7221,7 +7225,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-wppvsoDdoZBGxBkpXF_UPz3iQA",
+      "etag": "j0LmKp5ydqSfv-9wUlfuqELgJ6o",
       "id": "4wPP9HsHvIU",
       "snippet": {
         "publishedAt": "2026-07-26T08:21:22Z",
@@ -7262,7 +7266,8 @@
         "localized": {
           "title": "trying to get my dumbass out of bronze #vtuber #leagueoflegends",
           "description": "fox plays league"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT4H11M10S",
@@ -8572,21 +8577,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T20:53:41.899Z"
+      "updatedAt": "2026-11-25T04:11:08.396Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T20:53:41.899Z"
+      "updatedAt": "2026-11-25T04:11:08.396Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T20:53:41.899Z"
+      "updatedAt": "2026-11-25T04:11:08.396Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-24T20:53:41.899Z",
-    "evaluatedAt": "2026-11-24T20:53:42.709Z"
+    "observedAt": "2026-11-25T04:11:08.396Z",
+    "evaluatedAt": "2026-11-25T04:11:09.320Z"
   }
 }

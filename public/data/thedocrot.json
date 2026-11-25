@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-24T20:53:34.922Z",
+  "updatedAt": "2026-11-25T04:11:00.934Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "yplxw7hbqCLkvapuY23pBRH759Q",
+    "etag": "oqRUdotgoLfBbAGCgV7NSlwYVkE",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -45,7 +45,7 @@
       "viewCount": "1218460",
       "subscriberCount": "736",
       "hiddenSubscriberCount": false,
-      "videoCount": "3049"
+      "videoCount": "3050"
     },
     "brandingSettings": {
       "channel": {
@@ -61,36 +61,36 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "d_hcLZdf9zvmVIBJ1_r6gN9IOUc",
+      "etag": "zNAMGAlE1j60vbCauhWaVJyDjFw",
       "id": "HF4EqZ8jwEs",
       "snippet": {
-        "publishedAt": "2026-11-24T18:55:34Z",
+        "publishedAt": "2026-11-24T22:16:32Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/default.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/hqdefault.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/sddefault.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/maxresdefault.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -110,7 +110,7 @@
           "WWE 2K26"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
@@ -119,16 +119,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT3H7M4S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -136,22 +136,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "29",
-        "likeCount": "3",
+        "viewCount": "77",
+        "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-24T18:55:47Z",
+        "actualEndTime": "2026-11-24T22:02:51Z",
         "scheduledStartTime": "2026-11-24T18:55:33Z",
-        "scheduledEndTime": "2026-11-24T20:57:41Z",
-        "concurrentViewers": "3",
-        "activeLiveChatId": "Cg0KC0hGNEVxWjhqd0VzKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILSEY0RXFaOGp3RXM"
+        "scheduledEndTime": "2026-11-24T22:17:41Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ixCm6EA92m1_NAGf59SgKLmI8R8",
+      "etag": "fypLOBVPgU0noUi3LIOaKXbVqdg",
       "id": "BjrqECOX8TM",
       "snippet": {
         "publishedAt": "2026-11-24T10:09:51Z",
@@ -213,7 +212,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "83",
+        "viewCount": "104",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -221,7 +220,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_hdenf_krHIh5ll7RfqnaAjdh9w",
+      "etag": "ZX-Ih3UW2xpNeIHtNuj9jClhqpQ",
       "id": "vThrO547Mfk",
       "snippet": {
         "publishedAt": "2026-11-24T09:46:58Z",
@@ -283,15 +282,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "73",
-        "likeCount": "3",
+        "viewCount": "86",
+        "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZVuVkxH6TJIHZGZfwGgfKc-D0XA",
+      "etag": "GmFRStUUK3UdbABB0RCAgklhqCo",
       "id": "3I2GDc8ZOcI",
       "snippet": {
         "publishedAt": "2026-11-23T09:43:44Z",
@@ -353,7 +352,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "498",
+        "viewCount": "501",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -361,7 +360,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zJirCfzA3-SbeVW9fP17KoB4cXg",
+      "etag": "WkPYr-9O11sHV-low65z4HNOFHw",
       "id": "e9c9-agpYD4",
       "snippet": {
         "publishedAt": "2026-11-23T09:40:35Z",
@@ -423,7 +422,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "491",
+        "viewCount": "543",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -431,7 +430,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "l6ad8l_8XZnxO7_aYLBUNs6Lygg",
+      "etag": "RvzrtDsJ-Owy5F9TyKv-KjKzhLM",
       "id": "qusqoeafpig",
       "snippet": {
         "publishedAt": "2026-11-23T00:05:03Z",
@@ -507,7 +506,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "68",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -661,7 +660,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qWAwsB7iQCXjmlS1z9Y-8rc-cxk",
+      "etag": "a-X0-wpcucAbllDzsmPjQYyxN50",
       "id": "UQwlBiLApTI",
       "snippet": {
         "publishedAt": "2026-11-21T22:28:34Z",
@@ -736,7 +735,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "93",
+        "viewCount": "94",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1279,7 +1278,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SS5YPFZcKVnbrQ2D4yAB-B2zmtQ",
+      "etag": "rFbKxpWZnK7OZWpNKN6VPUb0Rtc",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -1340,7 +1339,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "48",
+        "viewCount": "47",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1488,7 +1487,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hfBPtSpt6J4qeKhLo9vrWb4PvOE",
+      "etag": "1NPzWYCXs5d57u6mnkpXCY3WE7M",
       "id": "2LkM5ExOr18",
       "snippet": {
         "publishedAt": "2026-11-18T22:53:53Z",
@@ -1564,7 +1563,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "89",
+        "viewCount": "88",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4616,7 +4615,96 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "l6ad8l_8XZnxO7_aYLBUNs6Lygg",
+      "etag": "zNAMGAlE1j60vbCauhWaVJyDjFw",
+      "id": "HF4EqZ8jwEs",
+      "snippet": {
+        "publishedAt": "2026-11-24T22:16:32Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#PS5Live",
+          "#WRESTLING",
+          "#WWE",
+          "#WWE2K26",
+          "PlayStation 5",
+          "Sony Interactive Entertainment",
+          "WWE 2K26"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT3H7M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "77",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-24T18:55:47Z",
+        "actualEndTime": "2026-11-24T22:02:51Z",
+        "scheduledStartTime": "2026-11-24T18:55:33Z",
+        "scheduledEndTime": "2026-11-24T22:17:41Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RvzrtDsJ-Owy5F9TyKv-KjKzhLM",
       "id": "qusqoeafpig",
       "snippet": {
         "publishedAt": "2026-11-23T00:05:03Z",
@@ -4692,7 +4780,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "68",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4706,7 +4794,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qWAwsB7iQCXjmlS1z9Y-8rc-cxk",
+      "etag": "a-X0-wpcucAbllDzsmPjQYyxN50",
       "id": "UQwlBiLApTI",
       "snippet": {
         "publishedAt": "2026-11-21T22:28:34Z",
@@ -4781,7 +4869,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "93",
+        "viewCount": "94",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -4975,7 +5063,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hfBPtSpt6J4qeKhLo9vrWb4PvOE",
+      "etag": "1NPzWYCXs5d57u6mnkpXCY3WE7M",
       "id": "2LkM5ExOr18",
       "snippet": {
         "publishedAt": "2026-11-18T22:53:53Z",
@@ -5051,7 +5139,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "89",
+        "viewCount": "88",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5062,204 +5150,26 @@
         "scheduledStartTime": "2026-11-18T18:07:26Z",
         "scheduledEndTime": "2026-11-18T22:29:33Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jB4rslg0eNcedYbj8XgiJyy9_N8",
-      "id": "Jg96wuh6Gks",
-      "snippet": {
-        "publishedAt": "2026-11-17T22:40:31Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Jg96wuh6Gks/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#PS5Live",
-          "#WRESTLING",
-          "#WWE",
-          "#WWE2K26",
-          "PlayStation 5",
-          "Sony Interactive Entertainment",
-          "WWE 2K26"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT3H17M2S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "96",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-17T18:49:42Z",
-        "actualEndTime": "2026-11-17T22:06:48Z",
-        "scheduledStartTime": "2026-11-17T18:49:28Z",
-        "scheduledEndTime": "2026-11-17T20:51:35Z"
-      }
     }
   ],
-  "live": {
-    "kind": "youtube#video",
-    "etag": "d_hcLZdf9zvmVIBJ1_r6gN9IOUc",
-    "id": "HF4EqZ8jwEs",
-    "snippet": {
-      "publishedAt": "2026-11-24T18:55:34Z",
-      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-      "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
-      "description": "GOOD VIBES!!! :)",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/default.jpg?v=6b05ddc1",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg?v=6b05ddc1",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/hqdefault.jpg?v=6b05ddc1",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/sddefault.jpg?v=6b05ddc1",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/maxresdefault.jpg?v=6b05ddc1",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "the docrot",
-      "tags": [
-        "#ENTERTAINMENT",
-        "#FORYOU",
-        "#FUNNY",
-        "#GAMING",
-        "#PS5Live",
-        "#WRESTLING",
-        "#WWE",
-        "#WWE2K26",
-        "PlayStation 5",
-        "Sony Interactive Entertainment",
-        "WWE 2K26"
-      ],
-      "categoryId": "20",
-      "liveBroadcastContent": "live",
-      "defaultLanguage": "en-GB",
-      "localized": {
-        "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
-        "description": "GOOD VIBES!!! :)"
-      },
-      "defaultAudioLanguage": "en-GB"
-    },
-    "contentDetails": {
-      "duration": "P0D",
-      "dimension": "2d",
-      "definition": "sd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "status": {
-      "uploadStatus": "uploaded",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    },
-    "statistics": {
-      "viewCount": "29",
-      "likeCount": "3",
-      "favoriteCount": "0",
-      "commentCount": "0"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2026-11-24T18:55:47Z",
-      "scheduledStartTime": "2026-11-24T18:55:33Z",
-      "scheduledEndTime": "2026-11-24T20:57:41Z",
-      "concurrentViewers": "3",
-      "activeLiveChatId": "Cg0KC0hGNEVxWjhqd0VzKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILSEY0RXFaOGp3RXM"
-    }
-  },
-  "liveChecked": true,
+  "live": null,
+  "liveChecked": false,
   "latestVideos": [
     {
       "id": "HF4EqZ8jwEs",
       "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
       "label": "YouTube",
-      "publishedAt": "2026-11-24T18:55:34Z",
+      "publishedAt": "2026-11-24T22:16:32Z",
       "startedAt": "2026-11-24T18:55:47Z",
-      "endedAt": null,
+      "endedAt": "2026-11-24T22:02:51Z",
       "scheduledAt": "2026-11-24T18:55:33Z",
-      "duration": "P0D",
+      "duration": "PT3H7M4S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg?v=6b05ddc1",
+      "thumbnail": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=HF4EqZ8jwEs",
-      "views": "29",
-      "live": true,
+      "views": "77",
+      "live": false,
       "wasLive": true
     },
     {
@@ -5275,7 +5185,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/BjrqECOX8TM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=BjrqECOX8TM",
-      "views": "83",
+      "views": "104",
       "live": false,
       "wasLive": false
     },
@@ -5292,7 +5202,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vThrO547Mfk/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vThrO547Mfk",
-      "views": "73",
+      "views": "86",
       "live": false,
       "wasLive": false
     },
@@ -5309,7 +5219,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3I2GDc8ZOcI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3I2GDc8ZOcI",
-      "views": "498",
+      "views": "501",
       "live": false,
       "wasLive": false
     },
@@ -5326,7 +5236,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/e9c9-agpYD4/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=e9c9-agpYD4",
-      "views": "491",
+      "views": "543",
       "live": false,
       "wasLive": false
     },
@@ -5343,7 +5253,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qusqoeafpig/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qusqoeafpig",
-      "views": "67",
+      "views": "68",
       "live": false,
       "wasLive": true
     },
@@ -5394,7 +5304,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
-      "views": "93",
+      "views": "94",
       "live": false,
       "wasLive": true
     },
@@ -5530,7 +5440,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/niX2Ed_LY5Q/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=niX2Ed_LY5Q",
-      "views": "48",
+      "views": "47",
       "live": false,
       "wasLive": false
     },
@@ -5581,7 +5491,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "89",
+      "views": "88",
       "live": false,
       "wasLive": true
     },
@@ -6271,17 +6181,17 @@
       "id": "HF4EqZ8jwEs",
       "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
       "label": "Livestream",
-      "publishedAt": "2026-11-24T18:55:34Z",
+      "publishedAt": "2026-11-24T22:16:32Z",
       "startedAt": "2026-11-24T18:55:47Z",
-      "endedAt": null,
+      "endedAt": "2026-11-24T22:02:51Z",
       "scheduledAt": "2026-11-24T18:55:33Z",
-      "duration": "P0D",
+      "duration": "PT3H7M4S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg?v=6b05ddc1",
+      "thumbnail": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=HF4EqZ8jwEs",
-      "views": "29",
-      "live": true,
+      "views": "77",
+      "live": false,
       "wasLive": true
     },
     {
@@ -6297,7 +6207,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qusqoeafpig/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qusqoeafpig",
-      "views": "67",
+      "views": "68",
       "live": false,
       "wasLive": true
     },
@@ -6314,7 +6224,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
-      "views": "93",
+      "views": "94",
       "live": false,
       "wasLive": true
     },
@@ -6365,13 +6275,30 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "89",
+      "views": "88",
       "live": false,
       "wasLive": true
     }
   ],
   "latestReplays": [
     {
+      "id": "HF4EqZ8jwEs",
+      "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
+      "label": "Replay",
+      "publishedAt": "2026-11-24T22:16:32Z",
+      "startedAt": "2026-11-24T18:55:47Z",
+      "endedAt": "2026-11-24T22:02:51Z",
+      "scheduledAt": "2026-11-24T18:55:33Z",
+      "duration": "PT3H7M4S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HF4EqZ8jwEs",
+      "views": "77",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "qusqoeafpig",
       "title": "WHO'S UP NEXT TO ADEPT!?! | Dead By Daylight",
       "label": "Replay",
@@ -6384,7 +6311,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/qusqoeafpig/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qusqoeafpig",
-      "views": "67",
+      "views": "68",
       "live": false,
       "wasLive": true
     },
@@ -6401,7 +6328,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/UQwlBiLApTI/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UQwlBiLApTI",
-      "views": "93",
+      "views": "94",
       "live": false,
       "wasLive": true
     },
@@ -6452,49 +6379,16 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/2LkM5ExOr18/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2LkM5ExOr18",
-      "views": "89",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "Jg96wuh6Gks",
-      "title": "CAN I GET ANY MORE INFINITY RATED WRESTLERS!?! | WWE2K26",
-      "label": "Replay",
-      "publishedAt": "2026-11-17T22:40:31Z",
-      "startedAt": "2026-11-17T18:49:42Z",
-      "endedAt": "2026-11-17T22:06:48Z",
-      "scheduledAt": "2026-11-17T18:49:28Z",
-      "duration": "PT3H17M2S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/Jg96wuh6Gks/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Jg96wuh6Gks",
-      "views": "96",
+      "views": "88",
       "live": false,
       "wasLive": true
     }
   ],
   "liveStatus": {
-    "status": "live",
-    "video": {
-      "id": "HF4EqZ8jwEs",
-      "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
-      "label": "Live now",
-      "publishedAt": "2026-11-24T18:55:34Z",
-      "startedAt": "2026-11-24T18:55:47Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-24T18:55:33Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg?v=6b05ddc1",
-      "url": "https://www.youtube.com/watch?v=HF4EqZ8jwEs",
-      "views": "29",
-      "live": true,
-      "wasLive": true
-    },
-    "checkedAt": "2026-11-24T20:53:34.922Z",
-    "expiresAt": "2026-11-24T21:38:34.922Z",
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-25T04:11:00.934Z",
+    "expiresAt": "2026-11-25T04:56:00.934Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6505,36 +6399,36 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "d_hcLZdf9zvmVIBJ1_r6gN9IOUc",
+      "etag": "zNAMGAlE1j60vbCauhWaVJyDjFw",
       "id": "HF4EqZ8jwEs",
       "snippet": {
-        "publishedAt": "2026-11-24T18:55:34Z",
+        "publishedAt": "2026-11-24T22:16:32Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/default.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/hqdefault.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/sddefault.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/maxresdefault.jpg?v=6b05ddc1",
+            "url": "https://i.ytimg.com/vi/HF4EqZ8jwEs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -6554,7 +6448,7 @@
           "WWE 2K26"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "WAR GAMES IS COMING SOON!?! | WWE2K26",
@@ -6563,16 +6457,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT3H7M4S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -6580,22 +6474,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "29",
-        "likeCount": "3",
+        "viewCount": "77",
+        "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-24T18:55:47Z",
+        "actualEndTime": "2026-11-24T22:02:51Z",
         "scheduledStartTime": "2026-11-24T18:55:33Z",
-        "scheduledEndTime": "2026-11-24T20:57:41Z",
-        "concurrentViewers": "3",
-        "activeLiveChatId": "Cg0KC0hGNEVxWjhqd0VzKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILSEY0RXFaOGp3RXM"
+        "scheduledEndTime": "2026-11-24T22:17:41Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ixCm6EA92m1_NAGf59SgKLmI8R8",
+      "etag": "fypLOBVPgU0noUi3LIOaKXbVqdg",
       "id": "BjrqECOX8TM",
       "snippet": {
         "publishedAt": "2026-11-24T10:09:51Z",
@@ -6657,7 +6550,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "83",
+        "viewCount": "104",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6665,7 +6558,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_hdenf_krHIh5ll7RfqnaAjdh9w",
+      "etag": "ZX-Ih3UW2xpNeIHtNuj9jClhqpQ",
       "id": "vThrO547Mfk",
       "snippet": {
         "publishedAt": "2026-11-24T09:46:58Z",
@@ -6727,15 +6620,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "73",
-        "likeCount": "3",
+        "viewCount": "86",
+        "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZVuVkxH6TJIHZGZfwGgfKc-D0XA",
+      "etag": "GmFRStUUK3UdbABB0RCAgklhqCo",
       "id": "3I2GDc8ZOcI",
       "snippet": {
         "publishedAt": "2026-11-23T09:43:44Z",
@@ -6797,7 +6690,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "498",
+        "viewCount": "501",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6805,7 +6698,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zJirCfzA3-SbeVW9fP17KoB4cXg",
+      "etag": "WkPYr-9O11sHV-low65z4HNOFHw",
       "id": "e9c9-agpYD4",
       "snippet": {
         "publishedAt": "2026-11-23T09:40:35Z",
@@ -6867,7 +6760,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "491",
+        "viewCount": "543",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -6875,7 +6768,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "l6ad8l_8XZnxO7_aYLBUNs6Lygg",
+      "etag": "RvzrtDsJ-Owy5F9TyKv-KjKzhLM",
       "id": "qusqoeafpig",
       "snippet": {
         "publishedAt": "2026-11-23T00:05:03Z",
@@ -6951,7 +6844,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "67",
+        "viewCount": "68",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7105,7 +6998,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qWAwsB7iQCXjmlS1z9Y-8rc-cxk",
+      "etag": "a-X0-wpcucAbllDzsmPjQYyxN50",
       "id": "UQwlBiLApTI",
       "snippet": {
         "publishedAt": "2026-11-21T22:28:34Z",
@@ -7180,7 +7073,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "93",
+        "viewCount": "94",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7723,7 +7616,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SS5YPFZcKVnbrQ2D4yAB-B2zmtQ",
+      "etag": "rFbKxpWZnK7OZWpNKN6VPUb0Rtc",
       "id": "niX2Ed_LY5Q",
       "snippet": {
         "publishedAt": "2026-11-19T11:39:14Z",
@@ -7784,7 +7677,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "48",
+        "viewCount": "47",
         "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -7932,7 +7825,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hfBPtSpt6J4qeKhLo9vrWb4PvOE",
+      "etag": "1NPzWYCXs5d57u6mnkpXCY3WE7M",
       "id": "2LkM5ExOr18",
       "snippet": {
         "publishedAt": "2026-11-18T22:53:53Z",
@@ -8008,7 +7901,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "89",
+        "viewCount": "88",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -17879,21 +17772,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T20:53:34.922Z"
+      "updatedAt": "2026-11-25T04:11:00.934Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T20:53:34.922Z"
+      "updatedAt": "2026-11-25T04:11:00.934Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-24T20:53:34.922Z"
+      "updatedAt": "2026-11-25T04:11:00.934Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-24T20:53:34.922Z",
-    "evaluatedAt": "2026-11-24T20:53:37.448Z"
+    "observedAt": "2026-11-25T04:11:00.934Z",
+    "evaluatedAt": "2026-11-25T04:11:02.799Z"
   }
 }

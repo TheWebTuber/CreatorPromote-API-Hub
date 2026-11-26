@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-26T05:28:58.586Z",
+  "updatedAt": "2026-11-26T15:48:37.442Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "K136zg5cKAHa0vQaRAIBnqWOfDw",
+    "etag": "e8QbgJSVchoMdvTX66J-zxzvDT0",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "67766",
+      "viewCount": "67767",
       "subscriberCount": "100",
       "hiddenSubscriberCount": false,
       "videoCount": "207"
@@ -1260,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-26T05:28:58.586Z",
-    "expiresAt": "2026-11-26T06:13:58.586Z",
+    "checkedAt": "2026-11-26T15:48:37.442Z",
+    "expiresAt": "2026-11-26T16:33:37.442Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -8576,21 +8576,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T05:28:58.586Z"
+      "updatedAt": "2026-11-26T15:48:37.442Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T05:28:58.586Z"
+      "updatedAt": "2026-11-26T15:48:37.442Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T05:28:58.586Z"
+      "updatedAt": "2026-11-26T15:48:37.442Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-26T05:28:58.586Z",
-    "evaluatedAt": "2026-11-26T05:28:59.450Z"
+    "observedAt": "2026-11-26T15:48:37.442Z",
+    "evaluatedAt": "2026-11-26T15:48:38.293Z"
   }
 }

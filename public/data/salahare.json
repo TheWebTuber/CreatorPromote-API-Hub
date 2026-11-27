@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-27T00:35:28.242Z",
+  "updatedAt": "2026-11-27T09:06:36.072Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "nwyoVa9p4LdlbL9PfAh85XwEzYU",
+    "etag": "5cQs-94vB0kvWkhmbll__tpgROA",
     "id": "UCW2g_zIWdsZkbsFc0AUR-ag",
     "snippet": {
       "title": "Salahare - Dream Drops Crew Vtuber",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "29227",
+      "viewCount": "29228",
       "subscriberCount": "181",
       "hiddenSubscriberCount": false,
       "videoCount": "59"
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-27T00:35:28.242Z",
-    "expiresAt": "2026-11-27T01:20:28.242Z",
+    "checkedAt": "2026-11-27T09:06:36.072Z",
+    "expiresAt": "2026-11-27T09:51:36.072Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -4449,7 +4449,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "glVgV_MYr8s9ElvPXZXJhfWRY2E",
+      "etag": "Etm4xhn2Cljvz7fgTB-SQAyRJNw",
       "id": "aXHHpvNTqEA",
       "snippet": {
         "publishedAt": "2019-11-05T06:53:22Z",
@@ -6432,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T00:35:28.242Z"
+      "updatedAt": "2026-11-27T09:06:36.072Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T00:35:28.242Z"
+      "updatedAt": "2026-11-27T09:06:36.072Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T00:35:28.242Z"
+      "updatedAt": "2026-11-27T09:06:36.072Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-27T00:35:28.242Z",
-    "evaluatedAt": "2026-11-27T00:35:29.132Z"
+    "observedAt": "2026-11-27T09:06:36.072Z",
+    "evaluatedAt": "2026-11-27T09:06:36.663Z"
   }
 }

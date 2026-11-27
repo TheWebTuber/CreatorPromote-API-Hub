@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-27T00:35:22.169Z",
+  "updatedAt": "2026-11-27T09:06:30.361Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "e8QbgJSVchoMdvTX66J-zxzvDT0",
+    "etag": "fSd32slD1qj7GJn0gDuJMbYKtag",
     "id": "UCKE1MnwHQBM8i7Or5K_zcmA",
     "snippet": {
       "title": "BonakVT",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "67767",
+      "viewCount": "67768",
       "subscriberCount": "100",
       "hiddenSubscriberCount": false,
       "videoCount": "207"
@@ -64,7 +64,7 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "P-6hUaTHS1TPWsyBAqDvckvYQPg",
+      "etag": "9euLhFWBXgAKWyA0sRKZXP3myQ4",
       "id": "3NmDr6lSf2c",
       "snippet": {
         "publishedAt": "2026-11-22T13:59:33Z",
@@ -110,8 +110,7 @@
         "localized": {
           "title": "my first game with voice chat..  #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT27S",
@@ -139,7 +138,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "s2CptQoE6P51wZe7pOZjfe2LT7g",
+      "etag": "n-8Vp7iZ20NdWbm4noiOFG2JDaM",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
@@ -185,8 +184,7 @@
         "localized": {
           "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT31S",
@@ -287,7 +285,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JQhZJBzwJ74P28g2ZKW9AjL3G-g",
+      "etag": "YLKI7qxE7MUsdYO-C1cvqRBmjXg",
       "id": "iwXIeP9x8WM",
       "snippet": {
         "publishedAt": "2026-11-17T14:47:56Z",
@@ -1260,8 +1258,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-27T00:35:22.169Z",
-    "expiresAt": "2026-11-27T01:20:22.169Z",
+    "checkedAt": "2026-11-27T09:06:30.361Z",
+    "expiresAt": "2026-11-27T09:51:30.361Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1272,7 +1270,7 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "P-6hUaTHS1TPWsyBAqDvckvYQPg",
+      "etag": "9euLhFWBXgAKWyA0sRKZXP3myQ4",
       "id": "3NmDr6lSf2c",
       "snippet": {
         "publishedAt": "2026-11-22T13:59:33Z",
@@ -1318,8 +1316,7 @@
         "localized": {
           "title": "my first game with voice chat..  #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT27S",
@@ -1419,7 +1416,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "s2CptQoE6P51wZe7pOZjfe2LT7g",
+      "etag": "n-8Vp7iZ20NdWbm4noiOFG2JDaM",
       "id": "P8cpT20NmI8",
       "snippet": {
         "publishedAt": "2026-11-18T13:35:19Z",
@@ -1465,8 +1462,7 @@
         "localized": {
           "title": "my horse detector is tingling  #vtuber #leagueoflegends #fyp",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT31S",
@@ -1567,7 +1563,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "JQhZJBzwJ74P28g2ZKW9AjL3G-g",
+      "etag": "YLKI7qxE7MUsdYO-C1cvqRBmjXg",
       "id": "iwXIeP9x8WM",
       "snippet": {
         "publishedAt": "2026-11-17T14:47:56Z",
@@ -2300,7 +2296,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wZP28YS6XFIOobZMtY_j8aA6Yng",
+      "etag": "zvcP0IqmzDKXtwBytahu9KUXEYE",
       "id": "hFCmEWb6OfI",
       "snippet": {
         "publishedAt": "2026-11-04T13:43:10Z",
@@ -3843,7 +3839,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Alk4W8nYjpCsOOdFeGXN9xae5OY",
+      "etag": "Pke4efci9T6PS958PxjK6iOrtLE",
       "id": "kevKviMjKuc",
       "snippet": {
         "publishedAt": "2026-10-01T11:24:36Z",
@@ -4428,7 +4424,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "nZic2ihgHexSyDBIbl2SIoMo1HQ",
+      "etag": "tvDM7EpWpnrAnEL-KvV_YfrD7kA",
       "id": "F4ll72gCylY",
       "snippet": {
         "publishedAt": "2026-09-18T06:30:07Z",
@@ -4469,8 +4465,7 @@
         "localized": {
           "title": "trying to learn mechanical ball girl cuz yasuo takes too many button presses #vtuber#leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H17M11S",
@@ -4724,7 +4719,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wDji-753dwnEdTtLGliIbik3eiw",
+      "etag": "7aQGp5qcA3qAyN_hj_oywhTgaOU",
       "id": "z25MFYxJsmQ",
       "snippet": {
         "publishedAt": "2026-09-14T14:53:21Z",
@@ -6335,7 +6330,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vZ4s_H1NR1F0oS3D-6JnKhsGQ-k",
+      "etag": "tTYgPe-aSps35WrbFvsAz0x1l-0",
       "id": "nvvJGNSAfjM",
       "snippet": {
         "publishedAt": "2026-08-23T13:05:49Z",
@@ -6409,7 +6404,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DU_JU-U_O0lBwjZ24_fZMSp1i_c",
+      "etag": "JeXubOjtmuo4t5ydrvNZqAPyRGo",
       "id": "FHzJJiiKqC8",
       "snippet": {
         "publishedAt": "2026-08-22T08:09:26Z",
@@ -6450,8 +6445,7 @@
         "localized": {
           "title": "chilling' in league and deranking :) #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H58M20S",
@@ -7219,7 +7213,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "j0LmKp5ydqSfv-9wUlfuqELgJ6o",
+      "etag": "LRgSxHSQoBC9JNL1rGnsTfcl2lE",
       "id": "4wPP9HsHvIU",
       "snippet": {
         "publishedAt": "2026-07-26T08:21:22Z",
@@ -7260,8 +7254,7 @@
         "localized": {
           "title": "trying to get my dumbass out of bronze #vtuber #leagueoflegends",
           "description": "fox plays league"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT4H11M10S",
@@ -8570,21 +8563,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T00:35:22.169Z"
+      "updatedAt": "2026-11-27T09:06:30.361Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T00:35:22.169Z"
+      "updatedAt": "2026-11-27T09:06:30.361Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T00:35:22.169Z"
+      "updatedAt": "2026-11-27T09:06:30.361Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-27T00:35:22.169Z",
-    "evaluatedAt": "2026-11-27T00:35:23.282Z"
+    "observedAt": "2026-11-27T09:06:30.361Z",
+    "evaluatedAt": "2026-11-27T09:06:31.259Z"
   }
 }

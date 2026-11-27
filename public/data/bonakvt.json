@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-26T15:48:37.442Z",
+  "updatedAt": "2026-11-27T00:35:22.169Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1260,8 +1260,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-26T15:48:37.442Z",
-    "expiresAt": "2026-11-26T16:33:37.442Z",
+    "checkedAt": "2026-11-27T00:35:22.169Z",
+    "expiresAt": "2026-11-27T01:20:22.169Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -2885,7 +2885,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sVA7MmTLz_D8B04BQM8CncogqjE",
+      "etag": "Ne3R-CKHPS3fuNivs5_3wVwzp6o",
       "id": "qqNkuNztw4Q",
       "snippet": {
         "publishedAt": "2026-10-26T14:12:49Z",
@@ -3328,7 +3328,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "WnRnyPrHikWutfGGrHllwAQqymk",
+      "etag": "fRqP2HaLZ3hIgGZZX2chxTHYWX8",
       "id": "mJ0v3O_PJww",
       "snippet": {
         "publishedAt": "2026-10-13T23:06:11Z",
@@ -3369,8 +3369,7 @@
         "localized": {
           "title": "trying goofy ass builds. What could possibly go wrong? #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H9S",
@@ -4651,7 +4650,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "8kWMhK6EmeoNiaGUzcKYW9Mbnic",
+      "etag": "08TAZJ0UT0XwE2D6xuYwi5UtK1w",
       "id": "sd16XXskLNE",
       "snippet": {
         "publishedAt": "2026-09-15T05:02:54Z",
@@ -4799,7 +4798,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "N9cpMiLBuof2N97jBI-mkUUUDQg",
+      "etag": "wnnrXXvj4he4raYwqPjhmZgI2QE",
       "id": "3ZtWSYySJZw",
       "snippet": {
         "publishedAt": "2026-09-14T08:38:38Z",
@@ -4840,8 +4839,7 @@
         "localized": {
           "title": "the ranked grind continues - bottom 500 yasuo tries to escape elo hell #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H8M53S",
@@ -5021,7 +5019,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "D8sPnqdH0SF4qiF18ORz9B1d64Q",
+      "etag": "C3I0ezmFhyahtpBSMfp4BvpUwSU",
       "id": "QzWRd5QA9Ho",
       "snippet": {
         "publishedAt": "2026-09-10T05:26:09Z",
@@ -5062,8 +5060,7 @@
         "localized": {
           "title": "the ranked grind continues - bottom 500 yasuo tries to escape elo hell #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "und"
+        }
       },
       "contentDetails": {
         "duration": "PT2H49M42S",
@@ -5243,7 +5240,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "YOu2L_UVP_p-5hMBKrNgSM-aKwQ",
+      "etag": "zqDop7Xd_G9Bd2Hgt-G9xHRiAWQ",
       "id": "JgmfUC1AnAk",
       "snippet": {
         "publishedAt": "2026-09-08T06:36:26Z",
@@ -5284,8 +5281,7 @@
         "localized": {
           "title": "trying to escape the slums of bronze oce #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT2H35M30S",
@@ -5391,7 +5387,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "FDw8OLsfgWGeiWU-RJ7dwFWWeuA",
+      "etag": "MZr8Jic8fI2KQIWzkxjDobB_fig",
       "id": "V2UYa9hKi7I",
       "snippet": {
         "publishedAt": "2026-09-06T23:01:33Z",
@@ -5432,8 +5428,7 @@
         "localized": {
           "title": "behold my subpar yasuo gameplay #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "und"
+        }
       },
       "contentDetails": {
         "duration": "PT1H48M32S",
@@ -6192,7 +6187,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zjtmEQVV0tlHd1rhXCiSuimbmAQ",
+      "etag": "DVYhaIAJv3tC7s1siNF5lNqEohA",
       "id": "u-EL_KCxGaM",
       "snippet": {
         "publishedAt": "2026-08-26T14:42:16Z",
@@ -6636,7 +6631,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "rYgtX8xx4awACbdQUzdjD_kjI_U",
+      "etag": "5sP8EdJ_kjpYmyFhMVUGLdQJ1Nc",
       "id": "sQ4wVP7oVvI",
       "snippet": {
         "publishedAt": "2026-08-19T01:18:22Z",
@@ -6677,8 +6672,7 @@
         "localized": {
           "title": "Behold my new chibi model while I lose repetitively in league #vtuber #leagueoflegends #newmodel",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT1H30M44S",
@@ -8576,21 +8570,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T15:48:37.442Z"
+      "updatedAt": "2026-11-27T00:35:22.169Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T15:48:37.442Z"
+      "updatedAt": "2026-11-27T00:35:22.169Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T15:48:37.442Z"
+      "updatedAt": "2026-11-27T00:35:22.169Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-26T15:48:37.442Z",
-    "evaluatedAt": "2026-11-26T15:48:38.293Z"
+    "observedAt": "2026-11-27T00:35:22.169Z",
+    "evaluatedAt": "2026-11-27T00:35:23.282Z"
   }
 }

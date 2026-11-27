@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-26T15:48:32.927Z",
+  "updatedAt": "2026-11-27T00:35:16.077Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "0tiAn65Sn_sTb-WuPWzP8YqLaWE",
+    "etag": "A7rv44rFBdVfe5AGbBNQi7gpS9Q",
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
     "snippet": {
       "title": "Dream Drops Crew",
@@ -42,10 +42,10 @@
       }
     },
     "statistics": {
-      "viewCount": "101989",
+      "viewCount": "102022",
       "subscriberCount": "507",
       "hiddenSubscriberCount": false,
-      "videoCount": "880"
+      "videoCount": "881"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,96 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "ycICjflUCWkQsFbjkkvOK9Uc-00",
+      "etag": "WWCWAjg5ZT6fqR5eZqGIhS1AoVo",
+      "id": "gEJPdoETSMs",
+      "snippet": {
+        "publishedAt": "2026-11-26T18:28:56Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "*Cough* *Cough* So much dust! - MoonSweepers",
+        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gameplay",
+          "games",
+          "vtuber",
+          "png tuber",
+          "cozy",
+          "indie game",
+          "simulation",
+          "MoonSweepers"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "*Cough* *Cough* So much dust! - MoonSweepers",
+          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H20M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "20",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-26T02:29:31Z",
+        "actualEndTime": "2026-11-26T04:50:57Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Bpv-igolSrviJFDZAi4F6qN2QYU",
       "id": "E-qZ6pmnkNY",
       "snippet": {
         "publishedAt": "2026-11-26T05:45:55Z",
@@ -128,7 +217,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "2",
+        "viewCount": "6",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -136,7 +225,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HcyDwvSGAtfJQkzfhqgPO6pPyCc",
+      "etag": "VK1KIqD48kJ1MuW8dKNBte6yfuM",
       "id": "s8sv-gXvNc0",
       "snippet": {
         "publishedAt": "2026-11-25T18:09:09Z",
@@ -194,7 +283,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "32",
+        "viewCount": "34",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -207,7 +296,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6rrRC3L83vuQM1FqmoTJzjfku-0",
+      "etag": "t0dvhPDkMgvZa2Dml4u6MTCS_sE",
       "id": "hRGCl76_Xbg",
       "snippet": {
         "publishedAt": "2026-11-25T17:48:25Z",
@@ -264,7 +353,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "701",
+        "viewCount": "703",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -439,117 +528,46 @@
         "actualEndTime": "2026-11-21T04:54:46Z",
         "scheduledStartTime": "2026-11-21T02:06:35Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ob7OAwwzxz4aixgNFPF0VcTpvsw",
-      "id": "Jzh2Ks24aNc",
-      "snippet": {
-        "publishedAt": "2026-11-20T07:28:50Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Gambling our souls to the slots Gods while gambling with your friends",
-        "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Jzh2Ks24aNc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "Gambling",
-          "with friends",
-          "indie",
-          "game"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Gambling our souls to the slots Gods while gambling with your friends",
-          "description": "The Crew's individual channels! \n\nDaddy Depresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@Crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H50M4S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "38",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-20T02:17:48Z",
-        "actualEndTime": "2026-11-20T05:07:48Z",
-        "scheduledStartTime": "2026-11-20T02:17:23Z"
-      }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "UtIJaMEBvk4S9elTI-UupTRaLwU",
+      "etag": "WWCWAjg5ZT6fqR5eZqGIhS1AoVo",
       "id": "gEJPdoETSMs",
       "snippet": {
-        "publishedAt": "2026-11-18T05:09:59Z",
+        "publishedAt": "2026-11-26T18:28:56Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "*Cough* *Cough* So much dust! - MoonSweepers",
         "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/default.jpg?v=6afd3327",
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg?v=6afd3327",
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/hqdefault.jpg?v=6afd3327",
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/sddefault.jpg?v=6afd3327",
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/maxresdefault.jpg?v=6afd3327",
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           },
           "fhd": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/fhddefault.jpg?v=6afd3327",
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/fhddefault.jpg",
             "width": 1920,
             "height": 1080
           }
@@ -575,16 +593,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT2H21M26S",
+        "duration": "PT2H20M39S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -592,7 +610,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "17",
+        "viewCount": "20",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -604,7 +622,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6rrRC3L83vuQM1FqmoTJzjfku-0",
+      "etag": "t0dvhPDkMgvZa2Dml4u6MTCS_sE",
       "id": "hRGCl76_Xbg",
       "snippet": {
         "publishedAt": "2026-11-25T17:48:25Z",
@@ -661,7 +679,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "701",
+        "viewCount": "703",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -674,7 +692,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HcyDwvSGAtfJQkzfhqgPO6pPyCc",
+      "etag": "VK1KIqD48kJ1MuW8dKNBte6yfuM",
       "id": "s8sv-gXvNc0",
       "snippet": {
         "publishedAt": "2026-11-25T18:09:09Z",
@@ -732,7 +750,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "32",
+        "viewCount": "34",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -984,6 +1002,23 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "gEJPdoETSMs",
+      "title": "*Cough* *Cough* So much dust! - MoonSweepers",
+      "label": "YouTube",
+      "publishedAt": "2026-11-26T18:28:56Z",
+      "startedAt": "2026-11-26T02:29:31Z",
+      "endedAt": "2026-11-26T04:50:57Z",
+      "scheduledAt": null,
+      "duration": "PT2H20M39S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gEJPdoETSMs",
+      "views": "20",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "E-qZ6pmnkNY",
       "title": "(Portrait) *Cough* *Cough* So much dust! - MoonSweepers",
       "label": "YouTube",
@@ -996,7 +1031,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/E-qZ6pmnkNY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=E-qZ6pmnkNY",
-      "views": "2",
+      "views": "6",
       "live": false,
       "wasLive": false
     },
@@ -1013,7 +1048,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
-      "views": "32",
+      "views": "34",
       "live": false,
       "wasLive": true
     },
@@ -1030,7 +1065,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hRGCl76_Xbg",
-      "views": "701",
+      "views": "703",
       "live": false,
       "wasLive": true
     },
@@ -1067,23 +1102,6 @@
       "views": "340",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "Jzh2Ks24aNc",
-      "title": "Gambling our souls to the slots Gods while gambling with your friends",
-      "label": "YouTube",
-      "publishedAt": "2026-11-20T07:28:50Z",
-      "startedAt": "2026-11-20T02:17:48Z",
-      "endedAt": "2026-11-20T05:07:48Z",
-      "scheduledAt": "2026-11-20T02:17:23Z",
-      "duration": "PT2H50M4S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/Jzh2Ks24aNc/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Jzh2Ks24aNc",
-      "views": "38",
-      "live": false,
-      "wasLive": true
     }
   ],
   "latestLivestreams": [
@@ -1091,16 +1109,16 @@
       "id": "gEJPdoETSMs",
       "title": "*Cough* *Cough* So much dust! - MoonSweepers",
       "label": "Livestream",
-      "publishedAt": "2026-11-18T05:09:59Z",
+      "publishedAt": "2026-11-26T18:28:56Z",
       "startedAt": "2026-11-26T02:29:31Z",
       "endedAt": "2026-11-26T04:50:57Z",
       "scheduledAt": null,
-      "duration": "PT2H21M26S",
+      "duration": "PT2H20M39S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg?v=6afd3327",
+      "thumbnail": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gEJPdoETSMs",
-      "views": "17",
+      "views": "20",
       "live": false,
       "wasLive": true
     },
@@ -1117,7 +1135,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hRGCl76_Xbg",
-      "views": "701",
+      "views": "703",
       "live": false,
       "wasLive": true
     },
@@ -1134,7 +1152,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
-      "views": "32",
+      "views": "34",
       "live": false,
       "wasLive": true
     },
@@ -1195,16 +1213,16 @@
       "id": "gEJPdoETSMs",
       "title": "*Cough* *Cough* So much dust! - MoonSweepers",
       "label": "Replay",
-      "publishedAt": "2026-11-18T05:09:59Z",
+      "publishedAt": "2026-11-26T18:28:56Z",
       "startedAt": "2026-11-26T02:29:31Z",
       "endedAt": "2026-11-26T04:50:57Z",
       "scheduledAt": null,
-      "duration": "PT2H21M26S",
+      "duration": "PT2H20M39S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg?v=6afd3327",
+      "thumbnail": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gEJPdoETSMs",
-      "views": "17",
+      "views": "20",
       "live": false,
       "wasLive": true
     },
@@ -1221,7 +1239,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/hRGCl76_Xbg/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hRGCl76_Xbg",
-      "views": "701",
+      "views": "703",
       "live": false,
       "wasLive": true
     },
@@ -1238,7 +1256,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
-      "views": "32",
+      "views": "34",
       "live": false,
       "wasLive": true
     },
@@ -1297,8 +1315,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-26T15:48:32.927Z",
-    "expiresAt": "2026-11-26T16:33:32.927Z",
+    "checkedAt": "2026-11-27T00:35:16.077Z",
+    "expiresAt": "2026-11-27T01:20:16.077Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1309,7 +1327,96 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "ycICjflUCWkQsFbjkkvOK9Uc-00",
+      "etag": "WWCWAjg5ZT6fqR5eZqGIhS1AoVo",
+      "id": "gEJPdoETSMs",
+      "snippet": {
+        "publishedAt": "2026-11-26T18:28:56Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "*Cough* *Cough* So much dust! - MoonSweepers",
+        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gameplay",
+          "games",
+          "vtuber",
+          "png tuber",
+          "cozy",
+          "indie game",
+          "simulation",
+          "MoonSweepers"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "*Cough* *Cough* So much dust! - MoonSweepers",
+          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H20M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "20",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-26T02:29:31Z",
+        "actualEndTime": "2026-11-26T04:50:57Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Bpv-igolSrviJFDZAi4F6qN2QYU",
       "id": "E-qZ6pmnkNY",
       "snippet": {
         "publishedAt": "2026-11-26T05:45:55Z",
@@ -1376,7 +1483,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "2",
+        "viewCount": "6",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1384,7 +1491,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HcyDwvSGAtfJQkzfhqgPO6pPyCc",
+      "etag": "VK1KIqD48kJ1MuW8dKNBte6yfuM",
       "id": "s8sv-gXvNc0",
       "snippet": {
         "publishedAt": "2026-11-25T18:09:09Z",
@@ -1442,7 +1549,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "32",
+        "viewCount": "34",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1455,7 +1562,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "6rrRC3L83vuQM1FqmoTJzjfku-0",
+      "etag": "t0dvhPDkMgvZa2Dml4u6MTCS_sE",
       "id": "hRGCl76_Xbg",
       "snippet": {
         "publishedAt": "2026-11-25T17:48:25Z",
@@ -1512,7 +1619,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "701",
+        "viewCount": "703",
         "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -2134,95 +2241,6 @@
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UtIJaMEBvk4S9elTI-UupTRaLwU",
-      "id": "gEJPdoETSMs",
-      "snippet": {
-        "publishedAt": "2026-11-18T05:09:59Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "*Cough* *Cough* So much dust! - MoonSweepers",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/default.jpg?v=6afd3327",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg?v=6afd3327",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/hqdefault.jpg?v=6afd3327",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/sddefault.jpg?v=6afd3327",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/maxresdefault.jpg?v=6afd3327",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/gEJPdoETSMs/fhddefault.jpg?v=6afd3327",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "cozy",
-          "indie game",
-          "simulation",
-          "MoonSweepers"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "*Cough* *Cough* So much dust! - MoonSweepers",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H21M26S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "17",
-        "likeCount": "3",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-26T02:29:31Z",
-        "actualEndTime": "2026-11-26T04:50:57Z"
       }
     },
     {
@@ -3193,7 +3211,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "BpnRWxpP1eXEwiPn0eAolmQDn4M",
+      "etag": "fSW_Ac4jn455p12AGjXsWSPVYpg",
       "id": "NRiAKKrYjh0",
       "snippet": {
         "publishedAt": "2026-11-04T22:23:55Z",
@@ -3270,7 +3288,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "73",
+        "viewCount": "74",
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8255,7 +8273,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Ra1LEdmHFrVUeVxs7Kw2XFlxXjA",
+      "etag": "FJhSjruCpxkFISgfQCg6LkVlfR8",
       "id": "yLPowhqtwF0",
       "snippet": {
         "publishedAt": "2026-09-08T16:54:41Z",
@@ -39343,21 +39361,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T15:48:32.927Z"
+      "updatedAt": "2026-11-27T00:35:16.077Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T15:48:32.927Z"
+      "updatedAt": "2026-11-27T00:35:16.077Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T15:48:32.927Z"
+      "updatedAt": "2026-11-27T00:35:16.077Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-26T15:48:32.927Z",
-    "evaluatedAt": "2026-11-26T15:48:35.994Z"
+    "observedAt": "2026-11-27T00:35:16.077Z",
+    "evaluatedAt": "2026-11-27T00:35:20.576Z"
   }
 }

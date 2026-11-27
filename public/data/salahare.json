@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-26T15:48:42.855Z",
+  "updatedAt": "2026-11-27T00:35:28.242Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-26T15:48:42.855Z",
-    "expiresAt": "2026-11-26T16:33:42.855Z",
+    "checkedAt": "2026-11-27T00:35:28.242Z",
+    "expiresAt": "2026-11-27T01:20:28.242Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -5824,7 +5824,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "IPmHfs66hHfAJAbKBeOZCCNdEJ0",
+      "etag": "GBhK_qUe9I7GjI3YkF7EHAWm-Bc",
       "id": "zyRJKF81E_c",
       "snippet": {
         "publishedAt": "2012-06-19T11:16:36Z",
@@ -5903,7 +5903,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dGKASFn2987BVE5Weg0p-xPJIE4",
+      "etag": "vvXAT3PtVMa1pM7L9YzPCfVOSxE",
       "id": "dv52mKIa40Q",
       "snippet": {
         "publishedAt": "2012-06-17T05:54:21Z",
@@ -5972,7 +5972,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
+        "viewCount": "37",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6058,7 +6058,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "S9H7E744PjMGGHdoChK1_dpr45Y",
+      "etag": "4NnGOagQuAzj3j_7g60g-bR4HaI",
       "id": "xLO-7saPnUI",
       "snippet": {
         "publishedAt": "2012-04-01T02:23:37Z",
@@ -6432,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T15:48:42.855Z"
+      "updatedAt": "2026-11-27T00:35:28.242Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T15:48:42.855Z"
+      "updatedAt": "2026-11-27T00:35:28.242Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-26T15:48:42.855Z"
+      "updatedAt": "2026-11-27T00:35:28.242Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-26T15:48:42.855Z",
-    "evaluatedAt": "2026-11-26T15:48:43.611Z"
+    "observedAt": "2026-11-27T00:35:28.242Z",
+    "evaluatedAt": "2026-11-27T00:35:29.132Z"
   }
 }

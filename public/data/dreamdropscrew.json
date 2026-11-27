@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "dreamdropscrew",
   "label": "Dream Drops Crew",
-  "updatedAt": "2026-11-27T09:06:25.982Z",
+  "updatedAt": "2026-11-27T18:58:42.096Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "fd9lSMdc3AqD6yEh09JqAwAB4rA",
+    "etag": "eYQdA21HP0h4sa5HUCEJ5UQ7opg",
     "id": "UCuK6uJXgGlJd4TLNjTwtluA",
     "snippet": {
       "title": "Dream Drops Crew",
@@ -42,10 +42,10 @@
       }
     },
     "statistics": {
-      "viewCount": "102038",
+      "viewCount": "102298",
       "subscriberCount": "509",
       "hiddenSubscriberCount": false,
-      "videoCount": "882"
+      "videoCount": "883"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,97 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "hq1qHsXjSTL-17gnIJWdEdNO268",
+      "etag": "pY6IL3PiTDDXCXajVXSkKiaBI0M",
+      "id": "K0GtgIcNNB0",
+      "snippet": {
+        "publishedAt": "2026-11-27T18:15:32Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
+        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gameplay",
+          "games",
+          "vtuber",
+          "png tuber",
+          "cozy",
+          "indie game",
+          "Yugioh",
+          "Rougelike",
+          "card games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
+          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H31M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "130",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-27T02:38:43Z",
+        "actualEndTime": "2026-11-27T05:11:17Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qpdM2eG7KGS3FSgSrL3_WLuj5lM",
       "id": "uOKqIUcIgO0",
       "snippet": {
         "publishedAt": "2026-11-27T06:05:06Z",
@@ -128,7 +218,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "7",
+        "viewCount": "17",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -136,97 +226,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Oez3EfQHU12-3pSQZTKjRo6-8BQ",
-      "id": "K0GtgIcNNB0",
-      "snippet": {
-        "publishedAt": "2026-11-27T02:32:35Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/default.jpg?v=6b08ec6b",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg?v=6b08ec6b",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/hqdefault.jpg?v=6b08ec6b",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/sddefault.jpg?v=6b08ec6b",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/maxresdefault.jpg?v=6b08ec6b",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/fhddefault.jpg?v=6b08ec6b",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "cozy",
-          "indie game",
-          "Yugioh",
-          "Rougelike",
-          "card games"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H32M34S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "234",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-27T02:38:43Z",
-        "actualEndTime": "2026-11-27T05:11:17Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ioXLr-CqO10nysQLEGt-B4NAgWY",
+      "etag": "NUZJXZ0LIXasYcaVMaSqwT29vj8",
       "id": "gEJPdoETSMs",
       "snippet": {
         "publishedAt": "2026-11-26T18:28:56Z",
@@ -303,7 +303,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "25",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -390,7 +390,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HdqImrlRm878v-mq9EX3_nBQDf8",
+      "etag": "Na2Z2G8s50Gxz9jPGKDI9kV_LPo",
       "id": "s8sv-gXvNc0",
       "snippet": {
         "publishedAt": "2026-11-25T18:09:09Z",
@@ -448,7 +448,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
+        "viewCount": "37",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -533,41 +533,41 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "Oez3EfQHU12-3pSQZTKjRo6-8BQ",
+      "etag": "pY6IL3PiTDDXCXajVXSkKiaBI0M",
       "id": "K0GtgIcNNB0",
       "snippet": {
-        "publishedAt": "2026-11-27T02:32:35Z",
+        "publishedAt": "2026-11-27T18:15:32Z",
         "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
         "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
         "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/default.jpg?v=6b08ec6b",
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg?v=6b08ec6b",
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/hqdefault.jpg?v=6b08ec6b",
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/sddefault.jpg?v=6b08ec6b",
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/maxresdefault.jpg?v=6b08ec6b",
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           },
           "fhd": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/fhddefault.jpg?v=6b08ec6b",
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/fhddefault.jpg",
             "width": 1920,
             "height": 1080
           }
@@ -594,16 +594,16 @@
         "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT2H32M34S",
+        "duration": "PT2H31M10S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -611,8 +611,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "234",
-        "likeCount": "4",
+        "viewCount": "130",
+        "likeCount": "5",
         "favoriteCount": "0",
         "commentCount": "0"
       },
@@ -623,7 +623,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ioXLr-CqO10nysQLEGt-B4NAgWY",
+      "etag": "NUZJXZ0LIXasYcaVMaSqwT29vj8",
       "id": "gEJPdoETSMs",
       "snippet": {
         "publishedAt": "2026-11-26T18:28:56Z",
@@ -700,7 +700,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "25",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -782,7 +782,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HdqImrlRm878v-mq9EX3_nBQDf8",
+      "etag": "Na2Z2G8s50Gxz9jPGKDI9kV_LPo",
       "id": "s8sv-gXvNc0",
       "snippet": {
         "publishedAt": "2026-11-25T18:09:09Z",
@@ -840,7 +840,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
+        "viewCount": "37",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1021,6 +1021,23 @@
   "liveChecked": false,
   "latestVideos": [
     {
+      "id": "K0GtgIcNNB0",
+      "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
+      "label": "YouTube",
+      "publishedAt": "2026-11-27T18:15:32Z",
+      "startedAt": "2026-11-27T02:38:43Z",
+      "endedAt": "2026-11-27T05:11:17Z",
+      "scheduledAt": null,
+      "duration": "PT2H31M10S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=K0GtgIcNNB0",
+      "views": "130",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "uOKqIUcIgO0",
       "title": "(Portrait) Yu-Gi-Oh! Rougelike? - Lumen's Call",
       "label": "YouTube",
@@ -1033,26 +1050,9 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/uOKqIUcIgO0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uOKqIUcIgO0",
-      "views": "7",
+      "views": "17",
       "live": false,
       "wasLive": false
-    },
-    {
-      "id": "K0GtgIcNNB0",
-      "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
-      "label": "YouTube",
-      "publishedAt": "2026-11-27T02:32:35Z",
-      "startedAt": "2026-11-27T02:38:43Z",
-      "endedAt": "2026-11-27T05:11:17Z",
-      "scheduledAt": null,
-      "duration": "PT2H32M34S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg?v=6b08ec6b",
-      "url": "https://www.youtube.com/watch?v=K0GtgIcNNB0",
-      "views": "234",
-      "live": false,
-      "wasLive": true
     },
     {
       "id": "gEJPdoETSMs",
@@ -1067,7 +1067,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gEJPdoETSMs",
-      "views": "22",
+      "views": "25",
       "live": false,
       "wasLive": true
     },
@@ -1101,7 +1101,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
-      "views": "36",
+      "views": "37",
       "live": false,
       "wasLive": true
     },
@@ -1128,16 +1128,16 @@
       "id": "K0GtgIcNNB0",
       "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
       "label": "Livestream",
-      "publishedAt": "2026-11-27T02:32:35Z",
+      "publishedAt": "2026-11-27T18:15:32Z",
       "startedAt": "2026-11-27T02:38:43Z",
       "endedAt": "2026-11-27T05:11:17Z",
       "scheduledAt": null,
-      "duration": "PT2H32M34S",
+      "duration": "PT2H31M10S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg?v=6b08ec6b",
+      "thumbnail": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=K0GtgIcNNB0",
-      "views": "234",
+      "views": "130",
       "live": false,
       "wasLive": true
     },
@@ -1154,7 +1154,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gEJPdoETSMs",
-      "views": "22",
+      "views": "25",
       "live": false,
       "wasLive": true
     },
@@ -1188,7 +1188,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
-      "views": "36",
+      "views": "37",
       "live": false,
       "wasLive": true
     },
@@ -1232,16 +1232,16 @@
       "id": "K0GtgIcNNB0",
       "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
       "label": "Replay",
-      "publishedAt": "2026-11-27T02:32:35Z",
+      "publishedAt": "2026-11-27T18:15:32Z",
       "startedAt": "2026-11-27T02:38:43Z",
       "endedAt": "2026-11-27T05:11:17Z",
       "scheduledAt": null,
-      "duration": "PT2H32M34S",
+      "duration": "PT2H31M10S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg?v=6b08ec6b",
+      "thumbnail": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=K0GtgIcNNB0",
-      "views": "234",
+      "views": "130",
       "live": false,
       "wasLive": true
     },
@@ -1258,7 +1258,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/gEJPdoETSMs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gEJPdoETSMs",
-      "views": "22",
+      "views": "25",
       "live": false,
       "wasLive": true
     },
@@ -1292,7 +1292,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/s8sv-gXvNc0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=s8sv-gXvNc0",
-      "views": "36",
+      "views": "37",
       "live": false,
       "wasLive": true
     },
@@ -1334,8 +1334,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-27T09:06:25.982Z",
-    "expiresAt": "2026-11-27T09:51:25.982Z",
+    "checkedAt": "2026-11-27T18:58:42.096Z",
+    "expiresAt": "2026-11-27T19:43:42.096Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1346,7 +1346,97 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "hq1qHsXjSTL-17gnIJWdEdNO268",
+      "etag": "pY6IL3PiTDDXCXajVXSkKiaBI0M",
+      "id": "K0GtgIcNNB0",
+      "snippet": {
+        "publishedAt": "2026-11-27T18:15:32Z",
+        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
+        "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
+        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Dream Drops Crew",
+        "tags": [
+          "gameplay",
+          "games",
+          "vtuber",
+          "png tuber",
+          "cozy",
+          "indie game",
+          "Yugioh",
+          "Rougelike",
+          "card games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
+          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H31M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "130",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-27T02:38:43Z",
+        "actualEndTime": "2026-11-27T05:11:17Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qpdM2eG7KGS3FSgSrL3_WLuj5lM",
       "id": "uOKqIUcIgO0",
       "snippet": {
         "publishedAt": "2026-11-27T06:05:06Z",
@@ -1413,7 +1503,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "7",
+        "viewCount": "17",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1421,97 +1511,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Oez3EfQHU12-3pSQZTKjRo6-8BQ",
-      "id": "K0GtgIcNNB0",
-      "snippet": {
-        "publishedAt": "2026-11-27T02:32:35Z",
-        "channelId": "UCuK6uJXgGlJd4TLNjTwtluA",
-        "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
-        "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/default.jpg?v=6b08ec6b",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/mqdefault.jpg?v=6b08ec6b",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/hqdefault.jpg?v=6b08ec6b",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/sddefault.jpg?v=6b08ec6b",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/maxresdefault.jpg?v=6b08ec6b",
-            "width": 1280,
-            "height": 720
-          },
-          "fhd": {
-            "url": "https://i.ytimg.com/vi/K0GtgIcNNB0/fhddefault.jpg?v=6b08ec6b",
-            "width": 1920,
-            "height": 1080
-          }
-        },
-        "channelTitle": "Dream Drops Crew",
-        "tags": [
-          "gameplay",
-          "games",
-          "vtuber",
-          "png tuber",
-          "cozy",
-          "indie game",
-          "Yugioh",
-          "Rougelike",
-          "card games"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Yu-Gi-Oh! rougelike? - Lumen's Call",
-          "description": "The Crew's individual channels! \n\nDepresso:\nhttps://www.youtube.com/@daddydepresso\n(Depresso is also available as a Game/Dungeon master. For more information, please email josephpenax@gmail.com )\n\nCrystal's Channel:\nhttps://www.youtube.com/@crystalsdreamdrops\n\nSalahare’s Channel:\nhttps://www.youtube.com/@Salahare\n\nBlackjack's Channel:\nhttps://www.youtube.com/@blackjacksetzer\n\nPortal Master of Games channel:\nhttps://www.youtube.com/@PMOG\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nJoin our Discord!\nhttps://discord.gg/vYk7fXn9Qc\n\n---------------------------------------------------------------\n\nDonate at Streamlabs:\nhttps://streamlabs.com/jdsdreamdrops\n\nPatreon:\npatreon.com/DreamDropsDrifters\n\n------------------------------------------------------------------------------------------------------------------------------------------\n\nFollow us on Tiktok\n@DreamDropsCrew\n\nCheck out our fan made website!: \nhttps://creatorpromote.com/dreamdropscrew/"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT2H32M34S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "uploaded",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "234",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-27T02:38:43Z",
-        "actualEndTime": "2026-11-27T05:11:17Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ioXLr-CqO10nysQLEGt-B4NAgWY",
+      "etag": "NUZJXZ0LIXasYcaVMaSqwT29vj8",
       "id": "gEJPdoETSMs",
       "snippet": {
         "publishedAt": "2026-11-26T18:28:56Z",
@@ -1588,7 +1588,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "22",
+        "viewCount": "25",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1675,7 +1675,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HdqImrlRm878v-mq9EX3_nBQDf8",
+      "etag": "Na2Z2G8s50Gxz9jPGKDI9kV_LPo",
       "id": "s8sv-gXvNc0",
       "snippet": {
         "publishedAt": "2026-11-25T18:09:09Z",
@@ -1733,7 +1733,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
+        "viewCount": "37",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -32027,7 +32027,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gaOs8JDXxiBaHNHeIF3mZFWXB80",
+      "etag": "MvzayUALFXqdVDNHDONz8NW8Rpc",
       "id": "yc44h3rA5es",
       "snippet": {
         "publishedAt": "2025-06-19T06:06:28Z",
@@ -32136,7 +32136,7 @@
       },
       "statistics": {
         "viewCount": "135",
-        "likeCount": "8",
+        "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "0"
       },
@@ -39305,21 +39305,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T09:06:25.982Z"
+      "updatedAt": "2026-11-27T18:58:42.096Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T09:06:25.982Z"
+      "updatedAt": "2026-11-27T18:58:42.096Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T09:06:25.982Z"
+      "updatedAt": "2026-11-27T18:58:42.096Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-27T09:06:25.982Z",
-    "evaluatedAt": "2026-11-27T09:06:28.981Z"
+    "observedAt": "2026-11-27T18:58:42.096Z",
+    "evaluatedAt": "2026-11-27T18:58:45.935Z"
   }
 }

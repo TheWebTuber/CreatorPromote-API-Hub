@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-27T09:06:23.687Z",
+  "updatedAt": "2026-11-27T18:58:39.650Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "MBAJP-y96urrew_FKDxxcgnjJvc",
+    "etag": "CmadYKa4A2QpAFZ8AvKLzKyV5so",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -42,10 +42,10 @@
       }
     },
     "statistics": {
-      "viewCount": "1220603",
-      "subscriberCount": "738",
+      "viewCount": "1220733",
+      "subscriberCount": "739",
       "hiddenSubscriberCount": false,
-      "videoCount": "3058"
+      "videoCount": "3061"
     },
     "brandingSettings": {
       "channel": {
@@ -61,7 +61,308 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "S2_y5q11eMpL5givLCrUpu6RPoU",
+      "etag": "9yWDvGy3nNryPsPHWogDQ5e78aw",
+      "id": "skOsWafUFdY",
+      "snippet": {
+        "publishedAt": "2026-11-27T17:57:25Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/default.jpg?v=6b09c4ac",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/hqdefault.jpg?v=6b09c4ac",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/sddefault.jpg?v=6b09c4ac",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/maxresdefault.jpg?v=6b09c4ac",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "live",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-27T17:57:39Z",
+        "scheduledStartTime": "2026-11-27T17:57:24Z",
+        "scheduledEndTime": "2026-11-27T19:19:31Z",
+        "concurrentViewers": "5",
+        "activeLiveChatId": "Cg0KC3NrT3NXYWZVRmRZKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILc2tPc1dhZlVGZFk"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s-MUNTbSYVb26ANfELQH6XMauFw",
+      "id": "3qXKXiEaHgs",
+      "snippet": {
+        "publishedAt": "2026-11-27T10:13:01Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "A STORY OF SECOND HALVES!?! | (FC27 PLAYER CAREER EPISODE 9)",
+        "description": "What's good everyone, it's your boy thedocrot, and we have A STORY OF SECOND HALVES!?!\n\nThat's where the magic happens!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "A STORY OF SECOND HALVES!?! | (FC27 PLAYER CAREER EPISODE 9)",
+          "description": "What's good everyone, it's your boy thedocrot, and we have A STORY OF SECOND HALVES!?!\n\nThat's where the magic happens!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GeRCNrerh95lK9DXHTqSMOajL6U",
+      "id": "D5mHeWrLySc",
+      "snippet": {
+        "publishedAt": "2026-11-27T09:43:45Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "THAT WAS A CRAZY COUNTER!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+        "description": "Very crazy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THAT WAS A CRAZY COUNTER!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+          "description": "Very crazy!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "41",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mW3COdA8gCPojkp-T7TL27lJt4U",
+      "id": "q6PXt7FT3lE",
+      "snippet": {
+        "publishedAt": "2026-11-27T09:41:30Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "HE SAID THE THING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
+        "description": "7 MINUTES!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HE SAID THE THING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
+          "description": "7 MINUTES!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "56",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "94tRSZFpoIx9VMZxr97meGIpiOo",
       "id": "WPOGMb9rgrM",
       "snippet": {
         "publishedAt": "2026-11-26T22:26:27Z",
@@ -137,7 +438,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "63",
+        "viewCount": "71",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -151,7 +452,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HSsC_iq7KF04v3cwFRf_MI47gQY",
+      "etag": "HQYFLwuxI_5-lc-VNnZHEq77VIM",
       "id": "Qx3z_wezuvk",
       "snippet": {
         "publishedAt": "2026-11-26T10:27:31Z",
@@ -213,15 +514,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "17",
+        "viewCount": "18",
         "likeCount": "2",
         "favoriteCount": "0",
-        "commentCount": "3"
+        "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uw1WEjHxo5cnodKjQL-mhAhAd_E",
+      "etag": "ALGInY0sJP2rs2um7y_79lMkZxU",
       "id": "IA6JZ6xE6Ys",
       "snippet": {
         "publishedAt": "2026-11-26T09:45:22Z",
@@ -283,15 +584,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "301",
-        "likeCount": "2",
+        "viewCount": "337",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0hbAVwAJ35aNQoOutaT9JpY8cCk",
+      "etag": "aFg-7hqcaQ0qXRAjZHbBvLr0L4k",
       "id": "vdjPr6heYwc",
       "snippet": {
         "publishedAt": "2026-11-26T09:42:14Z",
@@ -353,8 +654,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
-        "likeCount": "2",
+        "viewCount": "48",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -591,7 +892,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "a3VVLFJ6L3wtflspcWxf73KeqiA",
+      "etag": "HpHwVQoN_cxXpb187vQWUOi7qm8",
       "id": "TNR1YWAbLsw",
       "snippet": {
         "publishedAt": "2026-11-25T09:39:20Z",
@@ -653,7 +954,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "476",
+        "viewCount": "490",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -819,7 +1120,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ok1PBrUjwfu8CMYA-k4VENCF3Cg",
+      "etag": "N7FOsoXuSSn2ET73SnL71ibyvE0",
       "id": "vThrO547Mfk",
       "snippet": {
         "publishedAt": "2026-11-24T09:46:58Z",
@@ -880,7 +1181,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "562",
+        "viewCount": "563",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1573,7 +1874,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "a5lFQhJRV5A0_A4HF83IzhXwCqc",
+      "etag": "-o55VnG4wxAOsnFW9shsSoms8mM",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -1634,7 +1935,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "150",
+        "viewCount": "151",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -4283,308 +4584,12 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "L32MSWNewxIupNsvpemH32dASKs",
-      "id": "CShQ6javncE",
-      "snippet": {
-        "publishedAt": "2026-11-11T10:14:09Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "A BUBBA JUMPSCARE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
-        "description": "He can be so sneaky!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CShQ6javncE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CShQ6javncE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CShQ6javncE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CShQ6javncE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CShQ6javncE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "A BUBBA JUMPSCARE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
-          "description": "He can be so sneaky!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT27S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "866",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "s_LOq0SGcueoWK2xRwKTjUKp_Wg",
-      "id": "Ru3_YOIH6eI",
-      "snippet": {
-        "publishedAt": "2026-11-11T09:47:02Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ru3_YOIH6eI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "##WWE",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#PS5Live",
-          "#WRESTLING",
-          "#WWE2K26",
-          "PlayStation 5",
-          "Sony Interactive Entertainment",
-          "WWE 2K26"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT1H1M43S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "54",
-        "likeCount": "4",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-10T20:29:54Z",
-        "actualEndTime": "2026-11-10T21:31:33Z",
-        "scheduledStartTime": "2026-11-10T20:29:39Z",
-        "scheduledEndTime": "2026-11-10T21:51:46Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "n7YVe_LS4-1GUztBOFQL1ZwaJJM",
-      "id": "u6cOFmZ6PD8",
-      "snippet": {
-        "publishedAt": "2026-11-10T10:05:57Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "IT WAS NOT IN OUR WAY!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #reel",
-        "description": "I could smell it!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/u6cOFmZ6PD8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/u6cOFmZ6PD8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/u6cOFmZ6PD8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/u6cOFmZ6PD8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/u6cOFmZ6PD8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "IT WAS NOT IN OUR WAY!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #reel",
-          "description": "I could smell it!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "105",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "D0CVj3BgGVGjEnjhiCF1wpQjEzo",
-      "id": "MpFIqYbTRqA",
-      "snippet": {
-        "publishedAt": "2026-11-10T10:03:06Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "THAT IS A BASEMENT BUBBA!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #reel",
-        "description": "Which is a no from me!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MpFIqYbTRqA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MpFIqYbTRqA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MpFIqYbTRqA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MpFIqYbTRqA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MpFIqYbTRqA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "THAT IS A BASEMENT BUBBA!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #reel",
-          "description": "Which is a no from me!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "183",
-        "likeCount": "2",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "S2_y5q11eMpL5givLCrUpu6RPoU",
+      "etag": "94tRSZFpoIx9VMZxr97meGIpiOo",
       "id": "WPOGMb9rgrM",
       "snippet": {
         "publishedAt": "2026-11-26T22:26:27Z",
@@ -4660,7 +4665,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "63",
+        "viewCount": "71",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5121,9 +5126,167 @@
       }
     }
   ],
-  "live": null,
-  "liveChecked": false,
+  "live": {
+    "kind": "youtube#video",
+    "etag": "9yWDvGy3nNryPsPHWogDQ5e78aw",
+    "id": "skOsWafUFdY",
+    "snippet": {
+      "publishedAt": "2026-11-27T17:57:25Z",
+      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+      "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+      "description": "GOOD VIBES!!! :)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/skOsWafUFdY/default.jpg?v=6b09c4ac",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/skOsWafUFdY/hqdefault.jpg?v=6b09c4ac",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/skOsWafUFdY/sddefault.jpg?v=6b09c4ac",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/skOsWafUFdY/maxresdefault.jpg?v=6b09c4ac",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "the docrot",
+      "tags": [
+        "#DBD",
+        "#DEADBYDAYLIGHT",
+        "#ENTERTAINMENT",
+        "#FORYOU",
+        "#FUNNY",
+        "#GAMING",
+        "#HORROR",
+        "#PS5Live",
+        "#SCARY",
+        "Dead by Daylight",
+        "PlayStation 5",
+        "Sony Interactive Entertainment"
+      ],
+      "categoryId": "20",
+      "liveBroadcastContent": "live",
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)"
+      },
+      "defaultAudioLanguage": "en-GB"
+    },
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "uploaded",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "10",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2026-11-27T17:57:39Z",
+      "scheduledStartTime": "2026-11-27T17:57:24Z",
+      "scheduledEndTime": "2026-11-27T19:19:31Z",
+      "concurrentViewers": "5",
+      "activeLiveChatId": "Cg0KC3NrT3NXYWZVRmRZKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILc2tPc1dhZlVGZFk"
+    }
+  },
+  "liveChecked": true,
   "latestVideos": [
+    {
+      "id": "skOsWafUFdY",
+      "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+      "label": "YouTube",
+      "publishedAt": "2026-11-27T17:57:25Z",
+      "startedAt": "2026-11-27T17:57:39Z",
+      "endedAt": null,
+      "scheduledAt": "2026-11-27T17:57:24Z",
+      "duration": "P0D",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+      "url": "https://www.youtube.com/watch?v=skOsWafUFdY",
+      "views": "10",
+      "live": true,
+      "wasLive": true
+    },
+    {
+      "id": "3qXKXiEaHgs",
+      "title": "A STORY OF SECOND HALVES!?! | (FC27 PLAYER CAREER EPISODE 9)",
+      "label": "YouTube",
+      "publishedAt": "2026-11-27T10:13:01Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT21M25S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/3qXKXiEaHgs/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3qXKXiEaHgs",
+      "views": "2",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "D5mHeWrLySc",
+      "title": "THAT WAS A CRAZY COUNTER!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+      "label": "YouTube",
+      "publishedAt": "2026-11-27T09:43:45Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT28S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/D5mHeWrLySc/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=D5mHeWrLySc",
+      "views": "41",
+      "live": false,
+      "wasLive": false
+    },
+    {
+      "id": "q6PXt7FT3lE",
+      "title": "HE SAID THE THING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
+      "label": "YouTube",
+      "publishedAt": "2026-11-27T09:41:30Z",
+      "startedAt": null,
+      "endedAt": null,
+      "scheduledAt": null,
+      "duration": "PT54S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/q6PXt7FT3lE/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q6PXt7FT3lE",
+      "views": "56",
+      "live": false,
+      "wasLive": false
+    },
     {
       "id": "WPOGMb9rgrM",
       "title": "THIS MAP FEELS VERY DIFFERENT!?! | Dead By Daylight",
@@ -5137,7 +5300,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/WPOGMb9rgrM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=WPOGMb9rgrM",
-      "views": "63",
+      "views": "71",
       "live": false,
       "wasLive": true
     },
@@ -5154,7 +5317,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Qx3z_wezuvk/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Qx3z_wezuvk",
-      "views": "17",
+      "views": "18",
       "live": false,
       "wasLive": false
     },
@@ -5171,7 +5334,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/IA6JZ6xE6Ys/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=IA6JZ6xE6Ys",
-      "views": "301",
+      "views": "337",
       "live": false,
       "wasLive": false
     },
@@ -5188,7 +5351,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vdjPr6heYwc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vdjPr6heYwc",
-      "views": "36",
+      "views": "48",
       "live": false,
       "wasLive": false
     },
@@ -5256,7 +5419,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/TNR1YWAbLsw/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=TNR1YWAbLsw",
-      "views": "476",
+      "views": "490",
       "live": false,
       "wasLive": false
     },
@@ -5307,7 +5470,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vThrO547Mfk/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vThrO547Mfk",
-      "views": "562",
+      "views": "563",
       "live": false,
       "wasLive": false
     },
@@ -5477,7 +5640,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3hftChStS6w/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3hftChStS6w",
-      "views": "150",
+      "views": "151",
       "live": false,
       "wasLive": false
     },
@@ -6075,77 +6238,26 @@
       "views": "888",
       "live": false,
       "wasLive": false
-    },
-    {
-      "id": "CShQ6javncE",
-      "title": "A BUBBA JUMPSCARE!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
-      "label": "YouTube",
-      "publishedAt": "2026-11-11T10:14:09Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT27S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/CShQ6javncE/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CShQ6javncE",
-      "views": "866",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "Ru3_YOIH6eI",
-      "title": "ANOTHER INFINITY RATED CARD!?! | WWE2K26",
-      "label": "YouTube",
-      "publishedAt": "2026-11-11T09:47:02Z",
-      "startedAt": "2026-11-10T20:29:54Z",
-      "endedAt": "2026-11-10T21:31:33Z",
-      "scheduledAt": "2026-11-10T20:29:39Z",
-      "duration": "PT1H1M43S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/Ru3_YOIH6eI/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Ru3_YOIH6eI",
-      "views": "54",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "u6cOFmZ6PD8",
-      "title": "IT WAS NOT IN OUR WAY!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer #reel",
-      "label": "YouTube",
-      "publishedAt": "2026-11-10T10:05:57Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT21S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/u6cOFmZ6PD8/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=u6cOFmZ6PD8",
-      "views": "105",
-      "live": false,
-      "wasLive": false
-    },
-    {
-      "id": "MpFIqYbTRqA",
-      "title": "THAT IS A BASEMENT BUBBA!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #reel",
-      "label": "YouTube",
-      "publishedAt": "2026-11-10T10:03:06Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT40S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/MpFIqYbTRqA/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MpFIqYbTRqA",
-      "views": "183",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
+    {
+      "id": "skOsWafUFdY",
+      "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+      "label": "Livestream",
+      "publishedAt": "2026-11-27T17:57:25Z",
+      "startedAt": "2026-11-27T17:57:39Z",
+      "endedAt": null,
+      "scheduledAt": "2026-11-27T17:57:24Z",
+      "duration": "P0D",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+      "url": "https://www.youtube.com/watch?v=skOsWafUFdY",
+      "views": "10",
+      "live": true,
+      "wasLive": true
+    },
     {
       "id": "WPOGMb9rgrM",
       "title": "THIS MAP FEELS VERY DIFFERENT!?! | Dead By Daylight",
@@ -6159,7 +6271,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/WPOGMb9rgrM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=WPOGMb9rgrM",
-      "views": "63",
+      "views": "71",
       "live": false,
       "wasLive": true
     },
@@ -6230,23 +6342,6 @@
       "views": "97",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "OnZMuz_IfzU",
-      "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
-      "label": "Livestream",
-      "publishedAt": "2026-11-21T00:50:50Z",
-      "startedAt": "2026-11-20T17:13:48Z",
-      "endedAt": "2026-11-20T22:17:04Z",
-      "scheduledAt": "2026-11-20T17:13:35Z",
-      "duration": "PT5H3M14S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OnZMuz_IfzU",
-      "views": "124",
-      "live": false,
-      "wasLive": true
     }
   ],
   "latestReplays": [
@@ -6263,7 +6358,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/WPOGMb9rgrM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=WPOGMb9rgrM",
-      "views": "63",
+      "views": "71",
       "live": false,
       "wasLive": true
     },
@@ -6354,10 +6449,26 @@
     }
   ],
   "liveStatus": {
-    "status": "unknown",
-    "video": null,
-    "checkedAt": "2026-11-27T09:06:23.687Z",
-    "expiresAt": "2026-11-27T09:51:23.687Z",
+    "status": "live",
+    "video": {
+      "id": "skOsWafUFdY",
+      "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+      "label": "Live now",
+      "publishedAt": "2026-11-27T17:57:25Z",
+      "startedAt": "2026-11-27T17:57:39Z",
+      "endedAt": null,
+      "scheduledAt": "2026-11-27T17:57:24Z",
+      "duration": "P0D",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+      "url": "https://www.youtube.com/watch?v=skOsWafUFdY",
+      "views": "10",
+      "live": true,
+      "wasLive": true
+    },
+    "checkedAt": "2026-11-27T18:58:39.650Z",
+    "expiresAt": "2026-11-27T19:43:39.650Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6368,7 +6479,308 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "S2_y5q11eMpL5givLCrUpu6RPoU",
+      "etag": "9yWDvGy3nNryPsPHWogDQ5e78aw",
+      "id": "skOsWafUFdY",
+      "snippet": {
+        "publishedAt": "2026-11-27T17:57:25Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/default.jpg?v=6b09c4ac",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/hqdefault.jpg?v=6b09c4ac",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/sddefault.jpg?v=6b09c4ac",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/maxresdefault.jpg?v=6b09c4ac",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "live",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-27T17:57:39Z",
+        "scheduledStartTime": "2026-11-27T17:57:24Z",
+        "scheduledEndTime": "2026-11-27T19:19:31Z",
+        "concurrentViewers": "5",
+        "activeLiveChatId": "Cg0KC3NrT3NXYWZVRmRZKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILc2tPc1dhZlVGZFk"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s-MUNTbSYVb26ANfELQH6XMauFw",
+      "id": "3qXKXiEaHgs",
+      "snippet": {
+        "publishedAt": "2026-11-27T10:13:01Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "A STORY OF SECOND HALVES!?! | (FC27 PLAYER CAREER EPISODE 9)",
+        "description": "What's good everyone, it's your boy thedocrot, and we have A STORY OF SECOND HALVES!?!\n\nThat's where the magic happens!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3qXKXiEaHgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "A STORY OF SECOND HALVES!?! | (FC27 PLAYER CAREER EPISODE 9)",
+          "description": "What's good everyone, it's your boy thedocrot, and we have A STORY OF SECOND HALVES!?!\n\nThat's where the magic happens!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GeRCNrerh95lK9DXHTqSMOajL6U",
+      "id": "D5mHeWrLySc",
+      "snippet": {
+        "publishedAt": "2026-11-27T09:43:45Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "THAT WAS A CRAZY COUNTER!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+        "description": "Very crazy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D5mHeWrLySc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THAT WAS A CRAZY COUNTER!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football #soccer",
+          "description": "Very crazy!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "41",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mW3COdA8gCPojkp-T7TL27lJt4U",
+      "id": "q6PXt7FT3lE",
+      "snippet": {
+        "publishedAt": "2026-11-27T09:41:30Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "HE SAID THE THING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
+        "description": "7 MINUTES!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q6PXt7FT3lE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HE SAID THE THING!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
+          "description": "7 MINUTES!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "56",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "94tRSZFpoIx9VMZxr97meGIpiOo",
       "id": "WPOGMb9rgrM",
       "snippet": {
         "publishedAt": "2026-11-26T22:26:27Z",
@@ -6444,7 +6856,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "63",
+        "viewCount": "71",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6458,7 +6870,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HSsC_iq7KF04v3cwFRf_MI47gQY",
+      "etag": "HQYFLwuxI_5-lc-VNnZHEq77VIM",
       "id": "Qx3z_wezuvk",
       "snippet": {
         "publishedAt": "2026-11-26T10:27:31Z",
@@ -6520,15 +6932,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "17",
+        "viewCount": "18",
         "likeCount": "2",
         "favoriteCount": "0",
-        "commentCount": "3"
+        "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uw1WEjHxo5cnodKjQL-mhAhAd_E",
+      "etag": "ALGInY0sJP2rs2um7y_79lMkZxU",
       "id": "IA6JZ6xE6Ys",
       "snippet": {
         "publishedAt": "2026-11-26T09:45:22Z",
@@ -6590,15 +7002,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "301",
-        "likeCount": "2",
+        "viewCount": "337",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0hbAVwAJ35aNQoOutaT9JpY8cCk",
+      "etag": "aFg-7hqcaQ0qXRAjZHbBvLr0L4k",
       "id": "vdjPr6heYwc",
       "snippet": {
         "publishedAt": "2026-11-26T09:42:14Z",
@@ -6660,8 +7072,8 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "36",
-        "likeCount": "2",
+        "viewCount": "48",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -6898,7 +7310,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "a3VVLFJ6L3wtflspcWxf73KeqiA",
+      "etag": "HpHwVQoN_cxXpb187vQWUOi7qm8",
       "id": "TNR1YWAbLsw",
       "snippet": {
         "publishedAt": "2026-11-25T09:39:20Z",
@@ -6960,7 +7372,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "476",
+        "viewCount": "490",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7126,7 +7538,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ok1PBrUjwfu8CMYA-k4VENCF3Cg",
+      "etag": "N7FOsoXuSSn2ET73SnL71ibyvE0",
       "id": "vThrO547Mfk",
       "snippet": {
         "publishedAt": "2026-11-24T09:46:58Z",
@@ -7187,7 +7599,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "562",
+        "viewCount": "563",
         "likeCount": "9",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7880,7 +8292,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "a5lFQhJRV5A0_A4HF83IzhXwCqc",
+      "etag": "-o55VnG4wxAOsnFW9shsSoms8mM",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -7941,7 +8353,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "150",
+        "viewCount": "151",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -12553,7 +12965,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "vacuseg5Ru-Ni8OdyTvpi8sZTEo",
+      "etag": "gavvKX3tj0qW03lfCvEOAezXqtY",
       "id": "ltpSdp8LRQk",
       "snippet": {
         "publishedAt": "2026-11-03T09:50:26Z",
@@ -12614,7 +13026,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1087",
+        "viewCount": "1089",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -12781,7 +13193,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "pM9cJw0JntsM8rGhplEWEaVfDxg",
+      "etag": "SsaglMWAwBmXHyJdn3ToGNBS1Ec",
       "id": "gSVhAvFAqqc",
       "snippet": {
         "publishedAt": "2026-11-02T09:47:01Z",
@@ -12842,7 +13254,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "1049",
+        "viewCount": "1050",
         "likeCount": "11",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -17427,303 +17839,6 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "cSW5O4eO4bVdVQycxo_9KWMZWew",
-      "id": "X3ZM2CC_ypQ",
-      "snippet": {
-        "publishedAt": "2026-10-16T20:54:45Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "WHAT DO YOU THINK OF HAUNTED BY DAYLIGHT!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/X3ZM2CC_ypQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/X3ZM2CC_ypQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/X3ZM2CC_ypQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/X3ZM2CC_ypQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/X3ZM2CC_ypQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "WHAT DO YOU THINK OF HAUNTED BY DAYLIGHT!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT4H16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "185",
-        "likeCount": "6",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-16T16:40:54Z",
-        "actualEndTime": "2026-10-16T20:41:13Z",
-        "scheduledStartTime": "2026-10-16T16:40:40Z",
-        "scheduledEndTime": "2026-10-16T18:42:48Z"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "rYJiUFoIDiaP4FKZJ3qIGQczcHU",
-      "id": "9kgOAmhyKe8",
-      "snippet": {
-        "publishedAt": "2026-10-16T10:03:37Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "I KEEP GETTING INJURED!?! | (FC27 PLAYER CAREER EPISODE 3)",
-        "description": "What's good everyone, it's your boy thedocrot, and we have I KEEP GETTING INJURED!?!\n\nAlready!?!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9kgOAmhyKe8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9kgOAmhyKe8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9kgOAmhyKe8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9kgOAmhyKe8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9kgOAmhyKe8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I KEEP GETTING INJURED!?! | (FC27 PLAYER CAREER EPISODE 3)",
-          "description": "What's good everyone, it's your boy thedocrot, and we have I KEEP GETTING INJURED!?!\n\nAlready!?!\n\nLet me know what you thought anyway and what you would've done or what other games you might want me to play!\n\nThank you again for watching and I hope you all have an amazing day!\n\nLove and Peace my people!\n\n\n\n\n\n\n#eafc27 #fc27 #football #soccer #foryou #gaming #entertainment #playercareer #brighton #bhafc #brightonandhovealbion"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT21M4S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "236",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "536WJ-zL9G_8_9yKcTmhbyoEXUo",
-      "id": "a1ygmHzo7hI",
-      "snippet": {
-        "publishedAt": "2026-10-16T09:15:32Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "WHAT DO YOU THINK OF FC27 SO FAR!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football",
-        "description": "It looks the same right?",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/a1ygmHzo7hI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/a1ygmHzo7hI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/a1ygmHzo7hI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/a1ygmHzo7hI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/a1ygmHzo7hI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "WHAT DO YOU THINK OF FC27 SO FAR!?! #fc27 #foryou #gaming #shorts #reels #entertainment #football",
-          "description": "It looks the same right?"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "395",
-        "likeCount": "6",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "eeWZ7w2ritWFdpmalpXo6KStnJY",
-      "id": "4GP7qRPQGVY",
-      "snippet": {
-        "publishedAt": "2026-10-16T09:09:47Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "I NEEDED A BREATH!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
-        "description": "That was close!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4GP7qRPQGVY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4GP7qRPQGVY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4GP7qRPQGVY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4GP7qRPQGVY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4GP7qRPQGVY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I NEEDED A BREATH!?! #dbd #foryou #gaming #shorts #reels #entertainment #deadbydaylight #short #reel",
-          "description": "That was close!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT43S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "546",
-        "likeCount": "1",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
     }
   ],
   "playlists": [],
@@ -17732,21 +17847,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T09:06:23.687Z"
+      "updatedAt": "2026-11-27T18:58:39.650Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T09:06:23.687Z"
+      "updatedAt": "2026-11-27T18:58:39.650Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T09:06:23.687Z"
+      "updatedAt": "2026-11-27T18:58:39.650Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-27T09:06:23.687Z",
-    "evaluatedAt": "2026-11-27T09:06:25.966Z"
+    "observedAt": "2026-11-27T18:58:39.650Z",
+    "evaluatedAt": "2026-11-27T18:58:42.073Z"
   }
 }

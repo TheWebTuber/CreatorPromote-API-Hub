@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "bonakvt",
   "label": "BonakVT",
-  "updatedAt": "2026-11-28T01:59:20.855Z",
+  "updatedAt": "2026-11-28T10:26:30.756Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -134,6 +134,80 @@
         "likeCount": "4",
         "favoriteCount": "0",
         "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_PcrKbgY4j2NqUrDfZkoZLtWyTs",
+      "id": "MY-5TLy6y38",
+      "snippet": {
+        "publishedAt": "2026-11-19T08:30:47Z",
+        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
+        "title": "what's the best kind of yordle? - chilling on the rift #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/default.jpg?v=6afeb3b7",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/mqdefault.jpg?v=6afeb3b7",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/hqdefault.jpg?v=6afeb3b7",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/sddefault.jpg?v=6afeb3b7",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BonakVT",
+        "tags": [
+          "vtuber",
+          "fnaf",
+          "fivenightsatfreddys2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "what's the best kind of yordle? - chilling on the rift #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M36S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-28T05:19:15Z",
+        "actualEndTime": "2026-11-28T05:29:51Z"
       }
     },
     {
@@ -425,68 +499,66 @@
         "favoriteCount": "0",
         "commentCount": "0"
       }
-    },
+    }
+  ],
+  "replays": [
     {
       "kind": "youtube#video",
-      "etag": "96tHjo_idUJq6Xl_fKoR23SP_Qo",
-      "id": "vV4pgjr_fPo",
+      "etag": "_PcrKbgY4j2NqUrDfZkoZLtWyTs",
+      "id": "MY-5TLy6y38",
       "snippet": {
-        "publishedAt": "2026-11-15T13:45:53Z",
+        "publishedAt": "2026-11-19T08:30:47Z",
         "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
-        "description": "",
+        "title": "what's the best kind of yordle? - chilling on the rift #vtuber #leagueoflegends",
+        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/default.jpg",
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/default.jpg?v=6afeb3b7",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/mqdefault.jpg?v=6afeb3b7",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/hqdefault.jpg?v=6afeb3b7",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/MY-5TLy6y38/sddefault.jpg?v=6afeb3b7",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vV4pgjr_fPo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "BonakVT",
         "tags": [
           "vtuber",
-          "leagueoflegends",
-          "twitch"
+          "fnaf",
+          "fivenightsatfreddys2"
         ],
         "categoryId": "20",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
-          "description": ""
-        }
+          "title": "what's the best kind of yordle? - chilling on the rift #vtuber #leagueoflegends",
+          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT21S",
+        "duration": "PT10M36S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "processed",
+        "uploadStatus": "uploaded",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -494,14 +566,16 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "289",
+        "viewCount": "2",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-28T05:19:15Z",
+        "actualEndTime": "2026-11-28T05:29:51Z"
       }
-    }
-  ],
-  "replays": [
+    },
     {
       "kind": "youtube#video",
       "etag": "B4fgaCSZcatumRm4-WR7hMRiZoA",
@@ -796,7 +870,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gdq2sTCK-3stH0lof8HEgTEmWhQ",
+      "etag": "6iciZMCJe8QmTAEwmrs6Myl3vf0",
       "id": "uJ97RsgSo_0",
       "snippet": {
         "publishedAt": "2026-10-27T15:40:00Z",
@@ -866,79 +940,6 @@
         "actualStartTime": "2026-10-27T09:06:47Z",
         "actualEndTime": "2026-10-27T12:17:17Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ymJaPuDpYAU33ZT0aQaKV0wduBY",
-      "id": "9Y71X8ioFdY",
-      "snippet": {
-        "publishedAt": "2026-10-22T12:52:18Z",
-        "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
-        "description": "Twitch stream here https://www.twitch.tv/bonakvt",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9Y71X8ioFdY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9Y71X8ioFdY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9Y71X8ioFdY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9Y71X8ioFdY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BonakVT",
-        "tags": [
-          "vtuber",
-          "fnaf",
-          "fivenightsatfreddys2"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
-          "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT3H21M2S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "25",
-        "likeCount": "0",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-10-22T08:41:42Z",
-        "actualEndTime": "2026-10-22T12:02:41Z"
-      }
     }
   ],
   "live": null,
@@ -960,6 +961,23 @@
       "views": "1218",
       "live": false,
       "wasLive": false
+    },
+    {
+      "id": "MY-5TLy6y38",
+      "title": "what's the best kind of yordle? - chilling on the rift #vtuber #leagueoflegends",
+      "label": "YouTube",
+      "publishedAt": "2026-11-19T08:30:47Z",
+      "startedAt": "2026-11-28T05:19:15Z",
+      "endedAt": "2026-11-28T05:29:51Z",
+      "scheduledAt": null,
+      "duration": "PT10M36S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/MY-5TLy6y38/mqdefault.jpg?v=6afeb3b7",
+      "url": "https://www.youtube.com/watch?v=MY-5TLy6y38",
+      "views": "2",
+      "live": false,
+      "wasLive": true
     },
     {
       "id": "P8cpT20NmI8",
@@ -1028,26 +1046,26 @@
       "views": "926",
       "live": false,
       "wasLive": false
-    },
-    {
-      "id": "vV4pgjr_fPo",
-      "title": "your average low elo clusterf**k #vtuber #leagueoflegends #fyp",
-      "label": "YouTube",
-      "publishedAt": "2026-11-15T13:45:53Z",
-      "startedAt": null,
-      "endedAt": null,
-      "scheduledAt": null,
-      "duration": "PT21S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/vV4pgjr_fPo/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vV4pgjr_fPo",
-      "views": "289",
-      "live": false,
-      "wasLive": false
     }
   ],
   "latestLivestreams": [
+    {
+      "id": "MY-5TLy6y38",
+      "title": "what's the best kind of yordle? - chilling on the rift #vtuber #leagueoflegends",
+      "label": "Livestream",
+      "publishedAt": "2026-11-19T08:30:47Z",
+      "startedAt": "2026-11-28T05:19:15Z",
+      "endedAt": "2026-11-28T05:29:51Z",
+      "scheduledAt": null,
+      "duration": "PT10M36S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/MY-5TLy6y38/mqdefault.jpg?v=6afeb3b7",
+      "url": "https://www.youtube.com/watch?v=MY-5TLy6y38",
+      "views": "2",
+      "live": false,
+      "wasLive": true
+    },
     {
       "id": "jRW7YQHJyLA",
       "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
@@ -1130,29 +1148,29 @@
       "thumbnail": "https://i.ytimg.com/vi/uJ97RsgSo_0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uJ97RsgSo_0",
       "views": "49",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "9Y71X8ioFdY",
-      "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
-      "label": "Livestream",
-      "publishedAt": "2026-10-22T12:52:18Z",
-      "startedAt": "2026-10-22T08:41:42Z",
-      "endedAt": "2026-10-22T12:02:41Z",
-      "scheduledAt": null,
-      "duration": "PT3H21M2S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/9Y71X8ioFdY/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9Y71X8ioFdY",
-      "views": "25",
       "live": false,
       "wasLive": true
     }
   ],
   "latestReplays": [
     {
+      "id": "MY-5TLy6y38",
+      "title": "what's the best kind of yordle? - chilling on the rift #vtuber #leagueoflegends",
+      "label": "Replay",
+      "publishedAt": "2026-11-19T08:30:47Z",
+      "startedAt": "2026-11-28T05:19:15Z",
+      "endedAt": "2026-11-28T05:29:51Z",
+      "scheduledAt": null,
+      "duration": "PT10M36S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/MY-5TLy6y38/mqdefault.jpg?v=6afeb3b7",
+      "url": "https://www.youtube.com/watch?v=MY-5TLy6y38",
+      "views": "2",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "jRW7YQHJyLA",
       "title": "doing dumb sh1te on the rift #vtuber #leagueoflegends",
       "label": "Replay",
@@ -1234,23 +1252,6 @@
       "thumbnail": "https://i.ytimg.com/vi/uJ97RsgSo_0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uJ97RsgSo_0",
       "views": "49",
-      "live": false,
-      "wasLive": true
-    },
-    {
-      "id": "9Y71X8ioFdY",
-      "title": "trying to drag myself out of the oce bronze slums #vtuber #leagueoflegends",
-      "label": "Replay",
-      "publishedAt": "2026-10-22T12:52:18Z",
-      "startedAt": "2026-10-22T08:41:42Z",
-      "endedAt": "2026-10-22T12:02:41Z",
-      "scheduledAt": null,
-      "duration": "PT3H21M2S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/9Y71X8ioFdY/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9Y71X8ioFdY",
-      "views": "25",
       "live": false,
       "wasLive": true
     }
@@ -1258,8 +1259,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-28T01:59:20.855Z",
-    "expiresAt": "2026-11-28T02:44:20.855Z",
+    "checkedAt": "2026-11-28T10:26:30.756Z",
+    "expiresAt": "2026-11-28T11:11:30.756Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -1344,12 +1345,12 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "KEw0llppl5ppPOaKXUW2DxcGJPo",
+      "etag": "_PcrKbgY4j2NqUrDfZkoZLtWyTs",
       "id": "MY-5TLy6y38",
       "snippet": {
         "publishedAt": "2026-11-19T08:30:47Z",
         "channelId": "UCKE1MnwHQBM8i7Or5K_zcmA",
-        "title": "voice chat in league, what could possibly go wrong #vtuber #leagueoflegends",
+        "title": "what's the best kind of yordle? - chilling on the rift #vtuber #leagueoflegends",
         "description": "Twitch stream here https://www.twitch.tv/bonakvt",
         "thumbnails": {
           "default": {
@@ -1380,15 +1381,16 @@
           "fivenightsatfreddys2"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "upcoming",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "voice chat in league, what could possibly go wrong #vtuber #leagueoflegends",
+          "title": "what's the best kind of yordle? - chilling on the rift #vtuber #leagueoflegends",
           "description": "Twitch stream here https://www.twitch.tv/bonakvt"
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT10M36S",
         "dimension": "2d",
         "definition": "sd",
         "caption": "false",
@@ -1405,13 +1407,14 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "0",
+        "viewCount": "2",
         "likeCount": "0",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
-        "activeLiveChatId": "Cg0KC01ZLTVUTHk2eTM4KicKGFVDS0UxTW53SFFCTThpN09yNUtfemNtQRILTVktNVRMeTZ5Mzg"
+        "actualStartTime": "2026-11-28T05:19:15Z",
+        "actualEndTime": "2026-11-28T05:29:51Z"
       }
     },
     {
@@ -2296,7 +2299,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "zvcP0IqmzDKXtwBytahu9KUXEYE",
+      "etag": "NkfXck59FJsYjk44hm_vz7cnMwU",
       "id": "hFCmEWb6OfI",
       "snippet": {
         "publishedAt": "2026-11-04T13:43:10Z",
@@ -2363,7 +2366,7 @@
       },
       "statistics": {
         "viewCount": "1433",
-        "likeCount": "4",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
@@ -2734,7 +2737,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "gdq2sTCK-3stH0lof8HEgTEmWhQ",
+      "etag": "6iciZMCJe8QmTAEwmrs6Myl3vf0",
       "id": "uJ97RsgSo_0",
       "snippet": {
         "publishedAt": "2026-10-27T15:40:00Z",
@@ -8563,21 +8566,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:20.855Z"
+      "updatedAt": "2026-11-28T10:26:30.756Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:20.855Z"
+      "updatedAt": "2026-11-28T10:26:30.756Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:20.855Z"
+      "updatedAt": "2026-11-28T10:26:30.756Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-28T01:59:20.855Z",
-    "evaluatedAt": "2026-11-28T01:59:21.649Z"
+    "observedAt": "2026-11-28T10:26:30.756Z",
+    "evaluatedAt": "2026-11-28T10:26:31.489Z"
   }
 }

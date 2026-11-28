@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "salahare",
   "label": "Salahare",
-  "updatedAt": "2026-11-28T01:59:26.299Z",
+  "updatedAt": "2026-11-28T10:26:35.809Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "5cQs-94vB0kvWkhmbll__tpgROA",
+    "etag": "_HcWqrTsJ3srY-VoRPyUApHtL7g",
     "id": "UCW2g_zIWdsZkbsFc0AUR-ag",
     "snippet": {
       "title": "Salahare - Dream Drops Crew Vtuber",
@@ -43,7 +43,7 @@
       }
     },
     "statistics": {
-      "viewCount": "29228",
+      "viewCount": "29229",
       "subscriberCount": "181",
       "hiddenSubscriberCount": false,
       "videoCount": "59"
@@ -1496,8 +1496,8 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-28T01:59:26.299Z",
-    "expiresAt": "2026-11-28T02:44:26.299Z",
+    "checkedAt": "2026-11-28T10:26:35.809Z",
+    "expiresAt": "2026-11-28T11:11:35.809Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6432,21 +6432,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:26.299Z"
+      "updatedAt": "2026-11-28T10:26:35.809Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:26.299Z"
+      "updatedAt": "2026-11-28T10:26:35.809Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:26.299Z"
+      "updatedAt": "2026-11-28T10:26:35.809Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-28T01:59:26.299Z",
-    "evaluatedAt": "2026-11-28T01:59:26.971Z"
+    "observedAt": "2026-11-28T10:26:35.809Z",
+    "evaluatedAt": "2026-11-28T10:26:36.418Z"
   }
 }

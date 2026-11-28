@@ -2,7 +2,7 @@
   "version": 1,
   "slug": "daddydepresso",
   "label": "Daddy Depresso",
-  "updatedAt": "2026-11-28T01:59:19.541Z",
+  "updatedAt": "2026-11-28T10:26:29.311Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
@@ -957,21 +957,21 @@
   "liveStatus": {
     "status": "unknown",
     "video": null,
-    "checkedAt": "2026-11-28T01:59:19.541Z",
-    "expiresAt": "2026-11-28T02:44:19.541Z",
+    "checkedAt": "2026-11-28T10:26:29.311Z",
+    "expiresAt": "2026-11-28T11:11:29.311Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
   "collabs": [
     {
       "id": "JbUP0EUS3UI",
-      "title": "Dappers and Droppers",
+      "title": "Dappers and Droppers: The Storm over Thet-Annath, Ep 43",
       "label": "Player adventures II",
       "publishedAt": "2026-11-21T05:27:00Z",
       "startedAt": "2026-11-21T02:06:54Z",
       "endedAt": "2026-11-21T04:54:44Z",
       "scheduledAt": "2026-11-21T02:06:24Z",
-      "duration": "PT2H48M",
+      "duration": "PT2H44M21S",
       "embeddable": true,
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/JbUP0EUS3UI/mqdefault.jpg",
@@ -983,13 +983,13 @@
     },
     {
       "id": "yvwBdRjpZiY",
-      "title": "Dappers and Droppers (Portrait)",
+      "title": "Dappers and Droppers: The Storm over Thet-Annath, Ep. 43 (Portrait)",
       "label": "Player adventures II",
       "publishedAt": "2026-11-21T05:17:55Z",
       "startedAt": "2026-11-21T02:06:54Z",
       "endedAt": "2026-11-21T04:54:46Z",
       "scheduledAt": "2026-11-21T02:06:35Z",
-      "duration": "PT2H47M59S",
+      "duration": "PT2H44M21S",
       "embeddable": true,
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/yvwBdRjpZiY/mqdefault.jpg",
@@ -4595,7 +4595,7 @@
   "collabSources": {
     "PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:19.541Z",
+      "updatedAt": "2026-11-28T10:26:29.311Z",
       "items": [
         {
           "id": "FRVmoksciRg",
@@ -4619,7 +4619,7 @@
     },
     "PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:19.541Z",
+      "updatedAt": "2026-11-28T10:26:29.311Z",
       "items": [
         {
           "id": "Q7gZ-ubMTSA",
@@ -5246,7 +5246,7 @@
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/8R5yICkMZn4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=8R5yICkMZn4",
-          "views": "90",
+          "views": "92",
           "live": false,
           "wasLive": true,
           "featured": false
@@ -5469,13 +5469,13 @@
         },
         {
           "id": "JbUP0EUS3UI",
-          "title": "Dappers and Droppers",
+          "title": "Dappers and Droppers: The Storm over Thet-Annath, Ep 43",
           "label": "Player adventures II",
           "publishedAt": "2026-11-21T05:27:00Z",
           "startedAt": "2026-11-21T02:06:54Z",
           "endedAt": "2026-11-21T04:54:44Z",
           "scheduledAt": "2026-11-21T02:06:24Z",
-          "duration": "PT2H48M",
+          "duration": "PT2H44M21S",
           "embeddable": true,
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/JbUP0EUS3UI/mqdefault.jpg",
@@ -5487,13 +5487,13 @@
         },
         {
           "id": "yvwBdRjpZiY",
-          "title": "Dappers and Droppers (Portrait)",
+          "title": "Dappers and Droppers: The Storm over Thet-Annath, Ep. 43 (Portrait)",
           "label": "Player adventures II",
           "publishedAt": "2026-11-21T05:17:55Z",
           "startedAt": "2026-11-21T02:06:54Z",
           "endedAt": "2026-11-21T04:54:46Z",
           "scheduledAt": "2026-11-21T02:06:35Z",
-          "duration": "PT2H47M59S",
+          "duration": "PT2H44M21S",
           "embeddable": true,
           "upcoming": false,
           "thumbnail": "https://i.ytimg.com/vi/yvwBdRjpZiY/mqdefault.jpg",
@@ -5507,7 +5507,7 @@
     },
     "PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:19.541Z",
+      "updatedAt": "2026-11-28T10:26:29.311Z",
       "items": [
         {
           "id": "TqJk7cQ72e0",
@@ -5786,33 +5786,33 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:19.541Z"
+      "updatedAt": "2026-11-28T10:26:29.311Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:19.541Z"
+      "updatedAt": "2026-11-28T10:26:29.311Z"
     },
     "collab:PLdqlxY9kSpe0": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:19.541Z"
+      "updatedAt": "2026-11-28T10:26:29.311Z"
     },
     "collab:PL5420N1feOV-FDdE10HxclroHEqg-GqKD": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:19.541Z"
+      "updatedAt": "2026-11-28T10:26:29.311Z"
     },
     "collab:PLQOAzzoGRT6s": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:19.541Z"
+      "updatedAt": "2026-11-28T10:26:29.311Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-28T01:59:19.541Z"
+      "updatedAt": "2026-11-28T10:26:29.311Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-28T01:59:19.541Z",
-    "evaluatedAt": "2026-11-28T01:59:20.854Z"
+    "observedAt": "2026-11-28T10:26:29.311Z",
+    "evaluatedAt": "2026-11-28T10:26:30.754Z"
   }
 }

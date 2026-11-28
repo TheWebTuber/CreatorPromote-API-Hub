@@ -2,11 +2,11 @@
   "version": 1,
   "slug": "thedocrot",
   "label": "TheDocRot",
-  "updatedAt": "2026-11-27T18:58:39.650Z",
+  "updatedAt": "2026-11-28T01:59:14.301Z",
   "source": "YouTube Data API v3 via GitHub Actions",
   "channel": {
     "kind": "youtube#channel",
-    "etag": "CmadYKa4A2QpAFZ8AvKLzKyV5so",
+    "etag": "Xuo-DpmGOUJi_ax9ormeZ8mgb1Y",
     "id": "UCiXeV-jUw_yCqScuZGopvVQ",
     "snippet": {
       "title": "the docrot",
@@ -43,9 +43,9 @@
     },
     "statistics": {
       "viewCount": "1220733",
-      "subscriberCount": "739",
+      "subscriberCount": "738",
       "hiddenSubscriberCount": false,
-      "videoCount": "3061"
+      "videoCount": "3062"
     },
     "brandingSettings": {
       "channel": {
@@ -61,36 +61,36 @@
   "uploads": [
     {
       "kind": "youtube#video",
-      "etag": "9yWDvGy3nNryPsPHWogDQ5e78aw",
+      "etag": "QV5NXOS4SIFgEuq-qLjuYXA_-n4",
       "id": "skOsWafUFdY",
       "snippet": {
-        "publishedAt": "2026-11-27T17:57:25Z",
+        "publishedAt": "2026-11-27T23:13:36Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/default.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/hqdefault.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/sddefault.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/maxresdefault.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -111,7 +111,7 @@
           "Sony Interactive Entertainment"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
@@ -120,16 +120,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT4H13M43S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -137,22 +137,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "10",
-        "likeCount": "4",
+        "viewCount": "57",
+        "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-27T17:57:39Z",
+        "actualEndTime": "2026-11-27T22:11:19Z",
         "scheduledStartTime": "2026-11-27T17:57:24Z",
-        "scheduledEndTime": "2026-11-27T19:19:31Z",
-        "concurrentViewers": "5",
-        "activeLiveChatId": "Cg0KC3NrT3NXYWZVRmRZKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILc2tPc1dhZlVGZFk"
+        "scheduledEndTime": "2026-11-27T22:19:31Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "s-MUNTbSYVb26ANfELQH6XMauFw",
+      "etag": "-u0GS2A5Xz_gRgaqJBvBH_OzAro",
       "id": "3qXKXiEaHgs",
       "snippet": {
         "publishedAt": "2026-11-27T10:13:01Z",
@@ -214,15 +213,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "2",
-        "likeCount": "0",
+        "viewCount": "56",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GeRCNrerh95lK9DXHTqSMOajL6U",
+      "etag": "X8LrVqLgdxwkQg2S64khBvSGvFM",
       "id": "D5mHeWrLySc",
       "snippet": {
         "publishedAt": "2026-11-27T09:43:45Z",
@@ -284,15 +283,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "41",
-        "likeCount": "2",
+        "viewCount": "90",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "mW3COdA8gCPojkp-T7TL27lJt4U",
+      "etag": "c0N6VKtSxDE8q09IRxIagXpFyzw",
       "id": "q6PXt7FT3lE",
       "snippet": {
         "publishedAt": "2026-11-27T09:41:30Z",
@@ -354,15 +353,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "56",
-        "likeCount": "1",
+        "viewCount": "104",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "94tRSZFpoIx9VMZxr97meGIpiOo",
+      "etag": "xaG1xWhDrCDTWNyt3Brx2KHc26g",
       "id": "WPOGMb9rgrM",
       "snippet": {
         "publishedAt": "2026-11-26T22:26:27Z",
@@ -438,7 +437,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "71",
+        "viewCount": "78",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -452,7 +451,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HQYFLwuxI_5-lc-VNnZHEq77VIM",
+      "etag": "ZnK29CL_e2QsldmJPTPml5kLhWk",
       "id": "Qx3z_wezuvk",
       "snippet": {
         "publishedAt": "2026-11-26T10:27:31Z",
@@ -514,7 +513,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "18",
+        "viewCount": "20",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -522,7 +521,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ALGInY0sJP2rs2um7y_79lMkZxU",
+      "etag": "Jl1rDa_np90Lf21R4qOJrVEvF78",
       "id": "IA6JZ6xE6Ys",
       "snippet": {
         "publishedAt": "2026-11-26T09:45:22Z",
@@ -584,7 +583,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "337",
+        "viewCount": "356",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -592,7 +591,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "aFg-7hqcaQ0qXRAjZHbBvLr0L4k",
+      "etag": "tOoH8rlrpEngrIkQnGmR0d7VJqg",
       "id": "vdjPr6heYwc",
       "snippet": {
         "publishedAt": "2026-11-26T09:42:14Z",
@@ -654,7 +653,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "48",
+        "viewCount": "55",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1051,7 +1050,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "usSJa9nCbcGJZvvQNs80w3eLOx8",
+      "etag": "o3yxy72nzhn6EjbbIMwJScfYy2g",
       "id": "BjrqECOX8TM",
       "snippet": {
         "publishedAt": "2026-11-24T10:09:51Z",
@@ -1112,7 +1111,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "169",
+        "viewCount": "170",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -1874,7 +1873,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-o55VnG4wxAOsnFW9shsSoms8mM",
+      "etag": "lPCqz5z7bRVCiESWbC3u063qSJM",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -1935,7 +1934,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "151",
+        "viewCount": "152",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -4589,7 +4588,97 @@
   "replays": [
     {
       "kind": "youtube#video",
-      "etag": "94tRSZFpoIx9VMZxr97meGIpiOo",
+      "etag": "QV5NXOS4SIFgEuq-qLjuYXA_-n4",
+      "id": "skOsWafUFdY",
+      "snippet": {
+        "publishedAt": "2026-11-27T23:13:36Z",
+        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
+        "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+        "description": "GOOD VIBES!!! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "the docrot",
+        "tags": [
+          "#DBD",
+          "#DEADBYDAYLIGHT",
+          "#ENTERTAINMENT",
+          "#FORYOU",
+          "#FUNNY",
+          "#GAMING",
+          "#HORROR",
+          "#PS5Live",
+          "#SCARY",
+          "Dead by Daylight",
+          "PlayStation 5",
+          "Sony Interactive Entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+          "description": "GOOD VIBES!!! :)"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT4H13M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "57",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-11-27T17:57:39Z",
+        "actualEndTime": "2026-11-27T22:11:19Z",
+        "scheduledStartTime": "2026-11-27T17:57:24Z",
+        "scheduledEndTime": "2026-11-27T22:19:31Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xaG1xWhDrCDTWNyt3Brx2KHc26g",
       "id": "WPOGMb9rgrM",
       "snippet": {
         "publishedAt": "2026-11-26T22:26:27Z",
@@ -4665,7 +4754,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "71",
+        "viewCount": "78",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -5034,206 +5123,26 @@
         "scheduledStartTime": "2026-11-21T19:01:09Z",
         "scheduledEndTime": "2026-11-21T22:03:17Z"
       }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "GXb2HO_FOe83o2k0hvz1qUn8NQw",
-      "id": "OnZMuz_IfzU",
-      "snippet": {
-        "publishedAt": "2026-11-21T00:50:50Z",
-        "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-        "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/OnZMuz_IfzU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "the docrot",
-        "tags": [
-          "#DBD",
-          "#DEADBYDAYLIGHT",
-          "#ENTERTAINMENT",
-          "#FORYOU",
-          "#FUNNY",
-          "#GAMING",
-          "#HORROR",
-          "#PS5Live",
-          "#SCARY",
-          "Dead by Daylight",
-          "PlayStation 5",
-          "Sony Interactive Entertainment"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
-          "description": "GOOD VIBES!!! :)"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT5H3M14S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "status": {
-        "uploadStatus": "processed",
-        "privacyStatus": "public",
-        "license": "youtube",
-        "embeddable": true,
-        "publicStatsViewable": true,
-        "madeForKids": false
-      },
-      "statistics": {
-        "viewCount": "124",
-        "likeCount": "6",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      },
-      "liveStreamingDetails": {
-        "actualStartTime": "2026-11-20T17:13:48Z",
-        "actualEndTime": "2026-11-20T22:17:04Z",
-        "scheduledStartTime": "2026-11-20T17:13:35Z",
-        "scheduledEndTime": "2026-11-20T21:15:43Z"
-      }
     }
   ],
-  "live": {
-    "kind": "youtube#video",
-    "etag": "9yWDvGy3nNryPsPHWogDQ5e78aw",
-    "id": "skOsWafUFdY",
-    "snippet": {
-      "publishedAt": "2026-11-27T17:57:25Z",
-      "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
-      "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
-      "description": "GOOD VIBES!!! :)",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/skOsWafUFdY/default.jpg?v=6b09c4ac",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/skOsWafUFdY/hqdefault.jpg?v=6b09c4ac",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/skOsWafUFdY/sddefault.jpg?v=6b09c4ac",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/skOsWafUFdY/maxresdefault.jpg?v=6b09c4ac",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "the docrot",
-      "tags": [
-        "#DBD",
-        "#DEADBYDAYLIGHT",
-        "#ENTERTAINMENT",
-        "#FORYOU",
-        "#FUNNY",
-        "#GAMING",
-        "#HORROR",
-        "#PS5Live",
-        "#SCARY",
-        "Dead by Daylight",
-        "PlayStation 5",
-        "Sony Interactive Entertainment"
-      ],
-      "categoryId": "20",
-      "liveBroadcastContent": "live",
-      "defaultLanguage": "en-GB",
-      "localized": {
-        "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
-        "description": "GOOD VIBES!!! :)"
-      },
-      "defaultAudioLanguage": "en-GB"
-    },
-    "contentDetails": {
-      "duration": "P0D",
-      "dimension": "2d",
-      "definition": "sd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "status": {
-      "uploadStatus": "uploaded",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    },
-    "statistics": {
-      "viewCount": "10",
-      "likeCount": "4",
-      "favoriteCount": "0",
-      "commentCount": "0"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2026-11-27T17:57:39Z",
-      "scheduledStartTime": "2026-11-27T17:57:24Z",
-      "scheduledEndTime": "2026-11-27T19:19:31Z",
-      "concurrentViewers": "5",
-      "activeLiveChatId": "Cg0KC3NrT3NXYWZVRmRZKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILc2tPc1dhZlVGZFk"
-    }
-  },
-  "liveChecked": true,
+  "live": null,
+  "liveChecked": false,
   "latestVideos": [
     {
       "id": "skOsWafUFdY",
       "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
       "label": "YouTube",
-      "publishedAt": "2026-11-27T17:57:25Z",
+      "publishedAt": "2026-11-27T23:13:36Z",
       "startedAt": "2026-11-27T17:57:39Z",
-      "endedAt": null,
+      "endedAt": "2026-11-27T22:11:19Z",
       "scheduledAt": "2026-11-27T17:57:24Z",
-      "duration": "P0D",
+      "duration": "PT4H13M43S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+      "thumbnail": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=skOsWafUFdY",
-      "views": "10",
-      "live": true,
+      "views": "57",
+      "live": false,
       "wasLive": true
     },
     {
@@ -5249,7 +5158,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3qXKXiEaHgs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3qXKXiEaHgs",
-      "views": "2",
+      "views": "56",
       "live": false,
       "wasLive": false
     },
@@ -5266,7 +5175,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/D5mHeWrLySc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=D5mHeWrLySc",
-      "views": "41",
+      "views": "90",
       "live": false,
       "wasLive": false
     },
@@ -5283,7 +5192,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/q6PXt7FT3lE/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=q6PXt7FT3lE",
-      "views": "56",
+      "views": "104",
       "live": false,
       "wasLive": false
     },
@@ -5300,7 +5209,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/WPOGMb9rgrM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=WPOGMb9rgrM",
-      "views": "71",
+      "views": "78",
       "live": false,
       "wasLive": true
     },
@@ -5317,7 +5226,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/Qx3z_wezuvk/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Qx3z_wezuvk",
-      "views": "18",
+      "views": "20",
       "live": false,
       "wasLive": false
     },
@@ -5334,7 +5243,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/IA6JZ6xE6Ys/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=IA6JZ6xE6Ys",
-      "views": "337",
+      "views": "356",
       "live": false,
       "wasLive": false
     },
@@ -5351,7 +5260,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/vdjPr6heYwc/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vdjPr6heYwc",
-      "views": "48",
+      "views": "55",
       "live": false,
       "wasLive": false
     },
@@ -5453,7 +5362,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/BjrqECOX8TM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=BjrqECOX8TM",
-      "views": "169",
+      "views": "170",
       "live": false,
       "wasLive": false
     },
@@ -5640,7 +5549,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/3hftChStS6w/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3hftChStS6w",
-      "views": "151",
+      "views": "152",
       "live": false,
       "wasLive": false
     },
@@ -6245,17 +6154,17 @@
       "id": "skOsWafUFdY",
       "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
       "label": "Livestream",
-      "publishedAt": "2026-11-27T17:57:25Z",
+      "publishedAt": "2026-11-27T23:13:36Z",
       "startedAt": "2026-11-27T17:57:39Z",
-      "endedAt": null,
+      "endedAt": "2026-11-27T22:11:19Z",
       "scheduledAt": "2026-11-27T17:57:24Z",
-      "duration": "P0D",
+      "duration": "PT4H13M43S",
       "embeddable": true,
       "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+      "thumbnail": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=skOsWafUFdY",
-      "views": "10",
-      "live": true,
+      "views": "57",
+      "live": false,
       "wasLive": true
     },
     {
@@ -6271,7 +6180,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/WPOGMb9rgrM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=WPOGMb9rgrM",
-      "views": "71",
+      "views": "78",
       "live": false,
       "wasLive": true
     },
@@ -6346,6 +6255,23 @@
   ],
   "latestReplays": [
     {
+      "id": "skOsWafUFdY",
+      "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
+      "label": "Replay",
+      "publishedAt": "2026-11-27T23:13:36Z",
+      "startedAt": "2026-11-27T17:57:39Z",
+      "endedAt": "2026-11-27T22:11:19Z",
+      "scheduledAt": "2026-11-27T17:57:24Z",
+      "duration": "PT4H13M43S",
+      "embeddable": true,
+      "upcoming": false,
+      "thumbnail": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=skOsWafUFdY",
+      "views": "57",
+      "live": false,
+      "wasLive": true
+    },
+    {
       "id": "WPOGMb9rgrM",
       "title": "THIS MAP FEELS VERY DIFFERENT!?! | Dead By Daylight",
       "label": "Replay",
@@ -6358,7 +6284,7 @@
       "upcoming": false,
       "thumbnail": "https://i.ytimg.com/vi/WPOGMb9rgrM/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=WPOGMb9rgrM",
-      "views": "71",
+      "views": "78",
       "live": false,
       "wasLive": true
     },
@@ -6429,46 +6355,13 @@
       "views": "97",
       "live": false,
       "wasLive": true
-    },
-    {
-      "id": "OnZMuz_IfzU",
-      "title": "CAN I KEEP UP THE ADEPT MOMENTUM!?! | Dead By Daylight",
-      "label": "Replay",
-      "publishedAt": "2026-11-21T00:50:50Z",
-      "startedAt": "2026-11-20T17:13:48Z",
-      "endedAt": "2026-11-20T22:17:04Z",
-      "scheduledAt": "2026-11-20T17:13:35Z",
-      "duration": "PT5H3M14S",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/OnZMuz_IfzU/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OnZMuz_IfzU",
-      "views": "124",
-      "live": false,
-      "wasLive": true
     }
   ],
   "liveStatus": {
-    "status": "live",
-    "video": {
-      "id": "skOsWafUFdY",
-      "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
-      "label": "Live now",
-      "publishedAt": "2026-11-27T17:57:25Z",
-      "startedAt": "2026-11-27T17:57:39Z",
-      "endedAt": null,
-      "scheduledAt": "2026-11-27T17:57:24Z",
-      "duration": "P0D",
-      "embeddable": true,
-      "upcoming": false,
-      "thumbnail": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
-      "url": "https://www.youtube.com/watch?v=skOsWafUFdY",
-      "views": "10",
-      "live": true,
-      "wasLive": true
-    },
-    "checkedAt": "2026-11-27T18:58:39.650Z",
-    "expiresAt": "2026-11-27T19:43:39.650Z",
+    "status": "unknown",
+    "video": null,
+    "checkedAt": "2026-11-28T01:59:14.301Z",
+    "expiresAt": "2026-11-28T02:44:14.301Z",
     "method": "recent_uploads",
     "note": "Not detected does not prove offline; observations expire after 45 minutes."
   },
@@ -6479,36 +6372,36 @@
   "catalog": [
     {
       "kind": "youtube#video",
-      "etag": "9yWDvGy3nNryPsPHWogDQ5e78aw",
+      "etag": "QV5NXOS4SIFgEuq-qLjuYXA_-n4",
       "id": "skOsWafUFdY",
       "snippet": {
-        "publishedAt": "2026-11-27T17:57:25Z",
+        "publishedAt": "2026-11-27T23:13:36Z",
         "channelId": "UCiXeV-jUw_yCqScuZGopvVQ",
         "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
         "description": "GOOD VIBES!!! :)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/default.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/hqdefault.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/sddefault.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/skOsWafUFdY/maxresdefault.jpg?v=6b09c4ac",
+            "url": "https://i.ytimg.com/vi/skOsWafUFdY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -6529,7 +6422,7 @@
           "Sony Interactive Entertainment"
         ],
         "categoryId": "20",
-        "liveBroadcastContent": "live",
+        "liveBroadcastContent": "none",
         "defaultLanguage": "en-GB",
         "localized": {
           "title": "SHOULD I SLOW DOWN WITH THE ADEPTS!?! | Dead By Daylight",
@@ -6538,16 +6431,16 @@
         "defaultAudioLanguage": "en-GB"
       },
       "contentDetails": {
-        "duration": "P0D",
+        "duration": "PT4H13M43S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "status": {
-        "uploadStatus": "uploaded",
+        "uploadStatus": "processed",
         "privacyStatus": "public",
         "license": "youtube",
         "embeddable": true,
@@ -6555,22 +6448,21 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "10",
-        "likeCount": "4",
+        "viewCount": "57",
+        "likeCount": "7",
         "favoriteCount": "0",
         "commentCount": "0"
       },
       "liveStreamingDetails": {
         "actualStartTime": "2026-11-27T17:57:39Z",
+        "actualEndTime": "2026-11-27T22:11:19Z",
         "scheduledStartTime": "2026-11-27T17:57:24Z",
-        "scheduledEndTime": "2026-11-27T19:19:31Z",
-        "concurrentViewers": "5",
-        "activeLiveChatId": "Cg0KC3NrT3NXYWZVRmRZKicKGFVDaVhlVi1qVXdfeUNxU2N1WkdvcHZWURILc2tPc1dhZlVGZFk"
+        "scheduledEndTime": "2026-11-27T22:19:31Z"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "s-MUNTbSYVb26ANfELQH6XMauFw",
+      "etag": "-u0GS2A5Xz_gRgaqJBvBH_OzAro",
       "id": "3qXKXiEaHgs",
       "snippet": {
         "publishedAt": "2026-11-27T10:13:01Z",
@@ -6632,15 +6524,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "2",
-        "likeCount": "0",
+        "viewCount": "56",
+        "likeCount": "1",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GeRCNrerh95lK9DXHTqSMOajL6U",
+      "etag": "X8LrVqLgdxwkQg2S64khBvSGvFM",
       "id": "D5mHeWrLySc",
       "snippet": {
         "publishedAt": "2026-11-27T09:43:45Z",
@@ -6702,15 +6594,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "41",
-        "likeCount": "2",
+        "viewCount": "90",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "mW3COdA8gCPojkp-T7TL27lJt4U",
+      "etag": "c0N6VKtSxDE8q09IRxIagXpFyzw",
       "id": "q6PXt7FT3lE",
       "snippet": {
         "publishedAt": "2026-11-27T09:41:30Z",
@@ -6772,15 +6664,15 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "56",
-        "likeCount": "1",
+        "viewCount": "104",
+        "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "94tRSZFpoIx9VMZxr97meGIpiOo",
+      "etag": "xaG1xWhDrCDTWNyt3Brx2KHc26g",
       "id": "WPOGMb9rgrM",
       "snippet": {
         "publishedAt": "2026-11-26T22:26:27Z",
@@ -6856,7 +6748,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "71",
+        "viewCount": "78",
         "likeCount": "6",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -6870,7 +6762,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HQYFLwuxI_5-lc-VNnZHEq77VIM",
+      "etag": "ZnK29CL_e2QsldmJPTPml5kLhWk",
       "id": "Qx3z_wezuvk",
       "snippet": {
         "publishedAt": "2026-11-26T10:27:31Z",
@@ -6932,7 +6824,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "18",
+        "viewCount": "20",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -6940,7 +6832,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ALGInY0sJP2rs2um7y_79lMkZxU",
+      "etag": "Jl1rDa_np90Lf21R4qOJrVEvF78",
       "id": "IA6JZ6xE6Ys",
       "snippet": {
         "publishedAt": "2026-11-26T09:45:22Z",
@@ -7002,7 +6894,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "337",
+        "viewCount": "356",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7010,7 +6902,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "aFg-7hqcaQ0qXRAjZHbBvLr0L4k",
+      "etag": "tOoH8rlrpEngrIkQnGmR0d7VJqg",
       "id": "vdjPr6heYwc",
       "snippet": {
         "publishedAt": "2026-11-26T09:42:14Z",
@@ -7072,7 +6964,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "48",
+        "viewCount": "55",
         "likeCount": "3",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -7469,7 +7361,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "usSJa9nCbcGJZvvQNs80w3eLOx8",
+      "etag": "o3yxy72nzhn6EjbbIMwJScfYy2g",
       "id": "BjrqECOX8TM",
       "snippet": {
         "publishedAt": "2026-11-24T10:09:51Z",
@@ -7530,7 +7422,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "169",
+        "viewCount": "170",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -8292,7 +8184,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-o55VnG4wxAOsnFW9shsSoms8mM",
+      "etag": "lPCqz5z7bRVCiESWbC3u063qSJM",
       "id": "3hftChStS6w",
       "snippet": {
         "publishedAt": "2026-11-20T11:14:49Z",
@@ -8353,7 +8245,7 @@
         "madeForKids": false
       },
       "statistics": {
-        "viewCount": "151",
+        "viewCount": "152",
         "likeCount": "2",
         "favoriteCount": "0",
         "commentCount": "2"
@@ -17847,21 +17739,21 @@
   "sections": {
     "channel": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T18:58:39.650Z"
+      "updatedAt": "2026-11-28T01:59:14.301Z"
     },
     "videos": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T18:58:39.650Z"
+      "updatedAt": "2026-11-28T01:59:14.301Z"
     },
     "collabs": {
       "status": "fresh",
-      "updatedAt": "2026-11-27T18:58:39.650Z"
+      "updatedAt": "2026-11-28T01:59:14.301Z"
     }
   },
   "issues": [],
   "freshness": {
     "liveFresh": true,
-    "observedAt": "2026-11-27T18:58:39.650Z",
-    "evaluatedAt": "2026-11-27T18:58:42.073Z"
+    "observedAt": "2026-11-28T01:59:14.301Z",
+    "evaluatedAt": "2026-11-28T01:59:16.009Z"
   }
 }
